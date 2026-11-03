@@ -1,0 +1,37 @@
+{
+  "about": [
+    "Grammatical gender of es-419 item names, for names whose es-419 text changes gender (nevera -> refrigerador).",
+    "Keys are \"<record>:<row>\" of a record with the item-name layout 32:ssssssii (4650, 4164); values are \"m\" or \"f\".",
+    "The build clears (m) or sets (f) bits 0x00100010 of the row's first attribute word in the es-419 copy only; every other bit is kept.",
+    "Example: \"4650:583\": \"m\"."
+  ],
+  "rows": {
+    "4650:107": "m",
+    "4650:401": "m",
+    "4650:410": "m",
+    "4650:520": "m",
+    "4650:583": "m",
+    "4650:600": "m",
+    "4650:669": "m",
+    "4650:885": "m",
+    "4650:1139": "m",
+    "4650:1228": "m",
+    "4650:1242": "m",
+    "4650:1265": "m",
+    "4650:1276": "m",
+    "4650:1278": "m",
+    "4650:1455": "m",
+    "4650:1456": "m",
+    "4650:1557": "m",
+    "4650:1576": "m",
+    "4650:1612": "m",
+    "4650:1776": "m",
+    "4650:1795": "m",
+    "4650:1907": "m",
+    "4650:2136": "m",
+    "4650:2310": "m",
+    "4650:2389": "m",
+    "4650:2569": "m",
+    "4650:2913": "m"
+  }
+}
