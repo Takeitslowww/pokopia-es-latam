@@ -1,0 +1,81 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 2598 (es-ES slot); English reference: record 2594.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 2598\n"
+"X-Ldtool-English-Record: 2594\n"
+
+#. en: <$emotion(1,41)><$voicel(1,3)>Poor <$cdef(27)>Meowth</color>, having their shack flooded like that...
+msgctxt "2598:8"
+msgid "<$emotion(1,41)><$voicel(1,3)>¡Pobre <$cdef(27)>Meowth</color>! Su hogar ha quedado anegado.<br>Menuda tragedia."
+msgstr "<$emotion(1,41)><$voicel(1,3)>¡Pobre <$cdef(27)>Meowth</color>! Su hogar quedó anegado.<br>Qué tragedia."
+
+#. en: <$comeff(1,14)><$motion(1,824)><$voicel(1,5)>You know, if you block the source of the water like you did<br>for the <$cdef(27)>Pokémon Center</color>, <$comeff(1,10)><$motion(1,664)><$voicel(1,8)>the water might drain away!
+msgctxt "2598:9"
+msgid "<$comeff(1,14)><$motion(1,824)><$voicel(1,5)>Tal y como hicimos con el <$cdef(27)>Centro Pokémon</color>, si bloqueamos<br>el origen del flujo del agua... <$comeff(1,10)><$motion(1,664)><$voicel(1,8)>¡esta debería retirarse!"
+msgstr ""
+
+#. en: <$comeff(1,14)><$motion(1,666)><$voicel(1,5)>Mud can be quite stubborn. Sometimes just spraying it with<br>water isn’t enough to wash it away.
+msgctxt "2598:13"
+msgid "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>Hmm, ese condenado barro tan viscoso y persistente...<br>Creo que rociarlo con agua no bastaría para eliminarlo."
+msgstr ""
+
+#. en: <$comeff(1,3)><$motion(1,661)><$voicel(1,7)>It would be best to soften it first with some <$cdef(27)>bubbles</color>.
+msgctxt "2598:14"
+msgid "<$comeff(1,3)><$motion(1,661)><$voicel(1,7)>Más bien deberíamos rociarlo primero con <$cdef(27)>Burbuja</color><br>para reblandecerlo."
+msgstr ""
+
+#. en: <$emotion(1,38)><$voicel(1,9)>Pokémon who specialize in <$cdef(27)><$spwfull(8)>ing</color> can probably spit<br>some <$cdef(27)>bubbles </color>for you.
+msgctxt "2598:15"
+msgid "<$emotion(1,38)><$voicel(1,9)>Un Pokémon especializado en <$cdef(27)><$spwfull(8)> </color>debería<br>ser capaz de escupir las <$cdef(27)>burbujas </color>necesarias."
+msgstr ""
+
+#. en: <$comeff(1,6)><$motion(1,666)><$voicel(1,5)>So <$cdef(27)>Meowth </color>wants a <$cdef(27)><fqty(1)><$ifull(1367)></color>, eh?
+msgctxt "2598:28"
+msgid "<$comeff(1,6)><$motion(1,666)><$voicel(1,5)><$cdef(27)>Meowth </color>querría unas <$cdef(27)><fqty(2)><$ifull(1367)></color>, ¿no es así?"
+msgstr ""
+
+#. en: <$comeff(1,14)><$motion(1,824)><$voicel(1,7)>You’ll need <$cdef(27)><fqty(1)><$ifull(819)></color> to make that. I often<br>see those in caves or other dim places.<clear><br><$voicel(1,6)>It’s likely there are some around this town too.
+msgctxt "2598:29"
+msgid "<$comeff(1,14)><$motion(1,824)><$voicel(1,7)>Las <$cdef(27)><fqty(1)><$ifull(819)></color> necesarias como material<br>crecen en lugares oscuros, como por ejemplo cuevas.<clear><br><$voicel(1,6)>Estoy seguro de que podrás encontrarlas en algún lugar<br>de este mismo vecindario."
+msgstr ""
+
+#. en: <$emotion(1,38)><$voicel(1,9)>Once you’ve made a <$cdef(27)><fqty(1)><$ifull(1367)></color>, go ahead and<br>put it by <$cdef(27)>Meowth</color>’s shack.
+msgctxt "2598:30"
+msgid "<$emotion(1,38)><$voicel(1,9)>Cuando tengas listas las <$cdef(27)><fqty(2)><$ifull(1367)></color>, no tienes<br>más que colocarlas en la casita de <$cdef(27)>Meowth</color>."
+msgstr ""
+
+#. en: <$emotion(1,51)><$voicel(1,4)>This town is so dark, even during the day.
+msgctxt "2598:35"
+msgid "<$emotion(1,51)><$voicel(1,4)>Este vecindario es un poco lúgubre incluso durante el día."
+msgstr ""
+
+#. en: <$comeff(1,14)><$voicel(1,5)>If you manage to light the place up more, <$emotion(1,8)><$voicel(1,8)>I think it might<br>lift the spirits of the Pokémon around here.
+msgctxt "2598:36"
+msgid "<$comeff(1,14)><$voicel(1,5)>Si consiguiésemos producir luz para alumbrar la zona,<br><$emotion(1,8)><$voicel(1,8)>también iluminaríamos el ánimo de los demás Pokémon."
+msgstr "<$comeff(1,14)><$voicel(1,5)>Si consiguiéramos producir luz para alumbrar la zona,<br><$emotion(1,8)><$voicel(1,8)>también iluminaríamos el ánimo de los demás Pokémon."
+
+#. en: <$comeff(1,14)><$motion(1,824)><$voicel(1,5)>There are lots of different light sources you could use, but<br>I believe <$voicel(1,8)>electricity might be the most effective!
+msgctxt "2598:37"
+msgid "<$comeff(1,14)><$motion(1,824)><$voicel(1,5)>La luz es un fenómeno que se produce de formas a cuál<br>más diversa...<clear><br><$voicel(1,8)>Pero, si averiguas un modo para valerte de la electricidad,<br>las probabilidades de éxito se me antojan bien altas."
+msgstr "<$comeff(1,14)><$motion(1,824)><$voicel(1,5)>La luz es un fenómeno que se produce de formas a cuál<br>más diversa...<clear><br><$voicel(1,8)>Pero, si averiguas un modo para valerte de la electricidad,<br>las probabilidades de éxito me parecen bastante altas."
+
+#. en: <$comeff(1,14)><$motion(1,824)><$voicel(1,7)>I think you should make some homes Pokémon would<br>like to live in.
+msgctxt "2598:38"
+msgid "<$comeff(1,14)><$motion(1,824)><$voicel(1,7)>Sería aconsejable preparar hogares de todo tipo para<br>atraer a nuevos Pokémon."
+msgstr ""
+
+#. en: <$voicel(1,5)>If you do, I’d say it’s likely more Pokémon will return, like<br>they did in the last town.<clear><br><$emotion(1,8)><$voicel(1,9)>And I’d wager they’ll help you out too!
+msgctxt "2598:39"
+msgid "<$voicel(1,5)>Si los Pokémon regresan, tal y como ocurrió en el anterior<br>vecindario, <$emotion(1,8)><$voicel(1,9)>¡seguro que te ofrecerán su inestimable ayuda!"
+msgstr ""

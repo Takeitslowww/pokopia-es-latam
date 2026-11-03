@@ -1,0 +1,191 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 2850 (es-ES slot); English reference: record 2846.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 2850\n"
+"X-Ldtool-English-Record: 2846\n"
+
+#. en: <$voicel(3,7)><$emotion(3,49)>The <$cdef(27)>mood</color>’s gotten pretty legit, huh?! And it’s all thanks to<br>you, <$cdef(27)><pname;0></color>!
+msgctxt "2850:0"
+msgid "<$voicel(3,7)><$emotion(3,49)>¡El <$cdef(27)>ánimo</color> ha subido que flipas! Hay muy buenas vibras<br>en esta fiesta, ¡y todo gracias a ti!"
+msgstr "<$voicel(3,7)><$emotion(3,49)>¡El <$cdef(27)>ánimo</color> subió un montón! Hay muy buenas vibras<br>en esta fiesta, ¡y todo gracias a ti!"
+
+#. en: <oneline><$voicel(3,5)><$emotion(3,8)>Now we just gotta keep workin’ on makin’ the <$cdef(27)>mood </color>SO<br>awesome <$voicel(3,8)><$comeff(3,5)><$motion(3,664)>it gets to <$cdef(27)>100</color>!<clear><br><$voicel(3,10)><$comeff(3,10)><$motion(3,803)><$cdef(27)><pname;0></color>! You can do it, yo! I believe<br>in you!
+msgctxt "2850:1"
+msgid "<oneline><$voicel(3,5)><$emotion(3,8)>Siento que todavía lo puede petar más.<clear><br><$voicel(3,8)><$comeff(3,5)><$motion(3,664)>Cuando el <$cdef(27)>ánimo </color>llegue a <$cdef(27)>100 puntos</color>, entonces sí será<br>el fiestón más top del universo.<clear><br><$voicel(3,10)><$comeff(3,10)><$motion(3,803)>Tú te encargas, ¿a que sí?<br>¡Venga, <$cdef(27)><pname;0></color>,<slide><br>que tú puedes!<slide><br>¡Yo confío!"
+msgstr "<oneline><$voicel(3,5)><$emotion(3,8)>Siento que aún la puede romper más.<clear><br><$voicel(3,8)><$comeff(3,5)><$motion(3,664)>Cuando el <$cdef(27)>ánimo </color>llegue a <$cdef(27)>100 puntos</color>, entonces sí será<br>el fiestón más top del universo.<clear><br><$voicel(3,10)><$comeff(3,10)><$motion(3,803)>Tú te encargas, ¿verdad?<br>¡Vamos, <$cdef(27)><pname;0></color>,<slide><br>que tú puedes!<slide><br>¡Yo confío!"
+
+#. en: <oneline><$voicel(3,5)><$emotion(3,8)>Now we just gotta keep workin’ on makin’ the <$cdef(27)>mood </color>SO<br>awesome <$voicel(3,8)><$comeff(3,5)><$motion(3,664)>it gets to <$cdef(27)>100</color>!<clear><br><$voicel(3,10)><$comeff(3,10)><$motion(3,803)><$cdef(27)><pname;0></color>! You can do it, yo! I believe<br>in you!
+msgctxt "2850:8"
+msgid "<oneline><$voicel(3,5)><$emotion(3,8)>Siento que todavía lo puede petar más.<clear><br><$voicel(3,8)><$comeff(3,5)><$motion(3,664)>Cuando el <$cdef(27)>ánimo </color>llegue a <$cdef(27)>100 puntos</color>, entonces sí será<br>el fiestón más top del universo.<clear><br><$voicel(3,10)><$comeff(3,10)><$motion(3,803)>Tú te encargas, ¿a que sí?<br>¡Venga, <$cdef(27)><pname;0></color>,<slide><br>que tú puedes!<slide><br>¡Yo confío!"
+msgstr "<oneline><$voicel(3,5)><$emotion(3,8)>Siento que aún la puede romper más.<clear><br><$voicel(3,8)><$comeff(3,5)><$motion(3,664)>Cuando el <$cdef(27)>ánimo </color>llegue a <$cdef(27)>100 puntos</color>, entonces sí será<br>el fiestón más top del universo.<clear><br><$voicel(3,10)><$comeff(3,10)><$motion(3,803)>Tú te encargas, ¿verdad?<br>¡Vamos, <$cdef(27)><pname;0></color>,<slide><br>que tú puedes!<slide><br>¡Yo confío!"
+
+#. en: <$voicel(3,5)><$emotion(3,14)>You wanna know how the <$cdef(27)>mood</color>’s doin’?<clear><br><$comeff(3,7)><$motion(3,802)><$voicel(3,3)>Hmmm... It’s kinda hard to say since I’m not at the venue...<clear><br><$comeff(3,3)><$motion(3,801)><$voicel(3,7)>Ask me again when I’m near the <$cdef(27)><fqty(1)><$ifull(1729)></color>, yo!
+msgctxt "2850:10"
+msgid "<$voicel(3,5)><$emotion(3,14)>¿Qué pasa, <gen;-2(tío,tía)>? ¿Necesitas a tu fiel moodómetro para<br>que calibre el <$cdef(27)>ánimo</color>?<clear><br><$comeff(3,7)><$motion(3,802)><$voicel(3,3)>Pues siento decepcionarte, porque estando tan lejos<br>de la fiesta me pillas en plan desconectado del mood...<clear><br><$comeff(3,3)><$motion(3,801)><$voicel(3,7)>Sorry. Vuelve a preguntarme cuando esté por donde la<br><$cdef(27)><fqty(1)><$ifull(1729)></color>, ¡que por ahí sí que se captan las<slide><br>vibras que es una locura!"
+msgstr "<$voicel(3,5)><$emotion(3,14)>¿Qué pasa, <gen;-2(tío,tía)>? ¿Necesitas a tu fiel moodómetro para<br>que calibre el <$cdef(27)>ánimo</color>?<clear><br><$comeff(3,7)><$motion(3,802)><$voicel(3,3)>Pues siento decepcionarte, porque estando tan lejos<br>de la fiesta me agarras medio desconectado del mood...<clear><br><$comeff(3,3)><$motion(3,801)><$voicel(3,7)>Sorry. Vuelve a preguntarme cuando esté por donde la<br><$cdef(27)><fqty(1)><$ifull(1729)></color>, ¡que por ahí sí que se captan las<slide><br>vibras que es una locura!"
+
+#. en: <$voicel(3,7)><$emotion(3,49)>You wanna know how the <$cdef(27)>mood</color>’s doin’? I got you!
+msgctxt "2850:15"
+msgid "<$voicel(3,7)><$emotion(3,49)>¡Marchando una calibración del <$cdef(27)>ánimo</color> para mi bestie!<br>¡Moodómetro activado!"
+msgstr "<$voicel(3,7)><$emotion(3,49)>¡Ahí va una calibración del <$cdef(27)>ánimo</color> para mi bestie!<br>¡Moodómetro activado!"
+
+#. en: Drum roll, please! Bada-bada-bada-bada-bada-bada...<br><wait(0.9)><wait(0.9)><$motion(3,939)>Ta-da!
+msgctxt "2850:16"
+msgid "Piii... piii... piii... <wait(0.9)><wait(0.9)><$motion(3,939)>¡Pam!"
+msgstr ""
+
+#. en: <$voicel(3,7)><$comeff(3,3)><$motion(3,1141)>Looks like the <$cdef(27)>mood</color>’s sittin’ around <$cdef(27)><mood;0></color> right now.
+msgctxt "2850:17"
+msgid "<$voicel(3,7)><$comeff(3,3)><$motion(3,1141)>¡El <$cdef(27)>ánimo</color> es de <$cdef(27)><mood;0> punt<qty;0(o,os)></color>!"
+msgstr ""
+
+#. en: <$voicel(3,3)><$comeff(3,7)><$motion(3,1134)>Not so hot to be honest, yo. But that just means<br>there’s nowhere to go but up, up, UP!<clear><br><$voicel(3,8)><$comeff(3,9)><$motion(3,1144)>Let’s make the <$cdef(27)>mood </color>AWESOME!
+msgctxt "2850:18"
+msgid "<$voicel(3,3)><$comeff(3,7)><$motion(3,1134)>¡Qué fail, tí<gen;-2(o,a)>! ¡Como no mejoremos un poco las vibras,<br>la peña se va a aplatanar! Pero no te rayes, que desde<slide><br>aquí solo podemos ir a mejor.<clear><br><$voicel(3,8)><$comeff(3,9)><$motion(3,1144)>¡Ubícate y vamos a levantar el <$cdef(27)>ánimo</color> a full!"
+msgstr "<$voicel(3,3)><$comeff(3,7)><$motion(3,1134)>¡Qué fail, amig<gen;-2(o,a)>! ¡Si no mejoramos un poco las vibras,<br>la gente se va a aburrir! Pero tranqui, que desde<slide><br>aquí solo podemos ir a mejor.<clear><br><$voicel(3,8)><$comeff(3,9)><$motion(3,1144)>¡Arriba, vamos a levantar el <$cdef(27)>ánimo</color> a full!"
+
+#. en: <$voicel(3,7)><$emotion(3,49)>You wanna know how the <$cdef(27)>mood</color>’s doin’? I got you!
+msgctxt "2850:24"
+msgid "<$voicel(3,7)><$emotion(3,49)>¡Marchando una calibración del <$cdef(27)>ánimo</color> para mi bestie!<br>¡Moodómetro activado!"
+msgstr "<$voicel(3,7)><$emotion(3,49)>¡Ahí va una calibración del <$cdef(27)>ánimo</color> para mi bestie!<br>¡Moodómetro activado!"
+
+#. en: Drum roll, please! Bada-bada-bada-bada-bada-bada...<br><wait(0.9)><wait(0.9)><$motion(3,939)>Ta-da!
+msgctxt "2850:25"
+msgid "Piii... piii... piii... <wait(0.9)><wait(0.9)><$motion(3,939)>¡Pam!"
+msgstr ""
+
+#. en: <$voicel(3,7)><$comeff(3,3)><$motion(3,1141)>Looks like the <$cdef(27)>mood</color>’s sittin’ around <$cdef(27)><mood;0></color> right now.
+msgctxt "2850:26"
+msgid "<$voicel(3,7)><$comeff(3,3)><$motion(3,1141)>¡El <$cdef(27)>ánimo</color> es de <$cdef(27)><mood;0> punt<qty;0(o,os)></color>!"
+msgstr ""
+
+#. en: <$voicel(3,5)><$comeff(3,14)><$motion(3,1143)>I guess we’ve still got a ways to go, huh?<clear><br><$voicel(3,10)><$comeff(3,9)><$motion(3,1144)>But that’s OK, yo! Let’s keep doin’ our thang to make the<br><$cdef(27)>mood </color>as awesome as possible!
+msgctxt "2850:27"
+msgid "<$voicel(3,5)><$comeff(3,14)><$motion(3,1143)>Todavía nos queda para conseguir el fiestón icónico que<br>se merece este vecindario...<clear><br><$voicel(3,10)><$comeff(3,9)><$motion(3,1144)>Pero yo confío. Sé que, si seguimos subiendo el <$cdef(27)>ánimo</color><br>como hasta ahora, ¡al final lo vamos a petar!"
+msgstr "<$voicel(3,5)><$comeff(3,14)><$motion(3,1143)>Todavía nos queda para conseguir el fiestón icónico que<br>se merece este vecindario...<clear><br><$voicel(3,10)><$comeff(3,9)><$motion(3,1144)>Pero yo confío. Sé que, si seguimos subiendo el <$cdef(27)>ánimo</color><br>como hasta ahora, ¡al final la vamos a romper!"
+
+#. en: <$voicel(3,7)><$emotion(3,49)>You wanna know how the <$cdef(27)>mood</color>’s doin’? I got you!
+msgctxt "2850:33"
+msgid "<$voicel(3,7)><$emotion(3,49)>¡Marchando una calibración del <$cdef(27)>ánimo</color> para mi bestie!<br>¡Moodómetro activado!"
+msgstr "<$voicel(3,7)><$emotion(3,49)>¡Ahí va una calibración del <$cdef(27)>ánimo</color> para mi bestie!<br>¡Moodómetro activado!"
+
+#. en: Drum roll, please! Bada-bada-bada-bada-bada-bada...<br><wait(0.9)><wait(0.9)><$motion(3,940)>Ta-da!
+msgctxt "2850:34"
+msgid "Piii... piii... piii... <wait(0.9)><wait(0.9)><$motion(3,940)>¡Pam!"
+msgstr ""
+
+#. en: <$voicel(3,7)><$comeff(3,3)><$motion(3,1136)>Looks like the <$cdef(27)>mood</color>’s sittin’ around <$cdef(27)><mood;0></color> right now!
+msgctxt "2850:35"
+msgid "<$voicel(3,7)><$comeff(3,3)><$motion(3,1136)>¡El <$cdef(27)>ánimo</color> es de <$cdef(27)><mood;0> punt<qty;0(o,os)></color>!"
+msgstr ""
+
+#. en: <$voicel(3,6)><$comeff(3,10)><$motion(3,1137)>The vibes are gettin’ pretty nice, huh?<clear><br><$voicel(3,7)><$comeff(3,5)><$motion(3,1138)>But I know this isn’t all you got! I believe in you, yo!<br><$voicel(3,10)><$comeff(3,9)><$motion(3,1147)>Let’s make the <$cdef(27)>mood </color>as awesome as possible!
+msgctxt "2850:36"
+msgid "<$voicel(3,6)><$comeff(3,10)><$motion(3,1137)>¡Vamos mejorando, <gen;-2(tío,tía)>!<clear><br><$voicel(3,7)><$comeff(3,5)><$motion(3,1138)>Pero yo sé que tú y yo podemos revolucionar las vibras<br>aún más. <$voicel(3,10)><$comeff(3,9)><$motion(3,1147)>¡Cuento contigo para seguir subiendo el <$cdef(27)>ánimo</color>!"
+msgstr ""
+
+#. en: <$voicel(3,7)><$emotion(3,49)>You wanna know how the <$cdef(27)>mood</color>’s doin’? I got you!
+msgctxt "2850:42"
+msgid "<$voicel(3,7)><$emotion(3,49)>¡Marchando una calibración del <$cdef(27)>ánimo</color> para mi bestie!<br>¡Moodómetro activado!"
+msgstr "<$voicel(3,7)><$emotion(3,49)>¡Ahí va una calibración del <$cdef(27)>ánimo</color> para mi bestie!<br>¡Moodómetro activado!"
+
+#. en: Drum roll, please! Bada-bada-bada-bada-bada-bada...<br><wait(0.9)><wait(0.9)><$motion(3,940)>Ta-da!
+msgctxt "2850:43"
+msgid "Piii... piii... piii... <wait(0.9)><wait(0.9)><$motion(3,940)>¡Pam!"
+msgstr ""
+
+#. en: <$voicel(3,7)><$comeff(3,3)><$motion(3,1136)>Looks like the <$cdef(27)>mood</color>’s sittin’ around <$cdef(27)><mood;0></color> right now!
+msgctxt "2850:44"
+msgid "<$voicel(3,7)><$comeff(3,3)><$motion(3,1136)>¡El <$cdef(27)>ánimo</color> es de <$cdef(27)><mood;0> punt<qty;0(o,os)></color>!"
+msgstr ""
+
+#. en: <$voicel(3,8)><$comeff(3,10)><$motion(3,1138)>Yooo! That’s pretty good!<clear><br><$voicel(3,5)><$comeff(3,5)><$motion(3,1138)>But I know you’ve still got more in you! Shoot for the<br>STARS, <$cdef(27)><pname;0></color>!<clear><br><$voicel(3,10)><$comeff(3,9)><$motion(3,1147)>Make the <$cdef(27)>mood </color>as awesome as possible, yo!
+msgctxt "2850:45"
+msgid "<$voicel(3,8)><$comeff(3,10)><$motion(3,1138)>¡Esto ya empieza a rentar!<clear><br><$voicel(3,5)><$comeff(3,5)><$motion(3,1138)>Pero yo sé que tú no te conformas con cualquier cosa.<br>¡Todavía se puede ir más alto! ¡Que se note el hype!<clear><br><$voicel(3,10)><$comeff(3,9)><$motion(3,1147)>¡Sigue levantando el <$cdef(27)>ánimo</color>, tí<gen;-2(o,a)>!"
+msgstr "<$voicel(3,8)><$comeff(3,10)><$motion(3,1138)>¡Esto ya va tomando forma!<clear><br><$voicel(3,5)><$comeff(3,5)><$motion(3,1138)>Pero yo sé que tú no te conformas con cualquier cosa.<br>¡Todavía se puede ir más alto! ¡Que se note el hype!<clear><br><$voicel(3,10)><$comeff(3,9)><$motion(3,1147)>¡Sigue levantando el <$cdef(27)>ánimo</color>, amig<gen;-2(o,a)>!"
+
+#. en: <$voicel(3,7)><$emotion(3,49)>You wanna know how the <$cdef(27)>mood</color>’s doin’? I got you!
+msgctxt "2850:52"
+msgid "<$voicel(3,7)><$emotion(3,49)>¡Marchando una calibración del <$cdef(27)>ánimo</color> para mi bestie!<br>¡Moodómetro activado!"
+msgstr "<$voicel(3,7)><$emotion(3,49)>¡Ahí va una calibración del <$cdef(27)>ánimo</color> para mi bestie!<br>¡Moodómetro activado!"
+
+#. en: Drum roll, please! Bada-bada-bada-bada-bada-bada...<wait(0.9)><wait(0.9)><$motion(3,940)><br>Ta-da!
+msgctxt "2850:53"
+msgid "Piii... piii... piii... <wait(0.9)><wait(0.9)><$motion(3,940)>¡Pam!"
+msgstr ""
+
+#. en: <$voicel(3,7)><$comeff(3,3)><$motion(3,1136)>Looks like the <$cdef(27)>mood</color>’s sittin’ around <$cdef(27)><mood;0></color> right now!
+msgctxt "2850:54"
+msgid "<$voicel(3,7)><$comeff(3,3)><$motion(3,1136)>¡El <$cdef(27)>ánimo</color> es de <$cdef(27)><mood;0> puntaz<qty;0(o,os)></color>!"
+msgstr ""
+
+#. en: <$voicel(3,7)><$comeff(3,21)><$motion(3,1148)>Yooo! We’re almost there!!! <$voicel(3,10)><$comeff(3,9)><$motion(3,1147)>Keep on makin’ the <$cdef(27)>mood </color>as<br>awesome as possible!
+msgctxt "2850:55"
+msgid "<$voicel(3,7)><$comeff(3,21)><$motion(3,1148)>¡La leche! ¡Estamos on fire, <gen;-2(tío,tía)>, pero todavía nos falta<br>un empujoncito!<clear><br><$voicel(3,10)><$comeff(3,9)><$motion(3,1147)>¡Sigue levantando el <$cdef(27)>ánimo</color>, que esto va a ser DINAMITA!"
+msgstr "<$voicel(3,7)><$comeff(3,21)><$motion(3,1148)>¡Guau! ¡Estamos on fire, <gen;-2(tío,tía)>, pero todavía nos falta<br>un empujoncito!<clear><br><$voicel(3,10)><$comeff(3,9)><$motion(3,1147)>¡Sigue levantando el <$cdef(27)>ánimo</color>, que esto va a ser DINAMITA!"
+
+#. en: <$voicel(3,7)><$emotion(3,49)>You wanna know how the <$cdef(27)>mood</color>’s doin’? I got you!
+msgctxt "2850:61"
+msgid "<$voicel(3,7)><$emotion(3,49)>¡Marchando una calibración del <$cdef(27)>ánimo</color> para mi bestie!<br>¡Moodómetro activado!"
+msgstr "<$voicel(3,7)><$emotion(3,49)>¡Ahí va una calibración del <$cdef(27)>ánimo</color> para mi bestie!<br>¡Moodómetro activado!"
+
+#. en: Drum roll, please! Bada-bada-bada-bada-bada-bada...<br><wait(0.9)><wait(0.9)><$motion(3,940)>Ta-da!
+msgctxt "2850:62"
+msgid "Piii... piii... piii... <wait(0.9)><wait(0.9)><$motion(3,940)>¡Pam!"
+msgstr ""
+
+#. en: <$voicel(3,7)><$comeff(3,3)><$motion(3,1136)>Looks like the <$cdef(27)>mood</color>’s sittin’ at... YOOO! We’re at <$cdef(27)>99</color>!<br>Sooo close!
+msgctxt "2850:63"
+msgid "<$voicel(3,7)><$comeff(3,3)><$motion(3,1136)>¡El <$cdef(27)>ánimo</color> es de<$cdef(27)> 99 puntazos</color>! ¡Mis dieces, <gen;-2(tío,tía)>!"
+msgstr "<$voicel(3,7)><$comeff(3,3)><$motion(3,1136)>¡El <$cdef(27)>ánimo</color> es de<$cdef(27)> 99 puntazos</color>! ¡Bravo, <gen;-2(tío,tía)>!"
+
+#. en: <$voicel(3,8)><$comeff(3,4)><$motion(3,1149)>I guess we’re just missin’ somethin’, like...REAL small?!
+msgctxt "2850:64"
+msgid "<$voicel(3,8)><$comeff(3,4)><$motion(3,1149)>¡Nos falta un toque final para petarlo del todo!"
+msgstr "<$voicel(3,8)><$comeff(3,4)><$motion(3,1149)>¡Nos falta un toque final para que sea épica!"
+
+#. en: <$voicel(3,9)><$comeff(3,9)><$motion(3,1147)>But this is it, yo! We’re REALLY almost there! Maybe go ask<br>around and see if anyone has any ideas!
+msgctxt "2850:65"
+msgid "<$voicel(3,9)><$comeff(3,9)><$motion(3,1147)>Ahora sí que sí, este es el último empujoncito, literal.<clear><br>¡Para manifestar la tarde más loca del universo, tenemos<br>que hablar con los demás Pokémon y ver qué vibra hay!"
+msgstr ""
+
+#. en: <$voicel(3,7)><$emotion(3,49)>You wanna know how the <$cdef(27)>mood</color>’s doin’? I got you!
+msgctxt "2850:71"
+msgid "<$voicel(3,7)><$emotion(3,49)>¡Marchando una calibración del <$cdef(27)>ánimo</color> para mi bestie!<br>¡Moodómetro activado!"
+msgstr "<$voicel(3,7)><$emotion(3,49)>¡Ahí va una calibración del <$cdef(27)>ánimo</color> para mi bestie!<br>¡Moodómetro activado!"
+
+#. en: Drum roll, please! Bada-bada-bada-bada-bada-bada...<br><wait(0.9)><wait(0.9)><$motion(3,941)>Ta-da!
+msgctxt "2850:72"
+msgid "Piii... piii... piii... <wait(0.9)><wait(0.9)><$motion(3,941)>¡Pam!"
+msgstr ""
+
+#. en: <$voicel(3,7)><$comeff(3,21)><$motion(3,1136)>Looks like the <$cdef(27)>mood</color>’s sittin’ at...<$cdef(27)>100</color>!!! Ayo, we did it!
+msgctxt "2850:73"
+msgid "<$voicel(3,7)><$comeff(3,21)><$motion(3,1136)>¡YASSS! ¡El <$cdef(27)>ánimo</color> es de <$cdef(27)>100 puntazooos</color>!"
+msgstr ""
+
+#. en: <$comeff(3,14)>... ... ...
+msgctxt "2850:74"
+msgid "<$comeff(3,14)>..."
+msgstr ""
+
+#. en: <$voicel(3,5)><$comeff(3,5)><$motion(3,1139)><$textsize(2)>YOOOOOO!</textsize>
+msgctxt "2850:75"
+msgid "<$voicel(3,5)><$comeff(3,5)><$motion(3,1139)><$textsize(2)>¡DILOOO!</textsize>"
+msgstr "<$voicel(3,5)><$comeff(3,5)><$motion(3,1139)><$textsize(2)>¡VAMOOS!</textsize>"
+
+#. en: <$voicel(3,7)><$comeff(3,13)><$motion(3,1151)>This is without a doubt the AWESOMEST the vibes could<br>EVER! BE!<clear><br><$voicel(3,9)><$comeff(3,10)><$motion(3,1152)>Now let’s get <$cdef(27)>Chef </color>to make us some AWESOME party food!
+msgctxt "2850:76"
+msgid "<$voicel(3,7)><$comeff(3,13)><$motion(3,1151)>¡Qué locurón, tí<gen;-2(o,a)>! ¡Esta va a ser la fiesta más top del<br>mundo mundial, sí o sí!<clear><br><$voicel(3,9)><$comeff(3,10)><$motion(3,1152)>Ya solo falta que la <$cdef(27)>chefa</color> cocine como solo ella sabe,<br>que se monte un menú megapró, ¡y fijo que lo petamos!"
+msgstr "<$voicel(3,7)><$comeff(3,13)><$motion(3,1151)>¡Qué locura, amig<gen;-2(o,a)>! ¡Será la fiesta más top del<br>mundo mundial, sí o sí!<clear><br><$voicel(3,9)><$comeff(3,10)><$motion(3,1152)>Ya solo falta que la <$cdef(27)>chefa</color> cocine como solo ella sabe,<br>que se arme un menú megapró, ¡y la vamos a romper!"

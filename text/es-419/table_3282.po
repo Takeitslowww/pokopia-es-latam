@@ -1,0 +1,226 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 3282 (es-ES slot); English reference: record 3278.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 3282\n"
+"X-Ldtool-English-Record: 3278\n"
+
+#. en: Welcome to the <$cdef(27)>Pokémon Center</color>.<clear><br>Would you like to rest your tired Pokémon?
+msgctxt "3282:0"
+msgid "Bienvenid<gen;-2(o,a)> al <$cdef(27)>Centro Pokémon</color>.<clear><br>Tus Pokémon deben de estar algo cansados.<br>¿Por qué no dejas que se tomen un descansito?"
+msgstr ""
+
+#. en: We hope to see you again!
+msgctxt "3282:1"
+msgid "¡Esperamos volver a verte!"
+msgstr ""
+
+#. en: Welcome to the <$cdef(27)>Pokémon Center</color>.<clear><br>Our free care service is no longer available for the day.
+msgctxt "3282:2"
+msgid "Bienvenid<gen;-2(o,a)> al <$cdef(27)>Centro Pokémon</color>.<clear><br>Nuestro servicio gratuito de curación no está disponible<br>en estos momentos."
+msgstr ""
+
+#. en: If you would like to continue using the service, please<br>register as a member on the following screen...
+msgctxt "3282:3"
+msgid "Si quieres disfrutar de nuestro servicio sin restricciones,<br>sigue estas instrucciones para suscribirte a..."
+msgstr ""
+
+#. en: ... ... ...<br>Looks like you can’t use that service right now!<slide><br>Try again tomorrow!
+msgctxt "3282:4"
+msgid "...<clear><br>No parece que pueda utilizarse más veces hoy.<br>Inténtalo de nuevo mañana."
+msgstr ""
+
+#. en: You found all three special Pokémon! Please accept this<br>reward for your efforts.
+msgctxt "3282:5"
+msgid "¡Has obtenido una recompensa por encontrar a los tres<br>Pokémon especiales!"
+msgstr "¡Obtuviste una recompensa por encontrar a los tres<br>Pokémon especiales!"
+
+#. en: *beep beep beep*<br>Boot-up complete.
+msgctxt "3282:9"
+msgid "Pi, pi, piii...<br>Se ha encendido el PC."
+msgstr "Pi, pi, piii...<br>Se encendió el PC."
+
+#. en: Obtaining information about this town...
+msgctxt "3282:10"
+msgid "Recopilando información acerca de los alrededores..."
+msgstr ""
+
+#. en: This is <$stgname;0(13)>!<clear><br>This land belongs to no one but you. You can freely alter<br>the landscape, build houses, and otherwise customize it<slide><br>as you see fit.
+msgctxt "3282:11"
+msgid "¡Bienvenid<gen;-2(o,a)> <esa;0()><$stgname;0(13)>!<clear><br>Este lugar aún no es de nadie. Estaba esperando la llegada<br>de alguien como tú.<clear><br>Adáptalo a tus gustos y necesidades, modificando el<br>terreno como prefieras, construyendo casas humanas<slide><br>¡o lo que se te ocurra!"
+msgstr ""
+
+#. en: Please choose a name for the town.
+msgctxt "3282:12"
+msgid "Antes de nada, ¿cómo quieres que se llame el vecindario?"
+msgstr ""
+
+#. en: Is “<$cdef(27)><$stgmyname;0(12)></color>” OK?
+msgctxt "3282:13"
+msgid "<oneline>¿Quieres llamarlo<br><$cdef(27)><$stgmyname;0(12)></color>?"
+msgstr ""
+
+#. en: Name registered!
+msgctxt "3282:14"
+msgid "¡Muy bien! ¡Queda registrado el nombre!"
+msgstr ""
+
+#. en: *beep beep*<br><$cdef(27)>Special challenges</color> prepared.
+msgctxt "3282:15"
+msgid "Pi, piii... Hay nuevos <$cdef(27)>retos especiales</color> disponibles."
+msgstr ""
+
+#. en: These <$cdef(27)>special challenges</color> have been prepared to help you<br>develop your town!<clear><br>There are generous prizes for those who complete them,<br>so please give them your best effort.
+msgctxt "3282:16"
+msgid "Supera <$cdef(27)>retos especiales</color> para contribuir al desarrollo del<br>vecindario. Y no solo eso: por cada reto que completes,<slide><br>recibirás una merecida recompensa.<clear><br>¡Consulta la lista de retos cuando tengas un momento!"
+msgstr ""
+
+#. en: Keep on living your best <$cdef(27)>Poké Life</color>!
+msgctxt "3282:17"
+msgid "¡Y disfruta al máximo de tu <$cdef(27)>PokéVida</color>!"
+msgstr ""
+
+#. en: You can put items from your inventory into this<br><$cdef(27)><fqty(1)><$ifull(2045)></color>.
+msgctxt "3282:23"
+msgid "Un <$cdef(27)><fqty(1)><$ifull(2045)> </color>sirve para almacenar toda clase de objetos."
+msgstr ""
+
+#. en: Place it wherever you like and use it to store things when<br>you have too much to carry!
+msgctxt "3282:24"
+msgid "Colócalo donde prefieras y guarda en él todo lo que<br>no puedas llevar contigo."
+msgstr ""
+
+#. en: There’s already a <$cdef(27)>CD </color>in the <$cdef(27)><fqty(1)><$ifull(1802)></color>. Would you like<br>to swap it out for another <$cdef(27)>CD </color>you have?
+msgctxt "3282:30"
+msgid "Ya hay un <$cdef(27)>CD</color> en el <$cdef(27)><fqty(1)><$ifull(1802)></color>.<br>¿Quieres introducir otro <$cdef(27)>CD</color> en su lugar?"
+msgstr ""
+
+#. en: There’s no <$cdef(27)>CD </color>in the <$cdef(27)><fqty(1)><$ifull(1802)></color>. Go ahead and put<br>one in.
+msgctxt "3282:31"
+msgid "Aún no hay ningún <$cdef(27)>CD</color> en el <$cdef(27)><fqty(1)><$ifull(1802)></color>.<br>Prueba a introducir uno."
+msgstr "Aún no hay ningún <$cdef(27)>CD</color> en el <$cdef(27)><fqty(1)><$ifull(1802)></color>.<br>Intenta introducir uno."
+
+#. en: There’s a <$cdef(27)>CD </color>in the <$cdef(27)><fqty(1)><$ifull(1802)></color>.
+msgctxt "3282:32"
+msgid "Hay un <$cdef(27)>CD</color> en el <$cdef(27)><fqty(1)><$ifull(1802)></color>."
+msgstr ""
+
+#. en: You retrieved items from the <$cdef(27)>PC</color>!
+msgctxt "3282:38"
+msgid "¡Has recogido lo que había guardado en este <$cdef(27)>PC</color>!"
+msgstr "¡Recogiste lo que había guardado en este <$cdef(27)>PC</color>!"
+
+#. en: <oneline><wowner;0> retrieved items from the <$cdef(27)>PC</color>.
+msgctxt "3282:39"
+msgid "<oneline><wowner;0> recogió lo que había guardado<br>en este <$cdef(27)>PC</color>."
+msgstr ""
+
+#. en: This <$cdef(27)><fqty(1)><$ifull(1471)></color> allows you to check up on<br>Pokémon who are far away.
+msgctxt "3282:45"
+msgid "Las <$cdef(27)><fqty(2)><$ifull(1471)> </color>sirven para ver qué hacen<br>los Pokémon cuando no estás en el mismo sitio que ellos."
+msgstr "Las <$cdef(27)><fqty(2)><$ifull(1471)> </color>sirven para ver qué hacen<br>los Pokémon cuando no estás en el mismo lugar que ellos."
+
+#. en: Place it wherever you like, then open the main menu and<br>select Camera → <$cdef(27)>Security Cameras </color>in order to watch the<slide><br><$cdef(27)><fqty(1)><$ifull(1471)></color> feed.
+msgctxt "3282:46"
+msgid "Colócalas en el lugar que quieras observar y selecciona<br>una <$cdef(27)><fqty(1)><$ifull(1471)> </color>desde <$cdef(27)>Cámara </color>en el menú<slide><br>principal para ver qué está sucediendo en tiempo real."
+msgstr ""
+
+#. en: It’s useful to see how certain Pokémon are doing or to<br>check if a new Pokémon has appeared in a habitat.
+msgctxt "3282:47"
+msgid "Resultan muy útiles para ver qué hacen los Pokémon<br>que te llamen la atención y también para comprobar si<slide><br>han llegado Pokémon nuevos a los hábitats de la zona."
+msgstr ""
+
+#. en: You have a vague memory of <$cdef(27)>Professor Tangrowth</color><br>suggesting that you use the <$cdef(27)><fqty(1)><$ifull(1898)></color> in<slide><br>the <$cdef(27)><$stgname;0(4)></color>...
+msgctxt "3282:53"
+msgid "<oneline>Prueba a utilizar el <$cdef(27)><fqty(1)><$ifull(1898)> </color>en<br><dart;0()><$cdef(27)><$stgname;0(4)></color>,<slide><br>como sugirió<slide><br>el <$cdef(27)>Profesor Tangrowth</color>."
+msgstr "<oneline>Intenta utilizar el <$cdef(27)><fqty(1)><$ifull(1898)> </color>en<br><dart;0()><$cdef(27)><$stgname;0(4)></color>,<slide><br>como sugirió<slide><br>el <$cdef(27)>Profesor Tangrowth</color>."
+
+#. en: Please place your Pokédex over the gate panel.
+msgctxt "3282:59"
+msgid "Acerca la Pokédex al panel."
+msgstr ""
+
+#. en: Checking Pokédex...<clear><br>Data for all Pokémon confirmed!<clear><br>Congratulations! You will receive an award for your great<br>achievement. Please wait while it prints...
+msgctxt "3282:60"
+msgid "Leyendo los datos de la Pokédex...<clear><br>¡Enhorabuena! ¡Has completado la Pokédex!<clear><br>Te has ganado un diploma para conmemorar tu hazaña.<br>Espera un momento mientras se imprime..."
+msgstr "Leyendo los datos de la Pokédex...<clear><br>¡Felicidades! ¡Completaste la Pokédex!<clear><br>Ganaste un diploma para conmemorar tu hazaña.<br>Espera un momento mientras se imprime..."
+
+#. en: *beep* *whirrr*
+msgctxt "3282:61"
+msgid "Piii... Pru, pru, pru... Piii..."
+msgstr ""
+
+#. en: Please accept your award.
+msgctxt "3282:62"
+msgid "Aquí tienes tu diploma."
+msgstr ""
+
+#. en: <oneline>Try asking nearby Pokémon where to<br>find <$cdef(27)><pksrchtar;0></color>.
+msgctxt "3282:68"
+msgid "<oneline>Averigua el paradero <esde;0()><$cdef(27)><pksrchtar;0></color><br>preguntando<slide><br>a los demás<slide><br>Pokémon de la zona."
+msgstr ""
+
+#. en: <oneline>It seems like <$cdef(27)><pksrchtar;0></color> is in<br><$cdef(27)><srchtarhmst;1></color>.
+msgctxt "3282:69"
+msgid "<oneline>Parece que <dart;0()><$cdef(27)><pksrchtar;0></color> está<br>en <dart;1()><$cdef(27)><srchtarhmst;1></color>."
+msgstr ""
+
+#. en: They don’t seem to be around here.
+msgctxt "3282:70"
+msgid "No parece estar por aquí."
+msgstr ""
+
+#. en: Would you like use <$cdef(27)>Return Home</color> to go there?
+msgctxt "3282:71"
+msgid "¿Quieres usar la función <$cdef(27)>Llévame a casa </color>para ir allí?"
+msgstr ""
+
+#. en: It seems like there’s something else you need to do.<br>Try talking to <$cdef(27)><storychspk;0></color>.
+msgctxt "3282:74"
+msgid "Ahora mismo tienes otros asuntos que atender.<br>Habla con <dart;0()><$cdef(27)><storychspk;0></color>."
+msgstr ""
+
+#. en: It seems like there’s something else you need to do.<br>Try talking to the Pokémon following you.
+msgctxt "3282:75"
+msgid "Ahora mismo tienes otros asuntos que atender.<br>Habla con los Pokémon que te están siguiendo."
+msgstr ""
+
+#. en: Actually, there’s <$cdef(27)>another gate</color> in <$cdef(27)><$stgname;0(1)></color> that<br><$cdef(27)>leads to a different town</color>!<clear><br>You might be able to go through it!
+msgctxt "3282:81"
+msgid "<oneline>En <dart;0()><$cdef(27)><$stgname;0(1)> </color>hay un <$cdef(27)>pasaje<br>de acceso</color><slide><br>que conduce<slide><br><$cdef(27)>a un vecindario distinto</color>.<slide><br>¡Ve a echar un vistazo!"
+msgstr ""
+
+#. en: This is a rare metal called <$cdef(27)><fqty(1)><$ifull(120)></color>.
+msgctxt "3282:85"
+msgid "Los <$cdef(27)><fqty(2)><$ifull(120)> </color>están hechos de un metal<br>poco común y se usan para fabricar toda clase de objetos."
+msgstr ""
+
+#. en: It can be used as a material to make a variety of items.<br>If you come across it in the <$cdef(27)>shop</color> or anywhere else, you<slide><br>should get it while you have the chance!
+msgctxt "3282:86"
+msgid "Cuando los veas a la venta en alguna <$cdef(27)>tienda</color>, asegúrate<br>de comprarlos. ¡Te serán muy útiles!"
+msgstr ""
+
+#. en: It looks like...a treasure map somebody drew!
+msgctxt "3282:87"
+msgid "¿Y esto? ¡Parece dibujado a mano por alguien!"
+msgstr ""
+
+#. en: Try heading to the place marked on the map, then search<br>for treasure with the <$cdef(27)><fqty(1)><$ifull(2793)></color>!
+msgctxt "3282:88"
+msgid "¡Dirígete al lugar indicado en el mapa y usa el <$cdef(27)><fqty(1)><$ifull(2793)><br></color>para buscar el tesoro!"
+msgstr ""
+
+#. en: You can look at your treasure map at any time in the<br><$cdef(27)>Human Records</color> section of the <$cdef(27)>Collection (Basin)</color> menu.
+msgctxt "3282:89"
+msgid "Puedes ver los mapas que has conseguido en la sección<br>de <$cdef(27)>notas humanas</color> de la <$cdef(27)>colección de la Cuenca Coralina</color>."
+msgstr ""

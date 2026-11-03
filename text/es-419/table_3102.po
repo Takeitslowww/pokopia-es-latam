@@ -1,0 +1,106 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 3102 (es-ES slot); English reference: record 3098.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 3102\n"
+"X-Ldtool-English-Record: 3098\n"
+
+#. en: <$voicel(2,4)><$comeff(2,16)><$facial(2,3)><$motion(2,802)>*yaaaaaaaaaaaawn*<clear><br><$voicel(2,1)><$comeff(2,7)><$facial(2,1)><$motion(2,663)>Hnnngh... I’m so dang hungry...
+msgctxt "3102:0"
+msgid "<$voicel(2,4)><$comeff(2,16)><$facial(2,3)><$motion(2,802)>Uaaah...<clear><br><$voicel(2,1)><$comeff(2,7)><$facial(2,1)><$motion(2,663)>Caray... Estoy famélic<gen;-3(o,a)>..."
+msgstr ""
+
+#. en: <oneline><$voicel(2,5)><$motion(2,803)><$emotion(2,14)>Hey, you there. Yeah, you, <$cdef(27)><pname;0></color>...<br>Got<slide><br>any<slide><br>food<slide><br>ya<slide><br>could share?
+msgctxt "3102:1"
+msgid "<oneline><$voicel(2,5)><$motion(2,803)><$emotion(2,14)>Oye, tú, <$cdef(27)><pname;0></color>. ¿No tendrás por ahí<br>unas migajas<slide><br>de algo?"
+msgstr ""
+
+#. en: <$voicel(2,7)><$comeff(2,10)><$motion(2,664)>Anythin’s fine s’long as it’s edible! Just set it down right<br>there, would ya? ’Preciate it!
+msgctxt "3102:2"
+msgid "<$voicel(2,7)><$comeff(2,10)><$motion(2,664)>Cualquier comida me vale. ¡Déjamela ahí, te lo ruego!"
+msgstr "<$voicel(2,7)><$comeff(2,10)><$motion(2,664)>Cualquier comida me sirve. ¡Déjamela ahí, te lo ruego!"
+
+#. en: <$voicel(2,5)><$comeff(2,10)><$motion(2,664)>Won’tcha share some food with an ol’ Pokémon? You can<br>just set it down right there, if ya’d be so kind!
+msgctxt "3102:8"
+msgid "<$voicel(2,5)><$comeff(2,10)><$motion(2,664)>¡Mozuel<gen;-2(o,a)>, dame algo de comer, por favor te lo pido!<br>¡Déjalo ahí, anda!"
+msgstr ""
+
+#. en: <$voicel(2,7)><$emotion(2,14)><$facial(2,4)><$kfacial(2)>Oh! Brought me some food, did ya?!<br>Ah... Now THIS takes me back, I tell ya what.
+msgctxt "3102:14"
+msgid "<$voicel(2,7)><$emotion(2,14)><$facial(2,4)><$kfacial(2)>¡Qué bien! ¡Me has traído un piscolabis! Ay... La verdad<br>es que esto me pone nostálgic<gen;-3(o,a)> y todo."
+msgstr "<$voicel(2,7)><$emotion(2,14)><$facial(2,4)><$kfacial(2)>¡Qué bien! ¡Me trajiste un refrigerio! Ay... La verdad<br>es que esto me pone nostálgic<gen;-3(o,a)> y todo."
+
+#. en: <$voicel(2,5)><$comeff(2,10)><$motion(2,661)>A long, looong time ago, humans used to bring me food,<br>kinda like you just did for me...
+msgctxt "3102:15"
+msgid "<$voicel(2,5)><$comeff(2,10)><$motion(2,661)>Hace tiempo, mucho tiempo, los humanos también solían<br>traerme comida..."
+msgstr ""
+
+#. en: <$voicel(2,7)><$motion(2,666)><$comeff(2,14)>Kind folks like yourself were always givin’ me the tastiest<br>treats to eat...
+msgctxt "3102:16"
+msgid "<$voicel(2,7)><$motion(2,666)><$comeff(2,14)>Eran majísimos, como tú. Siempre me traían manjares."
+msgstr "<$voicel(2,7)><$motion(2,666)><$comeff(2,14)>Eran muy amables, como tú. Siempre me traían manjares."
+
+#. en: <$voicel(2,9)><$motion(2,659)><$comeff(2,21)>Phew... This really brought some nice old memories to the<br>surface. Thanks, <$cdef(27)><pname;0></color>!
+msgctxt "3102:17"
+msgid "... <$voicel(2,9)><$motion(2,659)><$comeff(2,21)>Gracias por traer a mi memoria esos bonitos recuerdos,<br><$cdef(27)><pname;0></color>."
+msgstr ""
+
+#. en: <oneline><$voicel(2,7)><$emotion(2,14)>Howdy howdy, <$cdef(27)><pname;0></color>! Thanks for<br>always<slide><br>bringin’<slide><br>me<slide><br>tasty<slide><br>treats<slide><br>to eat.
+msgctxt "3102:23"
+msgid "<oneline><$voicel(2,7)><$emotion(2,14)>Gracias por traerme tantas delicias,<br><$cdef(27)><pname;0></color>."
+msgstr ""
+
+#. en: <$voicel(2,5)><$motion(2,666)><$facial(2,4)><$comeff(2,9)>Say, you’re pretty knowledgeable about food, aren’t ya?<br>I’ve got a somewhat specific request...
+msgctxt "3102:24"
+msgid "<$voicel(2,5)><$motion(2,666)><$facial(2,4)><$comeff(2,9)>Veo que estás hech<gen;-2(o,a)> <gen;-2(todo un,toda una)> cocinillas. Siendo así,<br>no me queda más remedio que pedirte algo. Bua, ja, ja."
+msgstr "<$voicel(2,5)><$motion(2,666)><$facial(2,4)><$comeff(2,9)>Veo que estás hech<gen;-2(o,a)> <gen;-2(todo un,toda una)> chef. Siendo así,<br>no me queda más remedio que pedirte algo. Bua, ja, ja."
+
+#. en: <$voicel(2,7)><$comeff(2,14)>I dunno why, but I’ve got a real hankerin’ for <$cdef(27)>somethin’<br>spicy </color>right about now...<clear><br><$voicel(2,5)><$comeff(2,10)><$motion(2,664)>As long as it’s <$cdef(27)>spicy</color>, I ain’t gonna be picky... Think you<br>could arrange that for me?
+msgctxt "3102:25"
+msgid "<$voicel(2,7)><$comeff(2,14)>No sé por qué, pero tengo unas ganas locas de comerme<br><$cdef(27)>algo picante</color>.<clear><br><$voicel(2,5)><$comeff(2,10)><$motion(2,664)>¿Me podrías traer un <$cdef(27)>plato picante</color> a rabiar?"
+msgstr "<$voicel(2,7)><$comeff(2,14)>No sé por qué, pero tengo unas ganas locas de comerme<br><$cdef(27)>algo picante</color>.<clear><br><$voicel(2,5)><$comeff(2,10)><$motion(2,664)>¿Me podrías traer un <$cdef(27)>platillo picante</color> a rabiar?"
+
+#. en: <$cdef(27)>Mosslax </color>wants to eat some human food... Look for a<br>Pokémon who can teach you about cooking!
+msgctxt "3102:31"
+msgid "Parece que <$cdef(27)>Musgorlax </color>echa de menos la comida humana.<br>¡Busca a un Pokémon que sepa de cocina!"
+msgstr "Parece que <$cdef(27)>Musgorlax </color>extraña la comida humana.<br>¡Busca a un Pokémon que sepa de cocina!"
+
+#. en: <$voicel(2,5)><$motion(2,661)><$comeff(2,10)>I really wanna eat <$cdef(27)>somethin’ spicy</color>. Think you could bring<br>me that kinda food? I’d appreciate it!
+msgctxt "3102:37"
+msgid "<$voicel(2,5)><$motion(2,661)><$comeff(2,10)>Quiero un <$cdef(27)>plato picante</color> que pique como él solo.<br>Tráeme uno, hazme el favor, zaga<gen;-2(l,la)>."
+msgstr "<$voicel(2,5)><$motion(2,661)><$comeff(2,10)>Quiero un <$cdef(27)>platillo picante</color> que pique muchísimo.<br>Tráeme uno, hazme el favor, zaga<gen;-2(l,la)>."
+
+#. en: <$voicel(2,7)><$motion(2,803)><$comeff(2,5)>Oh! This! This is...<clear><br><$voicel(2,9)><$motion(2,661)><$comeff(2,1)>This is EXACTLY like some of the food humans used to<br>give me way back when!
+msgctxt "3102:43"
+msgid "<$voicel(2,7)><$motion(2,803)><$comeff(2,5)>¡Snórcholis!<clear><br><$voicel(2,9)><$motion(2,661)><$comeff(2,1)>¡Esta comida es igualita a la que me daban los humanos!"
+msgstr ""
+
+#. en: <$voicel(2,5)><$motion(2,666)><$comeff(2,14)>The humans are all gone, and there’re way fewer Pokémon<br>around than there used to be...<clear><br>Everythin’ has changed so dang much...<$voicel(2,8)><$motion(2,801)><$comeff(2,10)><$facial(2,4)>but this happiness<br>I’m feelin’ right now is the same I felt back then!
+msgctxt "3102:44"
+msgid "<$voicel(2,5)><$motion(2,666)><$comeff(2,14)>Cómo ha cambiado todo... Los humanos se han ido,<br>hay menos Pokémon que en mis tiempos... Y la zona<slide><br>ha pegado un cambio de agárrate y no te menees...<clear><br><$voicel(2,8)><$motion(2,801)><$comeff(2,10)><$facial(2,4)>¡Pero la felicidad que siento ahora mismo es comparable<br>a la que sentía antaño!"
+msgstr "<$voicel(2,5)><$motion(2,666)><$comeff(2,14)>Cómo cambió todo... Los humanos se fueron,<br>hay menos Pokémon que en mis tiempos... Y la zona<slide><br>dio un cambio de lo más tremendo...<clear><br><$voicel(2,8)><$motion(2,801)><$comeff(2,10)><$facial(2,4)>¡Pero la felicidad que siento ahora mismo es comparable<br>a la que sentía antaño!"
+
+#. en: <$voicel(2,9)><$comeff(2,9)><$motion(2,659)>Thank ya, <$cdef(27)><pname;0></color>. I’m really grateful!<clear><br>As for this tasty-lookin’ morsel ya brought me...<$voicel(2,8)><$comeff(2,21)><$motion(2,664)>I think I’ll<br>eat it later and really savor each li’l bite...
+msgctxt "3102:45"
+msgid "<oneline><$voicel(2,9)><$comeff(2,9)><$motion(2,659)>Muchas gracias, <$cdef(27)><pname;0></color>.<br>Te has portado.<clear><br><$voicel(2,8)><$comeff(2,21)><$motion(2,664)>Luego le hinco el diente con tranquilidad a lo que me has<br>traído."
+msgstr "<oneline><$voicel(2,9)><$comeff(2,9)><$motion(2,659)>Muchas gracias, <$cdef(27)><pname;0></color>.<br>Te luciste.<clear><br><$voicel(2,8)><$comeff(2,21)><$motion(2,664)>Luego le hinco el diente con tranquilidad a lo que me<br>trajiste."
+
+#. en: <$voicel(2,5)><$comeff(2,14)><$motion(2,666)>If you can make human food... Why, I’ll wager you could<br>probably <$voicel(2,10)>make a place that the humans would wanna<slide><br><$voicel(2,8)><$comeff(2,10)><$motion(2,664)>return to someday!
+msgctxt "3102:46"
+msgid "<$voicel(2,5)><$comeff(2,14)><$motion(2,666)>Si eres capaz incluso de cocinar como los humanos,<br><$voicel(2,10)>¿quién sabe?<clear><br><$voicel(2,8)><$comeff(2,10)><$motion(2,664)>¡Tal vez también consigas que vuelvan algún día!"
+msgstr ""
+
+#. en: <$voicel(2,9)><$comeff(2,9)><$motion(2,801)>Yeah! You can do it! I’m sure of it! Just keep workin’ hard<br>and don’t give up, ya hear?
+msgctxt "3102:47"
+msgid "<$voicel(2,9)><$comeff(2,9)><$motion(2,801)>Yo confío en la juventud, que todo lo podéis con vuestra<br>energía y ganas."
+msgstr "<$voicel(2,9)><$comeff(2,9)><$motion(2,801)>Yo confío en la juventud, que todo lo pueden con su<br>energía y ganas."

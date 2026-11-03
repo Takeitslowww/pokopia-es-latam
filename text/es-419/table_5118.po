@@ -1,0 +1,276 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 5118 (es-ES slot); English reference: record 5114.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 5118\n"
+"X-Ldtool-English-Record: 5114\n"
+
+#. en: You can use <$cdef(27)>Headbutt </color>on a tree to make<br><$cdef(27)><fqty(2)><class><$iname(2340)></color> fall!
+msgctxt "5118:1"
+msgid "Propínale al árbol un <$cdef(27)>Golpe Cabeza</color> para que se<br>desprendan de él unas cuantas <$cdef(27)><fqty(2)><$iname(2340)></color>."
+msgstr ""
+
+#. en: It’s a hair small for me, so I hope you can use it.
+msgctxt "5118:2"
+msgid "Es un tanto pequeña para mis necesidades,<br>así que utilízala sin remilgos."
+msgstr ""
+
+#. en: Come over here! I found something weird!
+msgctxt "5118:3"
+msgid "¡Ven aquí! ¡He encontrado algo raro!"
+msgstr "¡Ven aquí! ¡Encontré algo raro!"
+
+#. en: I guess it’s not a bed... Do you know what it’s<br>used for?
+msgctxt "5118:4"
+msgid "No tiene pinta de cama... ¿Tú sabes para qué sirve?"
+msgstr "No parece una cama... ¿Tú sabes para qué sirve?"
+
+#. en: Why don’t you try making a <$cdef(27)><$hatname(3)></color> habitat, then<br>waiting for a little bit?
+msgctxt "5118:5"
+msgid "¿Qué te parece si creas un <$cdef(27)><$hatname(3)> </color>y luego<br>pruebas a aguardar un momento?"
+msgstr "¿Qué te parece si creas un <$cdef(27)><$hatname(3)> </color>y luego<br>intentas aguardar un momento?"
+
+#. en: Take me to the <$cdef(27)><fqty(1)><$iname(1280)></color>!
+msgctxt "5118:6"
+msgid "¡Llévame hasta la <$cdef(27)><fqty(1)><$iname(1280)></color>!"
+msgstr ""
+
+#. en: I plan to investigate the human-made building, and<br>I’d like your help.
+msgctxt "5118:7"
+msgid "Me he propuesto investigar los edificios construidos<br>por los humanos, para lo cual necesito tu ayuda."
+msgstr ""
+
+#. en: It seems awfully useful...but do you know how to<br>use it?
+msgctxt "5118:8"
+msgid "Tiene todos los visos de resultar sumamente útil.<br>¿No sabrás por casualidad cómo se utiliza?"
+msgstr ""
+
+#. en: Something good might happen if you complete<br><$cdef(27)>challenges</color>!
+msgctxt "5118:9"
+msgid "No sería de extrañar que la compleción de los <$cdef(27)>retos</color><br>llevase aparejada una grata sorpresa."
+msgstr ""
+
+#. en: First, try asking the Pokémon what they want!
+msgctxt "5118:10"
+msgid "Comienza por preguntarles a los Pokémon qué es<br>lo que querrían."
+msgstr ""
+
+#. en: If we had a Pokémon called <$cdef(27)><$cname(37)></color> with us, we<br>might be able to make it rain!
+msgctxt "5118:11"
+msgid "Si damos con algún <$cdef(27)><$cname(37)></color>, ¡quizá sea capaz<br>de hacer llover!"
+msgstr "Si damos con algún <$cdef(27)><$cname(37)></color>, ¡quizás sea capaz<br>de hacer llover!"
+
+#. en: Let’s go ask the <$cdef(27)>professor</color> about celebrations!
+msgctxt "5118:12"
+msgid "¡Vamos a preguntarle al <$cdef(27)>profesor</color> acerca de la<br>\"inaguración\"!"
+msgstr ""
+
+#. en: <oneline>I wish I had a home just like the one<br><$cdef(27)><$cname;1(28)> </color>has!
+msgctxt "5118:13"
+msgid "<oneline>¡Jo, me encantaría tener un hogar como el<br><esde;1()><$cdef(27)><$cname;1(28)></color>!"
+msgstr "<oneline>¡Ay, me encantaría tener un hogar como el<br><esde;1()><$cdef(27)><$cname;1(28)></color>!"
+
+#. en: I think I saw a <$cdef(27)>punching bag</color> and a <$cdef(27)>bench</color> around<br>here...
+msgctxt "5118:14"
+msgid "Me suena haber visto un <$cdef(27)>saco de boxeo </color>y un <$cdef(27)>banco<br></color>por aquí cerca..."
+msgstr "Me parece haber visto un <$cdef(27)>saco de boxeo </color>y un <$cdef(27)>banco<br></color>por aquí cerca..."
+
+#. en: Sounds like you’ve got some crazy rain goin’ on out<br>there! I can tell the walls are gettin’ softer!
+msgctxt "5118:15"
+msgid "Peazo diluvio que debe de estar cayendo.<br>¡Hasta se han ablandao las paredes de la cueva!"
+msgstr "Tremendo diluvio que debe de estar cayendo.<br>¡Hasta se ablandaron las paredes de la cueva!"
+
+#. en: Do you think you can build a house somehow?
+msgctxt "5118:16"
+msgid "¿Podrías construir una casa humana?"
+msgstr ""
+
+#. en: You’ll need a <$cdef(27)><fqty(1)><$iname(326)> </color>to<br>rebuild the <$cdef(27)>Pokémon Center</color>!
+msgctxt "5118:17"
+msgid "¡Necesitaremos un <$cdef(27)><fqty(1)><$iname(326)></color><br>para reconstruir el <$cdef(27)>Centro Pokémon</color>!"
+msgstr ""
+
+#. en: There was a cave near that beach we went to<br>together, right?
+msgctxt "5118:18"
+msgid "Había una cueva cerca de la playa a la que fuimos,<br>¿no?"
+msgstr ""
+
+#. en: If somebody could just break that wall, gettin’ outta<br>here would be a piece of cake!
+msgctxt "5118:19"
+msgid "Hazme el favorazo de romper la pared para que<br>pueda salir, anda..."
+msgstr ""
+
+#. en: What sort of machine is that?
+msgctxt "5118:20"
+msgid "¿Qué será aquella máquina?..."
+msgstr ""
+
+#. en: If the water around it could be drained away, the <$cdef(27)>PC<br></color>might work!
+msgctxt "5118:21"
+msgid "Es posible que el <$cdef(27)>PC</color> funcionase si esta zona<br>no estuviese anegada."
+msgstr ""
+
+#. en: It sure would be handy if there were a <$cdef(27)>Pokémon<br>Center </color>around, like before...
+msgctxt "5118:22"
+msgid "Ojalá hubiese aquí un <$cdef(27)>Centro Pokémon </color>como<br>aquellos de antaño..."
+msgstr ""
+
+#. en: A <$cdef(27)>Snorlax </color>covered in moss? I’m keen to learn more.
+msgctxt "5118:23"
+msgid "Qué curioso, un <$cdef(27)>Snorlax </color>completamente recubierto<br>de musgo..."
+msgstr ""
+
+#. en: <$cdef(27)><$cname;0(272)></color> might be awake now!
+msgctxt "5118:24"
+msgid "<oneline>Tal vez <dart;0()><$cdef(27)><$cname;0(272)> </color>se haya<br>despertado."
+msgstr ""
+
+#. en: You can probably make a habitat just by growing<br>some tall grass.
+msgctxt "5118:25"
+msgid "Unas briznas de hierba alta deberían bastar para<br>crear hábitats nuevos."
+msgstr ""
+
+#. en: <oneline>I bet <$cdef(27)><$cname;0(36)></color> could teach you<br>how to swim!
+msgctxt "5118:26"
+msgid "<oneline>¡Seguro que <dart;0()><$cdef(27)><$cname;0(36)><br></color>podría enseñarte a nadar!"
+msgstr ""
+
+#. en: I’m certain we can use this machine to brighten things<br>up around here. Care to try?
+msgctxt "5118:27"
+msgid "Si pudiésemos utilizar esta máquina, sería más fácil<br>mejorar la iluminación de este lugar..."
+msgstr ""
+
+#. en: There may be Pokémon who prefer bright places.
+msgctxt "5118:28"
+msgid "Es probable que haya Pokémon que prefieran<br>un entorno más luminoso."
+msgstr ""
+
+#. en: Let’s go see <$cdef(27)><$cname(341)></color> together!
+msgctxt "5118:29"
+msgid "¡Vamos a preguntarle al <$cdef(27)><$cname(341)></color>!"
+msgstr ""
+
+#. en: You’ll need to push with a lot more strength if you’re<br>going to move that <$cdef(27)>PC</color>.
+msgctxt "5118:41"
+msgid "Para activar el <$cdef(27)>PC</color> podría ser necesario empujarlo<br>ejerciendo más fuerza si cabe."
+msgstr ""
+
+#. en: <$cdef(27)><oneline><$cname;0(107)></color> might know how to<br>make<slide><br>a<slide><br><$cdef(27)><fqty(1)><$iname(1301)></color>.
+msgctxt "5118:42"
+msgid "<oneline><fcap><dart;0()><$cdef(27)><$cname;0(107)> </color>debería estar versad<gen;0(o,a)><br>en el uso<slide><br>de la <$cdef(27)><fqty(1)><$iname(1301)></color>."
+msgstr ""
+
+#. en: <$cdef(27)><oneline><$cname;0(188)></color> might know how to<br>make<slide><br>a<slide><br><$cdef(27)><fqty(1)><$iname(1302)></color>.
+msgctxt "5118:43"
+msgid "<oneline><fcap><dart;0()><$cdef(27)><$cname;0(188)> </color>debería estar versad<gen;0(o,a)><br>en el uso<slide><br>del <$cdef(27)><fqty(1)><$iname(1302)></color>."
+msgstr ""
+
+#. en: Show me your true <$cdef(27)>Strength</color>!
+msgctxt "5118:45"
+msgid "Sabes usar <$cdef(27)>Fuerza</color>, ¿no? ¡Pues deja que vea lo fuerte<br>que eres!"
+msgstr ""
+
+#. en: The music’s coming from deeper in there...
+msgctxt "5118:46"
+msgid "Esa música viene del interior de la montaña..."
+msgstr ""
+
+#. en: Go ahead and plant tall grass and things first, and<br>let’s wait for more Pokémon to return.
+msgctxt "5118:47"
+msgid "Lo primero y esencial es crear más zonas de hierba<br>alta para que vayan regresando los Pokémon."
+msgstr ""
+
+#. en: <$cdef(27)><$cname(59)> </color>might be able to move the <$cdef(27)>PC</color>.
+msgctxt "5118:48"
+msgid "<$cdef(27)><$cname(59)> </color>debería ser capaz de mover el <$cdef(27)>PC</color>."
+msgstr ""
+
+#. en: The <$cdef(27)>PC </color>ought to be working now!
+msgctxt "5118:49"
+msgid "¡El <$cdef(27)>PC</color> debería funcionar ahora!"
+msgstr ""
+
+#. en: I heard someone shouting! Let’s go see what’s<br>going on!
+msgctxt "5118:50"
+msgid "¡Se oyen los gritos de alguien!<br>¡Apresurémonos a ver quién es!"
+msgstr ""
+
+#. en: Do you think you could cut that <$cdef(27)><fqty(1)><$iname(2079)></color>?<br>Just give it a good slice!
+msgctxt "5118:51"
+msgid "¿Puedes romper la <$cdef(27)><fqty(1)><$iname(2079)> </color>del barril?<br>¡Venga! ¡De un tajo, con decisión!"
+msgstr "¿Puedes romper la <$cdef(27)><fqty(1)><$iname(2079)> </color>del barril?<br>¡Vamos! ¡De un tajo, con decisión!"
+
+#. en: Make some habitats to bring more Pokémon back!
+msgctxt "5118:52"
+msgid "Prepara varios hogares para que los Pokémon<br>se puedan mudar a ellos."
+msgstr ""
+
+#. en: If ya run into <$cdef(27)><$cname(63)></color>, tell ’em to come see me!
+msgctxt "5118:53"
+msgid "¿Pero por qué está pasando de mí?<br>¡Ve a hablar con <$cdef(27)><$cname(63)></color>, anda!"
+msgstr "¿Pero por qué me está ignorando?<br>¡Ve a hablar con <$cdef(27)><$cname(63)></color>, anda!"
+
+#. en: Put the <$cdef(27)><fqty(1)><$iname(1304)></color> on the <$cdef(27)><fqty(1)><$iname(1639)></color>, please!
+msgctxt "5118:54"
+msgid "¡Coloca la <$cdef(27)><fqty(1)><$iname(1304)></color> sobre el <$cdef(27)><fqty(1)><$iname(1639)></color>!"
+msgstr ""
+
+#. en: That fence is formidable, even for these fists! Think<br>you got what it takes to cut it down to size?
+msgctxt "5118:55"
+msgid "¿De verdad vas a ser capaz de romper esa valla<br>durísima que yo no he podido ni mellar?"
+msgstr "¿De verdad vas a ser capaz de romper esa valla<br>durísima que yo no pude ni mellar?"
+
+#. en: Make some habitats to bring more Pokémon back!
+msgctxt "5118:61"
+msgid "Prepara varios hogares para que los Pokémon<br>se puedan mudar a ellos."
+msgstr ""
+
+#. en: You’ll need <$cdef(27)><fqty(1)><$iname(1090)> </color>to make <$cdef(27)><fqty(1)><$iname(118)></color>.<br><$cdef(27)><$cname;0(104)></color> can process that for ya!
+msgctxt "5118:62"
+msgid "Procesa la <$cdef(27)><fqty(1)><$iname(1090)></color> y conviértela en <$cdef(27)><fqty(1)><$iname(118)></color><br>con la ayuda <esde;0()><$cdef(27)><$cname;0(104)></color>."
+msgstr ""
+
+#. en: You should first make a place that might appeal<br>to <$cdef(27)><$cname(151)></color>!
+msgctxt "5118:65"
+msgid "Empieza por crear un hábitat que sea del agrado<br>de <$cdef(27)><$cname(151)></color>."
+msgstr ""
+
+#. en: I’ll make you some <$cdef(27)><fqty(2)><$iname(119)></color> outta the <$cdef(27)><fqty(2)><$iname(115)><br></color>you brought me!
+msgctxt "5118:73"
+msgid "¡Ahora mismo fabrico unos <$cdef(27)><fqty(2)><$iname(119)> </color>con el<br><$cdef(27)><fqty(1)><$iname(115)></color> que me has traído!"
+msgstr "¡Ahora mismo fabrico unos <$cdef(27)><fqty(2)><$iname(119)> </color>con el<br><$cdef(27)><fqty(1)><$iname(115)></color> que me trajiste!"
+
+#. en: C’mon, let’s go set up a <$cdef(27)><fqty(1)><$iname(1457)></color>! Follow me, kid!
+msgctxt "5118:74"
+msgid "¡Toca instalar la <$cdef(27)><fqty(1)><$iname(1457)></color>! ¡Sígueme!"
+msgstr "¡Hay que instalar la <$cdef(27)><fqty(1)><$iname(1457)></color>! ¡Sígueme!"
+
+#. en: It would be wonderful if you found more Pokémon on<br>that island!
+msgctxt "5118:80"
+msgid "¡Espero que la fortuna te sonría y conozcas a algún<br>Pokémon nuevo en el islote!"
+msgstr ""
+
+#. en: We might be able to get to my town through a gate!
+msgctxt "5118:81"
+msgid "¡Puede que consigamos volver a mi vecindario<br>cruzando el pasaje de acceso!"
+msgstr ""
+
+#. en: I wanna make this town all sparkly and shiny—and<br>meet lots and lots of Pokémon!
+msgctxt "5118:82"
+msgid "¡Hay que dejar el vecindario limpito y perfecto para<br>que vengan muchos Pokémon!"
+msgstr ""
+
+#. en: You made me a <$cdef(27)><$hatname(152)></color>! I really wanna have<br>a <$cdef(27)>Rain Dance</color> party now...
+msgctxt "5118:91"
+msgid "¡Gracias por crear un <$cdef(27)><$hatname(152)></color>!<br>¡Vamos a estrenarlo!"
+msgstr ""

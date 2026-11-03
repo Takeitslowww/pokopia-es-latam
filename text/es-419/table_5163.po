@@ -1,0 +1,61 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 5163 (es-ES slot); English reference: record 5159.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 5163\n"
+"X-Ldtool-English-Record: 5159\n"
+
+#. en: Basic Controls
+msgctxt "5163:1"
+msgid "Controles básicos"
+msgstr ""
+
+#. en: Moves
+msgctxt "5163:2"
+msgid "Movimientos"
+msgstr ""
+
+#. en: Interacting with Other Pokémon
+msgctxt "5163:4"
+msgid "Interacción con los Pokémon"
+msgstr ""
+
+#. en: Specialties
+msgctxt "5163:8"
+msgid "Especialidades"
+msgstr ""
+
+#. en: Comfort Levels
+msgctxt "5163:9"
+msgid "Confort"
+msgstr ""
+
+#. en: Environment
+msgctxt "5163:10"
+msgid "Entorno"
+msgstr ""
+
+#. en: Town Development
+msgctxt "5163:11"
+msgid "Modificar el vecindario"
+msgstr ""
+
+#. en: Using the PC
+msgctxt "5163:12"
+msgid "PC"
+msgstr ""
+
+#. en: Link Play
+msgctxt "5163:13"
+msgid "Juego en conexión"
+msgstr "Juego en línea"

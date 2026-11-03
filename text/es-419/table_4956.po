@@ -1,0 +1,56 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 4956 (es-ES slot); English reference: record 4952.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 4956\n"
+"X-Ldtool-English-Record: 4952\n"
+
+#. en: Plants tall grass directly in front of you (or dry tall<br>grass if the ground is dried up). There are some<br>places where you can’t plant, such as sand or stone.
+msgctxt "4956:1"
+msgid "Hace crecer hierba alta delante de ti. Si la tierra está<br>seca, crecerá seca también. No tiene efecto en<br>terrenos como arena o roca."
+msgstr ""
+
+#. en: Tills the ground so you can plant seeds in it. If you<br>use this on a plant, you’ll pull the plant up. You can’t<br>use this move on dried-up ground.
+msgctxt "4956:2"
+msgid "Ara la tierra y la prepara para plantar semillas.<br>También te permite extraer plantas del suelo.<br>No se puede usar sobre tierra seca."
+msgstr ""
+
+#. en: Blasts a shot of water in front of you, moistening dry<br>or withered things. This move can also put out fires.
+msgctxt "4956:3"
+msgid "Dispara un potente chorro de agua frente a ti.<br>Muy útil para regar o humedecer cosas resecas.<br>También sirve para apagar fuegos."
+msgstr ""
+
+#. en: Breaks things directly in front of you with powerful<br>punches, but can’t break extremely hard things. You<br>can also use this move while jumping.
+msgctxt "4956:4"
+msgid "Poderosos puñetazos que pueden romper lo que<br>tengas delante, incluso mientras estás saltando.<br>No pueden romper cosas extremadamente duras."
+msgstr ""
+
+#. en: Slices things directly in front of you with sharp<br>scythes. This move can cut trees and vines but can’t<br>break large, hard things, like boulders.
+msgctxt "4956:5"
+msgid "Afiladas guadañas que cortan lo que tengas delante.<br>Pueden cortar árboles y lianas, pero no podrán con<br>objetos grandes y duros, como por ejemplo rocas."
+msgstr ""
+
+#. en: Transforms you into whatever’s right in front of you.<br>If you stay still, other Pokémon may mistake you for<br>the real thing.
+msgctxt "4956:6"
+msgid "Te permite transformarte en el objeto que tengas<br>delante. Mientras no te muevas, los Pokémon te<br>confundirán con el objeto real."
+msgstr ""
+
+#. en: Lets you speedily roll along the ground. The longer<br>you roll, the faster you’ll go. You can even break<br>things by dashing into them!
+msgctxt "4956:12"
+msgid "Te permite rodar para ir más rápido. Cuanto más<br>ruedes, más velocidad ganarás. Puedes romper cosas<br>si arremetes contra ellas mientras estás acelerando."
+msgstr ""
+
+#. en: Allows you to levitate using electrically generated<br>magnetism and slowly move forward through the air.<br>You can quickly pick things up or put them down.
+msgctxt "4956:13"
+msgid "Te permite valerte del electromagnetismo para levitar<br>y avanzar lentamente por el aire. Mientras levitas,<br>puedes recoger o colocar objetos fácilmente."
+msgstr ""

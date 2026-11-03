@@ -1,0 +1,616 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 2202 (es-ES slot); English reference: record 2198.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 2202\n"
+"X-Ldtool-English-Record: 2198\n"
+
+#. en: Wasteland Pokémon Center
+msgctxt "2202:2:0"
+msgid "Centro Pokémon de la estepa"
+msgstr ""
+
+#. en: at the Wasteland Pokémon Center
+msgctxt "2202:2:1"
+msgid "en el Centro Pokémon de la estepa"
+msgstr ""
+
+#. en: Beach Pokémon Center
+msgctxt "2202:4:0"
+msgid "Centro Pokémon de la bahía"
+msgstr ""
+
+#. en: at the Beach Pokémon Center
+msgctxt "2202:4:1"
+msgid "en el Centro Pokémon de la bahía"
+msgstr ""
+
+#. en: Ridge Pokémon Center
+msgctxt "2202:6:0"
+msgid "Centro Pokémon de los riscos"
+msgstr ""
+
+#. en: at the Ridge Pokémon Center
+msgctxt "2202:6:1"
+msgid "en el Centro Pokémon de los riscos"
+msgstr ""
+
+#. en: Skyland Pokémon Center
+msgctxt "2202:8:0"
+msgid "Centro Pokémon de las islas"
+msgstr ""
+
+#. en: at the Skyland Pokémon Center
+msgctxt "2202:8:1"
+msgid "en el Centro Pokémon de las islas"
+msgstr ""
+
+#. en: Basin Pokémon Center
+msgctxt "2202:10:0"
+msgid "Centro Pokémon de la cuenca"
+msgstr ""
+
+#. en: at the Basin Pokémon Center
+msgctxt "2202:10:1"
+msgid "en el Centro Pokémon de la cuenca"
+msgstr ""
+
+#. en: leaf den
+msgctxt "2202:12:0"
+msgid "choza de hojas"
+msgstr ""
+
+#. en: at the leaf den
+msgctxt "2202:12:1"
+msgid "en la choza de hojas"
+msgstr ""
+
+#. en: leaf hut
+msgctxt "2202:13:0"
+msgid "casita de hojas"
+msgstr ""
+
+#. en: at the leaf hut
+msgctxt "2202:13:1"
+msgid "en la casita de hojas"
+msgstr ""
+
+#. en: leaf cottage
+msgctxt "2202:14:0"
+msgid "casa de hojas"
+msgstr ""
+
+#. en: at the leaf cottage
+msgctxt "2202:14:1"
+msgid "en la casa de hojas"
+msgstr ""
+
+#. en: leaf house
+msgctxt "2202:15:0"
+msgid "casoplón de hojas"
+msgstr ""
+
+#. en: at the leaf house
+msgctxt "2202:15:1"
+msgid "en el casoplón de hojas"
+msgstr ""
+
+#. en: sand den
+msgctxt "2202:16:0"
+msgid "choza de arena"
+msgstr ""
+
+#. en: at the sand den
+msgctxt "2202:16:1"
+msgid "en la choza de arena"
+msgstr ""
+
+#. en: sand hut
+msgctxt "2202:17:0"
+msgid "casita de arena"
+msgstr ""
+
+#. en: at the sand hut
+msgctxt "2202:17:1"
+msgid "en la casita de arena"
+msgstr ""
+
+#. en: sand cottage
+msgctxt "2202:18:0"
+msgid "casa de arena"
+msgstr ""
+
+#. en: at the sand cottage
+msgctxt "2202:18:1"
+msgid "en la casa de arena"
+msgstr ""
+
+#. en: sand house
+msgctxt "2202:19:0"
+msgid "casoplón de arena"
+msgstr ""
+
+#. en: at the sand house
+msgctxt "2202:19:1"
+msgid "en el casoplón de arena"
+msgstr ""
+
+#. en: stone den
+msgctxt "2202:20:0"
+msgid "choza de piedra"
+msgstr ""
+
+#. en: at the stone den
+msgctxt "2202:20:1"
+msgid "en la choza de piedra"
+msgstr ""
+
+#. en: stone hut
+msgctxt "2202:21:0"
+msgid "casita de piedra"
+msgstr ""
+
+#. en: at the stone hut
+msgctxt "2202:21:1"
+msgid "en la casita de piedra"
+msgstr ""
+
+#. en: stone cottage
+msgctxt "2202:22:0"
+msgid "casa de piedra"
+msgstr ""
+
+#. en: at the stone cottage
+msgctxt "2202:22:1"
+msgid "en la casa de piedra"
+msgstr ""
+
+#. en: stone house
+msgctxt "2202:23:0"
+msgid "casoplón de piedra"
+msgstr ""
+
+#. en: at the stone house
+msgctxt "2202:23:1"
+msgid "en el casoplón de piedra"
+msgstr ""
+
+#. en: city den
+msgctxt "2202:24:0"
+msgid "choza urbana"
+msgstr ""
+
+#. en: at the city den
+msgctxt "2202:24:1"
+msgid "en la choza urbana"
+msgstr ""
+
+#. en: city hut
+msgctxt "2202:25:0"
+msgid "casita urbana"
+msgstr ""
+
+#. en: at the city hut
+msgctxt "2202:25:1"
+msgid "en la casita urbana"
+msgstr ""
+
+#. en: city cottage
+msgctxt "2202:26:0"
+msgid "casa urbana"
+msgstr ""
+
+#. en: at the city cottage
+msgctxt "2202:26:1"
+msgid "en la casa urbana"
+msgstr ""
+
+#. en: city house
+msgctxt "2202:27:0"
+msgid "casoplón urbano"
+msgstr ""
+
+#. en: at the city house
+msgctxt "2202:27:1"
+msgid "en el casoplón urbano"
+msgstr ""
+
+#. en: tent
+msgctxt "2202:29:0"
+msgid "tienda de campaña"
+msgstr ""
+
+#. en: at the tent
+msgctxt "2202:29:1"
+msgid "en la tienda de campaña"
+msgstr ""
+
+#. en: Poké Ball house
+msgctxt "2202:30:0"
+msgid "casita Poké Ball"
+msgstr "casita Pokébola"
+
+#. en: at the Poké Ball house
+msgctxt "2202:30:1"
+msgid "en la casita Poké Ball"
+msgstr "en la casita Pokébola"
+
+#. en: Poké Mart
+msgctxt "2202:31:0"
+msgid "Tienda Pokémon"
+msgstr ""
+
+#. en: at the Poké Mart
+msgctxt "2202:31:1"
+msgid "en la Tienda Pokémon"
+msgstr ""
+
+#. en: charging station
+msgctxt "2202:32:0"
+msgid "terminal de carga"
+msgstr ""
+
+#. en: at the charging station
+msgctxt "2202:32:1"
+msgid "en el terminal de carga"
+msgstr ""
+
+#. en: windmill
+msgctxt "2202:33:0"
+msgid "generador eólico"
+msgstr ""
+
+#. en: at the windmill
+msgctxt "2202:33:1"
+msgid "en el generador eólico"
+msgstr ""
+
+#. en: waterwheel
+msgctxt "2202:34:0"
+msgid "generador hidráulico"
+msgstr ""
+
+#. en: at the waterwheel
+msgctxt "2202:34:1"
+msgid "en el generador hidráulico"
+msgstr ""
+
+#. en: furnace
+msgctxt "2202:35:0"
+msgid "generador térmico"
+msgstr ""
+
+#. en: at the furnace
+msgctxt "2202:35:1"
+msgid "en el generador térmico"
+msgstr ""
+
+#. en: Pikachu fountain
+msgctxt "2202:36:0"
+msgid "fuente de Pikachu"
+msgstr ""
+
+#. en: at the Pikachu fountain
+msgctxt "2202:36:1"
+msgid "en la fuente de Pikachu"
+msgstr ""
+
+#. en: mysterious mural
+msgctxt "2202:37:0"
+msgid "mural misterioso"
+msgstr ""
+
+#. en: at the mysterious mural
+msgctxt "2202:37:1"
+msgid "en el mural misterioso"
+msgstr ""
+
+#. en: skyland building 2F
+msgctxt "2202:39:0"
+msgid "rascacielos isleño P1"
+msgstr ""
+
+#. en: at skyland building 2F
+msgctxt "2202:39:1"
+msgid "en el rascacielos isleño P1"
+msgstr ""
+
+#. en: skyland building 3F
+msgctxt "2202:40:0"
+msgid "rascacielos isleño P2"
+msgstr ""
+
+#. en: at skyland building 3F
+msgctxt "2202:40:1"
+msgid "en el rascacielos isleño P2"
+msgstr ""
+
+#. en: skyland building 4F
+msgctxt "2202:41:0"
+msgid "rascacielos isleño P3"
+msgstr ""
+
+#. en: at skyland building 4F
+msgctxt "2202:41:1"
+msgid "en el rascacielos isleño P3"
+msgstr ""
+
+#. en: Altar of Flame
+msgctxt "2202:48:0"
+msgid "Altar Ascuas"
+msgstr "Altar Brasas"
+
+#. en: at the Altar of Flame
+msgctxt "2202:48:1"
+msgid "en el Altar Ascuas"
+msgstr "en el Altar Brasas"
+
+#. en: Abandoned Power Plant
+msgctxt "2202:49:0"
+msgid "Central de Energía"
+msgstr ""
+
+#. en: at the Abandoned Power Plant
+msgctxt "2202:49:1"
+msgid "en la Central de Energía"
+msgstr ""
+
+#. en: Freezing Chambers
+msgctxt "2202:50:0"
+msgid "Montículos Espuma"
+msgstr ""
+
+#. en: at the Freezing Chambers
+msgctxt "2202:50:1"
+msgid "en los Montículos Espuma"
+msgstr ""
+
+#. en: party curry
+msgctxt "2202:51:0"
+msgid "curri de fiesta"
+msgstr ""
+
+#. en: by the party curry
+msgctxt "2202:51:1"
+msgid "en la marmita de curri de fiesta"
+msgstr ""
+
+#. en: moonlight dance statue
+msgctxt "2202:53:0"
+msgid "estatua baile lunar"
+msgstr ""
+
+#. en: at the moonlight dance statue
+msgctxt "2202:53:1"
+msgid "en la estatua baile lunar"
+msgstr ""
+
+#. en: imperial cottage
+msgctxt "2202:75:0"
+msgid "casa señorial"
+msgstr ""
+
+#. en: at the imperial cottage
+msgctxt "2202:75:1"
+msgid "en la casa señorial"
+msgstr ""
+
+#. en: imperial house
+msgctxt "2202:76:0"
+msgid "casoplón señorial"
+msgstr ""
+
+#. en: at the imperial house
+msgctxt "2202:76:1"
+msgid "en el casoplón señorial"
+msgstr ""
+
+#. en: Sharpedo submarine
+msgctxt "2202:77:0"
+msgid "submarino Sharpedo"
+msgstr ""
+
+#. en: at the Sharpedo submarine
+msgctxt "2202:77:1"
+msgid "en el submarino Sharpedo"
+msgstr ""
+
+#. en: ocean temple
+msgctxt "2202:78:0"
+msgid "templo marino"
+msgstr ""
+
+#. en: at the ocean temple
+msgctxt "2202:78:1"
+msgid "en el templo marino"
+msgstr ""
+
+#. en: Dewgong clock tower
+msgctxt "2202:80:0"
+msgid "torre del reloj Dewgong"
+msgstr ""
+
+#. en: at the Dewgong clock tower
+msgctxt "2202:80:1"
+msgid "en la torre del reloj Dewgong"
+msgstr ""
+
+#. en: relaxing park
+msgctxt "2202:100:0"
+msgid "parque del bienestar"
+msgstr ""
+
+#. en: at the relaxing park
+msgctxt "2202:100:1"
+msgid "en el parque del bienestar"
+msgstr ""
+
+#. en: pink cottage
+msgctxt "2202:101:0"
+msgid "casa rosa"
+msgstr ""
+
+#. en: in the pink cottage
+msgctxt "2202:101:1"
+msgid "en la casa rosa"
+msgstr ""
+
+#. en: stylish café
+msgctxt "2202:102:0"
+msgid "cafetería bohemia"
+msgstr ""
+
+#. en: at the stylish café
+msgctxt "2202:102:1"
+msgid "en la cafetería bohemia"
+msgstr ""
+
+#. en: orange cottage
+msgctxt "2202:103:0"
+msgid "casa ocre"
+msgstr ""
+
+#. en: in the orange cottage
+msgctxt "2202:103:1"
+msgid "en la casa ocre"
+msgstr ""
+
+#. en: concert stage
+msgctxt "2202:104:0"
+msgid "escenario para conciertos"
+msgstr ""
+
+#. en: at the concert stage
+msgctxt "2202:104:1"
+msgid "en el escenario para conciertos"
+msgstr ""
+
+#. en: gray cottage
+msgctxt "2202:105:0"
+msgid "casa gris"
+msgstr ""
+
+#. en: in the gray cottage
+msgctxt "2202:105:1"
+msgid "en la casa gris"
+msgstr ""
+
+#. en: small office
+msgctxt "2202:106:0"
+msgid "oficina pequeña"
+msgstr ""
+
+#. en: in the small office
+msgctxt "2202:106:1"
+msgid "en la oficina pequeña"
+msgstr ""
+
+#. en: yellow cottage
+msgctxt "2202:107:0"
+msgid "casa amarilla"
+msgstr ""
+
+#. en: in the yellow cottage
+msgctxt "2202:107:1"
+msgid "en la casa amarilla"
+msgstr ""
+
+#. en: log cabin
+msgctxt "2202:108:0"
+msgid "cabaña"
+msgstr ""
+
+#. en: in the log cabin
+msgctxt "2202:108:1"
+msgid "en la cabaña"
+msgstr ""
+
+#. en: fountain plaza
+msgctxt "2202:109:0"
+msgid "plaza con fuente"
+msgstr ""
+
+#. en: at the fountain plaza
+msgctxt "2202:109:1"
+msgid "en la plaza con fuente"
+msgstr ""
+
+#. en: orange hut
+msgctxt "2202:110:0"
+msgid "casita ocre"
+msgstr ""
+
+#. en: at the orange hut
+msgctxt "2202:110:1"
+msgid "en la casita ocre"
+msgstr ""
+
+#. en: gray hut
+msgctxt "2202:111:0"
+msgid "casita gris"
+msgstr ""
+
+#. en: at the gray hut
+msgctxt "2202:111:1"
+msgid "en la casita gris"
+msgstr ""
+
+#. en: pink hut
+msgctxt "2202:112:0"
+msgid "casita rosa"
+msgstr ""
+
+#. en: at the pink hut
+msgctxt "2202:112:1"
+msgid "en la casita rosa"
+msgstr ""
+
+#. en: yellow hut
+msgctxt "2202:113:0"
+msgid "casita amarilla"
+msgstr ""
+
+#. en: at the yellow hut
+msgctxt "2202:113:1"
+msgid "en la casita amarilla"
+msgstr ""
+
+#. en: aqua cottage
+msgctxt "2202:114:0"
+msgid "casa celeste"
+msgstr ""
+
+#. en: at the aqua cottage
+msgctxt "2202:114:1"
+msgid "en la casa celeste"
+msgstr ""
+
+#. en: research lab
+msgctxt "2202:115:0"
+msgid "centro de investigación"
+msgstr ""
+
+#. en: at the research lab
+msgctxt "2202:115:1"
+msgid "en el centro de investigación"
+msgstr ""
+
+#. en: supermarket
+msgctxt "2202:116:0"
+msgid "supermercado"
+msgstr ""
+
+#. en: at the supermarket
+msgctxt "2202:116:1"
+msgid "en el supermercado"
+msgstr ""

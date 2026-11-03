@@ -1,0 +1,106 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 3021 (es-ES slot); English reference: record 3017.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 3021\n"
+"X-Ldtool-English-Record: 3017\n"
+
+#. en: <$voicel(2,5)>To fix up the building, we’re gonna need lots of different<br>materials.<clear><br><$voicel(2,7)>You might have some luck finding what we need on the<br>islands in this town, <$voicel(2,10)>so I’d start by exploring those!
+msgctxt "3021:0"
+msgid "<$voicel(2,5)>Pa reconstruir el edificio vamos a necesitar un porrón<br>de cosas.<clear><br><$voicel(2,7)>¡Lo bueno es que en este vecindario hay varias islas que<br>parecen cargaditas hasta arriba de materiales!<clear><br><$voicel(2,10)>Date un voltio por ellas a ver qué se puede aprovechar."
+msgstr "<$voicel(2,5)>Pa reconstruir el edificio vamos a necesitar un montón<br>de cosas.<clear><br><$voicel(2,7)>¡Lo bueno es que en este vecindario hay varias islas que<br>parecen cargaditas hasta arriba de materiales!<clear><br><$voicel(2,10)>Date una vuelta por ellas a ver qué se puede aprovechar."
+
+#. en: <$voicel(2,5)><$emotion(2,9)>If that doesn’t getcha everything you need, then your best<br>bet would be <$voicel(2,8)>headin’ back to other towns and seein’<slide><br>what ya can find there!<$motion(2,652)><clear><br><$voicel(2,9)><$emotion(2,1)>And hey, if you happen to bring some Pokémon willin’ to<br>help with <$cdef(27)>building</color>, I won’t complain!
+msgctxt "3021:1"
+msgid "<$voicel(2,5)><$emotion(2,9)>Si no consigues encontrar algún material, siempre puedes<br>visitar otros vecindarios <$voicel(2,8)>en los que ya hayas estado antes,<slide><br>a ver si tienes más suerte allí.<$motion(2,652)><clear><br><$voicel(2,9)><$emotion(2,1)>Y ya de paso, tráete a unos cuantos Pokémon ayudantes.<br>Cuantas más manos, mejor para <$cdef(27)>construir</color>."
+msgstr "<$voicel(2,5)><$emotion(2,9)>Si no consigues encontrar algún material, siempre puedes<br>visitar otros vecindarios <$voicel(2,8)>en los que ya hayas estado antes,<slide><br>a ver si tienes más suerte allá.<$motion(2,652)><clear><br><$voicel(2,9)><$emotion(2,1)>Y ya de paso, trae a unos cuantos Pokémon ayudantes.<br>Cuantas más manos, mejor para <$cdef(27)>construir</color>."
+
+#. en: <$voicel(2,7)><$emotion(2,23)><$comeff(2,9)>Once we’ve got all the materials we need and a good crew<br>of Pokémon, we’ll be ready to start! <$voicel(2,10)><$comeff(2,10)>Just say the word!
+msgctxt "3021:2"
+msgid "<$voicel(2,7)><$emotion(2,23)><$comeff(2,9)>Cuando tengamos todos los materiales y ayudantes, ¡nos<br>pondremos manos a la obra! <$voicel(2,10)><$comeff(2,10)>Avísame cuando estés list<gen;-2(o,a)>."
+msgstr ""
+
+#. en: <$voicel(1,9)><$emotion(1,22)><$motion(2,656)>Yes! And then this building’s restoration will<br>finally begin!<clear><br><$voicel(1,7)><$motion(1,655)><$comeff(1,9)>But you don’t need an oldster like me getting in your<br>way, so I’ll head back to the<$cdef(27)> Pokémon Center</color>.
+msgctxt "3021:3"
+msgid "<$voicel(1,9)><$emotion(1,22)><$motion(2,656)>¡Veo que la reconstrucción del edificio ya está a punto<br>de comenzar!<clear><br><$voicel(1,7)><$motion(1,655)><$comeff(1,9)>En ese caso me retiro al <$cdef(27)>Centro Pokémon</color>. No querría<br>estorbar, habida cuenta de mi venerable edad."
+msgstr ""
+
+#. en: <$comeff(1,10)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>I look forward to seeing this building completed,<br><$cdef(27)><pname;0></color> and <$cdef(27)>Tinkmaster</color>!
+msgctxt "3021:4"
+msgid "<oneline><$comeff(1,10)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>¡No veo la hora de presenciar la compleción del edificio,<br><$cdef(27)><pname;0></color> y <$cdef(27)>capataza</color>!"
+msgstr ""
+
+#. en: <$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,9)>Will that huge building really regain its former glory? I’m<br>giddy just thinking about it!
+msgctxt "3021:12"
+msgid "<$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,9)>Solo de pensar que ese enorme edificio podría recobrar<br>su esplendor... ¡se me ponen las lianas como escarpias!"
+msgstr "<$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,9)>Solo de pensar que ese enorme edificio podría recobrar<br>su esplendor... ¡se me ponen las lianas de punta!"
+
+#. en: <$comeff(1,3)><$motion(1,661)><$voicel(1,5)>You might need to return to other towns for materials<br>and helpers.
+msgctxt "3021:13"
+msgid "<$comeff(1,3)><$motion(1,661)><$voicel(1,5)>Tal vez debas reunir materiales y ayudantes de otros<br>vecindarios, incluso."
+msgstr ""
+
+#. en: <$emotion(2,14)><$voicel(2,7)>We’re gonna fix up the <$cdef(27)>second floor</color> first! Take a good<br>look at that<$cdef(27)> building kit</color>, then go <$emotion(2,38)><$voicel(2,9)>find us the materials<slide><br>and Pokémon we need!
+msgctxt "3021:20"
+msgid "<$emotion(2,14)><$voicel(2,7)>¡Primero reconstruiremos la <$cdef(27)>primera planta</color>!<clear><br><$emotion(2,38)><$voicel(2,9)>Mira bien en el <$cdef(27)>kit de construcción</color> y tráeme todos<br>los materiales y ayudantes necesarios, ¡hale!"
+msgstr "<$emotion(2,14)><$voicel(2,7)>¡Primero reconstruiremos el <$cdef(27)>primer piso</color>!<clear><br><$emotion(2,38)><$voicel(2,9)>Mira bien en el <$cdef(27)>kit de construcción</color> y tráeme todos<br>los materiales y ayudantes necesarios, ¡vamos!"
+
+#. en: <$emotion(2,1)><$voicel(2,9)>We’ve started <$cdef(27)>building</color> the <$cdef(27)>second floor</color>! Thanks for all the<br>hard work, <$cdef(27)><pname;0></color>!
+msgctxt "3021:28"
+msgid "<$emotion(2,1)><$voicel(2,9)>¡Gracias a ti, la <$cdef(27)>construcción </color>de la <$cdef(27)>primera planta</color> ha<br>podido comenzar sin contratiempos!"
+msgstr "<$emotion(2,1)><$voicel(2,9)>¡Gracias a ti, la <$cdef(27)>construcción </color>del <$cdef(27)>primer piso</color> pudo<br>comenzar sin contratiempos!"
+
+#. en: <$comeff(2,14)><$motion(2,661)><$voicel(2,5)>Now I’m pretty good at <$cdef(27)>building</color> stuff, <$emotion(2,51)><$voicel(2,4)>but a project this<br>size might take a while.
+msgctxt "3021:29"
+msgid "<$comeff(2,14)><$motion(2,661)><$voicel(2,5)>La <$cdef(27)>construcción</color> es lo mío, pero este peazo proyecto es<br>tan grande que da vértigo... <$emotion(2,51)><$voicel(2,4)>Me va a tocar doblar el lomo."
+msgstr "<$comeff(2,14)><$motion(2,661)><$voicel(2,5)>La <$cdef(27)>construcción</color> es lo mío, pero este proyectazo es<br>tan grande que da vértigo... <$emotion(2,51)><$voicel(2,4)>Me va a tocar doblar el lomo."
+
+#. en: <$emotion(2,60)><$voicel(2,9)>So yeah, you can chill out or explore... Do whatever ya<br>feel like doin’ till we’re done!
+msgctxt "3021:30"
+msgid "<$emotion(2,60)><$voicel(2,9)>Tengo pa rato aquí. ¡Mientras tanto, haz lo que quieras!"
+msgstr ""
+
+#. en: <$emotion(2,37)><$voicel(2,8)>Come talk to me once we’re finished!
+msgctxt "3021:39"
+msgid "<$emotion(2,37)><$voicel(2,8)>¡Ven a verme cuando esté listo!"
+msgstr ""
+
+#. en: You can check out the <$cdef(27)>building kit</color> to see how much time is<br>left before construction is finished!
+msgctxt "3021:40"
+msgid "Echa un vistazo al <$cdef(27)>kit de construcción</color> si quieres consultar<br>cuándo terminará la obra."
+msgstr ""
+
+#. en: <$emotion(1,38)><$voicel(1,7)><$kfacial(1)>So you’ve finally begun rebuilding that building!
+msgctxt "3021:46"
+msgid "<$emotion(1,38)><$voicel(1,7)><$kfacial(1)>¡Así que ya ha comenzado la reconstrucción!"
+msgstr "<$emotion(1,38)><$voicel(1,7)><$kfacial(1)>¡Así que ya comenzó la reconstrucción!"
+
+#. en: <$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,9)>We can leave the rest to <$cdef(27)>Tinkmaster </color>and the others, so<br>let’s just wait in anticipation for the big finish!<clear><br><$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,8)>In the meantime, you might want to continue working on<br>the rest of this town.
+msgctxt "3021:47"
+msgid "<$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,9)>¡Ahora solo queda esperar a que la <$cdef(27)>capataza</color> y su equipo<br>se encarguen del resto!<clear><br><$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,8)>Mientras tanto, ¿por qué no retomas tus labores diarias<br>en el vecindario?"
+msgstr ""
+
+#. en: <$emotion(2,38)><$voicel(2,9)>Just gotta wait a bit longer till the <$cdef(27)>second floor</color> is finished!
+msgctxt "3021:53"
+msgid "<$emotion(2,38)><$voicel(2,9)>¡Ya queda menos para terminar la <$cdef(27)>primera planta</color>!"
+msgstr "<$emotion(2,38)><$voicel(2,9)>¡Ya queda menos para terminar el <$cdef(27)>primer piso</color>!"
+
+#. en: <$emotion(2,38)><$voicel(2,9)>For the <$cdef(27)>second floor</color>, I put in a human workspace and a<br>Pokémon playspace!<clear><br><$comeff(2,9)><$facial(2,4)><$motion(2,806)><$voicel(2,7)>See, that way, when the humans come back, they can have<br>fun with us AND work at the same time!
+msgctxt "3021:59"
+msgid "<$emotion(2,38)><$voicel(2,9)>En la <$cdef(27)>primera planta</color> he creado una zona de trabajo pa los<br>humanos y también una zona de juego pa los Pokémon.<clear><br><$comeff(2,9)><$facial(2,4)><$motion(2,806)><$voicel(2,7)>¡Así, si algún día volvemos a verles el pelo por aquí,<br>al menos tendrán un lugar pa trabajar cómodamente!"
+msgstr "<$emotion(2,38)><$voicel(2,9)>En el <$cdef(27)>primer piso</color> creé una zona de trabajo pa los<br>humanos y también una zona de juego pa los Pokémon.<clear><br><$comeff(2,9)><$facial(2,4)><$motion(2,806)><$voicel(2,7)>¡Así, si algún día volvemos a verles el pelo por aquí,<br>al menos tendrán un lugar pa trabajar cómodamente!"
+
+#. en: <$emotion(2,14)><$voicel(2,6)>Next up, we gotta work on the <$cdef(27)>third floor</color>!
+msgctxt "3021:60"
+msgid "<$emotion(2,14)><$voicel(2,6)>¡Ahora habrá que seguir con la <$cdef(27)>segunda planta</color>!"
+msgstr "<$emotion(2,14)><$voicel(2,6)>¡Ahora habrá que seguir con el <$cdef(27)>segundo piso</color>!"

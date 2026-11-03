@@ -1,0 +1,391 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 2382 (es-ES slot); English reference: record 2378.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 2382\n"
+"X-Ldtool-English-Record: 2378\n"
+
+#. en: <$voicel(1,7)><$motion(1,801)><$comeff(1,3)>Oh, <$cdef(27)><pname;0></color>, you’re awake!<clear><br><$voicel(1,6)>Did you sleep well?
+msgctxt "2382:0"
+msgid "<oneline><$voicel(1,7)><$motion(1,801)><$comeff(1,3)>¡Oh, veo que has despertado! ¿Qué tal has dormido,<br><$voicel(1,6)><$cdef(27)><pname;0></color>?"
+msgstr "<oneline><$voicel(1,7)><$motion(1,801)><$comeff(1,3)>¡Oh, veo que despertaste! ¿Qué tal dormiste,<br><$voicel(1,6)><$cdef(27)><pname;0></color>?"
+
+#. en: <$voicel(1,5)><$emotion(1,23)><$comeff(1,10)>Today I plan to start searching for clues about what<br>happened to the humans.<clear><br><$voicel(1,9)>Meeting you has stirred up hope in this old heart!
+msgctxt "2382:1"
+msgid "<$voicel(1,5)><$emotion(1,23)><$comeff(1,10)>He decidido que, a partir de hoy, empezaré a investigar<br>en profundidad acerca del paradero de los seres humanos.<clear><br><$voicel(1,9)>Conocerte me ha proporcionado un rayo de esperanza."
+msgstr "<$voicel(1,5)><$emotion(1,23)><$comeff(1,10)>Decidí que, a partir de hoy, empezaré a investigar<br>en profundidad acerca del paradero de los seres humanos.<clear><br><$voicel(1,9)>Conocerte me proporcionó un rayo de esperanza."
+
+#. en: <$voicel(1,5)><$motion(1,666)>There’s a human-made building over yonder.<clear><br><$voicel(1,3)><$motion(1,661)><$comeff(1,10)>It’s in a pretty sorry state...but that’s where I plan to begin<br>my investigation!
+msgctxt "2382:2"
+msgid "<$voicel(1,5)><$motion(1,666)>¿Te has fijado en el edificio de más allá? Lo construyeron<br>los seres humanos y, aunque esté hecho una ruina...<clear><br><$voicel(1,3)><$motion(1,661)><$comeff(1,10)>Creo que puede ser un buen lugar para empezar mis<br>indagaciones."
+msgstr "<$voicel(1,5)><$motion(1,666)>¿Ves el edificio de más allá? Lo construyeron<br>los seres humanos y, aunque esté hecho una ruina...<clear><br><$voicel(1,3)><$motion(1,661)><$comeff(1,10)>Creo que puede ser un buen lugar para empezar mis<br>indagaciones."
+
+#. en: <$voicel(1,8)><$facial(1,4)>If you don’t mind, I could use your help.<clear><br><$voicel(1,9)><$comeff(1,9)>We might find something useful.
+msgctxt "2382:3"
+msgid "<$voicel(1,8)><$facial(1,4)>Si no te importa, me vendría bien contar con tu ayuda.<clear><br><$voicel(1,9)><$comeff(1,9)>Quién sabe, puede que encontremos algo útil."
+msgstr ""
+
+#. en: <$voicel(1,5)><$comeff(1,14)><$motion(1,666)>I’m very curious about that building.
+msgctxt "2382:4"
+msgid "<$voicel(1,5)><$comeff(1,14)><$motion(1,666)>Ese edificio me intriga mucho."
+msgstr ""
+
+#. en: <$voicel(1,3)><$motion(1,826)><$facial(1,9)><$comeff(1,7)>Oh dear... It looks so badly broken down... <$voicel(1,4)>I don’t even<br>know where to begin.
+msgctxt "2382:5"
+msgid "<$voicel(1,3)><$motion(1,826)><$facial(1,9)><$comeff(1,7)>Vaya... Está en mucho peor estado de lo que imaginaba...<br><$voicel(1,4)>No sé ni por dónde empezar..."
+msgstr ""
+
+#. en: <$voicel(1,7)><$motion(1,803)><$comeff(1,5)>Oho! Here’s something I recognize! It’s called a <$cdef(27)>PC</color>!<clear><br><$voicel(1,5)>I haven’t the foggiest idea how to use it, but it always<br>seemed awfully handy!
+msgctxt "2382:6"
+msgid "<$voicel(1,7)><$motion(1,803)><$comeff(1,5)>¡Oh, esto sí que lo reconozco! Es un cachivache que<br>los seres humanos llamaban <$cdef(27)>PC</color>.<clear><br><$voicel(1,5)>No tengo ni idea de cómo funciona personalmente, pero<br>siempre me pareció que ellos le sacaban mucho provecho."
+msgstr ""
+
+#. en: <$emotion(1,13)><$voicel(1,4)>I wonder how this is used...
+msgctxt "2382:7"
+msgid "<$emotion(1,13)><$voicel(1,4)>¿Cómo se usará?..."
+msgstr ""
+
+#. en: <$voicel(1,6)><$motion(1,646)>Ya-yah!
+msgctxt "2382:8"
+msgid "<$voicel(1,6)><$motion(1,646)>¡Venga, funciona!"
+msgstr "<$voicel(1,6)><$motion(1,646)>¡Vamos, funciona!"
+
+#. en: <$emotion(1,15)>*beep beep beep*
+msgctxt "2382:9"
+msgid "<$emotion(1,15)>¡Pi, pi, piii!"
+msgstr ""
+
+#. en: Rebooting <$cdef(27)>Pokémon Center</color> management system...<clear><br>Please use the <$cdef(27)>PC</color>.
+msgctxt "2382:10"
+msgid "Reiniciando el sistema de gestión de <$cdef(27)>Centros Pokémon</color>...<clear><br>Accede al <$cdef(27)>PC </color>para continuar."
+msgstr ""
+
+#. en: <oneline><$voicel(1,7)><$comeff(1,5)><$motion(1,899)>Wha—? What’s this?! The <$cdef(27)>PC </color>is talking! <$voicel(1,4)><$comeff(1,4)><$motion(1,806)><$facial(1,10)>Did I make<br>it angry?!<clear><br><$voicel(1,5)><$motion(1,661)><$comeff(1,3)><$facial(1,9)>Please, <$cdef(27)><pname;0></color>! Figure out what the<br><$cdef(27)>PC</color> wants!
+msgctxt "2382:11"
+msgid "<oneline><$voicel(1,7)><$comeff(1,5)><$cdef(27)><$motion(1,899)></color>¡¿C-cómo?! ¿El <$cdef(27)>PC </color>ha hablado?<clear><br><$voicel(1,4)><$comeff(1,4)><$motion(1,806)><$facial(1,10)>¡A ver si se ha enfadado conmigo por golpearlo!<clear><br><$voicel(1,5)><$motion(1,661)><$comeff(1,3)><$facial(1,9)>¿Podrías encargarte tú de ver qué quiere,<br><$cdef(27)><pname;0></color>?"
+msgstr "<oneline><$voicel(1,7)><$comeff(1,5)><$cdef(27)><$motion(1,899)></color>¡¿C-cómo?! ¿El <$cdef(27)>PC </color>habló?<clear><br><$voicel(1,4)><$comeff(1,4)><$motion(1,806)><$facial(1,10)>¡A ver si se enojó conmigo por golpearlo!<clear><br><$voicel(1,5)><$motion(1,661)><$comeff(1,3)><$facial(1,9)>¿Podrías encargarte tú de ver qué quiere,<br><$cdef(27)><pname;0></color>?"
+
+#. en: <oneline><$voicel(1,5)><$motion(1,661)><$comeff(1,3)><$facial(1,9)>Please, <$cdef(27)><pname;0></color>! Figure out what the<br><$cdef(27)>PC </color>wants!
+msgctxt "2382:18"
+msgid "<oneline><$voicel(1,5)><$motion(1,661)><$comeff(1,3)><$facial(1,9)><$cdef(27)><pname;0></color>, por favor, encárgate de ver<br>qué te está<slide><br>pidiendo<slide><br>el <$cdef(27)>PC </color>que hagas."
+msgstr ""
+
+#. en: <$facial(1,1)>*beep beep beep*<br>Please use the <$cdef(27)>Pokémon Center</color> <$cdef(27)>PC</color>.
+msgctxt "2382:19"
+msgid "<$facial(1,1)>Pi, pi, piii... Accede al <$cdef(27)>PC </color>del <$cdef(27)>Centro Pokémon</color>."
+msgstr ""
+
+#. en: Scanning surroundings...
+msgctxt "2382:20"
+msgid "Escaneando entorno..."
+msgstr ""
+
+#. en: Scan complete. Displaying results...
+msgctxt "2382:21"
+msgid "Escaneo completado. Mostrando resultados..."
+msgstr ""
+
+#. en: <$motion(1,899)><$facial(1,13)><$cdef(27)>Environment Level: Terrible</color><br>This environment is not suitable for Pokémon to live in.
+msgctxt "2382:22"
+msgid "<$motion(1,899)><$facial(1,13)><$cdef(27)>Calidad del entorno: nefasta.</color><br>No es apto para que los Pokémon vivan aquí."
+msgstr ""
+
+#. en: <$voicel(1,1)><$facial(1,13)><$comeff(1,4)>What?! Oh dear... I DID make it angry, didn’t I?
+msgctxt "2382:23"
+msgid "<$voicel(1,1)><$facial(1,13)><$comeff(1,4)>¿Qué? ¡Aaah! ¡Se ha enfadado conmigo de verdad!"
+msgstr "<$voicel(1,1)><$facial(1,13)><$comeff(1,4)>¿Qué? ¡Aaah! ¡Se enojó conmigo de verdad!"
+
+#. en: <$facial(1,13)>Booting up <$cdef(27)>Poké Life</color>, the environment improvement app...
+msgctxt "2382:24"
+msgid "<$facial(1,13)>Iniciando la aplicación de mejora del entorno, <$cdef(27)>PokéVida</color>..."
+msgstr ""
+
+#. en: The <$cdef(27)>Poké Life </color>app is committed to creating a comfortable<br>environment for Pokémon and humans!
+msgctxt "2382:25"
+msgid "¡<$cdef(27)>PokéVida </color>es una aplicación enfocada a la creación de un<br>entorno ideal para la vida de las personas y los Pokémon!"
+msgstr ""
+
+#. en: By completing <$cdef(27)>challenges </color>provided each day by <$cdef(27)>Poké Life</color>,<br>you can gradually restore the environment to a state<slide><br>where Pokémon can live comfortably!
+msgctxt "2382:26"
+msgid "<$cdef(27)>PokéVida </color>ofrece una serie de <$cdef(27)>retos </color>diarios mediante los<br>cuales se puede ir mejorando el entorno poco a poco<slide><br>con el fin de crear un lugar próspero para los Pokémon."
+msgstr ""
+
+#. en: We’ve prepared a few goals for you...<clear><br>The first <$cdef(27)>challenges </color>should be fairly easy, so please give<br>them a try!
+msgctxt "2382:27"
+msgid "Tienes ya a tu disposición unos cuantos objetivos...<clear><br>Así que no lo dudes y atrévete primero con los <$cdef(27)>retos<br></color>que te parezcan más sencillos."
+msgstr ""
+
+#. en: And of course, those who complete <$cdef(27)>challenges </color>will receive<br>some wonderful gifts!<clear><br>Now go out and live your best <$cdef(27)>Poké Life</color>!
+msgctxt "2382:28"
+msgid "Por supuesto, estos <$cdef(27)>retos </color>no vienen sin su debida<br>recompensa por completarlos.<clear><br>¡Disfruta al máximo de tu <$cdef(27)>PokéVida</color>!"
+msgstr ""
+
+#. en: <$voicel(1,4)>...Has it finally calmed down?
+msgctxt "2382:29"
+msgid "<$voicel(1,4)>Parece que por fin se ha callado."
+msgstr "<$voicel(1,4)>Parece que por fin se calló."
+
+#. en: <$voicel(1,7)><$motion(1,802)>I didn’t understand a whit of what that <$cdef(27)>PC </color>was saying...<clear><br><$voicel(1,6)>But I hope it will be useful to YOU!
+msgctxt "2382:30"
+msgid "<$voicel(1,7)><$motion(1,802)>La verdad es que no he entendido ni papa de lo que<br>ha farfullado el <$cdef(27)>PC </color>ese...<clear><br><$voicel(1,6)>Pero oye, si te sirve de ayuda, bienvenido sea."
+msgstr "<$voicel(1,7)><$motion(1,802)>La verdad es que no entendí ni papa de lo que<br>farfulló el <$cdef(27)>PC </color>ese...<clear><br><$voicel(1,6)>Pero oye, si te sirve de ayuda, bienvenido sea."
+
+#. en: <$voicel(1,7)><$motion(1,801)>This <$cdef(27)>PC </color>really does seem like it could be helpful!<clear><br><$voicel(1,9)>It’s probably a good idea to come check it every now<br>and again.
+msgctxt "2382:31"
+msgid "<$voicel(1,7)><$motion(1,801)>Este <$cdef(27)>PC </color>tiene pinta de ser un cacharro la mar de útil y<br>con muchas funciones.<clear><br><$voicel(1,9)>Puede que no sea mala idea consultarlo de vez en<br>cuando."
+msgstr "<$voicel(1,7)><$motion(1,801)>Este <$cdef(27)>PC </color>tiene pinta de ser un aparato de lo más útil y<br>con muchas funciones.<clear><br><$voicel(1,9)>Puede que no sea mala idea consultarlo de vez en<br>cuando."
+
+#. en: <$voicel(1,7)><$emotion(1,23)>I’ll keep investigating around here for a bit.
+msgctxt "2382:32"
+msgid "<$voicel(1,7)><$emotion(1,23)>Mientras tanto, yo investigaré esta zona un poco más."
+msgstr ""
+
+#. en: *deedle-beep!*
+msgctxt "2382:33"
+msgid "¡Tirorín!"
+msgstr ""
+
+#. en: You’ve successfully completed a <$cdef(27)>challenge</color>!
+msgctxt "2382:34"
+msgid "¡Has completado un <$cdef(27)>reto</color>!"
+msgstr "¡Completaste un <$cdef(27)>reto</color>!"
+
+#. en: You can report your completed <$cdef(27)>challenges </color>at<br><$cdef(27)>Pokémon Center PCs</color>!
+msgctxt "2382:35"
+msgid "Utiliza el <$cdef(27)>PC </color>del <$cdef(27)>Centro Pokémon</color> para informar sobre<br>los <$cdef(27)>retos </color>que hayas completado."
+msgstr ""
+
+#. en: Congratulations on completing a <$cdef(27)>challenge</color>!<br>You got some <$cdef(27)>Life Coins</color>!
+msgctxt "2382:36"
+msgid "¡Informe enviado!<br>Has conseguido unas cuantas <$cdef(27)>monevitas</color>."
+msgstr "¡Informe enviado!<br>Conseguiste unas cuantas <$cdef(27)>monevitas</color>."
+
+#. en: You can spend <$cdef(27)>Life Coins</color> at the <$cdef(27)>shop</color>! Try opening up the<br><$cdef(27)>shop </color>window right now!
+msgctxt "2382:37"
+msgid "Ahora que tienes <$cdef(27)>monevitas</color>, puedes usarlas<$cdef(27)> </color>en la <$cdef(27)>tienda</color>.<br>Echa un vistazo al catálogo de artículos disponibles."
+msgstr ""
+
+#. en: You can exchange <$cdef(27)>Life Coins </color>for various rewards at<br>this shop!<clear><br>Use them to make life more comfortable for you and<br>for Pokémon!<clear><br>Keep on living your best Poké Life!
+msgctxt "2382:38"
+msgid "En esta tienda puedes canjear tus <$cdef(27)>monevitas </color>por distintas<br>recompensas que os ayudarán a ti y a los Pokémon<slide><br>a llevar una vida más cómoda.<clear><br>¡Disfruta al máximo de tu <$cdef(27)>PokéVida</color>!"
+msgstr "En esta tienda puedes canjear tus <$cdef(27)>monevitas </color>por distintas<br>recompensas que los ayudarán a ti y a los Pokémon<slide><br>a llevar una vida más cómoda.<clear><br>¡Disfruta al máximo de tu <$cdef(27)>PokéVida</color>!"
+
+#. en: <$voicel(1,9)><$emotion(1,15)>What’s this?! You can get human items from that <$cdef(27)>PC</color>?!
+msgctxt "2382:39"
+msgid "<$voicel(1,9)><$emotion(1,15)>¡Lianas! ¿Dices que es posible obtener objetos humanos<br>directamente desde el <$cdef(27)>PC</color>?"
+msgstr ""
+
+#. en: <$voicel(1,5)>I see. It looks like you can use the items you receive to<br>help other Pokémon.<clear><br><$voicel(1,7)><$motion(1,824)><$facial(1,4)>And my word—are you ever good at wrangling that <$cdef(27)>PC</color>!<br><$voicel(1,10)>I’m amazed you can use it so well!
+msgctxt "2382:40"
+msgid "<$voicel(1,5)>En tal caso, imagino que habrá cosas que puedan venirnos<br>bien a nosotros o al resto de los Pokémon...<clear><br><$voicel(1,7)><$motion(1,824)><$cdef(27)><$facial(1,4)></color>¡Hay que ver lo bien que te desenvuelves con ese aparato!<br><$voicel(1,10)>¡Me tienes impresionado!"
+msgstr ""
+
+#. en: <$voicel(1,3)><$motion(1,802)><$comeff(1,7)><$textsize(0)>Maybe I’ll give it a whirl myself, but it sure doesn’t look easy...</textsize>
+msgctxt "2382:41"
+msgid "<$voicel(1,3)><$motion(1,802)><$comeff(1,7)><$cdef(9)>(¿Y si lo intentase yo también? Uf, pero parece muy<br>complicado...).</color>"
+msgstr ""
+
+#. en: <$voicel(1,5)><$emotion(1,1)>It was quite the surprise to learn you could get items<br>from a <$cdef(27)>PC</color>.
+msgctxt "2382:42"
+msgid "<$voicel(1,5)><$emotion(1,1)>Un <$cdef(27)>PC </color>expendedor de objetos... ¡No había visto nunca<br>tal cosa!"
+msgstr ""
+
+#. en: <$facial(1,4)><$voicel(1,7)><$comeff(1,10)>I’m sure those human items will come in handy!
+msgctxt "2382:43"
+msgid "<$facial(1,4)><$voicel(1,7)><$comeff(1,10)>¡Seguro que los objetos humanos nos vienen de perlas!"
+msgstr ""
+
+#. en: Complete <$cdef(27)>challenges </color>to earn <$cdef(27)>Life Coins</color>, which you can<br>exchange for various items!
+msgctxt "2382:44"
+msgid "Puedes canjear las <$cdef(27)>monevitas </color>que acumules al completar<br><$cdef(27)>retos </color>por objetos de todo tipo."
+msgstr ""
+
+#. en: Congratulations! You’ve completed all of the<br>first <$cdef(27)>challenges</color>!
+msgctxt "2382:45"
+msgid "¡Tatatachán! ¡Has completado todos los <$cdef(27)>retos</color> iniciales!"
+msgstr "¡Tatatachán! ¡Completaste todos los <$cdef(27)>retos</color> iniciales!"
+
+#. en: And since you’re such a go-getter, here’s a special request!
+msgctxt "2382:46"
+msgid "Dada tu intrepidez, aquí tienes un desafío especial."
+msgstr ""
+
+#. en: Please raise the <$cdef(27)>comfort level</color> for one Pokémon living here!
+msgctxt "2382:47"
+msgid "Mejora el <$cdef(27)>nivel de confort </color>de uno de los Pokémon que<br>vivan por aquí."
+msgstr ""
+
+#. en: You can improve a Pokémon’s <$cdef(27)>comfort level</color> by adjusting<br>the environment so they feel happy and comfortable.
+msgctxt "2382:48"
+msgid "El <$cdef(27)>nivel de confort</color> se mejora modificando el entorno para<br>que los Pokémon se sientan más felices y más cómodos."
+msgstr ""
+
+#. en: Different Pokémon prefer different environments, so try<br>out a variety of things to help!
+msgctxt "2382:49"
+msgid "El entorno ideal de cada Pokémon varía en función de<br>sus preferencias, así que prueba diferentes estrategias."
+msgstr ""
+
+#. en: If you successfully improve one Pokémon’s <$cdef(27)>comfort level</color>,<br>you’ll unlock new <$cdef(27)>challenges</color>!
+msgctxt "2382:50"
+msgid "Si consigues mejorar el <$cdef(27)>nivel de confort</color> de un Pokémon<br>lo suficiente, desbloquearás nuevos <$cdef(27)>retos</color>."
+msgstr ""
+
+#. en: So with that, please do your best to complete the<br><$cdef(27)>comfort level challenge</color>!
+msgctxt "2382:51"
+msgid "¡Ánimo con el <$cdef(27)>reto de nivel de confort</color>!"
+msgstr ""
+
+#. en: <oneline><$voicel(1,5)><$emotion(1,14)>Oho, <$cdef(27)><pname;0></color>, I see you’re using<br>the <$cdef(27)>PC</color>!<clear><br><$voicel(1,8)><$facial(1,4)><$motion(1,664)>I knew I could leave that to you!
+msgctxt "2382:52"
+msgid "<$voicel(1,5)><$emotion(1,14)>Vaya, ¿ya estás usando de nuevo el <$cdef(27)>PC</color>? <$voicel(1,8)><$facial(1,4)><$motion(1,664)>¡Qué diligente!"
+msgstr ""
+
+#. en: <$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,6)>Is it safe to assume you agree that this area still isn’t<br>exactly a pleasant place to live?<clear><br><$comeff(1,10)><$motion(1,806)><$voicel(1,9)>If you could use that human-like dexterity of yours to<br>help improve the other Pokémon’s <$cdef(27)>comfort levels</color>, <$voicel(1,7)>I’d be<slide><br>very grateful!
+msgctxt "2382:53"
+msgid "<$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,6)>Podríamos decir que esta zona aún no llega a ser del todo<br>agradable para vivir, ¿no crees?<clear><br><$comeff(1,10)><$motion(1,806)><$voicel(1,9)>Quizá fuera buena idea que emplearas esa destreza tuya<br>imitando a los humanos para mejorar el <$cdef(27)>nivel de confort</color><slide><br>de los demás Pokémon. <$voicel(1,7)>¡Me supondría una gran alegría!"
+msgstr "<$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,6)>Podríamos decir que esta zona aún no llega a ser del todo<br>agradable para vivir, ¿no crees?<clear><br><$comeff(1,10)><$motion(1,806)><$voicel(1,9)>Quizás fuera buena idea que emplearas esa destreza tuya<br>imitando a los humanos para mejorar el <$cdef(27)>nivel de confort</color><slide><br>de los demás Pokémon. <$voicel(1,7)>¡Me supondría una gran alegría!"
+
+#. en: <$comeff(1,3)><$motion(1,661)><$voicel(1,5)>Come to think of it, <$cdef(27)>Bulbasaur </color>seems to have a<br>problem of some sort.<clear><br><$comeff(1,6)><$motion(1,664)><$voicel(1,7)>So why don’t you start by talking to <$cdef(27)>Bulbasaur</color>?
+msgctxt "2382:54"
+msgid "<$comeff(1,3)><$motion(1,661)><$voicel(1,5)>Y ya que mencionamos el nivel de confort, la pobre<br><$cdef(27)>Bulbasaur </color>parecía estar pasando por cierto aprieto...<clear><br><$comeff(1,6)><$motion(1,664)><$cdef(27)><$voicel(1,7)></color>¿Qué tal si empiezas preguntándole qué le sucede?"
+msgstr ""
+
+#. en: <$comeff(1,14)><$motion(1,827)><$voicel(1,8)>I’d like to help raise the Pokémon’s <$cdef(27)>comfort levels</color>.
+msgctxt "2382:55"
+msgid "<$comeff(1,14)><$motion(1,827)><$voicel(1,8)>Te agradecería que mejoraras el <$cdef(27)>nivel de confort</color> de todos<br>los Pokémon."
+msgstr ""
+
+#. en: <$motion(1,654)><$comeff(1,3)><$motion(1,801)><$voicel(1,7)>Why don’t you start by asking <$cdef(27)>Bulbasaur </color>what they want?
+msgctxt "2382:56"
+msgid "<$motion(1,654)><$comeff(1,3)><$motion(1,801)><$voicel(1,7)>¿Por qué no comienzas <$cdef(27)>preguntándole a Bulbasaur qué es<br>lo que querría</color>?"
+msgstr ""
+
+#. en: *deedle-beep!*
+msgctxt "2382:57"
+msgid "¡Tirorín!"
+msgstr ""
+
+#. en: Congratulations! You raised <$cdef(27)>Bulbasaur</color>’s <$cdef(27)>comfort level</color>!<clear><br>There are new <$cdef(27)>challenges </color>available at the nearest<br><$cdef(27)>Pokémon Center</color> <$cdef(27)>PC</color>!
+msgctxt "2382:58"
+msgid "¡Has mejorado el <$cdef(27)>nivel de confort </color>de <$cdef(27)>Bulbasaur</color>!<br>¡Buen trabajo!<clear><br>Echa un vistazo a los nuevos <$cdef(27)>retos </color>disponibles en el <$cdef(27)>PC</color><br>del <$cdef(27)>Centro Pokémon</color>."
+msgstr "¡Mejoraste el <$cdef(27)>nivel de confort </color>de <$cdef(27)>Bulbasaur</color>!<br>¡Buen trabajo!<clear><br>Echa un vistazo a los nuevos <$cdef(27)>retos </color>disponibles en el <$cdef(27)>PC</color><br>del <$cdef(27)>Centro Pokémon</color>."
+
+#. en: Thank you! The <$cdef(27)>environment level</color> has risen!<clear><br>You can raise the <$cdef(27)>environment level</color> further by increasing<br>the number of Pokémon who live here and improving<slide><br>their <$cdef(27)>comfort levels</color>!<clear><br>As the <$cdef(27)>environment level</color> rises, new <$cdef(27)>challenges </color>will be<br>unlocked, and you will also see a broader selection of<slide><br>items available at the <$cdef(27)>shop</color>!<clear><br>Please keep up the good work, and keep on living your<br>best <$cdef(27)>Poké Life</color>!
+msgctxt "2382:59"
+msgid "¡Has conseguido que mejore la <$cdef(27)>calidad del entorno</color>!<br>Muchas gracias por tu labor.<clear><br>Para mejorarla aún más, puedes aumentar la población<br>de Pokémon o seguir aumentando sus <$cdef(27)>niveles de confort</color>.<clear><br>Una mayor <$cdef(27)>calidad del entorno </color>te permitirá desbloquear<br>nuevos <$cdef(27)>retos</color>, así como aumentar la selección de artículos<slide><br>disponibles en la <$cdef(27)>tienda</color>.<clear><br>Sigue haciéndolo tan bien<$cdef(27)> </color>como hasta ahora ¡y disfruta<br>al máximo de tu <$cdef(27)>PokéVida</color>!"
+msgstr "¡Conseguiste que mejore la <$cdef(27)>calidad del entorno</color>!<br>Muchas gracias por tu labor.<clear><br>Para mejorarla aún más, puedes aumentar la población<br>de Pokémon o seguir aumentando sus <$cdef(27)>niveles de confort</color>.<clear><br>Una mayor <$cdef(27)>calidad del entorno </color>te permitirá desbloquear<br>nuevos <$cdef(27)>retos</color>, así como aumentar la selección de artículos<slide><br>disponibles en la <$cdef(27)>tienda</color>.<clear><br>Sigue haciéndolo tan bien<$cdef(27)> </color>como hasta ahora ¡y disfruta<br>al máximo de tu <$cdef(27)>PokéVida</color>!"
+
+#. en: <$voicel(1,6)><$comeff(1,5)>Oh, <$cdef(27)><pname;0></color>, you’re awake!<clear><br><$voicel(1,8)><$emotion(1,1)>Nice to see you up. It’s a splendid morning!
+msgctxt "2382:66"
+msgid "<oneline><$voicel(1,6)><$comeff(1,5)>¡Oh, veo que has despertado, <$cdef(27)><pname;0></color>!<br>¡Buenos días!<slide><br><$voicel(1,8)><$emotion(1,1)>¡Mira qué buena mañana hace!"
+msgstr "<oneline><$voicel(1,6)><$comeff(1,5)>¡Oh, veo que despertaste, <$cdef(27)><pname;0></color>!<br>¡Buenos días!<slide><br><$voicel(1,8)><$emotion(1,1)>¡Mira qué buena mañana hace!"
+
+#. en: <$voicel(1,8)><$comeff(1,5)>Oh, <$cdef(27)><pname;0></color>, you’re awake!<clear><br><$voicel(1,5)><$emotion(1,1)>You certainly slept a good long while. It’s already getting<br>dark again.
+msgctxt "2382:68"
+msgid "<$voicel(1,8)><$comeff(1,5)>¡Oh, veo que has despertado! <$voicel(1,5)><$emotion(1,1)>Diría que has dormido a<br>pierna suelta, ¿verdad? Ya mismo oscurecerá de nuevo."
+msgstr "<$voicel(1,8)><$comeff(1,5)>¡Oh, veo que despertaste! <$voicel(1,5)><$emotion(1,1)>Diría que dormiste a<br>pierna suelta, ¿verdad? Pronto oscurecerá de nuevo."
+
+#. en: <$voicel(1,6)><$comeff(1,5)>Oh, <$cdef(27)><pname;0></color>, you’re awake!<clear><br><$voicel(1,7)><$emotion(1,1)>Did you know you slept for an entire day? Hohoho!
+msgctxt "2382:69"
+msgid "<$voicel(1,6)><$comeff(1,5)>¡Oh, veo que te has despertado! <$voicel(1,7)><$emotion(1,1)>¿Te das cuenta de que<br>te has pasado un día entero durmiendo? ¡Jo, jo, jo!"
+msgstr "<$voicel(1,6)><$comeff(1,5)>¡Oh, veo que te despertaste! <$voicel(1,7)><$emotion(1,1)>¿Te das cuenta de que<br>te pasaste un día entero durmiendo? ¡Jo, jo, jo!"
+
+#. en: <$voicel(1,5)><$comeff(1,6)><$motion(1,824)>Is there anything else you’d like to ask me about?<$motion(1,652)>
+msgctxt "2382:70"
+msgid "<$voicel(1,5)><$comeff(1,6)><$motion(1,824)>¿Tienes alguna otra pregunta para mí?<$motion(1,652)>"
+msgstr ""
+
+#. en: Try to complete some of the available <$cdef(27)>challenges</color>!<clear><br>You can check <$cdef(27)>challenge </color>requirements and your progress<br>any time at the <$cdef(27)>PC</color>.
+msgctxt "2382:75"
+msgid "¿Por qué no intentas afrontar alguno de los <$cdef(27)>retos</color><br>disponibles?<clear><br>Puedes consultar en qué consisten y tu progreso en<br>cualquier momento desde el <$cdef(27)>PC</color>."
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,14)>Oh, you’ve already revived some tall grass? Let’s wait a bit<br>and see what happens.
+msgctxt "2382:76"
+msgid "<$voicel(1,7)><$emotion(1,14)>¡Lianas! ¿Ya has hecho crecer más hierba alta?<br>Pues nada, ya solo queda esperar."
+msgstr "<$voicel(1,7)><$emotion(1,14)>¡Lianas! ¿Ya hiciste crecer más hierba alta?<br>Pues nada, ya solo queda esperar."
+
+#. en: <$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,6)>Ah, you’ve restored a <$cdef(27)><$hatname(3)></color> habitat!<clear><br><$facial(1,1)><$voicel(1,7)>Now that that’s here, I’ve got a feeling some Pokémon<br>might show back up. <$comeff(1,14)><$facial(1,1)><$motion(1,666)><$voicel(1,5)>Let’s wait for a bit and see.
+msgctxt "2382:77"
+msgid "<$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,6)>¡Has conseguido crear un <$cdef(27)><$hatname(3)></color>!<clear><br><$facial(1,1)><$voicel(1,7)>Tengo la sospecha de que herbazales como ese atraerán<br>a otros Pokémon. <$comeff(1,14)><$facial(1,1)><$motion(1,666)><$voicel(1,5)>Ahora solo queda esperar su llegada..."
+msgstr "<$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,6)>¡Conseguiste crear un <$cdef(27)><$hatname(3)></color>!<clear><br><$facial(1,1)><$voicel(1,7)>Tengo la sospecha de que herbazales como ese atraerán<br>a otros Pokémon. <$comeff(1,14)><$facial(1,1)><$motion(1,666)><$voicel(1,5)>Ahora solo queda esperar su llegada..."
+
+#. en: Seems like <$cdef(27)>Charmander </color>is ready to follow you! Now head<br>on over to the <$cdef(27)><fqty(1)><$ifull(1280)></color>!
+msgctxt "2382:82"
+msgid "¡<$cdef(27)>Charmander</color> ha empezado a seguirte!<br>Condúcelo hasta la <$cdef(27)><fqty(1)><$ifull(1280)></color>."
+msgstr "¡<$cdef(27)>Charmander</color> empezó a seguirte!<br>Condúcelo hasta la <$cdef(27)><fqty(1)><$ifull(1280)></color>."
+
+#. en: If you wait for a moment in front of the <$cdef(27)><fqty(1)><$ifull(1280)></color>,<br><$cdef(27)>Charmander </color>will light it for you.
+msgctxt "2382:83"
+msgid "Ponte delante de la <$cdef(27)><fqty(1)><$ifull(1280)></color> y dale un momento<br>a <$cdef(27)>Charmander</color> para que la encienda."
+msgstr ""
+
+#. en: <$voicel(4,8)><$emotion(4,49)>Take me to that <$cdef(27)><fqty(1)><$ifull(1280)></color>!
+msgctxt "2382:89"
+msgid "<$voicel(4,8)><$emotion(4,49)>¡Llévame hasta la <$cdef(27)><fqty(1)><$ifull(1280)></color>, venga!"
+msgstr "<$voicel(4,8)><$emotion(4,49)>¡Llévame hasta la <$cdef(27)><fqty(1)><$ifull(1280)></color>, anda!"
+
+#. en: Head over to the <$cdef(27)><fqty(1)><$ifull(1280)> </color>while <$cdef(27)>Charmander </color>is<br>following you.
+msgctxt "2382:90"
+msgid "Ve con <$cdef(27)>Charmander</color> hasta la <$cdef(27)><fqty(1)><$ifull(1280)></color>."
+msgstr ""
+
+#. en: If you wait for a moment by the <$cdef(27)><fqty(1)><$ifull(1280)></color>,<br><$cdef(27)>Charmander </color>will light it for you.<clear><br>Turn your body to face the <$cdef(27)><fqty(1)><$ifull(1280)></color> so <$cdef(27)>Charmander<br></color>can find it, then wait.
+msgctxt "2382:91"
+msgid "Ponte delante de la <$cdef(27)><fqty(1)><$ifull(1280)></color> y dale un momento<br>a <$cdef(27)>Charmander</color> para que la encienda.<clear><br>Para que la encuentre con más facilidad, no olvides<br>colocarte mirando hacia ella."
+msgstr ""
+
+#. en: <$comeff(1,10)><$motion(1,801)><$voicel(1,7)>Hohoho, it looks like your <$cdef(27)>comfort level</color> work went well!
+msgctxt "2382:97"
+msgid "<$comeff(1,10)><$motion(1,801)><$voicel(1,7)>Parece que tu trabajo para mejorar el <$cdef(27)>nivel de confort<br></color>ha ido como la seda. ¡Jo, jo, jo!"
+msgstr "<$comeff(1,10)><$motion(1,801)><$voicel(1,7)>Parece que tu trabajo para mejorar el <$cdef(27)>nivel de confort<br></color>salió de maravilla. ¡Jo, jo, jo!"
+
+#. en: <$voicel(1,5)><$comeff(1,3)><$motion(1,824)>As I suspected, when you want to raise a Pokémon’s<br><$cdef(27)>comfort level</color>, it’s best to talk to them and <$voicel(1,8)><$comeff(1,10)><$facial(1,4)>grant<slide><br>their requests!<$motion(1,652)>
+msgctxt "2382:98"
+msgid "<$voicel(1,5)><$comeff(1,3)><$motion(1,824)>Preguntar a los Pokémon qué querían e intentar ayudarlos<br><$voicel(1,8)><$comeff(1,10)><$facial(1,4)>ha sido la clave para mejorar su <$cdef(27)>nivel de confort</color>.<$motion(1,652)>"
+msgstr "<$voicel(1,5)><$comeff(1,3)><$motion(1,824)>Preguntar a los Pokémon qué querían e intentar ayudarlos<br><$voicel(1,8)><$comeff(1,10)><$facial(1,4)>fue la clave para mejorar su <$cdef(27)>nivel de confort</color>.<$motion(1,652)>"
+
+#. en: More items will become available at the <$cdef(27)>shop </color>as the<br><$cdef(27)>environment level</color> increases!<clear><br>Use these items to further improve <$cdef(27)>comfort levels </color>and<br>create new habitats for Pokémon!
+msgctxt "2382:99"
+msgid "A medida que aumente la <$cdef(27)>calidad del entorno</color>,<br>se irán añadiendo artículos nuevos a la <$cdef(27)>tienda</color>.<clear><br>¡Seguro que te sirven para crear hábitats nuevos y para<br>mejorar el <$cdef(27)>nivel de confort </color>de los Pokémon incluso más!"
+msgstr ""
+
+#. en: Go ahead and check out the <$cdef(27)>Challenges</color> menu!
+msgctxt "2382:102"
+msgid "Prueba ahora a consultar la pantalla de <$cdef(27)>retos</color>."
+msgstr "Ahora intenta consultar la pantalla de <$cdef(27)>retos</color>."
+
+#. en: <$comeff(1,14)><$motion(1,666)><$voicel(1,5)>What did the <$cdef(27)>PC </color>say? I hope it was something useful...
+msgctxt "2382:103"
+msgid "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>¿Qué ha dicho el <$cdef(27)>PC</color>? Espero que se trate de algo útil..."
+msgstr "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>¿Qué dijo el <$cdef(27)>PC</color>? Espero que se trate de algo útil..."
+
+#. en: <$comcan(1)>You can take on <$cdef(27)>challenges </color>to improve the environment<br>through the <$cdef(27)>PC </color>at the <$cdef(27)>Pokémon Center</color>.<clear><br>The <$cdef(27)>Life Coins</color> you receive from completing <$cdef(27)>challenges<br></color>can be spent at the <$cdef(27)>shop </color>to purchase various items, so<slide><br>don’t shy away from a good <$cdef(27)>challenge</color>!
+msgctxt "2382:104"
+msgid "<$comcan(1)>En el <$cdef(27)>PC</color> del <$cdef(27)>Centro Pokémon</color> puedes consultar los <$cdef(27)>retos</color><br>disponibles para mejorar el entorno.<clear><br>Al completarlos recibirás <$cdef(27)>monevitas</color>, que podrás canjear<br>en la <$cdef(27)>tienda</color> por todo tipo de artículos.<clear><br>¡Intenta completar todos los que puedas!"
+msgstr ""
+
+#. en: You’ve created another Pokémon habitat! New Pokémon<br>will appear in new habitats!<clear><br>But it may take some time, so feel free to do other things<br>while you wait!
+msgctxt "2382:105"
+msgid "¡Has creado otro hábitat! Nuevos hábitats atraerán<br>a nuevos Pokémon a la zona.<clear><br>Puede que tarden un rato en aparecer, así que aprovecha<br>para hacer otras tareas mientras esperas."
+msgstr "¡Creaste otro hábitat! Nuevos hábitats atraerán<br>a nuevos Pokémon a la zona.<clear><br>Puede que tarden un rato en aparecer, así que aprovecha<br>para hacer otras tareas mientras esperas."
+
+#. en: <$cdef(27)>Rare </color>Pokémon in particular may take a while to show up,<br>so just let things take their course. There’s no rush!
+msgctxt "2382:106"
+msgid "Los Pokémon más <$cdef(27)>raros</color> tardarán aún más en aparecer<br>que otros. No te preocupes y espera con paciencia."
+msgstr ""
+
+#. en: The professor gave you good advice—try talking to<br><$cdef(27)>Bulbasaur </color>so you can improve their <$cdef(27)>comfort level</color>!<slide><br>After that, check out the PC!
+msgctxt "2382:109"
+msgid "Sigue el consejo del profesor y pregúntale a <$cdef(27)>Bulbasaur</color><br>qué necesita para mejorar su <$cdef(27)>nivel de confort</color>.<clear><br>Cuando hayas hecho lo que te pida, consulta el PC."
+msgstr ""

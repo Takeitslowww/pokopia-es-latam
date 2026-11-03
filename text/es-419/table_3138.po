@@ -1,0 +1,141 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 3138 (es-ES slot); English reference: record 3134.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 3138\n"
+"X-Ldtool-English-Record: 3134\n"
+
+#. en: <$voicel(2,7)><$motion(2,803)><$comeff(2,6)>Ayo, <$cdef(27)><pname;0></color>, do ya listen to music?!<clear><br><$voicel(2,5)><$motion(2,805)><$comeff(2,14)>Party songs, fancy songs, sad songs—you name it—<$voicel(2,8)><$emotion(2,6)>I love<br>’em all!
+msgctxt "3138:0"
+msgid "<$voicel(2,7)><$motion(2,803)>¡<$cdef(27)><pname;0></color>, tí<gen;-2(o,a)>! <$comeff(2,6)>¿A ti te va la música?<clear><br><$voicel(2,5)><$motion(2,805)><$comeff(2,14)>Chundachunda, pop, baladas... <wait(0.4)><$voicel(2,8)><$emotion(2,6)>¡Yo no hago ascos a nada!"
+msgstr "<$voicel(2,7)><$motion(2,803)>¡<$cdef(27)><pname;0></color>, amig<gen;-2(o,a)>! <$comeff(2,6)>¿A ti te gusta la música?<clear><br><$voicel(2,5)><$motion(2,805)><$comeff(2,14)>Electrónica, pop, baladas... <wait(0.4)><$voicel(2,8)><$emotion(2,6)>¡Yo no hago ascos a nada!"
+
+#. en: <$voicel(2,6)><$motion(2,661)><$comeff(2,3)>And I had this really rad idea...
+msgctxt "3138:1"
+msgid "<$voicel(2,6)><$motion(2,661)><$comeff(2,3)>El caso es que se me ha ocurrido una cosa..."
+msgstr "<$voicel(2,6)><$motion(2,661)><$comeff(2,3)>El caso es que se me ocurrió una cosa..."
+
+#. en: <$voicel(2,7)><$motion(2,666)><$comeff(2,10)>I thought maybe if I had a whole buncha different <$cdef(27)>CDs</color> to<br>play, <$voicel(2,6)><$comeff(2,20)><$motion(2,803)><$facial(2,4)>I could get everyone else to share my love of music!
+msgctxt "3138:2"
+msgid "<$cdef(27)><$voicel(2,7)></color><$motion(2,666)><$comeff(2,10)>Si voy poniendo un montón de temazos de todo tipo,<br><$voicel(2,6)><$comeff(2,20)><$motion(2,803)><$facial(2,4)>cada vez habrá más fans de la música por aquí."
+msgstr ""
+
+#. en: <$voicel(2,7)><$motion(2,805)><$comeff(2,6)>So! Would you do me a solid and find me a lotta<br>different <$cdef(27)>CDs</color>?
+msgctxt "3138:3"
+msgid "<$voicel(2,7)><$motion(2,805)>¡Y ahí entras tú, <gen;-2(rey,reina)>! <$comeff(2,6)>¿Me podrías traer todos los <$cdef(27)>CD</color><br>que te encuentres por ahí?"
+msgstr ""
+
+#. en: <$voicel(2,9)><$emotion(2,8)>Heck yeah! I knew you’d catch my vibe! ♪
+msgctxt "3138:4"
+msgid "<$voicel(2,9)><$emotion(2,8)>Oleee, ¡eres lo más! Sabía que podía contar contigo para<br>animar el cotarro."
+msgstr "<$voicel(2,9)><$emotion(2,8)>Bieeen, ¡eres lo más! Sabía que podía contar contigo para<br>animar la fiesta."
+
+#. en: <$voicel(2,8)><$motion(2,806)><$facial(2,4)><$comeff(2,10)>I’m countin’ on you!
+msgctxt "3138:5"
+msgid "<$voicel(2,8)><$motion(2,806)><$facial(2,4)><$comeff(2,10)>¡Buena suerte con la búsqueda!"
+msgstr ""
+
+#. en: <$voicel(2,8)><$motion(2,806)><$comeff(2,10)>Yo! Hope you can find me a buncha different <$cdef(27)>CDs</color>!
+msgctxt "3138:11"
+msgid "<$voicel(2,8)><$motion(2,806)><$comeff(2,10)>¡Qué hype tengo de ver qué <$cdef(27)>CD</color> te encuentras por ahí!"
+msgstr ""
+
+#. en: <$voicel(2,8)><$emotion(2,8)>Yoooooo! Thanks muchly, <$cdef(27)><pname;0></color>!
+msgctxt "3138:17"
+msgid "<$voicel(2,8)><$emotion(2,8)>¡Mis dieces, <$cdef(27)><pname;0></color>!"
+msgstr "<$voicel(2,8)><$emotion(2,8)>¡Mil gracias, <$cdef(27)><pname;0></color>!"
+
+#. en: <$voicel(2,7)><$motion(2,803)><$facial(2,4)><$comeff(2,21)>This should totally be enough! There’re so many different<br>tracks... <$voicel(2,10)><$motion(2,664)><$facial(2,4)><$comeff(2,10)>I’m already mad stoked! ♪
+msgctxt "3138:18"
+msgid "<$voicel(2,7)><$motion(2,803)><$facial(2,4)><$comeff(2,21)>¡Con esto tengo pa rato! Son la tira de canciones.<br><wait(0.4)><$voicel(2,10)><$motion(2,664)><$facial(2,4)><$comeff(2,10)>♪¡Menudo subidón, se viene musicote!♪"
+msgstr "<$voicel(2,7)><$motion(2,803)><$facial(2,4)><$comeff(2,21)>¡Con esto tengo pa rato! Son un montón de canciones.<br><wait(0.4)><$voicel(2,10)><$motion(2,664)><$facial(2,4)><$comeff(2,10)>♪¡Qué emoción, se viene musicote!♪"
+
+#. en: <$voicel(2,9)><$emotion(2,39)>Yooo! All these <$cdef(27)>CDs</color> you brought are super cool! <$voicel(2,6)><$comeff(2,14)><$facial(2,1)><$motion(2,666)>It’s so<br>hard to decide which one to play.
+msgctxt "3138:24"
+msgid "<$voicel(2,9)><$emotion(2,39)>¡Me has traído material del bueno, eeeh! <$voicel(2,6)><$comeff(2,14)><$facial(2,1)><$motion(2,666)>No sé por qué<br><$cdef(27)>CD</color> empezar."
+msgstr "<$voicel(2,9)><$emotion(2,39)>¡Me trajiste material del bueno, eeeh! <$voicel(2,6)><$comeff(2,14)><$facial(2,1)><$motion(2,666)>No sé por qué<br><$cdef(27)>CD</color> empezar."
+
+#. en: <oneline><$voicel(2,7)><$emotion(2,14)>Oh! Hey, <$cdef(27)><pname;0></color>! Maybe you can help<br>me<slide><br>come<slide><br>up<slide><br>with<slide><br><$voicel(2,6)><$motion(2,805)><$comeff(2,6)>the<slide><br>BEST<slide><br>PLAYLIST EVER?!
+msgctxt "3138:25"
+msgid "<$voicel(2,7)><$emotion(2,14)>¡Ya sé! ¿Por qué no me ayudas tú a crear la playlist más<br>viral de la historia? <$voicel(2,6)><$motion(2,805)>Veeenga, tí<gen;-2(o,a)>, <$comeff(2,6)>¿cuento contigo?"
+msgstr "<$voicel(2,7)><$emotion(2,14)>¡Ya sé! ¿Por qué no me ayudas tú a crear la playlist más<br>viral de la historia? <$voicel(2,6)><$motion(2,805)>Vamooos, amig<gen;-2(o,a)>, <$comeff(2,6)>¿cuento contigo?"
+
+#. en: <$voicel(2,10)><$motion(2,806)><$facial(2,4)><$comeff(2,21)>Seriously?! Heck yeah!<clear><br><$voicel(2,7)><$motion(2,661)><$comeff(2,10)>OK, here’s how we’ll do it, yo. You pick <$cdef(27)>five CDs</color> you like<br>and set ’em up in my CD player.
+msgctxt "3138:26"
+msgid "<$voicel(2,10)><$motion(2,806)><$facial(2,4)><$comeff(2,21)>¡Vamos a petarlo, ya verás!<clear><br><$voicel(2,7)><$motion(2,661)><$comeff(2,10)>Vale, pues elige <$cdef(27)>5 CD</color> y ponlos en el lector."
+msgstr "<$voicel(2,10)><$motion(2,806)><$facial(2,4)><$comeff(2,21)>¡La vamos a romper, ya verás!<clear><br><$voicel(2,7)><$motion(2,661)><$comeff(2,10)>Bueno, pues elige <$cdef(27)>5 CD</color> y ponlos en el lector."
+
+#. en: <oneline><$voicel(2,9)><$motion(2,806)><$facial(2,4)><$comeff(2,21)>It’s a list of <$cdef(27)>five </color>tracks of your choice that you wanna play<br>all in a row! <$voicel(2,8)><$motion(2,661)><$comeff(2,10)>You can set it up however you like,<slide><br><$cdef(27)><pname;0></color>!
+msgctxt "3138:27"
+msgid "<$voicel(2,9)><$motion(2,806)><$facial(2,4)><$comeff(2,21)>¡Claro! Solo tienes que elegir <$cdef(27)>5 CD</color> que te gusten y crear<br>tu propia lista de reproducción.<clear><br><$voicel(2,8)><$motion(2,661)><$comeff(2,10)>¡Dale rienda suelta a tu imaginación!"
+msgstr ""
+
+#. en: <$voicel(2,10)><$emotion(2,8)>I’m excited to see what you cook up, yo! ♪
+msgctxt "3138:28"
+msgid "<$voicel(2,10)><$emotion(2,8)>♪¡Verás como la gente no va a parar de bailar!♪"
+msgstr ""
+
+#. en: <$voicel(2,7)><$motion(2,803)><$comeff(2,10)>Pick <$cdef(27)>five</color> <$cdef(27)>CDs</color> to set up in my CD player, yo!
+msgctxt "3138:36"
+msgid "<$cdef(27)><$voicel(2,7)></color><$motion(2,803)><$comeff(2,10)>Elige los <$cdef(27)>5 CD</color> que más te llamen y ponlos en el lector."
+msgstr ""
+
+#. en: <oneline><$voicel(2,9)><$motion(2,801)><$facial(2,4)><$comeff(2,10)>Yooo, <$cdef(27)><pname;0></color>! Your playlist. Is.<br>AWESOME!
+msgctxt "3138:42"
+msgid "<oneline><$voicel(2,9)><$motion(2,801)><$facial(2,4)><$comeff(2,10)>¡<$cdef(27)><pname;0></color>! ¡Tu playlist es icónica no,<br>lo siguiente!"
+msgstr "<oneline><$voicel(2,9)><$motion(2,801)><$facial(2,4)><$comeff(2,10)>¡<$cdef(27)><pname;0></color>! ¡Tu playlist es súper<br>icónica!"
+
+#. en: <$voicel(2,8)><$motion(2,807)><$facial(2,4)><$comeff(2,21)>This track selection is next level!
+msgctxt "3138:43"
+msgid "<$voicel(2,8)><$motion(2,807)><$facial(2,4)><$comeff(2,21)>¡Qué fantasía de selección!"
+msgstr "<$voicel(2,8)><$motion(2,807)><$facial(2,4)><$comeff(2,21)>¡Qué selección tan increíble!"
+
+#. en: <$voicel(2,7)><$motion(2,806)><$comeff(2,9)>Nobody’ll be able to resist the music’s call when we<br>put this on!
+msgctxt "3138:44"
+msgid "<$voicel(2,7)><$motion(2,806)><$comeff(2,9)>Si pongo esto, la gente se va a acercar sin dudarlo<br>a escuchar."
+msgstr ""
+
+#. en: <$voicel(2,5)><$motion(2,666)><$comeff(2,14)>Y’know, I’ve actually been goin’ around tryin’ to get<br>everybody interested in music for a while now.
+msgctxt "3138:45"
+msgid "<$voicel(2,5)><$motion(2,666)><$comeff(2,14)>Llevo tiempo ya intentando inculcar a la peña el amor<br>por la música."
+msgstr "<$voicel(2,5)><$motion(2,666)><$comeff(2,14)>Llevo tiempo ya intentando inculcar a la gente el amor<br>por la música."
+
+#. en: <$voicel(2,3)><$motion(2,802)><$facial(2,9)><$comeff(2,7)>But nobody really got what I was on about...
+msgctxt "3138:46"
+msgid "<$voicel(2,3)><$motion(2,802)><$facial(2,9)><$comeff(2,7)>Y hasta ahora el resultado ha sido... un fail como una<br>casa."
+msgstr "<$voicel(2,3)><$motion(2,802)><$facial(2,9)><$comeff(2,7)>Y hasta ahora el resultado ha sido... un fail<br>total."
+
+#. en: <$voicel(2,5)><$motion(2,661)><$comeff(2,3)>Seein’ this playlist made me realize somethin’.<clear><br><$voicel(2,7)><$motion(2,803)><$comeff(2,10)>I can’t just be playin’ random songs, yo!<clear><br><$voicel(2,9)><$motion(2,664)><$facial(2,4)><$comeff(2,21)>I gotta think hard about the tracks I play and who I’m<br>playin’ ’em for to really appeal to each individual!
+msgctxt "3138:47"
+msgid "<$voicel(2,5)><$motion(2,661)><$comeff(2,3)>Pero, al ver esta playlist, me he dado cuenta de algo...<br><$voicel(2,7)><$motion(2,803)><$comeff(2,10)>¡no basta con escoger canciones aleatorias!<clear><br><$voicel(2,9)><$motion(2,664)><$facial(2,4)><$comeff(2,21)>A partir de ahora me curraré más qué temas poner<br>y en qué orden, ¡para ganarme a más y más gente!"
+msgstr "<$voicel(2,5)><$motion(2,661)><$comeff(2,3)>Pero, al ver esta playlist, me di cuenta de algo...<br><$voicel(2,7)><$motion(2,803)><$comeff(2,10)>¡no basta con escoger canciones aleatorias!<clear><br><$voicel(2,9)><$motion(2,664)><$facial(2,4)><$comeff(2,21)>A partir de ahora pensaré mejor qué temas poner<br>y en qué orden, ¡para ganarme a más y más gente!"
+
+#. en: <$voicel(2,8)><$emotion(2,8)>Thanks for helpin’ me realize that, yo!
+msgctxt "3138:48"
+msgid "<$voicel(2,8)><$emotion(2,8)>Te debo una bien grande."
+msgstr ""
+
+#. en: <$voicel(2,9)><$motion(2,806)><$facial(2,4)><$comeff(2,10)>If you ever find any tracks you wanna show off, just hit<br>me up!
+msgctxt "3138:49"
+msgid "<$cdef(27)><$voicel(2,9)></color><$motion(2,806)><$facial(2,4)><$comeff(2,10)>¡Si tienes algún otro temón que compartir, ya sabes!"
+msgstr ""
+
+#. en: <$voicel(2,5)><$motion(2,661)>Your track choices are somethin’ I’d gladly play <$voicel(2,8)><$motion(2,803)><$facial(2,4)><$comeff(2,21)>anywhere,<br>anytime!
+msgctxt "3138:50"
+msgid "<$cdef(27)><$voicel(2,5)></color><$motion(2,661)>Los temazos que escoges siempre son la leche, tí<gen;-2(o,a)>.<br><$voicel(2,8)><$motion(2,803)><$facial(2,4)><$comeff(2,21)>¡Y yo encantad<gen;-3(o,a)> de ponerlos! ¡Que no pare la fiesta!"
+msgstr "<$cdef(27)><$voicel(2,5)></color><$motion(2,661)>Los temazos que escoges siempre son geniales, amig<gen;-2(o,a)>.<br><$voicel(2,8)><$motion(2,803)><$facial(2,4)><$comeff(2,21)>¡Y yo encantad<gen;-3(o,a)> de ponerlos! ¡Que no pare la fiesta!"
+
+#. en: <$voicel(2,9)><$emotion(2,8)>You can count on me to be your own personal DJ from<br>now on, yo!
+msgctxt "3138:51"
+msgid "<$cdef(27)><$voicel(2,9)></color><$emotion(2,8)>¡Aquí estaré para ser tu DJ personal y montar unas<br>sesiones que arrasen!"
+msgstr ""

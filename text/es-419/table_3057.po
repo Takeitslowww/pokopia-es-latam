@@ -1,0 +1,96 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 3057 (es-ES slot); English reference: record 3053.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 3057\n"
+"X-Ldtool-English-Record: 3053\n"
+
+#. en: <$comeff(4,3)><$motion(4,803)><$voicel(4,8)>Heya, <$cdef(27)><pname;0></color>. You got a sec?
+msgctxt "3057:0"
+msgid "<$comeff(4,3)><$motion(4,803)><$voicel(4,8)>¡Buenas, <$cdef(27)><pname;0></color>! ¿Tienes un momento?"
+msgstr ""
+
+#. en: <$comeff(4,6)><$motion(4,805)><$voicel(4,5)>It’s about the <$cdef(27)>first floor</color> of this building and its...entrance?<br>Whaddya call it, a foyer?<clear><br><$comeff(4,14)><$motion(4,802)><$voicel(4,3)>Anyway, I was wonderin’ if we could jazz it up in here a<br>little. Right now it’s kinda meh.
+msgctxt "3057:1"
+msgid "<$comeff(4,6)><$motion(4,805)><$voicel(4,5)>¿Me explicas por qué llaman a esto <$cdef(27)>planta baja</color>?<br>¿Es porque esas plantas de ahí son más bajas que altas?<clear><br><$comeff(4,14)><$motion(4,802)><$voicel(4,3)>En fin, el caso es que ahora mismo se ve un poco triste.<br>¿No puedes darle más vida a este edificio, <gen;-2(bro,sis)>?"
+msgstr ""
+
+#. en: <$comeff(4,3)><$motion(4,806)><$voicel(4,7)>What about that machine? Y’know, the <$cdef(27)>PC</color> at the <$cdef(27)>Pokémon<br>Center</color>. You can <$comeff(4,6)><$motion(4,803)><$voicel(4,8)>get all kinds of items from it, right?
+msgctxt "3057:2"
+msgid "<$comeff(4,3)><$motion(4,806)><$voicel(4,7)>Tú eres muy de esas cosas, ¿no? Te las apañas de lujo<br>con el cacharro ese del <$cdef(27)>Centro Pokémon</color>. <$comeff(4,6)>El <$cdef(27)>PC</color>, ¿era?<clear><br><$motion(4,803)><$voicel(4,8)>Te he visto yo usarlo para conseguir todo tipo de muebles."
+msgstr "<$comeff(4,3)><$motion(4,806)><$voicel(4,7)>Tú eres muy de esas cosas, ¿no? Te manejas genial<br>con el aparato ese del <$cdef(27)>Centro Pokémon</color>. <$comeff(4,6)>El <$cdef(27)>PC</color>, ¿era?<clear><br><$motion(4,803)><$voicel(4,8)>Yo te vi usarlo para conseguir todo tipo de muebles."
+
+#. en: <$comeff(4,10)><$motion(4,805)><$voicel(4,7)>Think you could nab <$cdef(27)>two</color> <$cdef(27)><fqty(2)><$ifull(1654)></color> and plonk ’em<br>down on the <$cdef(27)>first floor</color> of this building?
+msgctxt "3057:3"
+msgid "<$comeff(4,10)><$motion(4,805)><$voicel(4,7)>¿Qué tal si pillas <$cdef(27)>2</color> <$cdef(27)><fqty(2)><$ifull(1654)> </color>y los colocas en la<br><$cdef(27)>planta baja </color>del edificio para que quede más decente?"
+msgstr "<$comeff(4,10)><$motion(4,805)><$voicel(4,7)>¿Qué tal si consigues <$cdef(27)>2</color> <$cdef(27)><fqty(2)><$ifull(1654)> </color>y los colocas en la<br><$cdef(27)>planta baja </color>del edificio para que quede más decente?"
+
+#. en: <$comeff(4,9)><$motion(4,801)><$voicel(4,9)>I got a feelin’ that’ll make this space look real nice!
+msgctxt "3057:4"
+msgid "<$comeff(4,9)><$motion(4,801)><$voicel(4,9)>Igual es cosa mía, pero estoy segur<gen;-3(o,a)> de que esos sofás<br>encajarían bien con la decoración. ¡Tú hazme caso!"
+msgstr ""
+
+#. en: <$comeff(4,6)><$motion(4,803)><$voicel(4,8)>You can get all kinds of items from the <$cdef(27)>PC</color> at the <$cdef(27)>Pokémon</color><br><$cdef(27)>Center</color>, right, <$cdef(27)><pname;0></color>?
+msgctxt "3057:11"
+msgid "<$comeff(4,6)><$motion(4,803)><$voicel(4,8)>Sabes usar el <$cdef(27)>PC</color> ese del <$cdef(27)>Centro Pokémon</color> para conseguir<br>todo tipo de muebles, ¿no, <$cdef(27)><pname;0></color>?"
+msgstr ""
+
+#. en: <$comeff(4,10)><$motion(4,805)><$voicel(4,7)>Think you could nab <$cdef(27)>two</color> <$cdef(27)><fqty(2)><$ifull(1654)></color> and plonk ’em<br>down on the <$cdef(27)>first floor</color> of the building?
+msgctxt "3057:12"
+msgid "<$comeff(4,10)><$motion(4,805)><$voicel(4,7)>¿Qué tal si pillas <$cdef(27)>2</color> <$cdef(27)><fqty(2)><$ifull(1654)> </color>y los colocas en la<br><$cdef(27)>planta baja </color>del edificio para que quede más decente?"
+msgstr "<$comeff(4,10)><$motion(4,805)><$voicel(4,7)>¿Qué tal si consigues <$cdef(27)>2</color> <$cdef(27)><fqty(2)><$ifull(1654)> </color>y los colocas en la<br><$cdef(27)>planta baja </color>del edificio para que quede más decente?"
+
+#. en: <$comeff(4,9)><$motion(4,801)><$voicel(4,9)>Dang, those <$cdef(27)><fqty(2)><$ifull(1654)></color> look great! Thanks a bunch,<br><$cdef(27)><pname;0></color>!
+msgctxt "3057:18"
+msgid "<oneline><$comeff(4,9)><$motion(4,801)><$voicel(4,9)>¡Ey, <$cdef(27)><pname;0></color>!<br>¡Gracias por los <$cdef(27)><fqty(2)><$ifull(1654)></color>, <gen;-2(bro,sis)>!"
+msgstr ""
+
+#. en: <$comeff(4,9)><$motion(4,806)><$voicel(4,7)>Now that’s how you make an entrance...for a building! Ha!<wait(0.8)><br>Or at least I think so!
+msgctxt "3057:19"
+msgid "<$comeff(4,9)><$motion(4,806)><$voicel(4,7)>Buah, ahora la entrada del edificio queda más resultona...<br>¡o eso me parece a mí!"
+msgstr "<$comeff(4,9)><$motion(4,806)><$voicel(4,7)>Guau, ahora la entrada del edificio queda más vistosa...<br>¡o eso me parece a mí!"
+
+#. en: <$comeff(4,3)><$motion(4,803)><$voicel(4,7)>May I ask you for a favor, <$cdef(27)><pname;0></color>?
+msgctxt "3057:25"
+msgid "<$comeff(4,3)><$motion(4,803)><$voicel(4,7)><$cdef(27)><pname;0></color>, ¿tendrías un momento?"
+msgstr ""
+
+#. en: <$comeff(4,6)><$motion(4,666)><$voicel(4,5)>Doesn’t the <$cdef(27)>second floor</color> of this building seem like it<br>could be a fun place?<clear><br><$comeff(4,9)><$motion(4,668)><$voicel(4,9)>I was thinking it might be a good spot to put out some<br>playthings for other Pokémon to enjoy.
+msgctxt "3057:26"
+msgid "<$motion(4,666)><$voicel(4,5)>La <$cdef(27)>primera planta</color> de este edificio tiene un ambiente<br>de lo más alegre... <$comeff(4,6)>¿No estás de acuerdo, ricura?<clear><br><$comeff(4,9)><$motion(4,668)><$voicel(4,9)>Sería divino que lo amueblaras con algún artículo que<br>permita a los Pokémon venir a jugar."
+msgstr ""
+
+#. en: <$comeff(4,10)><$motion(4,661)><$voicel(4,5)>You can obtain all kinds of items from the <$cdef(27)>PC</color> at the<br><$cdef(27)>Pokémon Center</color>, isn’t that right?
+msgctxt "3057:27"
+msgid "<$comeff(4,10)><$motion(4,661)><$voicel(4,5)>Sabes utilizar el <$cdef(27)>PC</color> del <$cdef(27)>Centro Pokémon</color> para obtener<br>muebles y otros artículos, ¿verdad que sí?"
+msgstr ""
+
+#. en: <$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>If you come across a <$cdef(27)><fqty(1)><$ifull(2055)></color>, I would appreciate it if you<br>could place it on the <$cdef(27)>second floor</color>.
+msgctxt "3057:28"
+msgid "<$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>Si por casualidad pudieras conseguir un <$cdef(27)><fqty(1)><$ifull(2055)></color>,<br>te agradecería que lo colocaras en la <$cdef(27)>primera planta</color>."
+msgstr ""
+
+#. en: <$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>I would appreciate it if you could place a <$cdef(27)><fqty(1)><$ifull(2055)></color> on<br>the <$cdef(27)>second floor</color> of the building.
+msgctxt "3057:35"
+msgid "<$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>Me haría muy feliz que colocaras un <$cdef(27)><fqty(1)><$ifull(2055)><br></color>en la <$cdef(27)>primera planta</color> del edificio."
+msgstr ""
+
+#. en: <$comeff(4,6)><$motion(4,666)><$voicel(4,8)>Do you think you could get one from the <$cdef(27)>PC</color> at the<br><$cdef(27)>Pokémon Center</color>?
+msgctxt "3057:36"
+msgid "<$comeff(4,6)><$motion(4,666)><$voicel(4,8)>¿Podrías conseguirlo a través del <$cdef(27)>PC</color> del <$cdef(27)>Centro Pokémon</color>?"
+msgstr ""
+
+#. en: <oneline><$comeff(4,3)><$motion(4,668)><$voicel(4,10)>I noticed you put a <$cdef(27)><fqty(1)><$ifull(2055)></color> on the <$cdef(27)>second floor</color>!<clear><br><$comeff(4,9)><$motion(4,801)><$voicel(4,9)>Thank you for doing that, <$cdef(27)><pname;0></color>. I’m<br>sure<slide><br>everyone<slide><br>will<slide><br>have<slide><br>such<slide><br>fun<slide><br>playing<slide><br>on it! ♪
+msgctxt "3057:42"
+msgid "<$comeff(4,3)><$motion(4,668)><$voicel(4,10)>¡Chiqui, he visto que has colocado el <$cdef(27)><fqty(1)><$ifull(2055)> </color>en la<br><$cdef(27)>primera planta</color>!<clear><br><$comeff(4,9)><$motion(4,801)><$voicel(4,9)>Todos los demás Pokémon se van a poner contentísimos.<br>¡Mil gracias, <$cdef(27)><pname;0></color>!"
+msgstr "<$comeff(4,3)><$motion(4,668)><$voicel(4,10)>¡Cariño, vi que colocaste el <$cdef(27)><fqty(1)><$ifull(2055)> </color>en la<br><$cdef(27)>primera planta</color>!<clear><br><$comeff(4,9)><$motion(4,801)><$voicel(4,9)>Todos los demás Pokémon se van a poner contentísimos.<br>¡Mil gracias, <$cdef(27)><pname;0></color>!"

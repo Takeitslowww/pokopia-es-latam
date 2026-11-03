@@ -1,0 +1,121 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 2706 (es-ES slot); English reference: record 2702.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 2706\n"
+"X-Ldtool-English-Record: 2702\n"
+
+#. en: <$voicel(1,5)><$comeff(1,14)><$motion(1,666)>You’d like to power up more <$cdef(27)>streetlights </color>to brighten up the<br>place, eh?
+msgctxt "2706:34"
+msgid "<$voicel(1,5)><$comeff(1,14)><$motion(1,666)>¿Has suministrado electricidad a las <$cdef(27)>farolas </color>para aumentar<br>la iluminación?"
+msgstr "<$voicel(1,5)><$comeff(1,14)><$motion(1,666)>¿Ya suministraste electricidad a las <$cdef(27)>farolas </color>para aumentar<br>la iluminación?"
+
+#. en: <$voicel(1,7)><$emotion(1,49)>If you bring a Pokémon who can <$cdef(27)><$spwfull(9)></color> electricity to<br>a <$cdef(27)><fqty(1)><$ifull(1703)></color>, I’m sure <$voicel(1,6)>they could help you!
+msgctxt "2706:35"
+msgid "<$voicel(1,7)><$emotion(1,49)>Si llevas a un Pokémon con la especialidad <$cdef(27)><$spwfull(9)><br></color>hasta una <$cdef(27)><fqty(1)><$ifull(1703)></color>, <$voicel(1,6)>¡seguro que te auxilia!"
+msgstr ""
+
+#. en: <$voicel(1,4)><$comeff(1,6)><$motion(1,666)>So, you’re hoping to build a habitat with some fire in it?
+msgctxt "2706:42"
+msgid "<$voicel(1,4)><$comeff(1,6)><$motion(1,666)>¿Quieres preparar un hábitat que contenga fuego?"
+msgstr ""
+
+#. en: <$voicel(1,5)><$comeff(1,10)><$motion(1,661)><$facial(1,4)><$kfacial(1)>In that case, you should probably prepare things like<br><$cdef(27)><fqty(2)><$ifull(1278)></color> or <$cdef(27)><fqty(2)><$ifull(1280)></color>.
+msgctxt "2706:43"
+msgid "<$voicel(1,5)><$comeff(1,10)><$motion(1,661)><$facial(1,4)><$kfacial(1)>En ese caso debes tener a tu disposición <$cdef(27)><fqty(2)><$ifull(1280)> </color>o<br><$cdef(27)><fqty(2)><$ifull(1278)></color>, por ejemplo."
+msgstr ""
+
+#. en: <$voicel(1,7)><$comeff(1,9)><$motion(1,664)>Once you’ve done that, bring a Pokémon who can<br>use flames to come and light the fire!
+msgctxt "2706:44"
+msgid "<$voicel(1,7)><$comeff(1,9)><$motion(1,664)>Por último, lleva a un Pokémon que domine el fuego<br>hasta ellas para que te las encienda."
+msgstr ""
+
+#. en: <$voicel(1,9)><$comeff(1,3)><$motion(1,803)><$facial(1,4)><$kfacial(1)>We need to make this whole town brighter to<br>awaken <$cdef(27)>Snorlax</color>!
+msgctxt "2706:51"
+msgid "<$voicel(1,9)><$comeff(1,3)><$motion(1,803)><$facial(1,4)><$kfacial(1)>Para despertar a <$cdef(27)>Snorlax</color> es imperativo iluminar todavía<br>más el vecindario."
+msgstr ""
+
+#. en: <$voicel(1,5)><$emotion(1,49)>And I think the best way to accomplish that would be to<br>place various light sources all around town.
+msgctxt "2706:52"
+msgid "<$voicel(1,5)><$emotion(1,49)>Para ello hay que colocar diversas fuentes de luz por toda<br>la zona."
+msgstr ""
+
+#. en: <$voicel(1,5)><$comeff(1,14)><$motion(1,660)><$facial(1,9)>But putting too many lights in one place would just be a<br>waste. <$voicel(1,5)><$motion(1,806)><$facial(1,4)><$comcan(1)>Be sure to space them out to spread the light!
+msgctxt "2706:53"
+msgid "<$voicel(1,5)><$comeff(1,14)><$motion(1,660)><$facial(1,9)>Pero ten en cuenta que colocarlas demasiado próximas<br>entre sí sería un desperdicio.<clear><br><$voicel(1,5)><$motion(1,806)><$facial(1,4)><$comcan(1)>Calcula bien la distancia de separación idónea antes<br>de confirmar su ubicación."
+msgstr ""
+
+#. en: <$voicel(1,5)><$comeff(1,9)><$motion(1,668)><$facial(1,2)>When you feel like the town’s gotten a bit brighter, come<br>check on <$cdef(27)>Snorlax</color>.
+msgctxt "2706:54"
+msgid "<$voicel(1,5)><$comeff(1,9)><$motion(1,668)><$facial(1,2)>En cuanto haya un cierto grado de iluminación, acércate<br>a ver cómo se encuentra <$cdef(27)>Snorlax</color>."
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,14)>I’d like you to make a <$cdef(27)><fqty(1)><$ifull(1622)></color>. It would help cheer<br>up <$cdef(27)>Peakychu</color> too.
+msgctxt "2706:69"
+msgid "<$voicel(1,7)><$emotion(1,14)>Me gustaría que fabricases una <$cdef(27)><fqty(1)><$ifull(1622)></color>, así<br>aligeramos la preocupación de la pobre <$cdef(27)>Palidachu</color>."
+msgstr "<$voicel(1,7)><$emotion(1,14)>Me gustaría que fabricaras una <$cdef(27)><fqty(1)><$ifull(1622)></color>, así<br>aligeramos la preocupación de la pobre <$cdef(27)>Palidachu</color>."
+
+#. en: <$voicel(1,5)><$comeff(1,9)><$facial(1,4)>It’d be best to put it near <$cdef(27)>Snorlax</color>,<$cdef(27)> </color>if you’re able.<clear><br><$voicel(1,7)><$emotion(1,49)>And don’t forget to bring a Pokémon who can <$cdef(27)><$spwfull(9)></color><br>electricity to help you turn it on.
+msgctxt "2706:70"
+msgid "<$voicel(1,5)><$comeff(1,9)><$facial(1,4)>Luego, si es posible, colócala al lado de <$cdef(27)>Snorlax</color>.<clear><br><$voicel(1,7)><$emotion(1,49)>Y no olvides pedirle a un Pokémon especialista en<br><$cdef(27)><$spwfull(9)> </color>que te la encienda."
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,14)>Try placing some <$cdef(27)><fqty(2)><$ifull(1396)></color> to connect the power<br>from the <$cdef(27)><$bfull(33)></color>.
+msgctxt "2706:78"
+msgid "<$voicel(1,7)><$emotion(1,14)>Prueba a colocar un <$cdef(27)><fqty(1)><$ifull(1396)> </color>para suministrar<br>la electricidad procedente del <$cdef(27)><$bfull(33)></color>."
+msgstr "<$voicel(1,7)><$emotion(1,14)>Intenta colocar un <$cdef(27)><fqty(1)><$ifull(1396)> </color>para suministrar<br>la electricidad procedente del <$cdef(27)><$bfull(33)></color>."
+
+#. en: <$voicel(1,5)><$comeff(1,14)><$motion(1,666)>Bear in mind that <$voicel(1,8)><$emotion(1,38)><$cdef(27)><fqty(2)><$ifull(1396)></color> won’t connect if you<br>place them too far apart!
+msgctxt "2706:79"
+msgid "<$voicel(1,5)><$comeff(1,14)><$motion(1,666)>Si se aleja en exceso, el <$cdef(27)><fqty(1)><$ifull(1396)></color> no recibirá<br>la alimentación necesaria. <$voicel(1,8)><$emotion(1,38)>¡Presta suma atención a esto!"
+msgstr ""
+
+#. en: <$voicel(1,5)><$emotion(1,14)>Try placing a <$cdef(27)>streetlight </color>next to a <$cdef(27)><fqty(1)><$ifull(1396)></color> that’s<br>already hooked up to electricity.
+msgctxt "2706:85"
+msgid "<$voicel(1,5)><$emotion(1,14)>Coloca la <$cdef(27)>farola </color>al lado de un <$cdef(27)><fqty(1)><$ifull(1396)> </color>por el<br>que esté circulando la corriente."
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,38)>If you manage to turn on the <$cdef(27)>streetlight</color>, you can do the<br>same thing again and again <$voicel(1,10)><$comeff(1,9)><$motion(1,664)>to brighten up the whole town!
+msgctxt "2706:86"
+msgid "<$voicel(1,7)><$emotion(1,38)>Si consigues encender todas las <$cdef(27)>farolas</color> que puedas,<br><$voicel(1,10)><$comeff(1,9)><$motion(1,664)>¡lograrás iluminar sin problemas todo el vecindario!"
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,49)>You can power lots of lights at once using a <$cdef(27)>generator<br></color>and <$cdef(27)><fqty(2)><$ifull(1396)></color>.
+msgctxt "2706:92"
+msgid "<$voicel(1,7)><$emotion(1,49)>Uniendo un <$cdef(27)>generador </color>y un <$cdef(27)><fqty(1)><$ifull(1396)></color>, ¡podrás<br>suministrar electricidad a varias fuentes de luz a la vez!"
+msgstr ""
+
+#. en: <$voicel(1,5)><$emotion(1,14)>However, you’ll need a good deal of <$cdef(27)><fqty(1)><$ifull(107)></color> and other<br>materials to make them.
+msgctxt "2706:93"
+msgid "<$voicel(1,5)><$emotion(1,14)>Ahora bien, la preparación requerirá cantidades ingentes<br>de materiales tales como el <$cdef(27)><fqty(1)><$ifull(107)></color>."
+msgstr ""
+
+#. en: <$voicel(1,9)><$comeff(1,9)><$motion(1,668)><$facial(1,4)><$kfacial(1)>Why not get help from the other Pokémon to procure<br>the materials?
+msgctxt "2706:94"
+msgid "<$voicel(1,9)><$comeff(1,9)><$motion(1,668)><$facial(1,4)><$kfacial(1)>¡Colaborar con otros Pokémon te facilitará su obtención!"
+msgstr ""
+
+#. en: <$voicel(1,7)><$comeff(1,6)><$motion(1,660)><$facial(1,2)>Could you connect this device to a great deal of<br>electricity? <$voicel(1,10)><$emotion(1,14)><$facial(1,4)><$cdef(27)>Peakychu </color>appears to have a plan!
+msgctxt "2706:101"
+msgid "<$voicel(1,7)><$comeff(1,6)><$motion(1,660)><$facial(1,2)>¿Podrías suministrar una cantidad ingente de electricidad<br>a este dispositivo?<clear><br><$voicel(1,10)><$emotion(1,14)><$facial(1,4)>¡<$cdef(27)>Palidachu </color>parece tener alguna idea en mente!"
+msgstr ""
+
+#. en: <$voicel(1,5)><$motion(1,661)>If you look closely, you’ll see several little lights.
+msgctxt "2706:102"
+msgid "<$voicel(1,5)><$motion(1,661)>Si observas con atención, el artilugio lleva unidas una<br>serie de bombillas, ¿no?"
+msgstr "<$voicel(1,5)><$motion(1,661)>Si observas con atención, el artilugio lleva unidos una<br>serie de focos, ¿no?"
+
+#. en: <$voicel(1,3)><$motion(1,666)><$comeff(1,14)><$facial(1,9)>I think we can assume this device will be usable once all<br>those lights are on.
+msgctxt "2706:103"
+msgid "<$voicel(1,3)><$motion(1,666)><$comeff(1,14)><$facial(1,9)>Si todas se iluminasen, algo me dice que este artilugio<br>podría volverse a utilizar..."
+msgstr "<$voicel(1,3)><$motion(1,666)><$comeff(1,14)><$facial(1,9)>Si todos se iluminaran, algo me dice que este artilugio<br>podría volverse a utilizar..."

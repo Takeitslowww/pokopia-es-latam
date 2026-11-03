@@ -1,0 +1,131 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 3273 (es-ES slot); English reference: record 3269.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 3273\n"
+"X-Ldtool-English-Record: 3269\n"
+
+#. en: <$voicel(1,9)>Whoa there, <$cdef(27)><pname;0></color>! Wait for me!
+msgctxt "3273:0"
+msgid "<$voicel(1,9)>¡Altooo, <$cdef(27)><pname;0></color>! ¡Espérameee!"
+msgstr ""
+
+#. en: <$emotion(1,8)><$voicel(1,8)>You’re about to head through that gate, right? Then I’ll<br>come along with you!
+msgctxt "3273:1"
+msgid "<$emotion(1,8)><$voicel(1,8)>Pretendes cruzar el pasaje de acceso, ¿no es así?<br>¡Permíteme acompañarte!"
+msgstr ""
+
+#. en: <$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>I wonder what lies ahead of us. This is certainly exciting,<br>isn’t it, <$cdef(27)><pname;0></color>?
+msgctxt "3273:2"
+msgid "<$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>Me pregunto qué nos aguarda al otro lado...<br>¡Se me estremecen las lianas de la emoción!"
+msgstr ""
+
+#. en: <$voicel(1,9)>Whoa there, <$cdef(27)><pname;0></color>! Wait for me!
+msgctxt "3273:3"
+msgid "<$voicel(1,9)>¡Espera, <$cdef(27)><pname;0></color>! ¡Para el carrooo!"
+msgstr "<$voicel(1,9)>¡Espera, <$cdef(27)><pname;0></color>! ¡Frena un pocooo!"
+
+#. en: <$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>What do you suppose we’ll find beyond this gate? Let’s go<br>find out for ourselves!
+msgctxt "3273:4"
+msgid "<$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>¿Qué crees que hallaremos al otro lado de esta puerta?<br>¡Averigüémoslo cuanto antes!"
+msgstr ""
+
+#. en: <$voicel(1,9)>Whoa there, <$cdef(27)><pname;0></color>! Wait for me!
+msgctxt "3273:5"
+msgid "<$voicel(1,9)>¡Oyeee, <$cdef(27)><pname;0></color>, echa el frenooo!"
+msgstr ""
+
+#. en: <$comeff(1,3)><$motion(1,661)><$voicel(1,7)>I see you’re able to go through yet another new gate now!<br><$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>Come on, then—let’s see what’s on the other side!
+msgctxt "3273:6"
+msgid "<$comeff(1,3)><$motion(1,661)><$voicel(1,7)>¡Impresionante! ¡Ya has desbloqueado otro pasaje más!<br><$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>Veamos qué hay al otro lado."
+msgstr "<$comeff(1,3)><$motion(1,661)><$voicel(1,7)>¡Impresionante! ¡Ya desbloqueaste otro pasaje más!<br><$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>Veamos qué hay al otro lado."
+
+#. en: Is it time yet?
+msgctxt "3273:13"
+msgid "¿Falta mucho?..."
+msgstr ""
+
+#. en: Can I open my eyes now?
+msgctxt "3273:14"
+msgid "¿Ya puedo mirar?..."
+msgstr ""
+
+#. en: Looook...thaaat...
+msgctxt "3273:15"
+msgid "♪Una bayita pocha viene hacia ti.<br>¡Esquiva, deprisa! Viene por...♪"
+msgstr "♪Una bayita pasada viene hacia ti.<br>¡Esquiva, deprisa! Viene por...♪"
+
+#. en: WAY!
+msgctxt "3273:16"
+msgid "¡Ahí!"
+msgstr ""
+
+#. en: *beep beep beep*<br>Congratulations!<clear><br>All Pokémon have been registered in your <$cdef(27)>Pokédex</color>.
+msgctxt "3273:18"
+msgid "Piii, piii, piii...<clear><br>¡Enhorabuena! ¡Has completado la <$cdef(27)>Pokédex</color>!"
+msgstr "Piii, piii, piii...<clear><br>¡Felicidades! ¡Completaste la <$cdef(27)>Pokédex</color>!"
+
+#. en: In honor of your achievement, please accept this<br>special <$cdef(27)>recipe</color>.
+msgctxt "3273:19"
+msgid "Como recompensa por tu excelente labor, aquí tienes<br>unas <$cdef(27)>instrucciones </color>muy especiales."
+msgstr ""
+
+#. en: It’s for a powered-up version of the <$cdef(27)><fqty(1)><$ifull(2793)></color>:<br>the <$cdef(27)><fqty(1)><$ifull(1898)></color>!<clear><br>It can accurately detect objects in a larger area. Please<br>give it a try.
+msgctxt "3273:20"
+msgid "Con ellas podrás fabricar un <$cdef(27)><fqty(1)><$ifull(2793)></color> más potente:<br>¡el <$cdef(27)><fqty(1)><$ifull(1898)></color>!<clear><br>Este es capaz de buscar en un área más amplia y detectar<br>tesoros con más exactitud. ¡Pruébalo y disfruta!"
+msgstr ""
+
+#. en: <oneline><$motion(1,803)><$voicel(1,7)>Hello there, <$cdef(27)><pname;0></color>! The PC at the<br><$cdef(27)>Pokémon</color><slide><br><$cdef(27)>Center</color><slide><br><$motion(1,807)><$voicel(1,6)>is<slide><br>kicking<slide><br>up<slide><br>a ruckus!<clear><br><$motion(1,666)><$voicel(1,7)>Is there anything out of the ordinary where you are?
+msgctxt "3273:21"
+msgid "<$motion(1,803)><$voicel(1,7)>Discúlpame, <$cdef(27)><pname;0></color>.<clear><br><$motion(1,807)><$voicel(1,6)>¡El PC del <$cdef(27)>Centro Pokémon</color> no para de incordiar<br>con sus pitidos! <$motion(1,666)><$voicel(1,7)>¿No sabrás por qué puede ser?..."
+msgstr "<$motion(1,803)><$voicel(1,7)>Discúlpame, <$cdef(27)><pname;0></color>.<clear><br><$motion(1,807)><$voicel(1,6)>¡El PC del <$cdef(27)>Centro Pokémon</color> no para de molestar<br>con sus pitidos! <$motion(1,666)><$voicel(1,7)>¿No sabrás por qué puede ser?..."
+
+#. en: <$motion(1,803)><$voicel(1,6)>What’s that? A <$cdef(27)>recipe </color>for a new tool?<clear><br><$motion(1,806)><$voicel(1,3)>Oho, I didn’t know such advanced technology existed!
+msgctxt "3273:22"
+msgid "<$motion(1,803)><$voicel(1,6)>¿Cómo? ¿Que has conseguido las <$cdef(27)>instrucciones</color> para<br>fabricar una herramienta nueva?<clear><br><$motion(1,806)><$voicel(1,3)>Lianas, qué inventos tan revolucionarios hay por ahí..."
+msgstr "<$motion(1,803)><$voicel(1,6)>¿Cómo? ¿Que conseguiste las <$cdef(27)>instrucciones</color> para<br>fabricar una herramienta nueva?<clear><br><$motion(1,806)><$voicel(1,3)>Lianas, qué inventos tan revolucionarios hay por ahí..."
+
+#. en: <$motion(1,803)><$voicel(1,9)>I’ve got it! Once you’ve built that thing, <$motion(1,824)><$voicel(1,8)>why don’t you<br>try using it in the <$cdef(27)><$stgname;0(4)></color>?<clear><br><$voicel(1,5)>You’re likely to find all sorts of rare things there!
+msgctxt "3273:23"
+msgid "<$motion(1,803)><$voicel(1,9)>¡Ah, acabo de tener una gran idea! ¿Por qué no pruebas<br><$motion(1,824)><$voicel(1,8)>a usar ese aparato en <dart;0()><$cdef(27)><$stgname;0(4)></color>?<clear><br><$voicel(1,5)>¡No me cabe duda de que allí hallarás toda clase de<br>artículos de lo más curiosos!"
+msgstr ""
+
+#. en: <$facial(1,4)><$motion(1,664)><$voicel(1,9)>If you find any particularly notable treasure, please come<br>and show it to me!
+msgctxt "3273:24"
+msgid "<$facial(1,4)><$motion(1,664)><$voicel(1,9)>Y si, por algún casual, encontrases un tesoro destacable,<br>¡haz el favor de venir a enseñármelo sin falta!"
+msgstr "<$facial(1,4)><$motion(1,664)><$voicel(1,9)>Y si, por casualidad, encontraras un tesoro destacable,<br>¡haz el favor de venir a enseñármelo sin falta!"
+
+#. en: <oneline><$emotion(1,14)><$voicel(1,9)>Oho, <$cdef(27)><pname;0></color>! It seems you’ve acquired<br><$emotion(1,8)><$voicel(1,8)>quite<slide><br>a<slide><br>special <$cdef(27)>recipe</color>!
+msgctxt "3273:30"
+msgid "<oneline><$emotion(1,14)><$voicel(1,9)>¡Vaya, <$cdef(27)><pname;0></color>! Si no me equivoco,<br>has obtenido<slide><br><$emotion(1,8)><$voicel(1,8)>las <$cdef(27)>instrucciones</color><slide><br>de algún artilugio fabuloso."
+msgstr "<oneline><$emotion(1,14)><$voicel(1,9)>¡Vaya, <$cdef(27)><pname;0></color>! Si no me equivoco,<br>obtuviste<slide><br><$emotion(1,8)><$voicel(1,8)>las <$cdef(27)>instrucciones</color><slide><br>de algún artilugio fabuloso."
+
+#. en: <$comeff(1,20)><$motion(1,803)><$voicel(1,9)>I’ve got it! Once you’ve built that thing, <$comeff(1,6)><$motion(1,666)><$voicel(1,8)>why don’t you<br>try using it in the <$cdef(27)><$stgname;0(4)></color>?<clear><br><$comeff(1,14)><$motion(1,661)><$voicel(1,5)>You’re likely to find all sorts of rare things there!
+msgctxt "3273:31"
+msgid "<$comeff(1,20)><$motion(1,803)><$voicel(1,9)>¡Ah, acabo de tener una gran idea!<clear><br><$comeff(1,6)><$motion(1,666)><$voicel(1,8)>Cuando fabriques ese aparato, ¿por qué no lo estrenas<br>en <dart;0()><$cdef(27)><$stgname;0(4)></color>?<clear><br><$comeff(1,14)><$motion(1,661)><$voicel(1,5)>¡No me cabe duda de que allí hallarás toda clase de<br>artículos de lo más curiosos!"
+msgstr ""
+
+#. en: <$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>If you find any particularly notable treasure, please come<br>and show it to me!
+msgctxt "3273:32"
+msgid "<$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>Y si, por algún casual, encontrases un tesoro destacable,<br>¡haz el favor de venir a enseñármelo sin falta!"
+msgstr "<$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>Y si, por casualidad, encontraras un tesoro destacable,<br>¡haz el favor de venir a enseñármelo sin falta!"
+
+#. en: *beep beep beep*<br>Congratulations!<clear><br>All Pokémon have been registered in your<br><$cdef(27)>Pokédex (Basin)</color>.
+msgctxt "3273:33"
+msgid "Piii, piii, piii...<clear><br>¡Enhorabuena! ¡Has completado la <$cdef(27)>Pokédex de la Cuenca<br>Coralina</color>!"
+msgstr "Piii, piii, piii...<clear><br>¡Felicidades! ¡Completaste la <$cdef(27)>Pokédex de la Cuenca<br>Coralina</color>!"
+
+#. en: In honor of your achievement, please accept this<br>special <$cdef(27)>recipe</color>.
+msgctxt "3273:34"
+msgid "Como recompensa por tu excelente labor, aquí tienes<br>unas <$cdef(27)>instrucciones</color> muy especiales."
+msgstr ""

@@ -1,0 +1,861 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 3822 (es-ES slot); English reference: record 3818.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 3822\n"
+"X-Ldtool-English-Record: 3818\n"
+
+#. en: <$comeff(1,14)><$motion(1,805)><$voicel(1,5)>And then, when I thought I was safe and could finally go<br>home...<$facial(1,1)><$motion(1,803)><$voicel(1,8)>I heard a voice! And it said...<clear><br><$comeff(1,5)><$motion(1,816)><$voicel(1,10)>“I fooouuund yooouuu!”
+msgctxt "3822:0"
+msgid "<$comeff(1,14)><$motion(1,805)><$voicel(1,5)>Total, que ya me quedo un poco más tranquil<gen;-3(o,a)> y me<br>vuelvo para casa, cuando de pronto... <$facial(1,1)><$motion(1,803)><$voicel(1,8)>¡oigo una voz!<clear><br><$comeff(1,5)><$motion(1,816)><$voicel(1,10)>\"¡Te veeeooo!\"."
+msgstr ""
+
+#. en: <$comeff(2,23)><$facial(2,9)><$motion(2,807)><$voicel(2,6)>O-ooh...
+msgctxt "3822:1"
+msgid "<$comeff(2,23)><$facial(2,9)><$motion(2,807)><$voicel(2,6)>Aaah..."
+msgstr ""
+
+#. en: <$emotion(1,29)><$voicel(1,7)>Hey, hey, HEY! None of that, now! YOU’RE the one who<br>asked to hear my scary story!<clear><br><$emotion(1,38)><$voicel(1,6)>Don’t tell me you’re gettin’ all scared!
+msgctxt "3822:2"
+msgid "<$emotion(1,29)><$voicel(1,7)>Eh, ¿qué pasa? ¿No has dicho que querías oír la historia?<br><$emotion(1,38)><$voicel(1,6)>¡Estás temblando!"
+msgstr "<$emotion(1,29)><$voicel(1,7)>Eh, ¿qué pasa? ¿No dijiste que querías oír la historia?<br><$emotion(1,38)><$voicel(1,6)>¡Estás temblando!"
+
+#. en: <$comeff(2,4)><$facial(2,9)><$motion(2,805)><$voicel(2,6)>I-I don’t feel so good...
+msgctxt "3822:3"
+msgid "<$comeff(2,4)><$facial(2,9)><$motion(2,805)><$voicel(2,6)>N-no aguanto más..."
+msgstr ""
+
+#. en: <$comeff(1,5)><$facial(1,13)><$motion(1,803)><$voicel(1,7)>What?! Uh-oh. Don’t tell me you’re so scared that—
+msgctxt "3822:4"
+msgid "<$comeff(1,5)><$facial(1,13)><$motion(1,803)><$voicel(1,7)>¿Eh? A ver si te he asustao de más..."
+msgstr "<$comeff(1,5)><$facial(1,13)><$motion(1,803)><$voicel(1,7)>¿Eh? A ver si te asusté de más..."
+
+#. en: <$facial(2,1)><$motion(2,803)><$voicel(2,4)>Oh no...
+msgctxt "3822:5"
+msgid "<$facial(2,1)><$motion(2,803)><$voicel(2,4)>Uuuh..."
+msgstr ""
+
+#. en: <$comeff(1,4)><$facial(1,9)><$motion(1,807)><$voicel(1,10)>Y-you’re not about to self-destruct, are ya?! ARE YA?!<clear><br><$motion(1,802)><$facial(1,1)><$comeff(1,22)><$voicel(1,7)>I’m not tellin’ you a scary story just so you can up and<br>EXPLODE on me!
+msgctxt "3822:6"
+msgid "<$comeff(1,4)><$facial(1,9)><$motion(1,807)><$voicel(1,10)>No te me irás a autodestruir, ¿verdad?<clear><br><$motion(1,802)><$facial(1,1)><$comeff(1,22)><$voicel(1,7)>¡No te lo tomes tan a pecho, hombre! ¡Que solo es una<br>historia de miedo de mentirijilla!"
+msgstr "<$comeff(1,4)><$facial(1,9)><$motion(1,807)><$voicel(1,10)>No te me irás a autodestruir, ¿verdad?<clear><br><$motion(1,802)><$facial(1,1)><$comeff(1,22)><$voicel(1,7)>¡No te lo tomes tan a pecho, amigo! ¡Que solo es una<br>historia de miedo de mentiritas!"
+
+#. en: <$comeff(2,23)><$motion(2,807)><$voicel(2,4)>Ahhh—
+msgctxt "3822:7"
+msgid "<$comeff(2,23)><$motion(2,807)><$voicel(2,4)>Aaah..."
+msgstr ""
+
+#. en: <$comeff(1,5)><$facial(1,13)><$motion(1,803)><$voicel(1,10)>Ah?!
+msgctxt "3822:8"
+msgid "<$comeff(1,5)><$facial(1,13)><$motion(1,803)><$voicel(1,10)>¿Aaah?"
+msgstr ""
+
+#. en: <$comeff(2,5)><$motion(2,816)><$voicel(2,10)>ACHOOOOOO!
+msgctxt "3822:9"
+msgid "... <wait(1.0)><$comeff(2,5)><$motion(2,816)><$voicel(2,10)>¡AAACHÍS!"
+msgstr ""
+
+#. en: <$comeff(1,11)><$facial(1,9)><$motion(1,807)><$voicel(1,9)><$cdef(27)>VOLTOOOOOORB</color>!!!<clear><br>... ... ...<wait(1.2)><br><$emotion(1,29)><$voicel(1,6)>...Huh?
+msgctxt "3822:10"
+msgid "<$comeff(1,11)><$facial(1,9)><$motion(1,807)><$voicel(1,9)>¡¡<$cdef(27)>VOLTORB</color>, NOOOOOO!!<wait(1.2)> ... <wait(0.5)><$emotion(1,29)><$voicel(1,6)>¿Eh?"
+msgstr ""
+
+#. en: <$comeff(2,21)><$facial(2,4)><$motion(2,803)><$voicel(2,5)>Phew, that felt good! Sorry—I was holding that sneeze in<br>for so long... <$emotion(2,38)><$voicel(2,8)>Your story was really scary, <$cdef(27)>Gengar</color>!
+msgctxt "3822:11"
+msgid "<$comeff(2,21)><$facial(2,4)><$motion(2,803)><$voicel(2,5)>Ay, qué a gusto me he quedado. Lo siento, es que ya<br>hacía rato que me estaba aguantando el estornudo...<clear><br><$emotion(2,38)><$voicel(2,8)>¡Tu historia da mucho miedo, <$cdef(27)>Gengar</color>!"
+msgstr "<$comeff(2,21)><$facial(2,4)><$motion(2,803)><$voicel(2,5)>Ay, qué a gusto me quedé. Lo siento, es que ya<br>hacía rato que me estaba aguantando el estornudo...<clear><br><$emotion(2,38)><$voicel(2,8)>¡Tu historia da mucho miedo, <$cdef(27)>Gengar</color>!"
+
+#. en: <$emotion(1,18)><$voicel(1,3)>O-oh...heh. That’s good. But I think YOU gave ME the<br>bigger scare, bud! <$comeff(1,4)><$motion(1,807)><$voicel(1,6)>I was bracin’ for a big explosion...
+msgctxt "3822:12"
+msgid "<$emotion(1,18)><$voicel(1,3)>Uf, pa miedo el que he sentido yo. <$comeff(1,4)><$motion(1,807)><$voicel(1,6)>Ya te veía volándolo<br>todo por los aires..."
+msgstr "<$emotion(1,18)><$voicel(1,3)>Uf, pa miedo el que sentí yo. <$comeff(1,4)><$motion(1,807)><$voicel(1,6)>Ya te veía volándolo<br>todo por los aires..."
+
+#. en: <$emotion(2,29)>Huh?
+msgctxt "3822:13"
+msgid "<$emotion(2,29)>¿Eh?"
+msgstr ""
+
+#. en: <$comeff(1,14)><$motion(1,805)><$voicel(1,5)>So I turned around, totally terrified, but there was no one<br>behind me!
+msgctxt "3822:20"
+msgid "<$comeff(1,14)><$motion(1,805)><$voicel(1,5)>Y entonces, lentamente, me di la vuelta... pero no había<br>nadie."
+msgstr ""
+
+#. en: <$motion(2,805)><$voicel(2,4)>... ... ...<br>Whoa...
+msgctxt "3822:21"
+msgid "<$motion(2,805)><$voicel(2,4)>Oooh..."
+msgstr ""
+
+#. en: <$emotion(1,18)><$voicel(1,5)>Thinkin’ it was just my imagination, I figured I was safe and<br>could finally head back home... <$facial(1,1)><$motion(1,803)><$voicel(1,8)>But then I heard a voice!<slide><br>And it said...<clear><br><$comeff(1,5)><$motion(1,816)><$voicel(1,10)><$textsize(2)>“I fooouuund yooouuu!”</textsize>
+msgctxt "3822:22"
+msgid "<$emotion(1,18)><$voicel(1,5)>Pensé: \"Nada, me lo habré imaginado\" y me fui para casa,<br>ya más tranquil<gen;-3(o,a)>, cuando de pronto... <wait(1.0)><$facial(1,1)><$motion(1,803)><$voicel(1,8)>¡oigo una voz!<clear><br><$comeff(1,5)><$motion(1,816)><$voicel(1,10)><$textsize(2)>\"¡Te veeeooo!\".</textsize>"
+msgstr ""
+
+#. en: <$comeff(2,14)>... ... ...
+msgctxt "3822:23"
+msgid "<$comeff(2,14)>... <wait(0.4)>... <wait(0.4)>..."
+msgstr ""
+
+#. en: <$emotion(1,29)><$voicel(1,6)>Uhhh...hello? You OK, bud?
+msgctxt "3822:24"
+msgid "<$emotion(1,29)><$voicel(1,6)>Hmm... ¿Hola?"
+msgstr ""
+
+#. en: <$comeff(2,14)>... ... ...
+msgctxt "3822:25"
+msgid "<$comeff(2,14)>... <wait(0.4)>... <wait(0.4)>..."
+msgstr ""
+
+#. en: <$emotion(1,51)><$voicel(1,7)>You weren’t even listenin’ to my story, were you?! And I<br>was really givin’ it my all, too!
+msgctxt "3822:26"
+msgid "<$emotion(1,51)><$voicel(1,7)>¿Pero tú no querías oír la historia? ¡Encima que me lo<br>curro poniendo voces!"
+msgstr "<$emotion(1,51)><$voicel(1,7)>¿Pero tú no querías oír la historia? ¡Encima que me<br>esfuerzo poniendo voces!"
+
+#. en: <$comeff(2,3)><$motion(2,803)><$voicel(2,4)>... ... ...<br>...So.
+msgctxt "3822:27"
+msgid "... <wait(0.4)><$comeff(2,3)><$motion(2,803)><$voicel(2,4)>Qué mie..."
+msgstr ""
+
+#. en: <$emotion(1,29)><$voicel(1,6)>So...what?
+msgctxt "3822:28"
+msgid "<$emotion(1,29)><$voicel(1,6)>¿\"Qué mie\"?"
+msgstr ""
+
+#. en: <$comeff(2,23)><$facial(2,9)><$motion(2,807)><$voicel(2,9)><$kfacial(2)>So, so, so, so, so so so...scaryyyyyy!!!
+msgctxt "3822:29"
+msgid "<$comeff(2,23)><$facial(2,9)><$motion(2,807)><$voicel(2,9)><$kfacial(2)>Qué mie... Qué mie... ¡Qué miedooo!"
+msgstr ""
+
+#. en: <$emotion(1,38)><$voicel(1,9)>Hahaha! So I had ya frozen with fear, huh? Niiice!
+msgctxt "3822:30"
+msgid "<$emotion(1,38)><$voicel(1,9)>¡Ja, ja, ja! ¡Te has asustao tanto que ya no arrancabas!"
+msgstr "<$emotion(1,38)><$voicel(1,9)>¡Ja, ja, ja! ¡Te asustaste tanto que ya no arrancabas!"
+
+#. en: <$voicel(2,7)><$motion(2,817)><$comeff(2,22)>Oof... You gotta lotta nerve, bumpin’ into me! You better<br>watch where yer walkin’, or el—<clear><br><$voicel(2,10)><$comeff(2,5)><$motion(2,803)>Huh?! You ain’t walkin’ at all! Uhhh, well, watch where yer<br>rollin’, I guess!
+msgctxt "3822:40"
+msgid "<$voicel(2,7)><$motion(2,817)><$comeff(2,22)>¡Aaau! Pedazo de alcornoque... ¡Mira por dónde vas!<clear><br><$voicel(2,10)><$comeff(2,5)><$motion(2,803)>Mejor dicho... ¡Mira por dónde ruedas!"
+msgstr ""
+
+#. en: <$voicel(1,3)><$comeff(1,4)><$facial(1,9)><$motion(1,802)>Sorry!!! Super sorry, yo! I was kinda zonin’ out!
+msgctxt "3822:41"
+msgid "<$voicel(1,3)><$comeff(1,4)><$facial(1,9)><$motion(1,802)>Perdón, perdón... Iba tod<gen;-3(o,a)> empana<gen;-3(do,da)>."
+msgstr "<$voicel(1,3)><$comeff(1,4)><$facial(1,9)><$motion(1,802)>Perdón, perdón... Iba tod<gen;-3(o,a)> distraí<gen;-3(do,da)>."
+
+#. en: <$voicel(2,7)><$motion(2,817)>Ohhhhhh!!! I can’t contain my anger—or my electricity!<br>Now jus’ how’re we gonna settle this?!
+msgctxt "3822:42"
+msgid "<$voicel(2,7)><$motion(2,817)>Grrr... ¡Estoy que echo chispas del enfado que tengo!<br>¡A ver cómo me calmo yo ahora!"
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,14)>So, uh, actually, I have this thing where I get, like...super<br>drawn to strong sources of electricity...<clear><br><$voicel(1,7)><$comeff(1,14)><$motion(1,801)>I guess your sparklin’, cracklin’ electricity just got me all<br>disoriented, <$cdef(27)>Electivire</color>...
+msgctxt "3822:43"
+msgid "<$voicel(1,7)><$emotion(1,14)>Mira, en realidad lo que pasa es que tengo debilidad por<br>la electricidad... Si noto una fuente potente, allá que voy.<clear><br><$voicel(1,7)><$comeff(1,14)><$motion(1,801)>En resumen... ¡Que no he podido resistirme a tu chispa,<br><$cdef(27)>Electivire</color>! ¡Eres magnético!"
+msgstr "<$voicel(1,7)><$emotion(1,14)>Mira, en realidad lo que pasa es que tengo debilidad por<br>la electricidad... Si noto una fuente potente, allá voy.<clear><br><$voicel(1,7)><$comeff(1,14)><$motion(1,801)>En resumen... ¡Que no pude resistirme a tu chispa,<br><$cdef(27)>Electivire</color>! ¡Eres magnético!"
+
+#. en: <$comcan(1)><$voicel(2,6)><$emotion(2,14)>Huh... Is that right?
+msgctxt "3822:44"
+msgid "<$comcan(1)><$voicel(2,6)><$emotion(2,14)>Oh..."
+msgstr ""
+
+#. en: <$voicel(1,7)><$comeff(1,4)><$motion(1,803)>And, uh...my rollin’ always gets a little unsteady when I’m<br>around really cool and strong Pokémon.<clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,666)>It felt like—like fate brought me to you, I guess? <$comcan(1)><$voicel(1,8)><$motion(1,816)>I was just<br>so moved by the whole experience, yo. Felt like I’d been<slide><br>zapped with electricity and couldn’t move right!
+msgctxt "3822:45"
+msgid "<$voicel(1,7)><$comeff(1,4)><$motion(1,803)>Es que ha sido en plan... \"¡Menudo Pokémon tan fuerte!\".<clear><br><$voicel(1,5)><$comeff(1,14)><$cdef(27)><$motion(1,666)></color>No sé, he sentido como que este encuentro era cosa<br>del destino... <$comcan(1)><$voicel(1,8)><$motion(1,816)>¡y me he quedado pill<gen;-3(ao,á)> de la emoción!"
+msgstr "<$voicel(1,7)><$comeff(1,4)><$motion(1,803)>Es que fue como... \"¡Qué Pokémon tan fuerte!\".<clear><br><$voicel(1,5)><$comeff(1,14)><$cdef(27)><$motion(1,666)></color>No sé, sentí como que este encuentro era cosa<br>del destino... <$comcan(1)><$voicel(1,8)><$motion(1,816)>¡y me quedé paraliz<gen;-3(ao,á)> de la emoción!"
+
+#. en: <$voicel(2,6)><$motion(2,666)><$comeff(2,14)>Why, you little...
+msgctxt "3822:46"
+msgid "<$voicel(2,6)><$motion(2,666)><$comeff(2,14)>Me temo que no me dejas otra alternativa..."
+msgstr ""
+
+#. en: <$comcan(2)><$voicel(1,4)><$motion(1,666)><$comeff(1,4)><$facial(1,9)>Y-yeah?
+msgctxt "3822:47"
+msgid "<$comcan(2)><$voicel(1,4)><$motion(1,666)><$comeff(1,4)><$facial(1,9)>Ay, que no quiero beef contigo, de verdad..."
+msgstr "<$comcan(2)><$voicel(1,4)><$motion(1,666)><$comeff(1,4)><$facial(1,9)>Ay, que no quiero problemas contigo, de verdad..."
+
+#. en: <$voicel(2,7)><$emotion(2,49)>Guess I can’t fault ya fer that! Jus’ be more careful next<br>time, ya hear?!
+msgctxt "3822:48"
+msgid "<$voicel(2,7)><$emotion(2,49)>No me dejas otra alternativa que perdonarte... por esta<br>vez. ¡Ten más cuidado a partir de ahora!"
+msgstr ""
+
+#. en: <$voicel(1,7)><$comeff(1,21)><$motionoff(1,804)>Yooo! And you’ve got a big heart too?! Didn’t know I could<br>look up to you more than I already did, but here we are!
+msgctxt "3822:49"
+msgid "<$voicel(1,7)><$comeff(1,21)><$cdef(27)><$motionoff(1,804)></color>Ay, si es que encima eres comprensivo... ¡Respeto, tío!"
+msgstr "<$voicel(1,7)><$comeff(1,21)><$cdef(27)><$motionoff(1,804)></color>Ay, si es que encima eres comprensivo... ¡Respeto, amigo!"
+
+#. en: <$voicel(2,7)><$emotion(2,38)>Gwahahaaa! OK, OK! That’s enough compliments<br>outta you!
+msgctxt "3822:50"
+msgid "<$voicel(2,7)><$emotion(2,38)>¡Bua, ja, ja! ¡Vale, vale! ¡Menos peloteo, chico!"
+msgstr "<$voicel(2,7)><$emotion(2,38)>¡Bua, ja, ja! ¡Bueno, bueno! ¡Menos halagos, chico!"
+
+#. en: <$comeff(2,14)><$motion(2,805)><$voicel(2,3)>Oh my, <$cdef(27)>Koffing</color>, your face is looking a bit...purple. Are you<br>OK, sweetie?<clear><br><$emotion(2,29)><$voicel(2,6)>Have you been eating properly?
+msgctxt "3822:60"
+msgid "<$comeff(2,14)><$motion(2,805)><$voicel(2,3)>Uy, qué carita más... morada me traes, <$cdef(27)>Koffing</color>.<clear><br>¿Te encuentras bien, criaturilla? <$emotion(2,29)><$voicel(2,6)>¿Me estás desayunando<br>bien y fuerte todos los días?"
+msgstr "<$comeff(2,14)><$motion(2,805)><$voicel(2,3)>Uy, qué carita más... morada me traes, <$cdef(27)>Koffing</color>.<clear><br>¿Te encuentras bien, criaturita? <$emotion(2,29)><$voicel(2,6)>¿Me estás desayunando<br>bien y fuerte todos los días?"
+
+#. en: <$emotion(1,14)><$voicel(1,7)>Huh? I look weird? And well... I might forget to eat<br>breakfast sometimes...
+msgctxt "3822:61"
+msgid "<$emotion(1,14)><$voicel(1,7)>¿En serio tengo mala cara? Hmm, bueno, sí es verdad<br>que de vez en cuando se me olvida desayunar..."
+msgstr ""
+
+#. en: <$motion(2,807)><$voicel(2,6)>Oh, no! That won’t do at all! You’ve got to eat breakfast<br>every day!<clear><br><$emotion(2,38)><$voicel(2,9)>As for WHAT to eat... Hmm... I recommend either sludge<br>or some nice, rotting garbage!<clear><br><$emotion(2,29)><$voicel(2,7)>Which do you prefer for your morning meal, <$cdef(27)>Koffing</color>, dear?<br>Sludge or trash?
+msgctxt "3822:62"
+msgid "<$motion(2,807)><$voicel(2,6)>¡Oy, oy, oy, pues eso no está nada bien! ¡El desayuno<br>es muy pero que muy importante!<clear><br><$emotion(2,38)><$voicel(2,9)>Una porción de limo viscoso de ciénaga, una ración<br>generosa de porquería al dente en descomposición...<clear><br><$emotion(2,29)><$voicel(2,7)>¿Tú eres más de limo o de basura, <$cdef(27)>Koffing</color>?"
+msgstr "<$motion(2,807)><$voicel(2,6)>¡Oy, oy, oy, pues eso no está nada bien! ¡El desayuno<br>es muy pero muy importante!<clear><br><$emotion(2,38)><$voicel(2,9)>Una porción de limo viscoso de ciénaga, una ración<br>generosa de porquería al dente en descomposición...<clear><br><$emotion(2,29)><$voicel(2,7)>¿Tú eres más de limo o de basura, <$cdef(27)>Koffing</color>?"
+
+#. en: <oneline><$comeff(1,14)><$motion(1,666)><$voicel(1,5)>Uhhh... If I had to say, I guess I prefer trash? Sludge is<br>pretty hard to pass up too, though...<wait(1.8)><$lookat(2,0,0)><$lookat(2,1,0)><$lookat(1,0,0)><$lookat(1,1,0)><waitactor(1)><waitactor(2)><clear><br><$emotion(1,29)><$voicel(1,7)>What about you, <$cdef(27)><pname;0></color>? What do you<br>prefer<slide><br>to eat?
+msgctxt "3822:63"
+msgid "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>Hmm... Si tuviera que escoger... supongo que basura.<br>Pero tampoco le haría ascos a un poco de limo, eeeh.<wait(1.8)><$lookat(2,0,0)><$lookat(2,1,0)><$lookat(1,0,0)><$lookat(1,1,0)><waitactor(1)><waitactor(2)><clear><br><$emotion(1,29)><$voicel(1,7)>¿Y a ti qué te va, <$cdef(27)><pname;0></color>?"
+msgstr "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>Hmm... Si tuviera que escoger... supongo que basura.<br>Pero tampoco le haría ascos a un poco de limo, eeeh.<wait(1.8)><$lookat(2,0,0)><$lookat(2,1,0)><$lookat(1,0,0)><$lookat(1,1,0)><waitactor(1)><waitactor(2)><clear><br><$emotion(1,29)><$voicel(1,7)>¿Y a ti qué te gusta, <$cdef(27)><pname;0></color>?"
+
+#. en: <$emotion(2,60)><$voicel(2,9)>Yes, sludge really is quite scrumptious. And perfect for<br>breakfast, since you can slurp it right down in one go!
+msgctxt "3822:64"
+msgid "<$emotion(2,60)><$voicel(2,9)>Estoy de acuerdo. El limo es delicioso. Y si lo bajas con<br>un trago de aguas residuales, entra perfecto."
+msgstr ""
+
+#. en: <$emotion(1,8)><$voicel(1,10)>All right... I know what I’m having tomorrow morning!
+msgctxt "3822:65"
+msgid "<$emotion(1,8)><$voicel(1,10)>Vale, pues eso desayunaré mañana."
+msgstr "<$emotion(1,8)><$voicel(1,10)>Bueno, pues eso desayunaré mañana."
+
+#. en: <$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,7)>Yeah, you get it! Isn’t trash so tasty? Whenever I eat it for<br>breakfast, it makes me feel good all day...<clear><br><$emotion(1,38)><$voicel(1,10)>All right... I know what I’m having tomorrow morning!
+msgctxt "3822:66"
+msgid "<$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,7)>Ya te digo. Nada mejor que comer directo del contenedor<br>de la orgánica. Te da energía para el día enteeero.<clear><br><$emotion(1,38)><$voicel(1,10)>Decidido, eso es lo que desayunaré mañana."
+msgstr "<$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,7)>Así es. Nada mejor que comer directo del contenedor<br>de la orgánica. Te da energía para el día enteeero.<clear><br><$emotion(1,38)><$voicel(1,10)>Decidido, eso es lo que desayunaré mañana."
+
+#. en: <$emotion(1,64)><$voicel(1,7)>Do you mean to say you DON’T like to eat trash and<br>sludge and stuff, <$cdef(27)><pname;0></color>?
+msgctxt "3822:67"
+msgid "<$emotion(1,64)><$voicel(1,7)>Anda... ¿No te gusta ninguno, <$cdef(27)><pname;0></color>?"
+msgstr "<$emotion(1,64)><$voicel(1,7)>Vaya... ¿No te gusta ninguno, <$cdef(27)><pname;0></color>?"
+
+#. en: <$emotion(2,60)><$voicel(2,8)>There’s no need to eat it if you’d rather not, dear!<clear><br><$emotion(2,8)><$voicel(2,9)>Your morning sets the tone of your whole day, so it’s best<br>to start it eating something you like!
+msgctxt "3822:68"
+msgid "<$emotion(2,60)><$voicel(2,8)>Si no son de tu devoción, no te fuerces. Al fin y al cabo,<br>el desayuno es la forma de comenzar el día.<clear><br><$emotion(2,8)><$voicel(2,9)>¡Más vale hacerlo con buen pie y algo rico!"
+msgstr ""
+
+#. en: <$comeff(1,14)><$motion(1,666)><$voicel(1,5)>Talking about this is making me hungry... <$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,8)>I kinda wanna go<br>scrounging for some garbage now.
+msgctxt "3822:69"
+msgid "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>De tanto hablar de comida, me ha entrado un hambre...<br><wait(1.0)><$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,8)>A ver si encuentro algún contenedor en el que rebuscar."
+msgstr "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>De tanto hablar de comida, me dio un hambre...<br><wait(1.0)><$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,8)>A ver si encuentro algún contenedor en el que rebuscar."
+
+#. en: <$emotion(2,38)><$voicel(2,9)>Just be careful not to overdo the snacks, darling <$cdef(27)>Koffing</color>.<br>It’s all about balance, you know!
+msgctxt "3822:70"
+msgid "<$emotion(2,38)><$voicel(2,9)>¡Muy bien, pero cuidado no te me empaches, <$cdef(27)>Koffing</color>!<br>¡Con la salud no se juega!"
+msgstr ""
+
+#. en: <$voicel(1,7)><$comeff(1,9)><$motion(1,806)>Yup, not a scratch to be seen! As expected, today’s egg<br>report iiis: smooth as heck!
+msgctxt "3822:80"
+msgid "<$voicel(1,7)><$comeff(1,9)><$motion(1,806)>Perfecto, ni un arañazo. ¡Mi huevito sigue tan suave y liso<br>como siempre!"
+msgstr ""
+
+#. en: <$voicel(2,7)><$comeff(2,6)><$motion(2,666)>What a smooooth egg... Heyyy, can I touch it?
+msgctxt "3822:81"
+msgid "<$voicel(2,7)><$motion(2,666)>Ay, si es tan suavecico... Ahora tengo curiosidad...<br><$comeff(2,6)>¿Me dejas tocarlo?"
+msgstr "<$voicel(2,7)><$motion(2,666)>Ay, si es tan suavecito... Ahora tengo curiosidad...<br><$comeff(2,6)>¿Me dejas tocarlo?"
+
+#. en: <$voicel(1,8)><$emotion(1,14)><$facial(1,4)>Sure! But be careful, OK?<clear><br><$facial(1,1)><$voicel(1,5)><$comeff(1,14)>I give away eggs whenever I meet hungry Pokémon in<br>distress—<$voicel(1,7)><$emotion(1,38)>’cause these things are PACKED with nutrients!<clear><br><$voicel(1,5)><$motion(1,805)><$comeff(1,8)>I’ve given eggs to humans before, too! They were SUPER<br>happy with ’em!
+msgctxt "3822:82"
+msgid "<$voicel(1,8)><$emotion(1,14)><$facial(1,4)>Vale, pero con cuidadín, ¿eh?<clear><br><$facial(1,1)><$voicel(1,5)><$comeff(1,14)>¡Piensa que es supernutritivo y que lo estoy reservando!<br>Si veo a algún Pokémon hambriento o en problemas...<slide><br><$voicel(1,7)><$emotion(1,38)>¡lo compartiré con él!<clear><br><$voicel(1,5)><$motion(1,805)><$comeff(1,8)>Antes también regalaba huevos a los humanos, ¿sabes?<br>¡Se ponían supercontentos!"
+msgstr "<$voicel(1,8)><$emotion(1,14)><$facial(1,4)>Bueno, pero con cuidadito, ¿eh?<clear><br><$facial(1,1)><$voicel(1,5)><$comeff(1,14)>¡Piensa que es supernutritivo y que lo estoy reservando!<br>Si veo a algún Pokémon hambriento o en problemas...<slide><br><$voicel(1,7)><$emotion(1,38)>¡lo compartiré con él!<clear><br><$voicel(1,5)><$motion(1,805)><$comeff(1,8)>Antes también regalaba huevos a los humanos, ¿sabes?<br>¡Se ponían supercontentos!"
+
+#. en: <$voicel(2,7)><$emotion(2,14)>Heheee. That egg’s really important to you, huuuh?
+msgctxt "3822:83"
+msgid "<$voicel(2,7)><$emotion(2,14)>Ja, ja, ja... Ya veo que no es un huevo cualquiera, ya."
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,8)>Yup! And I won’t give an egg to just anyone!<clear><br><$voicel(1,6)><$motionoff(1,804)><$comeff(1,10)>There’s no WAY I’d give one to any baddies! No way,<br>no how!
+msgctxt "3822:84"
+msgid "<$voicel(1,7)><$emotion(1,8)>No, y no te creas que se lo voy a dar al primero que<br>pase, ¿eh?<clear><br><$voicel(1,6)><$motionoff(1,804)><$comeff(1,10)>¡Los malos de corazón, ni olerlo!"
+msgstr ""
+
+#. en: <$voicel(2,7)><$emotion(2,14)>Yeahhh. Yeahhh! That sounds smart. But isn’t it hard to<br>protect the egg all by yourself?<clear><br><$voicel(2,6)><$comeff(2,9)><$motion(2,806)>I can help you out if baddies come...
+msgctxt "3822:85"
+msgid "<$voicel(2,7)><$emotion(2,14)>Ahí te doy la razón. Pero, oye... ¿no tienes miedo a que<br>intenten robártelo yendo sola?<clear><br><$voicel(2,6)><$comeff(2,9)><$motion(2,806)>Si quieeeres, yo puedo defenderte."
+msgstr ""
+
+#. en: <$voicel(1,7)><$comeff(1,21)><$motion(1,803)><$facial(1,4)>Hehe... Thanks! But I’m all good on that front! If a baddie<br>ever got in my face, <$voicel(1,10)><$facial(1,1)><$comeff(1,5)><$motion(1,814)>I’d give ’em one of THESE!<wait(0.5)>
+msgctxt "3822:86"
+msgid "<$voicel(1,7)><$comeff(1,21)><$motion(1,803)><$facial(1,4)>Jaaa, ja, ja... Gracias, pero estaré bien. Si alguien tiene<br>la brillante idea de atacarme...<clear><br><$voicel(1,10)><$facial(1,1)><$comeff(1,5)><$motion(1,814)>¡Zasca!<wait(0.5)>"
+msgstr "<$voicel(1,7)><$comeff(1,21)><$motion(1,803)><$facial(1,4)>Jaaa, ja, ja... Gracias, pero estaré bien. Si alguien tiene<br>la brillante idea de atacarme...<clear><br><$voicel(1,10)><$facial(1,1)><$comeff(1,5)><$motion(1,814)>¡Pum!<wait(0.5)>"
+
+#. en: <$voicel(2,7)><$emotion(2,49)>Heheheee. You got really good form. I guess<br>you don’t have aaanything to worry about.
+msgctxt "3822:87"
+msgid "<$voicel(2,7)><$emotion(2,49)>Ja, ja, ja. ¡Sí que estás en buena forma! Con esa técnica,<br>no hay de qué preocuparse."
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,14)>Hey, <$cdef(27)>Pelipper</color>! Think you could gimme a lift somewhere<br>far away?
+msgctxt "3822:100"
+msgid "<$voicel(1,7)><$emotion(1,14)>Oye, <$cdef(27)>Pelipper</color>, tengo que ir a un sitio que me queda<br>lejísimos. ¿Puedes llevarme? Vaaa, enróllate."
+msgstr "<$voicel(1,7)><$emotion(1,14)>Oye, <$cdef(27)>Pelipper</color>, tengo que ir a un lugar que me queda<br>lejísimos. ¿Puedes llevarme? Vamooos, porfa."
+
+#. en: <$voicel(2,7)><$comeff(2,14)><$motion(2,803)>Whaaat? You?! Hmmmmmm...<clear><br><$voicel(2,7)><$comeff(2,7)><$motion(2,807)><$facial(2,9)>Sorry... I don’t know if I can do that...
+msgctxt "3822:101"
+msgid "<$voicel(2,7)><$comeff(2,14)><$motion(2,803)>Eh... ¿Llevarte, dices?... Uf, a ti, precisamente...<clear><br><$voicel(2,7)><$comeff(2,7)><$motion(2,807)><$facial(2,9)>Lo siento, pero no creo que pueda..."
+msgstr ""
+
+#. en: <$voicel(1,8)><$comeff(1,6)><$motion(1,805)>What?! Why not?
+msgctxt "3822:102"
+msgid "<$voicel(1,8)><$comeff(1,6)><$motion(1,805)>¡¿No?! ¡¿Por qué no?!"
+msgstr ""
+
+#. en: <$voicel(2,7)><$comeff(2,4)><$motion(2,663)><$facial(2,9)>P-pleeeaaase don’t get too close...
+msgctxt "3822:103"
+msgid "<$voicel(2,7)><$comeff(2,4)><$motion(2,663)><$facial(2,9)>Esto... No te me acerques tanto..."
+msgstr ""
+
+#. en: <$voicel(1,7)><$comeff(1,11)><$facial(1,13)><$motion(1,803)>Huh?! What’d I ever do to you?
+msgctxt "3822:104"
+msgid "<$voicel(1,7)><$comeff(1,11)><$facial(1,13)><$motion(1,803)>¿Y ahora qué pasa? ¡¿He hecho algo malo?!"
+msgstr "<$voicel(1,7)><$comeff(1,11)><$facial(1,13)><$motion(1,803)>¿Y ahora qué pasa? ¡¿Hice algo malo?!"
+
+#. en: <$voicel(2,3)><$comeff(2,17)><$motion(2,805)>S-sorryyy... I’m just not very good with electricity...<clear><br><$voicel(2,5)><$facial(2,9)><$motion(2,807)><$comeff(2,7)>So the current running across your body scaaares me a<br>little, <$cdef(27)>Electabuzz</color>...
+msgctxt "3822:105"
+msgid "<$cdef(27)><$voicel(2,3)></color><$comeff(2,17)><$motion(2,805)>No, perdona. Es que soy muy sensible a la electricidad...<clear><br><$voicel(2,5)><$facial(2,9)><$motion(2,807)><$comeff(2,7)>Digamos que... me da miedo llevarme un corrientazo."
+msgstr ""
+
+#. en: <$voicel(1,4)><$comeff(1,14)><$motion(1,666)>Hmmm, yeah, I see the problem...<clear><br><$voicel(1,7)><$emotion(1,27)>Oh, I know! If I wrap myself up in something that stops my<br>electricity from touchin’ you, <$voicel(1,6)><$comeff(1,6)>could you carry me then?
+msgctxt "3822:106"
+msgid "<$voicel(1,4)><$comeff(1,14)><$motion(1,666)>Hmm... Pues vaya faena.<clear><br><$voicel(1,7)><$emotion(1,27)>¡Ya sé, tengo una idea! ¿Y si me envuelvo con algo?<br>Así no te tocaría y no habría peligro de calambrazos.<clear><br><$voicel(1,6)><$comeff(1,6)>Si hago eso, sí que me puedes llevar, ¿verdad?"
+msgstr "<$voicel(1,4)><$comeff(1,14)><$motion(1,666)>Hmm... Pues qué mala suerte.<clear><br><$voicel(1,7)><$emotion(1,27)>¡Ya sé, tengo una idea! ¿Y si me envuelvo con algo?<br>Así no te tocaría y no habría peligro de calambrazos.<clear><br><$voicel(1,6)><$comeff(1,6)>Si hago eso, sí que me puedes llevar, ¿verdad?"
+
+#. en: <$voicel(2,4)><$comeff(2,14)><$motion(2,666)>Uhhhhhh... Maaaybe that would work?
+msgctxt "3822:107"
+msgid "<$voicel(2,4)><$comeff(2,14)><$motion(2,666)>Pueees... supongo que sí."
+msgstr ""
+
+#. en: <$comcan(2)><$voicel(1,7)><$comeff(1,10)><$motion(1,806)><$facial(1,4)>Awww yeah! All right, I’m gonna go look for something<br>that’ll do the job!
+msgctxt "3822:108"
+msgid "<$comcan(2)><$voicel(1,7)><$comeff(1,10)><$motion(1,806)><$facial(1,4)>¡Perfecto! ¡Voy a buscar algo que sirva!"
+msgstr ""
+
+#. en: <$voicel(2,8)><$emotion(2,1)>Peli! OK. See you laaaterrr...
+msgctxt "3822:109"
+msgid "<$voicel(2,8)><$emotion(2,1)>Vale. Aquí estaré..."
+msgstr "<$voicel(2,8)><$emotion(2,1)>Bueno. Aquí estaré..."
+
+#. en: <$voicel(1,8)><$emotion(1,62)><$facial(1,14)>La la laaa, la la la... ♪
+msgctxt "3822:120"
+msgid "<$voicel(1,8)><$emotion(1,62)><$facial(1,14)>♪La, la, la... Pras, pras...♪"
+msgstr ""
+
+#. en: <$comcan(1)><$voicel(2,7)><$emotion(2,14)><$facial(1,4)>Hee hee, you seem like you’re in a good mood, <$cdef(27)>Lapras</color>.<br><$voicel(2,6)><$comeff(2,6)><$motion(2,806)><$facial(1,1)>Are you singing because something nice happened?
+msgctxt "3822:121"
+msgid "<$comcan(1)><$voicel(2,7)><$emotion(2,14)><$facial(1,4)>Jeee. Qué animada se te ve, <$cdef(27)>Lapras</color>. <$voicel(2,6)><$comeff(2,6)><$motion(2,806)><$facial(1,1)>¿Cómo es que estás<br>de tan buen humor?"
+msgstr ""
+
+#. en: <$voicel(1,6)><$comeff(1,3)><$motion(1,803)><$facial(1,4)>Hello there, little <$cdef(27)>Audino</color>.<clear><br><$voicel(1,7)><$comeff(1,14)><$motion(1,806)>The sky was just so gorgeous that I couldn’t keep myself<br>from singing.
+msgctxt "3822:122"
+msgid "<$voicel(1,6)><$comeff(1,3)><$motion(1,803)><$facial(1,4)>Ah, hola, querida <$cdef(27)>Audino</color>.<clear><br><$voicel(1,7)><$comeff(1,14)><$motion(1,806)>Por nada en especial. Es que hoy el cielo está taaan<br>bonito que no puedo parar de sonreír."
+msgstr ""
+
+#. en: <$comcan(1)><$voicel(2,5)><$comeff(2,8)><$motion(2,806)><$facial(2,14)>Your voice is so pretty, <$cdef(27)>Lapras</color>. When I hear you singing,<br>it makes me want to stop everything and just listen.<clear><br><$voicel(2,7)><$emotion(2,49)>There’s so much joy in your singing that it brings me joy,<br>too! Hee hee... ♪
+msgctxt "3822:123"
+msgid "<$comcan(1)><$voicel(2,5)><$cdef(27)><$comeff(2,8)></color><$motion(2,806)><$facial(2,14)>Ay, cuando te oigo cantar así, tan feliz de la vida...<br><$voicel(2,7)><$emotion(2,49)>me contagias tu felicidaaad, chica."
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,14)><$facial(1,4)>Is that so? Well then, why don’t you sing with me, <$cdef(27)>Audino</color>?
+msgctxt "3822:124"
+msgid "<$voicel(1,7)><$emotion(1,14)><$cdef(27)><$facial(1,4)></color>Ju, ju, ju. ¿Y qué te parece si... cantamos juntas?"
+msgstr ""
+
+#. en: <$voicel(2,7)><$emotion(2,62)>Oh wow... That’s a great idea! Um, OK... Laaa la laaa! ♪
+msgctxt "3822:125"
+msgid "<$voicel(2,7)><$emotion(2,62)>Ay, síii. Me apuntooo. ♪¡Di, di, nooo!♪"
+msgstr ""
+
+#. en: <$voicel(1,8)><$emotion(1,62)>La la laaa! ♪
+msgctxt "3822:126"
+msgid "<$voicel(1,8)><$emotion(1,62)>♪¡Laaa, laaa, pras!♪"
+msgstr ""
+
+#. en: <$comeff(1,17)><$comeff(2,17)><$facial(1,9)><$facial(2,9)><$voicel(1,2)>*sigh*
+msgctxt "3822:140"
+msgid "<$comeff(1,17)><$comeff(2,17)><$facial(1,9)><$facial(2,9)><$voicel(1,2)>Ay..."
+msgstr ""
+
+#. en: <$voicel(2,5)><$emotion(2,14)>Heya, what’s wrong? Whatcha sighing for?
+msgctxt "3822:141"
+msgid "<$voicel(2,5)><$emotion(2,14)>Uy, ¿qué te pasa? ¿Por qué suspiras?"
+msgstr ""
+
+#. en: <$voicel(1,3)><$emotion(1,48)>Eh, it’s nothin’. I just can’t get my fur to be all pointy and<br>cool the way I like it today...<$voicel(1,2)><$motion(1,663)><$facial(1,9)><$comeff(1,18)> It’s kinda gettin’ me down.
+msgctxt "3822:142"
+msgid "<$voicel(1,3)><$emotion(1,48)>Nada, es solo que hoy no consigo que el pelo se me<br>quede de punta como me gusta...<clear><br><$voicel(1,2)><$motion(1,663)><$facial(1,9)><$comeff(1,18)>Me da un bajón que no veas cuando me pasa esto."
+msgstr "<$voicel(1,3)><$emotion(1,48)>Nada, es solo que hoy no consigo que el pelo se me<br>quede de punta como me gusta...<clear><br><$voicel(1,2)><$motion(1,663)><$facial(1,9)><$comeff(1,18)>Me deprimo muchísimo cuando me pasa esto."
+
+#. en: <$comcan(1)><$voicel(2,6)><$motionoff(2,804)><$comeff(2,10)>Huh? But isn’t it the same as it always is...?
+msgctxt "3822:143"
+msgid "<$comcan(1)><$voicel(2,6)><$motionoff(2,804)><$comeff(2,10)>Pues a mí me parece que está igual que siempre..."
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,43)>Are you kiddin’ me?! It looks TOTALLY different than<br>usual! Though I guess you wouldn’t know that, huh?<clear><br><$voicel(1,5)><$emotion(1,64)>Wait a sec—weren’t you sighing before, too? What gives?
+msgctxt "3822:144"
+msgid "<$voicel(1,7)><$emotion(1,43)>¡Pero qué me estás contando! No tienes ni idea, chavala.<clear><br><$voicel(1,5)><$emotion(1,64)>Bueno, ¿y tú por qué suspirabas?"
+msgstr "<$voicel(1,7)><$emotion(1,43)>¡Pero qué me estás contando! No tienes ni idea, chica.<clear><br><$voicel(1,5)><$emotion(1,64)>Bueno, ¿y tú por qué suspirabas?"
+
+#. en: <$voicel(2,3)><$emotion(2,31)>Weeell, my wool just doesn’t wanna be fluffy today...
+msgctxt "3822:145"
+msgid "<$voicel(2,3)><$emotion(2,31)>P-pues... me parece que hoy no tengo la lana tan suave<br>y mullidita como de costumbre..."
+msgstr ""
+
+#. en: <$voicel(1,6)><$emotion(1,48)>Uh, really? Looks the same as usual to me, pal.
+msgctxt "3822:146"
+msgid "<$voicel(1,6)><$emotion(1,48)>¡Anda ya! ¡Tú sí que estás igualita que siempre!"
+msgstr "<$voicel(1,6)><$emotion(1,48)>¡Ay, por favor! ¡Tú sí que estás igualita que siempre!"
+
+#. en: <$voicel(2,1)><$emotion(2,58)>Not at all! It is so totally and completely different!
+msgctxt "3822:147"
+msgid "<$voicel(2,1)><$emotion(2,58)>N-no, qué va... Te digo que está fatal..."
+msgstr "<$voicel(2,1)><$emotion(2,58)>N-no, para nada... Te digo que está horrible..."
+
+#. en: <$voicel(1,4)><$emotion(1,14)>Oh, for real? My bad.<clear><br><$voicel(1,5)><$emotion(1,8)>Hey, let’s not fight anymore—it’ll just mess up our coats<br>even more. Besides, I don’t wanna fight with my friends!
+msgctxt "3822:148"
+msgid "<$voicel(1,4)><$emotion(1,14)>Bueno, perdona.<clear><br><$voicel(1,5)><$emotion(1,8)>Como nos peleemos nos vamos a despeinar más y no veas<br>la movida que sería. ¿Hacemos las paces?"
+msgstr "<$voicel(1,4)><$emotion(1,14)>Bueno, perdona.<clear><br><$voicel(1,5)><$emotion(1,8)>Si nos peleamos nos vamos a despeinar más y sería<br>un desastre. ¿Hacemos las paces?"
+
+#. en: <$voicel(2,7)><$emotion(2,6)>That’s right! Friendship first, right?
+msgctxt "3822:149"
+msgid "<$voicel(2,7)><$emotion(2,6)>Eso, eso... Vamos a llevarnos bien."
+msgstr ""
+
+#. en: <$voicel(2,7)><$emotion(2,14)>Oh, hello, <$cdef(27)>Marill</color>, dear! Are you heading for a swim?
+msgctxt "3822:180"
+msgid "<$voicel(2,7)><$emotion(2,14)>¡Anda, tú por aquí, <$cdef(27)>Marill</color>! ¿Vas a ir a nadar un rato?"
+msgstr "<$voicel(2,7)><$emotion(2,14)>¡Vaya, tú por aquí, <$cdef(27)>Marill</color>! ¿Vas a ir a nadar un rato?"
+
+#. en: <$voicel(1,7)><$emotion(1,8)>Yup! I’m gonna swim pretty far today!
+msgctxt "3822:181"
+msgid "<$voicel(1,7)><$emotion(1,8)>¡Sí! Hoy tengo ganas de ir un poquitito más lejos."
+msgstr ""
+
+#. en: <$voicel(2,5)><$emotion(2,29)>How nice. But are you safe all on your own? <$voicel(2,7)><$emotion(2,48)>What if you<br>get tired while you’re swimming?
+msgctxt "3822:182"
+msgid "<$voicel(2,5)><$emotion(2,29)>Ya veo, ya... Pero, oye, ¿estarás bien tú solita?<clear><br><$voicel(2,7)><$emotion(2,48)>¡A ver si luego te cansas y te me hundes, pequeña!"
+msgstr ""
+
+#. en: <$voicel(1,7)><$comeff(1,3)><$motion(1,805)>Nope, I’ll be OK! Even if I get tired, I got my tail with me!
+msgctxt "3822:183"
+msgid "<$voicel(1,7)><$comeff(1,3)><$motion(1,805)>¡Tranquila! ¡Si me canso, tengo la cola!"
+msgstr ""
+
+#. en: <$voicel(2,4)><$comeff(2,6)><$motion(2,666)>Your...tail?
+msgctxt "3822:184"
+msgid "<$voicel(2,4)><$comeff(2,6)><$motion(2,666)>¿La cola? ¿Y eso de qué te...?"
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,27)>Uh-huh! My tail’s super floaty—there’s no WAY I could<br>sink! <$voicel(1,6)><$comeff(1,10)><$motionoff(1,804)><$facial(1,4)>So I’ll be totally OK!
+msgctxt "3822:185"
+msgid "<$voicel(1,7)><$emotion(1,27)>Pues que no se hunde: ¡es como un flotador!<clear><br><$voicel(1,6)><$comeff(1,10)><$motionoff(1,804)><$facial(1,4)>¡Así que no te preocupes, que no me voy a ahogar!"
+msgstr ""
+
+#. en: <$voicel(2,5)><$comeff(2,14)><$motion(2,666)>Oh, I see! Well, that’s a relief...I think. Just don’t get so<br>excited <$voicel(2,8)><$emotion(2,49)>that you can’t find your way home!
+msgctxt "3822:186"
+msgid "<$voicel(2,5)><$comeff(2,14)><$motion(2,666)>Qué cosas tienes, hija mía... Bueno, en ese caso, supongo<br>que me puedo quedar tranquila...<clear><br>Pero, igualmente, no te vayas demasiado lejos, ¿me oyes?<br><$voicel(2,8)><$emotion(2,49)>¡A ver si luego te me pierdes y no sabes volver!"
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,8)>I won’t! Bye-byeee!
+msgctxt "3822:187"
+msgid "<$voicel(1,7)><$emotion(1,8)>¡Que nooo! ¡Hasta luego!"
+msgstr ""
+
+#. en: <$comeff(2,10)><$motion(2,805)><$voicel(2,9)>Hey! Hey, <$cdef(27)>Marill</color>! How come you don’t <$comeff(2,6)><$motion(2,803)><$voicel(2,8)>sit on your tail<br>like me?<clear><br><$comeff(2,3)><$motion(2,806)><$voicel(2,10)>It’s so easy to bounce around on, and I can go really fast!
+msgctxt "3822:200"
+msgid "<$comeff(2,10)><$motion(2,805)><$voicel(2,9)>Tata <$cdef(27)>Marill</color>, tata <$cdef(27)>Marill</color>, ¡tengo una preguntaaa!<br><$comeff(2,6)><$motion(2,803)><$voicel(2,8)>¿Por qué no vas botando sobre la cola como hago yo?<clear><br><$comeff(2,3)><$motion(2,806)><$voicel(2,10)>¡Si botando se llega muy rápido a todas parteees!"
+msgstr "<$comeff(2,10)><$motion(2,805)><$voicel(2,9)>Oye, <$cdef(27)>Marill</color>, oye, <$cdef(27)>Marill</color>, ¡tengo una preguntaaa!<br><$comeff(2,6)><$motion(2,803)><$voicel(2,8)>¿Por qué no vas rebotando sobre la cola como hago yo?<clear><br><$comeff(2,3)><$motion(2,806)><$voicel(2,10)>¡Si rebotando se llega muy rápido a todas parteees!"
+
+#. en: <$comeff(1,10)><$motion(1,806)><$voicel(1,7)>Oh, that’s ’cause I got bigger! I’m too big to sit on my<br>tail now!
+msgctxt "3822:201"
+msgid "<$comeff(1,10)><$motion(1,806)><$voicel(1,7)>¡Es que he crecido tanto que se me ha quedado pequeña!"
+msgstr "<$comeff(1,10)><$motion(1,806)><$voicel(1,7)>¡Es que crecí tanto que me quedó pequeña!"
+
+#. en: <$comeff(2,5)><$motion(2,803)><$voicel(2,3)>Huh? Really?! Does that mean that when I grow up, <$comeff(2,6)><$motion(2,802)><$voicel(2,4)>I’ll<br>get too big to ride around on my tail, too?
+msgctxt "3822:202"
+msgid "<$comeff(2,5)><$motion(2,803)><$voicel(2,3)>Halaaa, ¿en serio no puedes? Jo.<clear><br><$motion(2,802)><$voicel(2,4)>O sea que, cuando yo me haga mayor, <$comeff(2,6)>¿tampoco voy<br>a poder?"
+msgstr "<$comeff(2,5)><$motion(2,803)><$voicel(2,3)>Guaaau, ¿en serio no puedes? Ay.<clear><br><$motion(2,802)><$voicel(2,4)>O sea que, cuando yo me haga mayor, <$comeff(2,6)>¿tampoco voy<br>a poder?"
+
+#. en: <$comeff(1,14)><$motion(1,805)><$voicel(1,5)>Um, I guess? I think you’ll probably <$comeff(1,3)><$motion(1,803)><$voicel(1,6)>end up walking around<br>on your feet, just like me!
+msgctxt "3822:203"
+msgid "<$comeff(1,14)><$motion(1,805)><$voicel(1,5)>Pues supongo que no, ¿no? <$comeff(1,3)><$motion(1,803)><$voicel(1,6)>Tendrás que andar como yo,<br>usando las patitas."
+msgstr ""
+
+#. en: <$comeff(2,7)><$motion(2,807)><$voicel(2,1)>Whaaaaaat?! Nooo, I don’t wanna! I wanna stay just like<br>I am NOW!
+msgctxt "3822:204"
+msgid "<$comeff(2,7)><$motion(2,807)><$voicel(2,1)>¡Nooo, qué rollooo! ¡No quiero andaaar! ¡Quiero botar<br>como siempreee!"
+msgstr "<$comeff(2,7)><$motion(2,807)><$voicel(2,1)>¡Nooo, qué malooo! ¡No quiero andaaar! ¡Quiero rebotar<br>como siempreee!"
+
+#. en: <$comeff(1,10)><$motion(1,802)><$voicel(1,7)>But you’ll be able to run way faster, then! And play all you<br>want without getting tired...<clear><br><$comeff(1,5)><$motion(1,801)><$voicel(1,10)>There are all sortsa good things about getting bigger!
+msgctxt "3822:205"
+msgid "<$comeff(1,10)><$motion(1,802)><$voicel(1,7)>Pero, si usas las patitas, aprenderás a correr rapidísimo,<br>¡y podrás jugar todo el tiempo que quieras, sin cansarte!<clear><br><$comeff(1,5)><$motion(1,801)><$voicel(1,10)>¡Y muchas más cosas!"
+msgstr ""
+
+#. en: <$comeff(2,9)><$motion(2,805)><$voicel(2,7)>You really mean it? Huh, then I guess I DO wanna hurry<br>and grow up!<clear><br><$comeff(2,3)><$motion(2,801)><$voicel(2,10)>And then I can play with you all the time, <$cdef(27)>Marill</color>!
+msgctxt "3822:206"
+msgid "<$comeff(2,9)><$motion(2,805)><$voicel(2,7)>¿De verdaaad? Entonces, ¡a lo mejor sí tengo ganas de<br>hacerme mayor! <$comeff(2,3)><$motion(2,801)><$cdef(27)><$voicel(2,10)></color>¡Así podré jugar contigo un montóoon!"
+msgstr ""
+
+#. en: <$comeff(1,8)><$motion(1,803)><$voicel(1,9)>Hee hee! I can’t wait!<clear><br><$comeff(1,9)><$motion(1,805)><$voicel(1,7)>But you know, I’ll be even MORE grown up by that time!
+msgctxt "3822:207"
+msgid "<$comeff(1,8)><$motion(1,803)><$voicel(1,9)>¡Ji, ji! ¡Nos lo pasaremos superchachi!<clear><br><$comeff(1,9)><$motion(1,805)><$voicel(1,7)>Pero cuando tú seas como yo de grande, a lo mejor yo ya<br>soy aún máaas grande que ahora."
+msgstr "<$comeff(1,8)><$motion(1,803)><$voicel(1,9)>¡Ji, ji! ¡La pasaremos súper bien!<clear><br><$comeff(1,9)><$motion(1,805)><$voicel(1,7)>Pero cuando tú seas como yo de grande, a lo mejor yo ya<br>soy aún máaas grande que ahora."
+
+#. en: <$comeff(2,11)><$motion(2,807)><$voicel(2,8)>Huh?! No faaaiiiir!
+msgctxt "3822:208"
+msgid "<$comeff(2,11)><$motion(2,807)><$voicel(2,8)>¡Jolines! ¡Eso no valeee!"
+msgstr "<$comeff(2,11)><$motion(2,807)><$voicel(2,8)>¡Rayos! ¡Eso no se valeee!"
+
+#. en: <$voicel(2,7)><$emotion(2,38)>Rill! <$cdef(27)>Azumarill</color>! Hey, <$cdef(27)>Azumarill</color>!
+msgctxt "3822:220"
+msgid "<$voicel(2,7)><$emotion(2,38)>¡<$cdef(27)>Azumarill</color>! ¡Oyeee! ¡<$cdef(27)>Azumariiill</color>!"
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,14)><$cdef(27)>Azurill</color>! Hey there! Always happy to have you come over!<br><$voicel(1,4)><$emotion(1,16)><$motion(1,805)>What’s up today?
+msgctxt "3822:221"
+msgid "<$voicel(1,7)><$emotion(1,14)>¡Ah, hola, <$cdef(27)>Azurill</color>! ¿Otra vez tú por aquí?<clear><br><$voicel(1,4)><$emotion(1,16)><$motion(1,805)>¿A qué has venido?"
+msgstr "<$voicel(1,7)><$emotion(1,14)>¡Ah, hola, <$cdef(27)>Azurill</color>! ¿Otra vez tú por aquí?<clear><br><$voicel(1,4)><$emotion(1,16)><$motion(1,805)>¿A qué viniste?"
+
+#. en: <$voicel(2,8)><$comeff(2,5)><$motion(2,801)>Let’s play together! ♪ <clear><br><$voicel(2,5)><$comeff(2,10)><$motion(2,805)>I wanna float around in the water and bob up and down<br>with you!
+msgctxt "3822:222"
+msgid "<$voicel(2,8)><$comeff(2,5)><$motion(2,801)>¡Juega conmigooo!<clear><br><$voicel(2,5)><$comeff(2,10)><$motion(2,805)>¡Vamos al agua a flotar un rato, porfiii!"
+msgstr ""
+
+#. en: <$voicel(1,7)><$comeff(1,9)><$motion(1,801)>Sure thing! For you, big sis is ALWAYS ready to play!<clear><br><$voicel(1,5)><$emotion(1,49)>But once we’re DONE playing, you and I gotta help out<br><$cdef(27)><pname;0></color>, OK?
+msgctxt "3822:223"
+msgid "<$voicel(1,7)><$comeff(1,9)><$motion(1,801)>Vale, venga, podemos jugar un ratillo juntas.<clear><br><$voicel(1,5)><$emotion(1,49)>Pero luego tenemos que pasarnos a echarle una mano<br>a <$cdef(27)><pname;0></color>, ¿eh?"
+msgstr "<$voicel(1,7)><$comeff(1,9)><$motion(1,801)>Bueno, está bien, podemos jugar un ratito juntas.<clear><br><$voicel(1,5)><$emotion(1,49)>Pero luego tenemos que ir a echarle una mano<br>a <$cdef(27)><pname;0></color>, ¿eh?"
+
+#. en: <$voicel(2,3)><$comeff(2,7)><$motion(2,663)>Awww, we hafta help out? Riiill...
+msgctxt "3822:224"
+msgid "<$voicel(2,3)><$comeff(2,7)><$motion(2,663)>Ay, no, qué rollooo... ¡Si ni siquiera tengo manos!"
+msgstr "<$voicel(2,3)><$comeff(2,7)><$motion(2,663)>Ay, no, qué aburridooo... ¡Si ni siquiera tengo manos!"
+
+#. en: <oneline><$voicel(1,7)><$emotion(1,14)>Yup yup! And if you do help out, there just miiight be<br>something good in it for YOU, y’know?<clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,666)>Hmmm... I wonder if <$cdef(27)><pname;0> </color>has any<br>plans<slide><br>to<slide><br>make<slide><br>FUN<slide><br>TOYS<slide><br>or<slide><br>PLAYGROUND<slide><br>STUFF today...
+msgctxt "3822:225"
+msgid "<$cdef(27)><$voicel(1,7)></color><$emotion(1,14)>Va, si te portas bien, verás como luego te lo agradece.<clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,666)>Lo mismo hasta te fabrica un juguete bieeen guapo..."
+msgstr "<$cdef(27)><$voicel(1,7)></color><$emotion(1,14)>Mira, si te portas bien, verás que luego te lo agradece.<clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,666)>A lo mejor hasta te fabrica un juguete bieeen bonito..."
+
+#. en: <oneline><$comcan(1)><$voicel(2,7)><$comeff(2,5)><$motion(2,801)>Huh? Toys?! Yeah, I’ll help out—I’ll help out SO MUCH!<clear><br><$voicel(2,7)><$comeff(2,10)><$motion(2,806)>C’mon! Let’s go! Let’s go find <$cdef(27)><pname;1><br></color>RIGHT NOW!
+msgctxt "3822:226"
+msgid "<$comcan(1)><$voicel(2,7)><$comeff(2,5)><$motion(2,801)>¡¿Un juguete?! ¡Qué guaaay! ¡Vale, os ayudo!<clear><br><$voicel(2,7)><$comeff(2,10)><$motion(2,806)>¡Vamos ahora mismo a ver a <$cdef(27)><pname;1></color>!"
+msgstr "<$comcan(1)><$voicel(2,7)><$comeff(2,5)><$motion(2,801)>¡¿Un juguete?! ¡Qué geniaaal! ¡Sí, les ayudo!<clear><br><$voicel(2,7)><$comeff(2,10)><$motion(2,806)>¡Vamos ahora mismo a ver a <$cdef(27)><pname;1></color>!"
+
+#. en: <$voicel(1,3)><$comeff(1,6)><$motion(1,666)>Huh? Uhhh...weren’t we gonna go play together?
+msgctxt "3822:227"
+msgid "<$voicel(1,3)><$comeff(1,6)><$motion(1,666)>¿Ahora? Pero, oye, ¿tú no querías ir a nadar?"
+msgstr ""
+
+#. en: <$voicel(2,5)><$emotion(2,14)>Oh yeah... I forgot! Eh heh heh.
+msgctxt "3822:228"
+msgid "<$voicel(2,5)><$emotion(2,14)>Ay, sí... Es verdad... Ji, ji, ji."
+msgstr ""
+
+#. en: <$voicel(1,7)><$comeff(1,7)><$motion(1,807)>Oopah... What should I do?
+msgctxt "3822:240"
+msgid "<$voicel(1,7)><$comeff(1,7)><$motion(1,807)>Aaay... ¿Y ahora qué hago?"
+msgstr ""
+
+#. en: <$comcan(1)><$voicel(2,7)><$emotion(2,29)>Hmmm? What’s up?
+msgctxt "3822:241"
+msgid "<$comcan(1)><$voicel(2,7)><$emotion(2,29)>¿Qué te pasa, amigui? Cuenta."
+msgstr ""
+
+#. en: <$voicel(1,5)><$comeff(1,14)><$motion(1,803)>Umm, so there’s a place I wanna go see,<$voicel(1,4)><$emotion(1,47)> but there’s a river<br>in the way...<clear><br><$voicel(1,5)><$comeff(1,4)><$motion(1,806)>And I’m not really good at swimming...
+msgctxt "3822:242"
+msgid "<$voicel(1,5)><$comeff(1,14)><$motion(1,803)>Es que quiero ir a un sitio...<clear><br><$voicel(1,4)><$emotion(1,47)>P-pero claro, hay que cruzar un río para llegar.<clear><br><$voicel(1,5)><$comeff(1,4)><$motion(1,806)>Y yo nadar más bien poco..."
+msgstr "<$voicel(1,5)><$comeff(1,14)><$motion(1,803)>Es que quiero ir a un lugar...<clear><br><$voicel(1,4)><$emotion(1,47)>P-pero claro, hay que cruzar un río para llegar.<clear><br><$voicel(1,5)><$comeff(1,4)><$motion(1,806)>Y yo nadar más bien poco..."
+
+#. en: <$voicel(2,7)><$emotion(2,14)>Oh, really? Well, uh—maybe I could take you there?<clear><br><$voicel(2,7)><$emotion(2,8)>You’re pretty small, so you could ride on my back while<br>I swim over... How about it?
+msgctxt "3822:243"
+msgid "<$voicel(2,7)><$emotion(2,14)>Ah, si solo es eso... ¿quieres que te lleve yo?<clear><br><$voicel(2,7)><$emotion(2,8)>Podría llevarte a cuestas y cruzarlo a nado sin problema."
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,1)>Yaaay! Really? Really really?! Oh, and can I invite some<br>friends too?
+msgctxt "3822:244"
+msgid "<$voicel(1,7)><$emotion(1,1)>¿En serio? ¡Muchas gracias! Y... ¿puedo traer a un amigo?"
+msgstr ""
+
+#. en: <$voicel(2,7)><$emotion(2,49)>Sure! You can sit on my back and chat. ♪ <clear><br><$voicel(2,5)><$comeff(2,9)><$motion(2,805)>And if anything tries to attack us, I’ll keep you safe. Here,<br>let me show you how...<clear><br><$voicel(2,10)><$comeff(2,5)><$motion(2,816)>CLUH!
+msgctxt "3822:245"
+msgid "<$voicel(2,7)><$emotion(2,49)>Claaaro. Así será aún más animao el trayecto.<clear><br><$voicel(2,5)><$comeff(2,9)><$motion(2,805)>Y tranqui, que, si alguien intenta atacaros, os protegeré.<br>Miiira, mira.<clear><br><$voicel(2,10)><$comeff(2,5)><$motion(2,816)>¡¡Clod!!"
+msgstr "<$voicel(2,7)><$emotion(2,49)>Claaaro. Así será aún más animado el trayecto.<clear><br><$voicel(2,5)><$comeff(2,9)><$motion(2,805)>Y tranqui, que, si alguien intenta atacarlos, los protegeré.<br>Miiira, mira.<clear><br><$voicel(2,10)><$comeff(2,5)><$motion(2,816)>¡¡Clod!!"
+
+#. en: <$voicel(1,9)><$emotion(1,5)>Oopah?! So those round spots turn into spikes?!<clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,666)>Uh... I’d better be careful not to sit on those.
+msgctxt "3822:246"
+msgid "<$voicel(1,9)><$emotion(1,5)>¿Eeeh? ¿Te han salido púas en la espalda?<clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,666)>A-ahora no sé yo si quiero sentarme ahí..."
+msgstr "<$voicel(1,9)><$emotion(1,5)>¿Eeeh? ¿Te salieron púas en la espalda?<clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,666)>A-ahora no sé yo si quiero sentarme ahí..."
+
+#. en: <$voicel(1,8)><$emotion(1,14)>Boss! BOSS!
+msgctxt "3822:260"
+msgid "<$voicel(1,8)><$emotion(1,14)>¡Jefe!"
+msgstr ""
+
+#. en: <$voicel(2,6)><$emotion(2,29)>Well? Did you find anything?
+msgctxt "3822:261"
+msgid "<$voicel(2,6)><$emotion(2,29)>¿Qué se te ofrece? ¿Has descubierto algo?"
+msgstr "<$voicel(2,6)><$emotion(2,29)>¿Qué se te ofrece? ¿Descubriste algo?"
+
+#. en: <$voicel(1,10)><$comeff(1,5)><$motion(1,801)><$facial(1,4)>I found this WICKED treasure, yo!<clear><br><$voicel(1,3)><$emotion(1,47)>Heh. Nah, I wish. I didn’t find anything.
+msgctxt "3822:262"
+msgid "<$voicel(1,10)><$comeff(1,5)><$motion(1,801)><$facial(1,4)>¡Sí, un pedazo tesoro que no veas!<clear><br><$voicel(1,3)><$emotion(1,47)>No, ojalá... La verdad es que no he encontrado nada<br>interesante."
+msgstr "<$voicel(1,10)><$comeff(1,5)><$motion(1,801)><$facial(1,4)>¡Sí, un tesorazo que ni te imaginas!<clear><br><$voicel(1,3)><$emotion(1,47)>No, ojalá... La verdad es que no encontré nada<br>interesante."
+
+#. en: <$voicel(2,7)><$emotion(2,46)>I feared as much.
+msgctxt "3822:263"
+msgid "<$voicel(2,7)><$emotion(2,46)>Me lo figuraba..."
+msgstr ""
+
+#. en: <$voicel(1,3)><$comeff(1,14)><$motion(1,666)>There used to be so much shiny stuff just scattered<br>all over the place...<$voicel(1,6)><$emotion(1,29)> I wonder where it all went.
+msgctxt "3822:264"
+msgid "<$voicel(1,3)><$comeff(1,14)><$motion(1,666)>Antes había cosas con brillibrilli por todas partes,<br>¡y ahora, nada de nada, literal!<clear><br><$voicel(1,6)><$emotion(1,29)>¿Dónde habrán ido a parar?"
+msgstr ""
+
+#. en: <$voicel(2,5)><$comeff(2,14)><$motion(2,666)>I never see the humans themselves around either...<br>Perhaps they took it all with them?<clear><br><$voicel(2,7)><$emotion(2,14)>But no matter. I still have one thing to say.
+msgctxt "3822:265"
+msgid "<$voicel(2,5)><$comeff(2,14)><$motion(2,666)>Tampoco se ven seres humanos hace mucho, si te fijas...<br>¿Quizá se llevaron consigo todos sus tesoros?<clear><br><$voicel(2,7)><$emotion(2,14)>Bueno, eso es irrelevante... Ahora mismo, solo tengo<br>una cosa que decirte."
+msgstr "<$voicel(2,5)><$comeff(2,14)><$motion(2,666)>Tampoco se ven seres humanos hace mucho, si te fijas...<br>¿Tal vez se llevaron consigo todos sus tesoros?<clear><br><$voicel(2,7)><$emotion(2,14)>Bueno, eso es irrelevante... Ahora mismo, solo tengo<br>una cosa que decirte."
+
+#. en: <$voicel(1,7)><$emotion(1,29)>Oh yeah? What is it?!
+msgctxt "3822:266"
+msgid "<$voicel(1,7)><$emotion(1,29)>¿Y qué es?"
+msgstr ""
+
+#. en: <$voicel(2,7)><$emotion(2,1)>Continue on your search for the shiniest, sparkliest, most<br>beautiful objects you can find!!!<clear><br><$voicel(2,5)><$comeff(2,14)><$motion(2,666)>That is all. I’m sure these treasures still exist somewhere<br>in this world.<clear><br><$voicel(2,7)><$emotion(2,49)>And you, my friend, are more than capable of finding<br>them. I have only the highest expectations.
+msgctxt "3822:267"
+msgid "<$voicel(2,7)><$emotion(2,1)>¡Que sigas buscando sin descanso hasta dar con algo<br>brillante, reluciente y despampanante!<clear><br><$voicel(2,5)><$comeff(2,14)><$motion(2,666)>Eso es todo. Tiene que existir un objeto semejante<br>en algún rincón del mundo.<clear><br><$voicel(2,7)><$emotion(2,49)>Y si alguien puede hallarlo, eres tú. ¡Cuento contigo!"
+msgstr ""
+
+#. en: <$voicel(1,5)><$comeff(1,5)><$motion(1,801)>Yoooooo! You can totally count on me, boss! <$voicel(1,7)><$emotion(1,49)>I’ll go right<br>back out there and hunt some more!
+msgctxt "3822:268"
+msgid "<$voicel(1,5)><$comeff(1,5)><$motion(1,801)>¡Oooh! ¡A la orden, jefe! ¡No le defraudaré, se lo<br>prometo!<clear><br><$voicel(1,7)><$emotion(1,49)>¡A buscar se ha dicho!"
+msgstr "<$voicel(1,5)><$comeff(1,5)><$motion(1,801)>¡Oooh! ¡A la orden, jefe! ¡No lo defraudaré, se lo<br>prometo!<clear><br><$voicel(1,7)><$emotion(1,49)>¡A buscar se ha dicho!"
+
+#. en: <$voicel(1,5)><$motion(1,806)><$comeff(1,3)>Hey, <$cdef(27)>Magnezone</color>, I’ve got a question. You’re super huge,<br>and you don’t have wings, so...<$voicel(1,4)><$motion(1,805)><$comeff(1,6)> How come you can fly?
+msgctxt "3822:280"
+msgid "<$voicel(1,5)><$motion(1,806)><$comeff(1,3)>¡Ey, <$cdef(27)>Magnezone</color>! Siempre me he preguntado una cosa:<br>no tienes alas ni nada y además eres enorrrme...<clear><br><$voicel(1,4)><$motion(1,805)><$comeff(1,6)>¿Cómo eres capaz de volar?"
+msgstr ""
+
+#. en: <$voicel(2,5)><$motion(2,661)><$comeff(2,10)>To say it in simple words—electric power.
+msgctxt "3822:281"
+msgid "<$voicel(2,5)><$motion(2,661)><$comeff(2,10)>La explicación es simple: es el poder de la electricidad."
+msgstr ""
+
+#. en: <$voicel(1,7)><$motion(1,665)><$facial(1,4)><$comeff(1,5)>No way! You can fly with electric power? That’s awesome!<br>Wait... <wait(0.6)>Does that mean I can fly too?!
+msgctxt "3822:282"
+msgid "<$voicel(1,7)><$motion(1,665)><$facial(1,4)><$comeff(1,5)>¡Qué dices! ¿Solo con la electricidad ya puedes volar?<br>Espera... ¡¿Significa eso que yo también podría?!"
+msgstr ""
+
+#. en: <$voicel(2,6)><$motion(2,805)><$comeff(2,14)>I do not know.<clear><br><$voicel(2,7)><$motionoff(2,804)><$comeff(2,21)>But it requires much electricity and great precision of<br>control.
+msgctxt "3822:283"
+msgid "<$voicel(2,6)><$motion(2,805)><$comeff(2,14)>Cuestionable.<clear><br><$voicel(2,7)><$motionoff(2,804)><$comeff(2,21)>Es necesario un manejo preciso y una gran cantidad de<br>electricidad."
+msgstr ""
+
+#. en: <$voicel(1,7)><$motion(1,806)><$facial(1,4)><$comeff(1,9)>I’m gonna try right now! Here I go...<clear><br><$voicel(1,10)><$motion(1,860)><$facial(1,7)><$comeff(1,10)>Hyayayayaaah!
+msgctxt "3822:284"
+msgid "<$voicel(1,7)><$motion(1,806)><$facial(1,4)><$comeff(1,9)>¡Venga, lo voy a intentar!<clear><br><$voicel(1,10)><$motion(1,860)><$facial(1,7)><$comeff(1,10)>¡¡¡Kiiiiiid!!!"
+msgstr "<$voicel(1,7)><$motion(1,806)><$facial(1,4)><$comeff(1,9)>¡Vamos, lo voy a intentar!<clear><br><$voicel(1,10)><$motion(1,860)><$facial(1,7)><$comeff(1,10)>¡¡¡Kiiiiiid!!!"
+
+#. en: <$voicel(2,8)><$motion(2,806)><$comeff(2,1)>You can do it.
+msgctxt "3822:285"
+msgid "<$voicel(2,8)><$motion(2,806)><$comeff(2,1)>Ánimo."
+msgstr ""
+
+#. en: <$motion(1,807)><wait(0.8)><$voicel(1,2)><$facial(1,7)><$comeff(1,10)><$motion(1,860)>HYAAAAAAAAARGH!!!
+msgctxt "3822:286"
+msgid "<$motion(1,807)><wait(0.8)><$voicel(1,2)><$facial(1,7)><$comeff(1,10)><$motion(1,860)><$textsize(2)>¡¡¡KIIIIIID!!!</textsize>"
+msgstr ""
+
+#. en: <$voicel(2,10)><$emotion(2,8)>Go. Go. Go.
+msgctxt "3822:287"
+msgid "<$voicel(2,10)><$emotion(2,8)>Puedes lograrlo."
+msgstr ""
+
+#. en: <$motion(1,801)><wait(0.7)><$voicel(1,10)><$facial(1,5)><$comeff(1,21)>I did it!!! I flew!
+msgctxt "3822:288"
+msgid "<$motion(1,801)><wait(0.7)><$voicel(1,10)><$facial(1,5)><$comeff(1,21)>¡¡Lo conseguí!!"
+msgstr ""
+
+#. en: <$voicel(2,3)><$emotion(2,51)>That was a jump. You did not fly. Delusions are not good.
+msgctxt "3822:289"
+msgid "<$voicel(2,3)><$emotion(2,51)>Eso ha sido un simple salto. No cumple los requisitos..."
+msgstr "<$voicel(2,3)><$emotion(2,51)>Eso fue un simple salto. No cumple los requisitos..."
+
+#. en: <$voicel(2,8)><$comeff(2,5)><$motion(2,669)>Wh-whoooaaa!<wait(1.8)><$motion(2,670)><wait(1.0)><clear><br><$voicel(2,4)><$facial(2,9)><$comeff(2,7)><$motion(2,805)>Owww... I tripped again...
+msgctxt "3822:300"
+msgid "<$voicel(2,8)><$comeff(2,5)><$motion(2,669)>¡Ayyy!<wait(1.8)><$motion(2,670)><wait(1.0)><clear><br><$voicel(2,4)><$facial(2,9)><$comeff(2,7)><$motion(2,805)>Hala, ya me he dado otro coscorrón."
+msgstr "<$voicel(2,8)><$comeff(2,5)><$motion(2,669)>¡Ayyy!<wait(1.8)><$motion(2,670)><wait(1.0)><clear><br><$voicel(2,4)><$facial(2,9)><$comeff(2,7)><$motion(2,805)>Rayos, ya me di otro coscorrón."
+
+#. en: <$voicel(1,7)><$emotion(1,29)>Goodness gracious! Are you all right, dear?
+msgctxt "3822:301"
+msgid "<$voicel(1,7)><$emotion(1,29)>Ay, mi chiquitín, ¿estás bien?"
+msgstr ""
+
+#. en: <$voicel(2,7)><$emotion(2,14)>Yeah, I’m fine...<clear><br><$voicel(2,5)><$comeff(2,4)><$motion(2,807)>It’s just...I fall over real easily since my head is<br>so heavy...
+msgctxt "3822:302"
+msgid "<$voicel(2,7)><$emotion(2,14)>Sí, tranquila.<clear><br><$voicel(2,5)><$comeff(2,4)><$motion(2,807)>Es que me pesa tanto la cabeza que a menudo pierdo<br>el equilibrio y me acabo dando trastazos."
+msgstr "<$voicel(2,7)><$emotion(2,14)>Sí, tranquila.<clear><br><$voicel(2,5)><$comeff(2,4)><$motion(2,807)>Es que me pesa tanto la cabeza que a menudo pierdo<br>el equilibrio y me acabo dando golpazos."
+
+#. en: <$voicel(1,4)><$comeff(1,6)><$motion(1,666)>But...are you sure you’re OK?<clear><br><$voicel(1,7)><$emotion(1,49)>Here, let me just check you for any injuries!
+msgctxt "3822:303"
+msgid "<$voicel(1,4)><$comeff(1,6)><$motion(1,666)>Hmm, no sé, no sé... ¿Seguro que estás bien?<clear><br><$voicel(1,7)><$emotion(1,49)>¡Anda, déjame ver que no te hayas hecho pupita!"
+msgstr "<$voicel(1,4)><$comeff(1,6)><$motion(1,666)>Hmm, no sé, no sé... ¿Seguro que estás bien?<clear><br><$voicel(1,7)><$emotion(1,49)>¡Ven, déjame ver que no te hayas lastimado!"
+
+#. en: <$voicel(2,7)><$emotion(2,14)>P-please don’t worry! Nothing hurts or anything!<clear><br><$voicel(2,7)><$comeff(2,9)><$motion(2,806)>I won’t let a little scuff or two bother me!
+msgctxt "3822:304"
+msgid "<$voicel(2,7)><$emotion(2,14)>No, no, de verdad. Si ni siquiera me duele.<clear><br><$voicel(2,7)><$comeff(2,9)><$motion(2,806)>Y si tuviera algún rasguño, con un lametón se arregla."
+msgstr "<$voicel(2,7)><$emotion(2,14)>No, no, de verdad. Si ni siquiera me duele.<clear><br><$voicel(2,7)><$comeff(2,9)><$motion(2,806)>Y si tuviera algún rasguño, con una lamida se arregla."
+
+#. en: <$voicel(1,7)><$emotion(1,27)>My dear <$cdef(27)>Piplup</color>, you cannot afford to take injuries lightly!<br><$voicel(1,6)><$comeff(1,10)><$motion(1,666)>If you ignore them, they can get worse, and then you’re<slide><br>REALLY in trouble!
+msgctxt "3822:305"
+msgid "<$voicel(1,7)><$cdef(27)><$emotion(1,27)></color>¡Ay, mi chiquitín, no hay que tomárselo tan a la ligera!<clear><br><$voicel(1,6)><$comeff(1,10)><$motion(1,666)>¡Mira que como luego se te infecte...!"
+msgstr ""
+
+#. en: <$voicel(2,5)><$comeff(2,4)><$motion(2,666)>Eeep?! I-I don’t think that’ll happen to me... Will it?<clear><br><$voicel(2,7)><$emotion(2,14)>Maybe you should have a look, just to be safe...
+msgctxt "3822:306"
+msgid "<$voicel(2,5)><$comeff(2,4)><$motion(2,666)>¡Piiip! N-no creo que la cosa llegue a tanto...<clear><br><$voicel(2,7)><$emotion(2,14)>Pero bueno, tampoco pierdo nada por dejar que eches<br>un vistazo, aunque solo sea por precaución..."
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,49)>Wonderful! Oh...and while we’re at it, why don’t I just give<br>you a full-body checkup?<clear><br><$voicel(1,5)><$emotion(1,8)>I can examine you from the top of your precious head to<br>tips of your little toesies!
+msgctxt "3822:307"
+msgid "<$voicel(1,7)><$emotion(1,49)>¡Buen chico! Y ya que estamos... mejor si lo miramos todo,<br>¿no? ¡Marchando un chequeo completito!<clear><br><$voicel(1,5)><$emotion(1,8)>¡Ven aquí, que te voy a examinar de la cabeza a los pies!"
+msgstr "<$voicel(1,7)><$emotion(1,49)>¡Buen chico! Y ya que estamos... mejor si lo miramos todo,<br>¿no? ¡Vamos con un chequeo completito!<clear><br><$voicel(1,5)><$emotion(1,8)>¡Ven aquí, que te voy a examinar de la cabeza a los pies!"
+
+#. en: <$voicel(2,3)><$emotion(2,17)><$motion(2,807)>Ulp... Y-you really don’t need to do all THAT...
+msgctxt "3822:308"
+msgid "<$voicel(2,3)><$emotion(2,17)><$motion(2,807)>Eeeh... Ya pediré cita para otro día..."
+msgstr ""
+
+#. en: <$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,5)>Hey, <$cdef(27)><$cname(231)></color>. Question—<$comeff(1,6)><$motion(1,805)><$voicel(1,8)>how do I get strong like you?
+msgctxt "3822:320"
+msgid "<$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,5)>Oye, <$cdef(27)><$cname(231)></color>... No paro de darle vueltas a algo...<wait(1.0)><br><$comeff(1,6)><$motion(1,805)><$voicel(1,8)>¿Qué tengo que hacer para ser tan fuerte como tú?"
+msgstr ""
+
+#. en: <$comeff(2,10)><$facial(2,4)><$motion(2,661)><$voicel(2,8)>The secret is havin’ a fire inside ya! A figurative one in<br>addition to the literal one, y’know?<clear><br><$comeff(2,3)><$facial(2,2)><$motion(2,806)><$voicel(2,7)>Then you just gotta stoke that fire real good!
+msgctxt "3822:321"
+msgid "<$comeff(2,10)><$facial(2,4)><$motion(2,661)><$voicel(2,8)>¿Como yo, pipiola? Pues pa eso solo hay una respuesta:<br>un ardiente grito de guerra. ¡Esa es la clave de todo!<clear><br><$comeff(2,3)><$facial(2,2)><$motion(2,806)><$voicel(2,7)>¡Adelante, prende la llama y a ver ese grito!"
+msgstr "<$comeff(2,10)><$facial(2,4)><$motion(2,661)><$voicel(2,8)>¿Como yo, novata? Pues pa eso solo hay una respuesta:<br>un ardiente grito de guerra. ¡Esa es la clave de todo!<clear><br><$comeff(2,3)><$facial(2,2)><$motion(2,806)><$voicel(2,7)>¡Adelante, prende la llama y a ver ese grito!"
+
+#. en: <$comeff(1,17)><$facial(1,1)><$motion(1,807)><$voicel(1,3)>I...see. To be honest, getting fired up’s not really my style.<clear><br><$comeff(1,6)><$motion(1,661)><$voicel(1,5)>Do you have any, I dunno, practical training tips that you<br>can share?
+msgctxt "3822:322"
+msgid "<$comeff(1,17)><$facial(1,1)><$motion(1,807)><$voicel(1,3)>Buf, no sé yo si eso de levantar la voz es lo mío.<clear><br><$comeff(1,6)><$motion(1,661)><$voicel(1,5)>¿De verdad no puedes darme otro consejo? No sé,<br>¿una rutina de entrenamiento o algo así más directo?"
+msgstr ""
+
+#. en: <$comeff(2,5)><$facial(2,1)><$motion(2,807)><$voicel(2,5)>Hey, hey, hey! Don’t you go badmouthin’ my methods<br>like that!<clear><br><$voicel(2,6)>You absolutely gotta have that fire in ya if you wanna get<br>really strong!<clear><br><$comeff(2,10)><$facial(2,1)><$motion(2,806)><$voicel(2,9)>The fire’s what keeps ya goin’ through your toughest<br>training when ya just wanna give up!
+msgctxt "3822:323"
+msgid "<$comeff(2,5)><$facial(2,1)><$motion(2,807)><$voicel(2,5)>¡¿Más directo?! Hay que ver cómo sois los chavales de hoy<br>en día, siempre con atajos y mandangas.<clear><br><$voicel(2,6)>¡Si de verdad quieres volverte fuerte, tienes que practicar<br>tu grito de guerra y punto! ¡No hay más!<clear><br><$comeff(2,10)><$facial(2,1)><$motion(2,806)><$voicel(2,9)>¿Cómo crees que se superan las adversidades de la vida<br>y la dureza de los entrenamientos? ¡A grito pelao!"
+msgstr "<$comeff(2,5)><$facial(2,1)><$motion(2,807)><$voicel(2,5)>¡¿Más directo?! Hay que ver cómo son los chicos de hoy<br>en día, siempre con atajos y tonterías.<clear><br><$voicel(2,6)>¡Si de verdad quieres volverte fuerte, tienes que practicar<br>tu grito de guerra y punto! ¡No hay más!<clear><br><$comeff(2,10)><$facial(2,1)><$motion(2,806)><$voicel(2,9)>¿Cómo crees que se superan las adversidades de la vida<br>y la dureza de los entrenamientos? ¡A todo pulmón!"
+
+#. en: <$comeff(1,14)><$facial(1,14)><$motion(1,805)><$voicel(1,6)>Hm. If you say so, I guess that must be true...<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>All right! I’ll work on building up that fire inside me!
+msgctxt "3822:324"
+msgid "<$comeff(1,14)><$facial(1,14)><$motion(1,805)><$voicel(1,6)>Bueno, si tú lo dices, supongo que será verdad...<br><wait(1.0)><$comeff(1,10)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>Vale, decidido. ¡A partir de hoy, practicaré mi grito!"
+msgstr "<$comeff(1,14)><$facial(1,14)><$motion(1,805)><$voicel(1,6)>Bueno, si tú lo dices, supongo que será verdad...<br><wait(1.0)><$comeff(1,10)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>Bien, decidido. ¡A partir de hoy, practicaré mi grito!"
+
+#. en: <$facial(1,2)><$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,7)>Rock on, bud! I’m glad you’re startin’ to get it!<clear><br><$facial(2,1)><$voicel(2,6)>When I stoke that figurative fire, I get it burnin’ so hot that<br>it’ll spill outta my beak as REAL fire!<clear><br><$comeff(2,13)><$facial(2,4)><$motion(2,801)><$voicel(2,9)>So sometimes I end up roasting berries before I eat ’em!<br>Good thing roasted Leppa Berries are tasty!
+msgctxt "3822:325"
+msgid "<$facial(1,2)><$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,7)>¡Bien! ¡Me alegra que entres en razón!<clear><br><$facial(2,1)><$voicel(2,6)>Yo a veces estoy tan motiv<gen;-3(ao,á)> que se me escapa fuego<br>por el pico y chamusco las bayas antes de comérmelas.<clear><br><$comeff(2,13)><$facial(2,4)><$motion(2,801)><$voicel(2,9)>¿Y sabes qué? ¡Las bayas zanama churruscadas están<br>buenísimas!"
+msgstr "<$facial(1,2)><$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,7)>¡Bien! ¡Me alegra que entres en razón!<clear><br><$facial(2,1)><$voicel(2,6)>Yo a veces estoy tan motiv<gen;-3(ao,á)> que se me escapa fuego<br>por el pico y chamusco las bayas antes de comérmelas.<clear><br><$comeff(2,13)><$facial(2,4)><$motion(2,801)><$voicel(2,9)>¿Y sabes qué? ¡Las bayas zanama tostaditas están<br>buenísimas!"
+
+#. en: <$facial(2,2)><$comcan(2)><$comeff(1,9)><$facial(1,1)><$motion(1,666)><$voicel(1,7)>Not sure I’d want to let the fire spill outta me...but roasted<br>Leppa Berries sure do sound good.
+msgctxt "3822:326"
+msgid "<$facial(2,2)><$comcan(2)><$comeff(1,9)><$facial(1,1)><$motion(1,666)><$voicel(1,7)>No me mola mucho la idea de ir por ahí echando fuego<br>por el pico... pero admito que lo de las bayas a la brasa<slide><br>suena bastante bien."
+msgstr "<$facial(2,2)><$comcan(2)><$comeff(1,9)><$facial(1,1)><$motion(1,666)><$voicel(1,7)>No me gusta mucho la idea de ir por ahí echando fuego<br>por el pico... pero admito que lo de las bayas a la brasa<slide><br>suena bastante bien."
+
+#. en: <$voicel(2,7)><$emotion(2,49)>You know, I’ve always really looked up to you, <$cdef(27)>Wingull</color>.
+msgctxt "3822:340"
+msgid "<$voicel(2,7)><$emotion(2,49)>¿Sabías que eres mi ídola, <$cdef(27)>Wingull</color>?"
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,29)>Whaaat? Wow, thanks! Um... Why, though?
+msgctxt "3822:341"
+msgid "<$voicel(1,7)><$emotion(1,29)>¿Ah, sí? Qué ilusión, perooo... ¿por qué?"
+msgstr "<$voicel(1,7)><$emotion(1,29)>¿Ah, sí? Qué emoción, perooo... ¿por qué?"
+
+#. en: <$voicel(2,7)><$comeff(2,8)><$motion(2,806)>You look so amazing when you fly! And it seems like<br>you have so much fun up there in the sky.<clear><br><$voicel(2,6)><$comeff(2,17)><$motion(2,666)>I really wish I could fly like that...
+msgctxt "3822:342"
+msgid "<$voicel(2,7)><$comeff(2,8)><$motion(2,806)>¡Por la forma tan elegante que tienes de planear!<br>Tiene que ser genial eso de poder surcar los cielos...<clear><br><$voicel(2,6)><$comeff(2,17)><$motion(2,666)>¡Jo, qué envidia me das!"
+msgstr "<$voicel(2,7)><$comeff(2,8)><$motion(2,806)>¡Por la forma tan elegante que tienes de planear!<br>Tiene que ser genial eso de poder surcar los cielos...<clear><br><$voicel(2,6)><$comeff(2,17)><$motion(2,666)>¡Ay, qué envidia me das!"
+
+#. en: <$voicel(1,7)><$emotion(1,49)>Yeah, flying IS really fun... Nothing beats slowly soaring<br>above the ocean!
+msgctxt "3822:343"
+msgid "<$voicel(1,7)><$emotion(1,49)>Sí que es verdad que mola lo de volar por ahí. Sobre todo<br>cuando vas tranquilamente a ras del mar. Es lo mejooor."
+msgstr "<$voicel(1,7)><$emotion(1,49)>Sí que es verdad que es genial volar por ahí. Sobre todo<br>cuando vas tranquilamente a ras del mar. Es lo mejooor."
+
+#. en: <$voicel(2,7)><$emotion(2,14)>I knew it! I’m so jealous...<clear><br><$voicel(2,7)><$comeff(2,14)><$motion(2,805)>Underground, I’ve had <$cdef(27)>Diglett</color> run into me while I was<br>napping in a hole, and one time a <$cdef(27)>Hoothoot</color> even came<slide><br><$voicel(2,6)><$motion(2,663)><$facial(2,9)>and dug me out for no reason!<clear><br><$voicel(2,4)><$comeff(2,7)><$motion(2,807)>I feel so uncool...
+msgctxt "3822:344"
+msgid "<$voicel(2,7)><$emotion(2,14)>Sí, tiene que ser una pasada. ¡Ojalá tuviera alas y pudiera<br>hacer lo mismo!<clear><br><$voicel(2,7)><$comeff(2,14)><$motion(2,805)>Yo, en cambio, como duermo bajo tierra, o viene un<br><$cdef(27)>Diglett </color>y se choca conmigo así de repente, o intenta<slide><br><$voicel(2,6)><$motion(2,663)><$facial(2,9)>desenterrarme algún <$cdef(27)>Hoothoot</color>.<clear><br><$voicel(2,4)><$comeff(2,7)><$motion(2,807)>Así no hay quien descanse..."
+msgstr "<$voicel(2,7)><$emotion(2,14)>Sí, tiene que ser increíble. ¡Ojalá tuviera alas y pudiera<br>hacer lo mismo!<clear><br><$voicel(2,7)><$comeff(2,14)><$motion(2,805)>Yo, en cambio, como duermo bajo tierra, o viene un<br><$cdef(27)>Diglett </color>y se choca conmigo así de repente, o intenta<slide><br><$voicel(2,6)><$motion(2,663)><$facial(2,9)>desenterrarme algún <$cdef(27)>Hoothoot</color>.<clear><br><$voicel(2,4)><$comeff(2,7)><$motion(2,807)>Así no hay quien descanse..."
+
+#. en: <$voicel(1,7)><$emotion(1,38)>Hee hee, it must be nice having so many friends around.
+msgctxt "3822:345"
+msgid "<$voicel(1,7)><$emotion(1,38)>Suena a que no te aburres un segundo. Qué guaaay."
+msgstr "<$voicel(1,7)><$emotion(1,38)>Suena a que no te aburres un segundo. Qué geniaaal."
+
+#. en: <$voicel(2,7)><$comeff(2,14)><$motion(2,666)>I just wish I could take a niiice long nap as I fly across<br>the sky...
+msgctxt "3822:346"
+msgid "<$voicel(2,7)><$comeff(2,14)><$motion(2,666)>Ojalá pudiera echarme la siesta planeando por el cielo..."
+msgstr ""
+
+#. en: <$comcan(2)><$emotion(1,14)><$voicel(1,5)>Well, I wouldn’t recommend dozing off mid-flight. That’s<br>kinda, uh—dangerous.<clear><br><$voicel(1,7)><$comeff(1,14)><$motion(1,802)><$facial(1,9)>You might get blown away by one of <$cdef(27)>Pidgeot</color>’s gusts, or<br>run into an unsuspecting <$cdef(27)>Rookidee</color>...
+msgctxt "3822:347"
+msgid "<$comcan(2)><$emotion(1,14)><$voicel(1,5)>Jeee. No te lo recomiendo, la verdad. Es muy peligroso.<clear><br><$voicel(1,7)><$comeff(1,14)><$motion(1,802)><$facial(1,9)>Podrías verte arrastrado por las corrientes de aire que<br>levantan los <$cdef(27)>Pidgeot</color>, chocarte contra un <$cdef(27)>Rookidee</color>..."
+msgstr ""
+
+#. en: <$comcan(1)><$voicel(2,7)><$emotion(2,14)>Wait, really? I guess it’s not as safe up there as<br>I thought...
+msgctxt "3822:348"
+msgid "<$comcan(1)><$voicel(2,7)><$emotion(2,14)>¿Ah, sí? Vaya... No sabía que ahí arriba también hubiera<br>tantos peligros."
+msgstr ""
+
+#. en: <$voicel(1,7)><$comeff(1,7)><$motion(1,666)>Yeah... I guess every place has its perks and its, uh—pains?
+msgctxt "3822:349"
+msgid "<$voicel(1,7)><$comeff(1,7)><$motion(1,666)>Pues sí. En todas partes cuecen habas, que dice mi abu."
+msgstr "<$voicel(1,7)><$comeff(1,7)><$motion(1,666)>Pues sí. En todas partes cuecen habas, como dice mi abu."
+
+#. en: <$emotion(1,29)><$voicel(1,5)>Yo, you really like touchin’ your cheeks, don’t you, <$cdef(27)>Pawmo</color>.
+msgctxt "3822:380"
+msgid "<$emotion(1,29)><$voicel(1,5)><$cdef(27)>Pawmo</color>, tía, sí que te gusta tocarte las mejillas..."
+msgstr "<$emotion(1,29)><$voicel(1,5)><$cdef(27)>Pawmo</color>, amiga, sí que te gusta tocarte las mejillas..."
+
+#. en: <$facial(2,4)><$motion(2,803)><$voicel(2,7)>Oh, yeah... My cheeks are full of electricity, so, um...<br><$comeff(2,9)><$motion(2,806)><$voicel(2,10)>It feels nice and tingly when I touch them. ♪
+msgctxt "3822:381"
+msgid "<$facial(2,4)><$motion(2,803)><$voicel(2,7)>Sí, la verdad es que es una pasaaada...<clear><br><$comeff(2,9)><$motion(2,806)><$voicel(2,10)>Es ahí donde se me acumula la electricidad y no veas qué<br>gustillo da tocarlas..."
+msgstr "<$facial(2,4)><$motion(2,803)><$voicel(2,7)>Sí, la verdad es que es increíbleee...<clear><br><$comeff(2,9)><$motion(2,806)><$voicel(2,10)>Es ahí donde se me acumula la electricidad y no sabes qué<br>gustito da tocarlas..."
+
+#. en: <$voicel(1,8)>Yooo, really? That’s pretty sweet.<clear><br><$emotion(1,29)><$voicel(1,9)>Can I touch ’em?
+msgctxt "3822:382"
+msgid "<$voicel(1,8)>No me estarás troleando, ¿no?<clear><br><$emotion(1,29)><$voicel(1,9)>¿Puedo probar yo también?"
+msgstr ""
+
+#. en: <$emotion(2,8)><$voicel(2,10)>Uh-huh, go ahead!<clear><br><$voicel(2,7)>Just be careful. Sometimes folks who touch them get<br>shocked so bad they can’t move after...
+msgctxt "3822:383"
+msgid "<$emotion(2,8)><$voicel(2,10)>Venga, va...<clear><br><$voicel(2,7)>Pero con cuidao, ¿eh? Que más de uno se ha quedado<br>paralizado con la tontería..."
+msgstr "<$emotion(2,8)><$voicel(2,10)>Está bien...<clear><br><$voicel(2,7)>Pero con cuidado, ¿eh? Que más de uno se quedó<br>paralizado con la tontería..."
+
+#. en: <$comeff(1,7)><$facial(1,9)><$motion(1,803)><$voicel(1,3)>Oh, uh... Y’know what, I haven’t washed my hands in a bit,<br>so maybe I’ll pass this time.<clear><br><$emotion(1,64)><$voicel(1,5)>You don’t paralyze yourself, though? You’re totally fine?
+msgctxt "3822:384"
+msgid "<$cdef(27)><$comeff(1,7)></color><$facial(1,9)><$motion(1,803)><$voicel(1,3)>Eh... Pensándolo mejor, tengo las manos to sucias, así que<br>otro día si eso...<clear><br><$emotion(1,64)><$voicel(1,5)>Tonces, ¿tú no te electrocutas al tocarlas? Qué guapada."
+msgstr "<$cdef(27)><$comeff(1,7)></color><$facial(1,9)><$motion(1,803)><$voicel(1,3)>Eh... Pensándolo mejor, tengo las manos bien sucias, así que<br>mejor otro día...<clear><br><$emotion(1,64)><$voicel(1,5)>Entonces, ¿tú no te electrocutas al tocarlas? Qué genial."
+
+#. en: <$emotion(2,38)><$voicel(2,7)>Yup! Sometimes some of the...um...tingliness stays in my<br>paw pads, but that’s actually pretty useful.
+msgctxt "3822:385"
+msgid "<$emotion(2,38)><$voicel(2,7)>No... y hasta me viene bien a veces que se me quede la<br>electricidad acumulada en las almohadillas."
+msgstr ""
+
+#. en: <$emotion(1,29)><$voicel(1,6)>Oh yeah? Whaddya mean?
+msgctxt "3822:386"
+msgid "<$emotion(1,29)><$voicel(1,6)>¿Te viene bien para qué?"
+msgstr ""
+
+#. en: <$motion(2,817)><$voicel(2,8)>Here, I’ll show you.<wait(0.4)><$motion(2,815)><clear><br><$emotion(2,8)><$voicel(2,9)>See? If I punch with the electricity, I can knock out weak<br>opponents with just one hit. ♪
+msgctxt "3822:387"
+msgid "<$motion(2,817)><$voicel(2,8)>A veeer, mira... <wait(0.4)><$motion(2,815)><clear><br><$emotion(2,8)><$voicel(2,9)>¿Ves? Con algo de electricidad, puedo debilitar a rivales<br>débiles de un manotazo."
+msgstr ""
+
+#. en: <$emotion(1,58)><$voicel(1,9)>You got some surprisingly scary stuff goin’ on in your head,<br>yo. I don’t wanna get on your bad side.
+msgctxt "3822:388"
+msgid "<$cdef(27)><$emotion(1,58)></color><$voicel(1,9)>Uf, estás chetadísima... En ese caso, renta ser tu amig<gen;-3(o,a)>..."
+msgstr "<$cdef(27)><$emotion(1,58)></color><$voicel(1,9)>Uf, eres súper OP... En ese caso, conviene ser tu amig<gen;-3(o,a)>..."

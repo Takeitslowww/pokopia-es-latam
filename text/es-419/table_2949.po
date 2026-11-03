@@ -1,0 +1,116 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 2949 (es-ES slot); English reference: record 2945.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 2949\n"
+"X-Ldtool-English-Record: 2945\n"
+
+#. en: <oneline><$emotion(4,37)><$voicel(4,7)>Wow, you’re working really hard on this town,<br><$cdef(27)><pname;0></color>!<slide><br>Can<slide><br>I<slide><br>ask<slide><br>for<slide><br>something too?
+msgctxt "2949:0"
+msgid "<oneline><$emotion(4,37)><$voicel(4,7)>¡<$cdef(27)><pname;0></color>! Siempre estás haciendo cosas<br>para mejorar<slide><br>el vecindario, ¿verdad que sí?<clear><br>¡Pues yo también quiero pedirte un favor! ¡¿Porfi?!"
+msgstr ""
+
+#. en: <$emotion(4,8)><$voicel(4,9)>Yayyy, thank you, <$cdef(27)><pname;0></color>!<clear><br><$comeff(4,14)><$facial(4,1)><$motion(4,666)><$voicel(4,5)>So, um, I want you to make a crop field and plant some<br>vegetables! <$emotion(4,14)><$voicel(4,8)>Any kind would work!
+msgctxt "2949:1"
+msgid "<$emotion(4,8)><$voicel(4,9)>¡Chupi! ¡Eres <gen;-2(el,la)> mejooor!<clear><br><$comeff(4,14)><$facial(4,1)><$motion(4,666)><$voicel(4,5)>Lo que quiero es... ¡que hagas un huertito de verdura!<clear><br>Puedes plantar las que más te gusten, <$emotion(4,14)><$voicel(4,8)>que a mí todas<br>me parecen bien."
+msgstr "<$emotion(4,8)><$voicel(4,9)>¡Yupi! ¡Eres <gen;-2(el,la)> mejooor!<clear><br><$comeff(4,14)><$facial(4,1)><$motion(4,666)><$voicel(4,5)>Lo que quiero es... ¡que hagas un huertito de verdura!<clear><br>Puedes plantar las que más te gusten, <$emotion(4,14)><$voicel(4,8)>que a mí todas<br>me parecen bien."
+
+#. en: <$emotion(4,8)><$voicel(4,9)>Yayyy, thank you, <$cdef(27)><pname;0></color>!<clear><br><$comeff(4,14)><$facial(4,1)><$motion(4,666)><$voicel(4,5)>So, um, I want you to make a crop field and plant some<br>vegetables! <$emotion(4,14)><$voicel(4,8)>Any kind would work!
+msgctxt "2949:2"
+msgid "<$emotion(4,8)><$voicel(4,9)>¡Chupi! ¡Eres <gen;-2(el,la)> mejooor!<clear><br><$comeff(4,14)><$facial(4,1)><$motion(4,666)><$voicel(4,5)>Lo que quiero es... ¡que hagas un huertito de verdura!<clear><br>Puedes plantar las que más te gusten, <$emotion(4,14)><$voicel(4,8)>que a mí todas<br>me parecen bien."
+msgstr "<$emotion(4,8)><$voicel(4,9)>¡Yupi! ¡Eres <gen;-2(el,la)> mejooor!<clear><br><$comeff(4,14)><$facial(4,1)><$motion(4,666)><$voicel(4,5)>Lo que quiero es... ¡que hagas un huertito de verdura!<clear><br>Puedes plantar las que más te gusten, <$emotion(4,14)><$voicel(4,8)>que a mí todas<br>me parecen bien."
+
+#. en: <$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>Oh, and can you make the crop field somewhere close<br>enough to walk to from the <$cdef(27)>Pokémon Center</color>?<clear><br><$emotion(4,38)><$voicel(4,8)>Anywhere on the same island is OK!
+msgctxt "2949:3"
+msgid "<$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>Eso sí, ¡quiero que se pueda ir andando al huerto desde<br>el <$cdef(27)>Centro Pokémon</color>! <$emotion(4,38)><$voicel(4,8)>O sea, que estén en la misma islita."
+msgstr "<$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>Eso sí, ¡quiero que se pueda ir caminando al huerto desde<br>el <$cdef(27)>Centro Pokémon</color>! <$emotion(4,38)><$voicel(4,8)>O sea, que estén en la misma islita."
+
+#. en: <$emotion(4,14)><$voicel(4,10)>Come tell me when the veggies sprout, OK?<clear><br><$comeff(4,14)><$motion(4,805)><$voicel(4,5)>Or actually, if you take me to where you planted the<br>seeds, <$emotion(4,38)><$voicel(4,10)>I can help make them sprout!
+msgctxt "2949:4"
+msgid "<$emotion(4,14)><$voicel(4,10)>Cuando las semillas empiecen a dar brotes, ¡avísame!<clear><br><$comeff(4,14)><$motion(4,805)><$voicel(4,5)>O, bueno, mejor llévame adonde las hayas plantado,<br><$emotion(4,38)><$voicel(4,10)>¡y yo te ayudo a que crezcan!"
+msgstr ""
+
+#. en: <$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>I want you to make a crop field and plant some vegetables!<br>And then I wanna see the sprouts!
+msgctxt "2949:9"
+msgid "<$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>¡Haz un huerto de verdurita, porfiii! ¡Quiero ver cómo<br>salen los brotes de la tierra!"
+msgstr ""
+
+#. en: <$emotion(4,14)><$voicel(4,7)>Please make the crop field close enough to walk to<br>from the <$cdef(27)>Pokémon Center</color>!
+msgctxt "2949:10"
+msgid "<$emotion(4,14)><$voicel(4,7)>Ah, y si se puede llegar caminando desde el <$cdef(27)>Centro<br>Pokémon</color>, ¡mejor que mejor!"
+msgstr ""
+
+#. en: <$emotion(4,38)><$voicel(4,9)>And if you take me to where you planted the seeds, I can<br>help make them sprout!
+msgctxt "2949:11"
+msgid "<$emotion(4,38)><$voicel(4,9)>Si me llevas a ver dónde has plantado las semillas,<br>¡yo te ayudo a que crezcan!"
+msgstr "<$emotion(4,38)><$voicel(4,9)>Si me llevas a ver dónde plantaste las semillas,<br>¡yo te ayudo a que crezcan!"
+
+#. en: <$emotion(4,38)><$voicel(4,9)>Yippee! You made such a great crop field! Awww, the<br>veggies are so CUTE! <$emotion(4,50)><$voicel(4,8)>Thank you, thank you!
+msgctxt "2949:14"
+msgid "<$emotion(4,38)><$voicel(4,9)>¡Ualaaa! ¡Qué huerto más bonitooo! Es que no hay nada<br>más chuli que un montón de verduritas.<clear><br><$emotion(4,50)><$voicel(4,8)>¡Graciaaas, <$cdef(27)><pname;0></color>!"
+msgstr "<$emotion(4,38)><$voicel(4,9)>¡Guaaau! ¡Qué huerto más bonitooo! Es que no hay nada<br>más lindo que un montón de verduritas.<clear><br><$emotion(4,50)><$voicel(4,8)>¡Graciaaas, <$cdef(27)><pname;0></color>!"
+
+#. en: <oneline><$emotion(4,29)><$voicel(4,5)>Oh, heyyy, <$cdef(27)><pname;0></color>. I wanted to talk<br>to<slide><br>you<slide><br>about something...
+msgctxt "2949:36"
+msgid "<$emotion(4,29)><$voicel(4,5)>Ah, <$cdef(27)><pname;0></color>, ¿me escuchas una cosa?"
+msgstr ""
+
+#. en: <$comeff(4,9)><$motion(4,806)><$voicel(4,5)>I really like to fly around while the sun’s out, but I always<br>oversleeeeeep because <$emotion(4,51)><$voicel(4,4)>I’m so bad at waking up earlyyy...
+msgctxt "2949:37"
+msgid "<$comeff(4,9)><$motion(4,806)><$voicel(4,5)>Verás, maj<gen;-2(o,a)>, tengo un problema. Yo es que soy muuuy<br>aficionad<gen;-3(o,a)> a ver el amanecer mientras surco los cielos.<clear><br><$emotion(4,51)><$voicel(4,4)>Pero me cuesta madrugar... La mitad de los días me paso<br>la mañana roncando, ¡y así no hay manera!"
+msgstr "<$comeff(4,9)><$motion(4,806)><$voicel(4,5)>Mira, querid<gen;-2(o,a)>, tengo un problema. Yo es que soy muuuy<br>aficionad<gen;-3(o,a)> a ver el amanecer mientras surco los cielos.<clear><br><$emotion(4,51)><$voicel(4,4)>Pero me cuesta madrugar... La mitad de los días me paso<br>la mañana roncando, ¡y así no hay manera!"
+
+#. en: <oneline><$comeff(4,14)><$motion(4,666)><$voicel(4,5)>I heard those <$cdef(27)><fqty(1)><$ifull(1702)> </color>things the huuumans<br>used help you wake up earlyyy, so...<clear><br><$emotion(4,29)><$voicel(4,7)>Could you bring me <$cdef(27)>five</color> <$cdef(27)><fqty(2)><$ifull(1702)></color>,<br><$cdef(27)><pname;0></color>?
+msgctxt "2949:38"
+msgid "<oneline><$comeff(4,14)><$motion(4,666)><$voicel(4,5)>Me han contado por ahí que hay un trasto que se llama<br><$cdef(27)><fqty(1)><$ifull(1702)> </color>que viene que ni pintado para madrugar...<clear><br><$emotion(4,29)><$voicel(4,7)><$cdef(27)><pname;0></color>, tú que eres tan simpátic<gen;-2(o,a)> y<br>tienes de todo,<slide><br>¿no podrías conseguirme<slide><br><$cdef(27)>5 <fqty(2)><$ifull(1702)></color>?"
+msgstr "<oneline><$comeff(4,14)><$motion(4,666)><$voicel(4,5)>Me contaron por ahí que hay un aparato que se llama<br><$cdef(27)><fqty(1)><$ifull(1702)> </color>que es perfecto para madrugar...<clear><br><$emotion(4,29)><$voicel(4,7)><$cdef(27)><pname;0></color>, tú que eres tan simpátic<gen;-2(o,a)> y<br>tienes de todo,<slide><br>¿no podrías conseguirme<slide><br><$cdef(27)>5 <fqty(2)><$ifull(1702)></color>?"
+
+#. en: <oneline><$emotion(4,38)><$voicel(4,9)>Thaaanks, <$cdef(27)><pname;0></color>. With <$cdef(27)>five<br><fqty(2)><$ifull(1702)></color>,<slide><br><$comeff(4,9)><$motion(4,806)><$voicel(4,8)>I’ll<slide><br>never<slide><br>oversleep agaaaiiin...
+msgctxt "2949:39"
+msgid "<$emotion(4,38)><$voicel(4,9)>Ay, graaacias, ¡eres más maj<gen;-2(o,a)> que las monevitas!<clear><br><$comeff(4,9)><$motion(4,806)><$voicel(4,8)>A ver si con <$cdef(27)>5</color> <$cdef(27)><fqty(2)><$ifull(1702)> </color>consigo por fin abrir<br>los ojicos a una hora decente, que esto no puede ser."
+msgstr "<$emotion(4,38)><$voicel(4,9)>Ay, graaacias, ¡eres más lind<gen;-2(o,a)> que las monevitas!<clear><br><$comeff(4,9)><$motion(4,806)><$voicel(4,8)>A ver si con <$cdef(27)>5</color> <$cdef(27)><fqty(2)><$ifull(1702)> </color>consigo por fin abrir<br>los ojitos a una hora decente, que esto no puede ser."
+
+#. en: <$emotion(4,38)><$voicel(4,10)>Yeahhh, you know... Just to be saaafe...<clear><br><$comeff(4,9)><$motion(4,806)><$voicel(4,7)>With <$cdef(27)>five <fqty(2)><$ifull(1702)></color>, I’ll probably definitely be able<br>to wake up earlyyy...
+msgctxt "2949:40"
+msgid "<$emotion(4,38)><$voicel(4,10)>Sí, <gen;-2(hombre,mujer)>, que más vale tener unos pocos de repuesto,<br>por lo que pueda pasar.<clear><br><$comeff(4,9)><$motion(4,806)><$voicel(4,7)>A ver si con <$cdef(27)>5</color> <$cdef(27)><fqty(2)><$ifull(1702)> </color>consigo por fin abrir<br>los ojicos a una hora decente, que esto no puede ser."
+msgstr "<$emotion(4,38)><$voicel(4,10)>Sí, <gen;-2(hombre,mujer)>, que más vale tener unos pocos de repuesto,<br>por lo que pueda pasar.<clear><br><$comeff(4,9)><$motion(4,806)><$voicel(4,7)>A ver si con <$cdef(27)>5</color> <$cdef(27)><fqty(2)><$ifull(1702)> </color>consigo por fin abrir<br>los ojitos a una hora decente, que esto no puede ser."
+
+#. en: <$emotion(4,14)><$voicel(4,5)>Actuallyyy, when I was flying over by the <$cdef(27)>Pokémon Center</color>,<br>I think I heard a weeeiiird noise coming from the <$comeff(4,10)><$motion(4,806)><$voicel(4,8)><$cdef(27)>cave<slide><br>on the back side of the island</color>...<clear><br><$comeff(4,6)><$motion(4,666)><$voicel(4,5)>Do you think that could’ve been an <$cdef(27)><fqty(1)><$ifull(1702)></color>?
+msgctxt "2949:41"
+msgid "<$emotion(4,14)><$voicel(4,5)>Ay, a todo esto... Antes he pasado volando bien cerquica<br>del <$cdef(27)>Centro Pokémon</color> <$comeff(4,10)><$motion(4,806)><$voicel(4,8)>y he escuchado un ruido muuuy raro<slide><br>que salía de la <$cdef(27)>cueva que hay por detrás de la isla</color>.<clear><br><$comeff(4,6)><$motion(4,666)><$voicel(4,5)>¿Tú crees que ha podido ser el <$cdef(27)><fqty(1)><$ifull(1702)></color> de alguien<br>que se ha quedado sopa?"
+msgstr "<$emotion(4,14)><$voicel(4,5)>Ay, a todo esto... Hace rato pasé volando bien cerquita<br>del <$cdef(27)>Centro Pokémon</color> <$comeff(4,10)><$motion(4,806)><$voicel(4,8)>y escuché un ruido muuuy raro<slide><br>que salía de la <$cdef(27)>cueva que hay por detrás de la isla</color>.<clear><br><$comeff(4,6)><$motion(4,666)><$voicel(4,5)>¿Tú crees que pudo ser el <$cdef(27)><fqty(1)><$ifull(1702)></color> de alguien<br>que se quedó dormido?"
+
+#. en: <$emotion(4,41)><$voicel(4,3)>I’m too biiig, so I couldn’t fit inside the cave...<clear><br><$emotion(4,38)><$voicel(4,9)>But I bet you could use <$cdef(27)><$sklfull(11)> </color>to get in. You should<br>go look fooor it...<clear><br><$comeff(4,9)><$motion(4,806)><$voicel(4,8)>It was over near a waterfall...
+msgctxt "2949:42"
+msgid "<$emotion(4,41)><$voicel(4,3)>Yo, como soy bien grandot<gen;-3(e,a)>, no entro en esa cueva<br>ni con alguien empujándome, ya te lo digo.<clear><br><$emotion(4,38)><$voicel(4,9)>Pero tú podrías usar <$cdef(27)><$sklfull(11)></color> para colarte, así que ve<br>a echar un vistacico. <$comeff(4,9)><$motion(4,806)><$voicel(4,8)>¡Hay una cascada muy cerca de allí!"
+msgstr "<$emotion(4,41)><$voicel(4,3)>Yo, como soy bien grandot<gen;-3(e,a)>, no entro en esa cueva<br>ni con alguien empujándome, ya te lo digo.<clear><br><$emotion(4,38)><$voicel(4,9)>Pero tú podrías usar <$cdef(27)><$sklfull(11)></color> para colarte, así que ve<br>a echar un vistacito. <$comeff(4,9)><$motion(4,806)><$voicel(4,8)>¡Hay una cascada muy cerca de ahí!"
+
+#. en: <$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,7)>I’ll be waiting patiently for my <$cdef(27)>five <fqty(2)><$ifull(1702)></color>...<clear><br><$emotion(4,38)><$voicel(4,10)>If you could put all <$cdef(27)>fiiive </color>near my home, that would be<br>really greeeaaat.
+msgctxt "2949:48"
+msgid "<$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,7)>Aquí me tienes esperando esos <$cdef(27)>5</color> <$cdef(27)><fqty(2)><$ifull(1702)></color>.<clear><br><$emotion(4,38)><$voicel(4,10)>Cuando puedas, déjamelos cerca de mi casica, maj<gen;-2(o,a)>,<br>que así los tengo a mano."
+msgstr "<$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,7)>Aquí me tienes esperando esos <$cdef(27)>5</color> <$cdef(27)><fqty(2)><$ifull(1702)></color>.<clear><br><$emotion(4,38)><$voicel(4,10)>Cuando puedas, déjalos cerca de mi casita, lind<gen;-2(o,a)>,<br>que así los tengo a mano."
+
+#. en: <$comeff(4,3)><$motion(4,803)><$voicel(4,7)>When I was flying near the <$cdef(27)>Pokémon Center</color>, I actually<br>found a <$cdef(27)>cave on the baaack side of the island</color>...<clear><br><$comeff(4,14)><$motion(4,666)><$voicel(4,8)>I bet you could find some <$cdef(27)><fqty(2)><$ifull(1702)> </color>in theeere...
+msgctxt "2949:49"
+msgid "<$comeff(4,3)><$motion(4,803)><$voicel(4,7)>Al pasar volando bien cerquica del <$cdef(27)>Centro Pokémon</color><br>me percaté de que <$cdef(27)>hay una cueva al otro lado de la isla</color>.<clear><br><$comeff(4,14)><$motion(4,666)><$voicel(4,8)>Me pregunto si en sus profundidades habrá algún que<br>otro <$cdef(27)><fqty(1)><$ifull(1702)></color>..."
+msgstr "<$comeff(4,3)><$motion(4,803)><$voicel(4,7)>Al pasar volando bien cerquita del <$cdef(27)>Centro Pokémon</color><br>me percaté de que <$cdef(27)>hay una cueva al otro lado de la isla</color>.<clear><br><$comeff(4,14)><$motion(4,666)><$voicel(4,8)>Me pregunto si en sus profundidades habrá algún que<br>otro <$cdef(27)><fqty(1)><$ifull(1702)></color>..."
+
+#. en: <oneline><$emotion(4,1)><$voicel(4,9)>Wooow... Thanks for the <$cdef(27)><fqty(2)><$ifull(1702)></color>,<br><$cdef(27)><pname;0></color>.<clear><br><$emotion(4,60)><$voicel(4,8)>Now I’ll neeever oversleep again...
+msgctxt "2949:54"
+msgid "<$emotion(4,1)><$voicel(4,9)>Muuuchas gracias por los <$cdef(27)><fqty(2)><$ifull(1702)></color>, majet<gen;-2(e,a)>.<br><$emotion(4,60)><$voicel(4,8)>Ahora ya me espabilaré a una hora decente, ¡digo yo!"
+msgstr "<$emotion(4,1)><$voicel(4,9)>Muuuchas gracias por los <$cdef(27)><fqty(2)><$ifull(1702)></color>, jef<gen;-2(e,a)>.<br><$emotion(4,60)><$voicel(4,8)>Ahora ya me despertaré a una hora decente, ¡digo yo!"
+
+#. en: <$comeff(4,9)><$motion(4,806)><$voicel(4,7)>I just have to be careful to not turn them off with my<br><$cdef(27)>Hyyyper Beam</color>... Heheheee...
+msgctxt "2949:55"
+msgid "<$comeff(4,9)><$motion(4,806)><$voicel(4,7)>Eso sí, espero no lanzarle sin querer un <$cdef(27)>Hiperrayo</color> a uno<br>cuando empiece a hacer ruido."
+msgstr ""

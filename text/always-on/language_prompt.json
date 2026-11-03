@@ -1,0 +1,68 @@
+{
+  "about": [
+    "Always-on overrides: applied by the game in every language (plain LINKDATA_PATCH",
+    "entries), unlike text/es-419/*.po, which only applies while es-419 is selected.",
+    "Keys are <record>:<row>[:<col>]; text uses the .po notation; ints replaces every",
+    "integer field of the row.",
+    "Row 80 of records 2323-2331 (ja en fr it de es zh-Hant ko zh-Hans) is the",
+    "confirmation prompt of the es-419 button on the language grid (rows 74-79 are",
+    "the prompts of the other languages; the patched main maps es-419 to row 80).",
+    "ints [1] marks the row as present, like rows 74-79."
+  ],
+  "rows": {
+    "2323:80": {
+      "text": "スペイン<語:ご>（<中南米:ちゅうなんべい>）でよろしいですか？",
+      "ints": [
+        1
+      ]
+    },
+    "2324:80": {
+      "text": "Are you sure you want to play in Spanish (Latin America)?",
+      "ints": [
+        1
+      ]
+    },
+    "2325:80": {
+      "text": "Le texte s'affichera en espagnol (Amérique latine).<br>Voulez-vous continuer ?",
+      "ints": [
+        1
+      ]
+    },
+    "2326:80": {
+      "text": "Vuoi giocare in spagnolo (America Latina)?",
+      "ints": [
+        1
+      ]
+    },
+    "2327:80": {
+      "text": "Möchtest du auf Spanisch (Lateinamerika) spielen?",
+      "ints": [
+        1
+      ]
+    },
+    "2328:80": {
+      "text": "¿Quieres jugar en español de Latinoamérica?",
+      "ints": [
+        1
+      ]
+    },
+    "2329:80": {
+      "text": "確定要使用西班牙文（拉丁美洲）嗎？",
+      "ints": [
+        1
+      ]
+    },
+    "2330:80": {
+      "text": "스페인어(중남미)로 괜찮겠습니까?",
+      "ints": [
+        1
+      ]
+    },
+    "2331:80": {
+      "text": "确定要用西班牙语（拉丁美洲）吗？",
+      "ints": [
+        1
+      ]
+    }
+  }
+}

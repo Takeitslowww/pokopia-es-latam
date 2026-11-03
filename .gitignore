@@ -1,0 +1,13 @@
+# game files and local setup
+boot/
+assets/reference/
+
+# build output
+module/build/
+dist/
+
+# local tooling
+__pycache__/
+*.pyc
+.atl/
+text/review/

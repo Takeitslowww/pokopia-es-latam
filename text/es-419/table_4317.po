@@ -1,0 +1,461 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 4317 (es-ES slot); English reference: record 4313.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 4317\n"
+"X-Ldtool-English-Record: 4313\n"
+
+#. en: *munch munch*
+msgctxt "4317:2"
+msgid "¡A ingerir!"
+msgstr ""
+
+#. en: You have done well.
+msgctxt "4317:3"
+msgid "Óptimo."
+msgstr ""
+
+#. en: I sense an increase in moisture.
+msgctxt "4317:5"
+msgid "Noto humedad en el aire."
+msgstr ""
+
+#. en: I will sleep now.
+msgctxt "4317:6"
+msgid "Necesito un descanso."
+msgstr ""
+
+#. en: I am having difficulties.
+msgctxt "4317:9"
+msgid "Hay un problema."
+msgstr ""
+
+#. en: Can I take a moment of your time?
+msgctxt "4317:17"
+msgid "¿Puedo importunarte?"
+msgstr ""
+
+#. en: Such thick tufts!
+msgctxt "4317:23"
+msgid "Qué frondosidad."
+msgstr ""
+
+#. en: <$etpkcrygt;0(lnum1)>. Let us become friends.
+msgctxt "4317:25"
+msgid "¡<$etpkcrygt;0(lnum1)>! Iniciemos una amistad."
+msgstr ""
+
+#. en: Let us get to work.
+msgctxt "4317:28"
+msgid "¡Trabajaré!"
+msgstr ""
+
+#. en: It is going well.
+msgctxt "4317:29"
+msgid "¡Sigamos así!"
+msgstr ""
+
+#. en: Just a small bit more.
+msgctxt "4317:30"
+msgid "¡Casi está terminado!"
+msgstr ""
+
+#. en: <$etpkcryhp;0(lnum1)>! ♪
+msgctxt "4317:31"
+msgid "♪<$etpkcryhp;0(lnum1)>.♪"
+msgstr ""
+
+#. en: Oh no. It is raining. I will go home.
+msgctxt "4317:33"
+msgid "Incompatible con la lluvia... Retorno a mi residencia."
+msgstr ""
+
+#. en: <$etpkcrygt;0(lnum1)>. That appears delicious.
+msgctxt "4317:34"
+msgid "¡<$etpkcrygt;0(lnum1)>! Eso que llevas es apetecible."
+msgstr ""
+
+#. en: I would like to hunt for treasure.
+msgctxt "4317:35"
+msgid "Me gustaría buscar tesoros."
+msgstr ""
+
+#. en: The road is difficult for travel.
+msgctxt "4317:37"
+msgid "El camino en esa dirección resulta intransitable."
+msgstr ""
+
+#. en: I have become tired...
+msgctxt "4317:38"
+msgid "El cansancio se hace latente."
+msgstr ""
+
+#. en: I have arrived.
+msgctxt "4317:39"
+msgid "He llegado a mi destino."
+msgstr "Llegué a mi destino."
+
+#. en: <$etpkcrysd;0(lnum1)>. It is hard to pass by.
+msgctxt "4317:40"
+msgid "<$etpkcrysd;0(lnum1)>... Es difícil transitar por aquí..."
+msgstr ""
+
+#. en: Treasure found! <$etpkcrygt;0(lnum1)>.
+msgctxt "4317:41"
+msgid "¡<$etpkcrygt;0(lnum1)>! ¡Aquí está!"
+msgstr ""
+
+#. en: Treasure found—above!
+msgctxt "4317:42"
+msgid "Tesoro encontrado... Está justo encima."
+msgstr ""
+
+#. en: Treasure found—below!
+msgctxt "4317:43"
+msgid "Tesoro encontrado... Está justo debajo."
+msgstr ""
+
+#. en: <$etpkcryhp;0(lnum1)>. Something is in the area.
+msgctxt "4317:44"
+msgid "¡<$etpkcryhp;0(lnum1)>! ¡Está por aquí!"
+msgstr ""
+
+#. en: I do not think treasure is here.
+msgctxt "4317:45"
+msgid "La probabilidad de que no esté aquí es muy alta."
+msgstr ""
+
+#. en: Let us look farther on.
+msgctxt "4317:46"
+msgid "Procedamos a observar por allí."
+msgstr "Procedamos a observar por allá."
+
+#. en: Oh. Oh? Something is nearby.
+msgctxt "4317:47"
+msgid "¡Estamos cerca!"
+msgstr ""
+
+#. en: Are we prepared to go?
+msgctxt "4317:49"
+msgid "¿Puedo partir?"
+msgstr ""
+
+#. en: Oh. I cannot go forward.
+msgctxt "4317:50"
+msgid "No puedo proceder."
+msgstr ""
+
+#. en: I want the object to be closer.
+msgctxt "4317:51"
+msgid "Tiene que acercarse más."
+msgstr ""
+
+#. en: Wow. My thanks.
+msgctxt "4317:52"
+msgid "¡Muchas gracias!"
+msgstr ""
+
+#. en: <$cdef(27)><fcap><fqty(1)><class><$ifull;0(lnum1)></color>.
+msgctxt "4317:55"
+msgid "<fcap><dart;0()><fqty(1)><$cdef(27)><$ifull;0(lnum1)></color>. No est<qty;0(á,án)>."
+msgstr ""
+
+#. en: It is so warm! ♪
+msgctxt "4317:56"
+msgid "♪Hace calor.♪"
+msgstr ""
+
+#. en: It is a small bit hot.
+msgctxt "4317:57"
+msgid "El calor es excesivo..."
+msgstr ""
+
+#. en: Such coolness! ♪
+msgctxt "4317:58"
+msgid "♪Un frescor agradable.♪"
+msgstr ""
+
+#. en: It is a small bit cold.
+msgctxt "4317:59"
+msgid "La temperatura es levemente fría..."
+msgstr ""
+
+#. en: It became brighter! ♪
+msgctxt "4317:60"
+msgid "♪La luminosidad se ha incrementado.♪"
+msgstr "♪La luminosidad se incrementó.♪"
+
+#. en: It is maybe too bright.
+msgctxt "4317:61"
+msgid "La luminosidad es excesiva..."
+msgstr ""
+
+#. en: Hooray! It became darker. ♪
+msgctxt "4317:62"
+msgid "♪La oscuridad ha aumentado. Bien.♪"
+msgstr "♪La oscuridad aumentó. Bien.♪"
+
+#. en: It is a small bit too dark.
+msgctxt "4317:63"
+msgid "La oscuridad es levemente excesiva..."
+msgstr ""
+
+#. en: The humidity. It is nice. ♪
+msgctxt "4317:64"
+msgid "♪La humedad es perceptible.♪"
+msgstr ""
+
+#. en: It is a small bit too humid.
+msgctxt "4317:65"
+msgid "La humedad es ligeramente excesiva..."
+msgstr ""
+
+#. en: Air is dry! ♪
+msgctxt "4317:66"
+msgid "♪El ambiente está seco.♪"
+msgstr ""
+
+#. en: Air is maybe too dry.
+msgctxt "4317:67"
+msgid "El ambiente está demasiado seco..."
+msgstr ""
+
+#. en: I cannot pass here.
+msgctxt "4317:68"
+msgid "No es posible continuar."
+msgstr ""
+
+#. en: Hooray! I would like to live here. ♪
+msgctxt "4317:69"
+msgid "♪Me atrae vivir aquí.♪"
+msgstr ""
+
+#. en: It is nice, this home.
+msgctxt "4317:70"
+msgid "Me gusta esta casa humana."
+msgstr ""
+
+#. en: Please do come trade.
+msgctxt "4317:71"
+msgid "Saludos."
+msgstr ""
+
+#. en: The smallness is maybe too much.
+msgctxt "4317:72"
+msgid "El tamaño es tal vez menor de lo esperado."
+msgstr ""
+
+#. en: I will follow.
+msgctxt "4317:73"
+msgid "Te sigo."
+msgstr ""
+
+#. en: Bye. Bye.
+msgctxt "4317:74"
+msgid "¡Fin del trayecto!"
+msgstr ""
+
+#. en: I will build well.
+msgctxt "4317:75"
+msgid "Me esforzaré en la construcción."
+msgstr ""
+
+#. en: *sniff sniff sniff*
+msgctxt "4317:76"
+msgid "Snif, snif..."
+msgstr ""
+
+#. en: I am sorry. Right now, I am unable.
+msgctxt "4317:77"
+msgid "Lo siento, ahora no es posible."
+msgstr ""
+
+#. en: About this? It is complete.
+msgctxt "4317:78"
+msgid "¡He terminado! ¿Cuál es tu parecer?"
+msgstr "¡Terminé! ¿Cuál es tu parecer?"
+
+#. en: Leave it up to me.
+msgctxt "4317:79"
+msgid "Yo me encargo."
+msgstr ""
+
+#. en: This place. It seems interesting.
+msgctxt "4317:80"
+msgid "¡Un enclave interesante!"
+msgstr ""
+
+#. en: You are holding something. What is it?
+msgctxt "4317:81"
+msgid "¿Qué portas contigo?"
+msgstr ""
+
+#. en: I will search for you.
+msgctxt "4317:83"
+msgid "¡Procedo a buscarte!"
+msgstr ""
+
+#. en: I am sorry. I am very hungry now.
+msgctxt "4317:84"
+msgid "Disculpas. Mi nivel de hambre es un impedimento."
+msgstr ""
+
+#. en: Oh. Is there a Pokémon here?
+msgctxt "4317:85"
+msgid "Oh... Detecto la presencia de alguien."
+msgstr ""
+
+#. en: It amazes.
+msgctxt "4317:86"
+msgid "Impresionante."
+msgstr ""
+
+#. en: I am expending much effort.
+msgctxt "4317:87"
+msgid "Me estoy esforzando."
+msgstr ""
+
+#. en: This feeling is a nice one.
+msgctxt "4317:88"
+msgid "¡La sensación es placentera!"
+msgstr ""
+
+#. en: Please wait. I am not there.
+msgctxt "4317:89"
+msgid "¡Aguárdame!"
+msgstr ""
+
+#. en: Oh no. I cannot go there.
+msgctxt "4317:91"
+msgid "¡Oh! Llegar no resulta posible..."
+msgstr ""
+
+#. en: Here I go. I will do it for you.
+msgctxt "4317:92"
+msgid "De acuerdo, delega la tarea en mi persona."
+msgstr ""
+
+#. en: Water is required first.
+msgctxt "4317:93"
+msgid "Primer requisito: irrigación."
+msgstr ""
+
+#. en: You are hiding. Where?
+msgctxt "4317:94"
+msgid "¿Dónde se encontrará?"
+msgstr ""
+
+#. en: Not here.
+msgctxt "4317:95"
+msgid "No está..."
+msgstr ""
+
+#. en: Suspicious.
+msgctxt "4317:96"
+msgid "¡Tengo sospechas!"
+msgstr ""
+
+#. en: I smell you.
+msgctxt "4317:97"
+msgid "Olor localizado..."
+msgstr ""
+
+#. en: I am good at detection.
+msgctxt "4317:98"
+msgid "¡Detección en curso!"
+msgstr ""
+
+#. en: You have been found.
+msgctxt "4317:100"
+msgid "¡Objetivo localizado!"
+msgstr ""
+
+#. en: In this place, I do this.
+msgctxt "4317:102"
+msgid "♪Demolición, demolición...♪"
+msgstr ""
+
+#. en: I cannot wait.
+msgctxt "4317:103"
+msgid "La espera incrementa el hambre."
+msgstr ""
+
+#. en: Excitement. My anticipation is great.
+msgctxt "4317:104"
+msgid "Siento altas dosis de emoción y expectación."
+msgstr ""
+
+#. en: <fcap><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>. Yay.
+msgctxt "4317:105"
+msgid "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>."
+msgstr ""
+
+#. en: <$etpkcryhp;0(lnum1)>. ♪ <$etpkcryhp;1(lnum1)>. ♪
+msgctxt "4317:106"
+msgid "♪<$etpkcryhp;0(lnum1)>, <$etpkcryhp;1(lnum1)>...♪"
+msgstr ""
+
+#. en: I will do good work.
+msgctxt "4317:107"
+msgid "¡Me emplearé a fondo!"
+msgstr ""
+
+#. en: It is nice.
+msgctxt "4317:108"
+msgid "¡Gran éxito!"
+msgstr ""
+
+#. en: ...
+msgctxt "4317:109"
+msgid "..."
+msgstr ""
+
+#. en: A good living space.
+msgctxt "4317:111"
+msgid "Un lugar agradable."
+msgstr ""
+
+#. en: A place without water would be...
+msgctxt "4317:112"
+msgid "Hay que evacuar el agua."
+msgstr ""
+
+#. en: Let us eat.
+msgctxt "4317:113"
+msgid "¡Que aproveche!"
+msgstr "¡Buen provecho!"
+
+#. en: It cannot grow larger in this state.
+msgctxt "4317:114"
+msgid "Esta planta no podrá desarrollarse."
+msgstr ""
+
+#. en: It was not reality. I only imagined.
+msgctxt "4317:115"
+msgid "Mi vista no ha procesado algo correctamente."
+msgstr "Mi vista no procesó algo correctamente."
+
+#. en: There is a noise. What is it?
+msgctxt "4317:116"
+msgid "Un sonido... ¿Qué será?"
+msgstr ""
+
+#. en: <fcap><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>. Yay.
+msgctxt "4317:117"
+msgid "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>."
+msgstr ""
+
+#. en: <$cdef(27)>Bubbles</color>. It needs some.
+msgctxt "4317:119"
+msgid "Sin recubrimiento de <$cdef(27)>burbujas </color>no procedo."
+msgstr ""

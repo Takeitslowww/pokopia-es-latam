@@ -1,0 +1,216 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 2400 (es-ES slot); English reference: record 2396.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 2400\n"
+"X-Ldtool-English-Record: 2396\n"
+
+#. en: This sparkle is a <$cdef(27)>trace of a Pokémon</color>.<clear><br>When you touch it, a hint about a Pokémon’s <$cdef(27)>habitat </color>will<br>be recorded in your <$cdef(27)>Pokédex</color>!
+msgctxt "2400:0"
+msgid "Esto que brilla es la <$cdef(27)>pista de un Pokémon</color>.<clear><br>Si la tocas, aparecerá en tu <$cdef(27)>Pokédex </color>información sobre<br>el <$cdef(27)>hábitat </color>de dicho Pokémon."
+msgstr ""
+
+#. en: <$cdef(27)>Traces of Pokémon</color> often appear near places that a specific<br>Pokémon might like.
+msgctxt "2400:1"
+msgid "Estas <$cdef(27)>pistas </color>suelen aparecer cerca de cosas que le gustan<br>al Pokémon en cuestión."
+msgstr ""
+
+#. en: Look closely at the place where you found the trace and<br>compare it to the hints you’ve received.<clear><br>Think carefully about what kind of habitat you should<br>make to meet a new Pokémon!
+msgctxt "2400:2"
+msgid "Fíjate bien en la información que aparece en la <$cdef(27)>Pokédex</color><br>y compárala con el lugar donde hallaste la pista.<clear><br>¡Así te será más fácil saber qué tipo de hábitat necesitas<br>crear para que aparezca el Pokémon!"
+msgstr ""
+
+#. en: Press the <$keyicon(4)> button to open the main menu, then select<br><$cdef(27)>Habitat Dex</color> to view all the hints you’ve gathered!
+msgctxt "2400:3"
+msgid "Pulsa <$keyicon(4)> para acceder al menú principal, donde puedes<br>encontrar tu <$cdef(27)>Hábitatdex</color>.<clear><br>Consúltala siempre que quieras volver a ver las pistas."
+msgstr "Presiona <$keyicon(4)> para acceder al menú principal, donde<br>puedes encontrar tu <$cdef(27)>Hábitatdex</color>.<clear><br>Consúltala siempre que quieras volver a ver las pistas."
+
+#. en: You got a <$cdef(27)><fqty(1)><$ifull(95)></color>!
+msgctxt "2400:15"
+msgid "¡Has conseguido el <$cdef(27)><fqty(1)><class><$ifull(95)></color>!"
+msgstr "¡Conseguiste el <$cdef(27)><fqty(1)><class><$ifull(95)></color>!"
+
+#. en: <$voicel(1,9)><$comeff(1,3)>Oho! If it isn’t a <$cdef(27)>building kit</color>!
+msgctxt "2400:16"
+msgid "<$voicel(1,9)><$comeff(1,3)>¡Oh, un <$cdef(27)>kit de construcción</color>!"
+msgstr ""
+
+#. en: <$voicel(1,5)><$emotion(1,9)><$facial(1,4)>Humans used these items to put up buildings.
+msgctxt "2400:17"
+msgid "<$voicel(1,5)><$emotion(1,9)><$facial(1,4)>Los humanos usaban kits como esos para erigir todo tipo<br>de estructuras."
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,13)><$facial(1,9)>But construction is a complicated process.<clear><br><$voicel(1,4)>I’m not certain we could <$cdef(27)><$spwfull(1)></color> something like that all<br>on our own...
+msgctxt "2400:18"
+msgid "<$voicel(1,7)><$emotion(1,13)><$facial(1,9)>Pero me temo que la <$cdef(27)>construcción<nbs2><$spwicon(1)></color> es un proceso harto<br>complicado... <$voicel(1,4)>No sé si seremos capaces de llevarlo a cabo."
+msgstr ""
+
+#. en: First, choose where you’d like to live, then place the<br><$cdef(27)><fqty(1)><$ifull(95)></color> there!
+msgctxt "2400:21"
+msgid "Primero usa el <$cdef(27)><fqty(1)><$ifull(95)> </color>para elegir<br>el lugar donde quieras vivir."
+msgstr ""
+
+#. en: <$voicel(1,7)><$motion(1,801)>Once the <$cdef(27)><$bfull(12)></color> is complete, you can use it as<br>your home!
+msgctxt "2400:24"
+msgid "<$voicel(1,7)><$motion(1,801)>Si construyes una <$cdef(27)><$bfull(12)></color>, ¡puedes convertirla<br>en tu hogar!"
+msgstr ""
+
+#. en: <$voicel(1,7)><$motion(1,801)>Once the <$cdef(27)><$bfull(12)></color> is complete, you can use it as<br>your home!
+msgctxt "2400:25"
+msgid "<$voicel(1,7)><$motion(1,801)>Si construyes una <$cdef(27)><$bfull(12)></color>, ¡puedes convertirla<br>en tu hogar!"
+msgstr ""
+
+#. en: First, choose where you’d like to live, then place the<br><$cdef(27)><fqty(1)><$ifull(95)></color> there!
+msgctxt "2400:26"
+msgid "Primero, coloca el <$cdef(27)><fqty(1)><$ifull(95)> </color>en el lugar<br>donde quieras vivir."
+msgstr ""
+
+#. en: Thanks to the Pokémon who helped you out, you managed<br>to <$cdef(27)><$spwfull(1)></color> a house!
+msgctxt "2400:27"
+msgid "¡Has podido <$cdef(27)><$spwfull(1)></color> una casa gracias a la ayuda<br>de los demás Pokémon!"
+msgstr "¡Pudiste <$cdef(27)><$spwfull(1)></color> una casa gracias a la ayuda<br>de los demás Pokémon!"
+
+#. en: Now it’s time to turn it into a comfy place to live!
+msgctxt "2400:28"
+msgid "¡Lo siguiente es amueblarla para hacerla más acogedora!"
+msgstr ""
+
+#. en: After you set the <$cdef(27)>building kit</color> in place, gather the <$cdef(27)>materials</color><br>and some<$cdef(27)> Pokémon to help out</color>.<clear><br>Then, they’ll begin to <$cdef(27)><$spwfull(1)></color>!
+msgctxt "2400:34"
+msgid "Una vez hayas usado el <$cdef(27)>kit </color>para seleccionar el lugar,<br>basta reunir los <$cdef(27)>materiales </color>y <$cdef(27)>pedir ayuda a Pokémon</color><slide><br>para empezar a <$cdef(27)><$spwfull(1)></color>."
+msgstr ""
+
+#. en: Talk to the Pokémon you’d like to help you out and bring<br>them here.<clear><br>Don’t forget that you’ll need a Pokémon like <$cdef(27)>Timburr</color> who’s<br>good at <$cdef(27)><$spwfull(1)>ing</color>!
+msgctxt "2400:35"
+msgid "Habla con los Pokémon a los que quieres reclutar para<br>que te acompañen hasta aquí.<clear><br>Recuerda que necesitas la ayuda de al menos un Pokémon<br>cuya especialidad sea <$cdef(27)><$spwfull(1)></color>, como <$cdef(27)>Timburr</color>."
+msgstr ""
+
+#. en: To rebuild the <$cdef(27)>Pokémon Center</color>, you’ll need help from a<br>Pokémon who has the <$cdef(27)><fcap><$spwfull(33)></color> specialty.<slide><br>Find one and get them to help you out!
+msgctxt "2400:47"
+msgid "Para reconstruir el <$cdef(27)>Centro Pokémon</color>, vas a necesitar<br>a un Pokémon especialista en <$cdef(27)><$spwfull(33)></color>.<clear><br>Encuentra a alguno y pídele ayuda."
+msgstr ""
+
+#. en: <$comeff(1,3)><$motion(1,661)><$voicel(1,5)>I suppose we’ll have to start by clearing this rubble so<br>we can <$cdef(27)><$spwfull(33)></color> it.<clear><br><$comeff(1,9)><$facial(1,4)><$motion(1,805)><$voicel(1,7)>I suspect a Pokémon who’s <$cdef(27)>large and hard like a boulder<br></color>might be able to help you <$cdef(27)><$spwfull(33)></color>!
+msgctxt "2400:48"
+msgid "<$comeff(1,3)><$motion(1,661)><$voicel(1,5)>En primer lugar debemos ocuparnos de este montón<br>de escombros, y lo más adecuado será <$cdef(27)>demolerlos<nbs2><$spwicon(33)></color>.<clear><br><$comeff(1,9)><$facial(1,4)><$motion(1,805)><$voicel(1,7)>Yo creo que un Pokémon <$cdef(27)>grande y duro como una roca</color>...<br>debería ser capaz de ayudarte si de <$cdef(27)><$spwfull(33)> </color>se trata."
+msgstr ""
+
+#. en: <$comeff(1,14)><$motion(1,807)><$voicel(1,7)>As for where a Pokémon like that might prefer to live...<clear><br><$comeff(1,6)><$motion(1,666)><$voicel(1,7)>Perhaps a rocky place, like a <$cdef(27)>cave</color>?
+msgctxt "2400:49"
+msgid "<$comeff(1,14)><$motion(1,807)><$voicel(1,7)>El quid de la cuestión es averiguar en qué lugar le<br>gustaría vivir a un Pokémon de tales características.<clear><br><$motion(1,666)><$voicel(1,7)>Una <$cdef(27)>cueva</color> con rocas por doquier se me antoja adecuada<br>a ese tipo de preferencia, <$comeff(1,6)>¿no crees?"
+msgstr ""
+
+#. en: <$comeff(1,3)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>Thanks to your efforts, Pokémon are gradually returning!<clear><br><$comeff(1,5)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>I expect that sooner or later, we’ll run into a Pokémon who<br>can <$cdef(27)><$spwfull(33)></color>!
+msgctxt "2400:50"
+msgid "<$comeff(1,3)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>Gracias a tus esfuerzos, cada vez están llegando a la zona<br>más y más Pokémon.<clear><br><$comeff(1,5)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>¡Seguro que en algún momento aparece alguno al que<br>se le dé bien <$cdef(27)><$spwfull(33)></color>!"
+msgstr ""
+
+#. en: You can use the <$cdef(27)><fqty(1)><$ifull(2793)></color> to find hidden<br>things, such as objects buried in the ground!<clear><br>To use it, hold the <$cdef(27)><fqty(1)><$ifull(2793)></color> in your hands and<br>talk to a Pokémon who specializes in <$cdef(27)><$spwfull(11)>ing</color>!
+msgctxt "2400:55"
+msgid "Usa el <$cdef(27)><fqty(1)><$ifull(2793)></color> para encontrar objetos ocultos,<br>como aquellos enterrados en el suelo.<clear><br>Solo tienes que sujetarlo y hablar con un Pokémon<br>que tenga la especialidad <$cdef(27)><$spwfull(11)></color>."
+msgstr ""
+
+#. en: *ring ring!*
+msgctxt "2400:56"
+msgid "Pururu... Pururu..."
+msgstr ""
+
+#. en: <$voicel(1,1)><$emotion(1,31)><$facial(1,9)>Good grief. I can’t make heads or tails of this <$cdef(27)>PC</color>...<clear><br><$voicel(1,7)><$emotion(1,16)>Wait... Why do I see <$cdef(27)><pname;0></color>?
+msgctxt "2400:57"
+msgid "<oneline><$voicel(1,1)><$emotion(1,31)><$facial(1,9)>Estos cachivaches... No hay quien los entienda... Hmm...<br><$cdef(27)><$voicel(1,7)></color>¡Lianas! <$emotion(1,16)>¿Pero qué ven mis ojos?<slide><br>¡Si es <$cdef(27)><pname;0></color>!"
+msgstr ""
+
+#. en: <$voicel(1,9)><$emotion(1,15)>Wha—?! You can see me too, <$cdef(27)><pname;0></color>?!<clear><br><$voicel(1,5)><$emotion(1,32)>Fascinating! It seems this <$cdef(27)>PC </color>is somehow capable <$voicel(1,8)>of<br>communicating with that Pokédex you’re carrying!
+msgctxt "2400:58"
+msgid "<$voicel(1,9)><$emotion(1,15)>¡Oye, <$cdef(27)><pname;0></color>! ¿Me ves?<clear><br><$voicel(1,5)><$emotion(1,32)>Interesante... De modo que desde este <$cdef(27)>PC </color>puedo hacer<br>que me oigas a través de la Pokédex.<clear><br><$voicel(1,8)>No tengo muy claro cómo funciona, pero bueno."
+msgstr ""
+
+#. en: <$voicel(1,9)><$emotion(1,32)>Hoho! I seem to have gotten the knack of this <$cdef(27)>PC</color>!<clear><br><$voicel(1,8)>Now, let’s see... What happens if I push—
+msgctxt "2400:59"
+msgid "<$voicel(1,9)><$emotion(1,32)>¡Jo, jo! El caso es que cada vez me voy apañando más<br>con la maquinita esta.<clear><br><$cdef(27)><$voicel(1,8)></color>Veamos, ¿qué pasará si pulso este botón?"
+msgstr "<$voicel(1,9)><$emotion(1,32)>¡Jo, jo! El caso es que cada vez me las arreglo mejor<br>con la maquinita esta.<clear><br><$cdef(27)><$voicel(1,8)></color>Veamos, ¿qué pasará si presiono este botón?"
+
+#. en: Call ended.
+msgctxt "2400:60"
+msgid "La llamada ha terminado."
+msgstr ""
+
+#. en: *ring ring!*
+msgctxt "2400:61"
+msgid "Pururu... Pururu..."
+msgstr ""
+
+#. en: <$voicel(1,7)><$emotion(1,9)>Seems like I shouldn’t go pushing buttons willy-nilly!<clear><br><$voicel(1,9)><$emotion(1,1)>Anyhoo, I’ll contact you again another time. You be<br>careful out there!
+msgctxt "2400:62"
+msgid "<$voicel(1,7)><$emotion(1,9)>Bueno, mira lo que pasa por tocar los dichosos botones<br>así, ¡sin ton ni son!<clear><br><$voicel(1,9)><$emotion(1,1)>En cualquier caso, me pondré de nuevo en contacto<br>contigo más tarde. ¡Cuídate!"
+msgstr ""
+
+#. en: *beep beep beep*<br>You have arrived at an area gate.
+msgctxt "2400:63"
+msgid "Pi, pi, piii... Has llegado a un pasaje de acceso."
+msgstr ""
+
+#. en: Please place your Pokédex over the gate panel.
+msgctxt "2400:64"
+msgid "Acerca la Pokédex al panel de la puerta."
+msgstr ""
+
+#. en: *ring ring!*
+msgctxt "2400:66"
+msgid "Pururu... Pururu..."
+msgstr ""
+
+#. en: <oneline><$voicel(1,5)><$emotion(1,25)>Hellooo? Can you hear me, <$cdef(27)><pname;0></color>?<br>Whereabouts<slide><br>are<slide><br>you now?<clear><br><$voicel(1,8)><$emotion(1,14)>Oh, that looks like...near the gate, right?
+msgctxt "2400:67"
+msgid "<oneline><$voicel(1,5)><$emotion(1,25)>¿Me oyes, <$cdef(27)><pname;0></color>? ¿Dónde estás?<br><$voicel(1,8)><$emotion(1,14)>Ah, ese lugar...<slide><br>está cerca del pasaje de acceso, ¿no?"
+msgstr ""
+
+#. en: <$voicel(1,5)><$emotion(1,13)>Hmmm... As far as I can recall, the only folks who were able<br>to get through that gate back in the day <$voicel(1,6)>were humans<slide><br>known as Professors or Trainers.
+msgctxt "2400:68"
+msgid "<$voicel(1,5)><$emotion(1,13)>Ese pasaje... Los únicos que podían atravesarlo eran los<br>humanos que se hacían llamar profesores o Entrenadores,<slide><br><$voicel(1,6)>si la memoria no me engaña..."
+msgstr ""
+
+#. en: <$motion(1,661)><$voicel(1,5)>You look like a Trainer yourself, you know.<clear><br><$facial(1,4)><$motion(1,806)><$voicel(1,9)>So you may be able to pass through there at some point!
+msgctxt "2400:69"
+msgid "<$motion(1,661)><$voicel(1,5)>Tú tienes el aspecto de uno de esos susodichos<br>Entrenadores...<clear><br><$facial(1,4)><$motion(1,806)><$voicel(1,9)>Si logras entablar amistad con numerosos Pokémon,<br>¡tal vez seas capaz de pasar por ahí!"
+msgstr ""
+
+#. en: *beep beep beep*<br>You have arrived at an area gate.
+msgctxt "2400:73"
+msgid "¡Pi, pi, piii! Has llegado a un pasaje de acceso."
+msgstr "¡Pi, pi, piii! Llegaste a un pasaje de acceso."
+
+#. en: Please place your Pokédex over the gate panel.
+msgctxt "2400:74"
+msgid "Acerca la Pokédex al panel de la puerta."
+msgstr ""
+
+#. en: *ring ring!*
+msgctxt "2400:76"
+msgid "Pururu... Pururu..."
+msgstr ""
+
+#. en: <$voicel(1,9)><$emotion(1,32)>Oho! It seems you can pass through the gate<br>now, <$cdef(27)><pname;0></color>!
+msgctxt "2400:77"
+msgid "<oneline><$voicel(1,9)><$emotion(1,32)>¡Lianas! ¡Parece que ya puedes atravesar el pasaje,<br><$cdef(27)><pname;0></color>!"
+msgstr ""
+
+#. en: <$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,5)>I wonder what lies beyond it.<clear><br><$comeff(1,10)><$motion(1,661)><$voicel(1,7)>Perhaps there are scads of Pokémon and humans living<br>there!
+msgctxt "2400:78"
+msgid "<$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,5)>Me pregunto qué habrá al otro lado...<clear><br><$comeff(1,10)><$motion(1,661)><$voicel(1,7)>Me aventuraría a decir que podría albergar un sinfín<br>de seres humanos y Pokémon."
+msgstr ""
+
+#. en: <$voicel(1,9)><$emotion(1,2)>Promise me that when you do go through that gate, you’ll<br>bring me along, you hear?
+msgctxt "2400:79"
+msgid "<$voicel(1,9)><$emotion(1,2)>En todo caso, si piensas adentrarte más allá, ¡no te quepa<br>la menor duda de que me uniré a la expedición!"
+msgstr ""

@@ -1,0 +1,51 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 4857 (es-ES slot); English reference: record 4853.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 4857\n"
+"X-Ldtool-English-Record: 4853\n"
+
+#. en: Visit a Friend
+msgctxt "4857:1"
+msgid "Visitar el mundo de alguien"
+msgstr ""
+
+#. en: Invite Others to Visit
+msgctxt "4857:2"
+msgid "Invitar a alguien a mi mundo"
+msgstr ""
+
+#. en: Go Back Home
+msgctxt "4857:3"
+msgid "Volver a casa"
+msgstr ""
+
+#. en: Close the Connection
+msgctxt "4857:4"
+msgid "Finalizar la sesión"
+msgstr ""
+
+#. en: Check Settings
+msgctxt "4857:5"
+msgid "Ajustes"
+msgstr ""
+
+#. en: Play on a Cloud Island
+msgctxt "4857:6"
+msgid "Visitar una Isla Nube"
+msgstr ""
+
+#. en: Get Friends’ Stuff
+msgctxt "4857:7"
+msgid "Objetos de amigos"
+msgstr ""

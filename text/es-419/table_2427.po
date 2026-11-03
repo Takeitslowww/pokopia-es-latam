@@ -1,0 +1,76 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 2427 (es-ES slot); English reference: record 2423.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 2427\n"
+"X-Ldtool-English-Record: 2423\n"
+
+#. en: <oneline><$emotion(1,14)><$voicel(1,9)>Whoooaaa there, <$cdef(27)><pname;0></color>! You’ve<br>wandered<slide><br>awfully<slide><br>far away!
+msgctxt "2427:0"
+msgid "<oneline><$emotion(1,14)><$voicel(1,9)>¡Esperaaa, <$cdef(27)><pname;0></color>! ¡Lianas, qué lejos<br>te has ido!"
+msgstr "<oneline><$emotion(1,14)><$voicel(1,9)>¡Esperaaa, <$cdef(27)><pname;0></color>! ¡Lianas, qué lejos<br>te fuiste!"
+
+#. en: <$comeff(1,14)><$motion(1,661)><$voicel(1,5)>I think you’d better spend a little more time getting used<br>to THIS place before you set off for somewhere else.
+msgctxt "2427:1"
+msgid "<$comeff(1,14)><$motion(1,661)><$voicel(1,5)>No está mal querer ampliar los horizontes, claro, pero...<clear><br>Te recomendaría que dejaras tales travesías para cuando<br>te hayas habituado un poco más a esta zona."
+msgstr ""
+
+#. en: <oneline><$comeff(1,6)><$motionoff(1,804)><$voicel(1,5)>Where are you going, <$cdef(27)><pname;0></color>? Would<br>you<slide><br>please<slide><br>help<slide><br>me<slide><br>inspect<slide><br>this<slide><br>building first?
+msgctxt "2427:2"
+msgid "<oneline><$comeff(1,6)><$motionoff(1,804)><$voicel(1,5)>¿Adónde vas, <$cdef(27)><pname;0></color>? ¿No íbamos<br>a investigar<slide><br>este edificio?"
+msgstr ""
+
+#. en: <oneline><$comeff(3,3)><$motion(3,803)><$voicel(3,7)>Oooh, oooh, <$cdef(27)><pname;0></color>! Do you know how<br>to<slide><br>play<slide><br><$cdef(27)>jump rope</color>?
+msgctxt "2427:8"
+msgid "<oneline><$comeff(3,3)><$motion(3,803)><$voicel(3,7)>¡Holiii! Oye, <$cdef(27)><pname;0></color>, ¿sabes jugar<br>a <$cdef(27)>saltar</color><slide><br><$cdef(27)>a la comba</color>?"
+msgstr "<oneline><$comeff(3,3)><$motion(3,803)><$voicel(3,7)>¡Holiii! Oye, <$cdef(27)><pname;0></color>, ¿sabes jugar<br>a <$cdef(27)>saltar</color><slide><br><$cdef(27)>la cuerda</color>?"
+
+#. en: <$comeff(3,14)><$voicel(3,5)>So, um, to play <$cdef(27)>jump rope</color>, I spin my vines ’round and<br>’round.<clear><br><$comeff(3,9)><$facial(3,4)><$motion(3,801)><$voicel(3,7)>And then everybody jumps up and down and tries not to<br>trip on ’em! <$comeff(3,10)><$facial(3,4)><$motionoff(3,804)><$voicel(3,10)>It’s really fun!
+msgctxt "2427:9"
+msgid "<$comeff(3,14)><$voicel(3,5)>Yo te lo explico, ¿vale? ¡<$cdef(27)>Saltar a la comba</color> es muy fácil!<clear><br><$comeff(3,9)><$facial(3,4)><$motion(3,801)><$voicel(3,7)>Yo extiendo una liana y la muevo en circulitos de arriba<br>abajo, sin parar, ¡y vosotros tenéis que saltarla una y otra<slide><br>vez sin tropezaros! <$comeff(3,10)><$facial(3,4)><$motionoff(3,804)><$voicel(3,10)>¡Es superdivertido!"
+msgstr "<$comeff(3,14)><$voicel(3,5)>Yo te lo explico, ¿sí? ¡<$cdef(27)>Saltar la cuerda</color> es muy fácil!<clear><br><$comeff(3,9)><$facial(3,4)><$motion(3,801)><$voicel(3,7)>Yo extiendo una liana y la muevo en circulitos de arriba<br>abajo, sin parar, ¡y ustedes tienen que saltarla una y otra<slide><br>vez sin tropezarse! <$comeff(3,10)><$facial(3,4)><$motionoff(3,804)><$voicel(3,10)>¡Es superdivertido!"
+
+#. en: <$comeff(3,9)><$facial(3,4)><$motion(3,806)><$voicel(3,7)>If you ever wanna play <$cdef(27)>jump rope</color>, just tell me!
+msgctxt "2427:10"
+msgid "<$comeff(3,9)><$facial(3,4)><$motion(3,806)><$voicel(3,7)>¡Si te apetece <$cdef(27)>saltar a la comba </color>un rato, dímelo!"
+msgstr "<$comeff(3,9)><$facial(3,4)><$motion(3,806)><$voicel(3,7)>¡Si quieres <$cdef(27)>saltar la cuerda </color>un rato, dímelo!"
+
+#. en: <$voicel(1,7)><$comeff(1,3)><$motion(1,664)>I think you should put that <$cdef(27)><fqty(1)><$ifull(1440)></color> on your<br>newly built house.<clear><br><$voicel(1,9)><$comeff(1,10)><$motion(1,801)>That’ll make it easier for everyone to know where you live!
+msgctxt "2427:16"
+msgid "<$voicel(1,7)><$comeff(1,3)><$motion(1,664)>Deberías colocar la <$cdef(27)><fqty(1)><$ifull(1440)></color> en una casa<br>humana recién construida.<clear><br><$voicel(1,9)><$comeff(1,10)><$motion(1,801)>¡Así quedará claro que vives ahí!"
+msgstr ""
+
+#. en: Designate <$cdef(27)>the house you</color> <$cdef(27)><$spwicon(1)>built</color> as your very own by<br>placing the <$cdef(27)><fqty(1)><$ifull(1440)> on top of it</color>!
+msgctxt "2427:17"
+msgid "¡Clava la <$cdef(27)><fqty(1)><$ifull(1440)></color> encima de una casa<br>humana que hayas <$cdef(27)>construido<nbs2><$spwicon(1)></color> para hacerla tuya!"
+msgstr ""
+
+#. en: At the current <$cdef(27)>environment level</color>, you should be able to<br>buy a <$cdef(27)><fqty(1)><$ifull(326)></color>!<clear><br>Access the <$cdef(27)>shop </color>and check it out!
+msgctxt "2427:19"
+msgid "Con la <$cdef(27)>calidad del entorno</color> actual, ahora es posible<br>comprar el <$cdef(27)><fqty(1)><$ifull(326)></color>.<clear><br>¡Echa un vistazo a la <$cdef(27)>tienda</color>!"
+msgstr ""
+
+#. en: As you raise the<$cdef(27)> environment level</color>, you’ll be able to buy<br>lots and lots of different items from the <$cdef(27)>shop</color>!
+msgctxt "2427:20"
+msgid "A medida que mejores la <$cdef(27)>calidad del entorno</color>,<br>se irán añadiendo artículos nuevos a la <$cdef(27)>tienda</color>."
+msgstr ""
+
+#. en: <$comeff(1,14)><$motion(1,666)><$voicel(1,5)>Preparations for rebuilding the <$cdef(27)>Pokémon Center</color> are sure to<br>be a lot of work.<clear><br><$comeff(1,3)><$motion(1,824)><$voicel(1,7)>There’s no need to rush. You can continue granting<br>Pokémon’s requests as you have been, <$voicel(1,6)>making them new<slide><br>homes, <$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,8)>and just taking it easy doing whatever you like!<clear><br><$voicel(1,9)><$comeff(1,10)><$motion(1,664)><$facial(1,4)>I’m sure some of the preparations will come together as<br>you’re doing all that, so you can come back to rebuilding<slide><br>the <$cdef(27)>Pokémon Center</color> whenever you’re ready!
+msgctxt "2427:24"
+msgid "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>Centrarte únicamente en los preparativos para reconstruir<br>el <$cdef(27)>Centro Pokémon</color> podría resultar abrumador...<clear><br><$comeff(1,3)><$motion(1,824)><$voicel(1,7)>Te animo a que continúes como hasta ahora: atendiendo<br>las peticiones de los demás Pokémon, <$voicel(1,6)>construyéndoles<slide><br>nuevos hogares y <$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,8)>disfrutando de tu vida aquí.<clear><br><$voicel(1,9)><$comeff(1,10)><$motion(1,664)><$facial(1,4)>Quién sabe, ¡quizá los avances en tus quehaceres diarios<br>te ayuden a desbrozar la cuestión del <$cdef(27)>Centro Pokémon</color>!"
+msgstr "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>Centrarte únicamente en los preparativos para reconstruir<br>el <$cdef(27)>Centro Pokémon</color> podría resultar abrumador...<clear><br><$comeff(1,3)><$motion(1,824)><$voicel(1,7)>Te animo a que continúes como hasta ahora: atendiendo<br>las peticiones de los demás Pokémon, <$voicel(1,6)>construyéndoles<slide><br>nuevos hogares y <$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,8)>disfrutando de tu vida aquí.<clear><br><$voicel(1,9)><$comeff(1,10)><$motion(1,664)><$facial(1,4)>Quién sabe, ¡quizás los avances en tus quehaceres diarios<br>te ayuden a desbrozar la cuestión del <$cdef(27)>Centro Pokémon</color>!"
+
+#. en: <$emotion(4,37)><$voicel(4,9)>Let’s hear what the <$cdef(27)>professor</color> has to say about celebrating!
+msgctxt "2427:28"
+msgid "<$emotion(4,37)><$voicel(4,9)>¡Vamos a preguntarle al<$cdef(27)> profe</color> cómo funciona eso de<br>las \"inaguraciones\"!"
+msgstr ""

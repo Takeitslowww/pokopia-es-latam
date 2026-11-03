@@ -1,0 +1,1191 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 5181 (es-ES slot); English reference: record 5177.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 5181\n"
+"X-Ldtool-English-Record: 5177\n"
+
+#. en: Using Moves
+msgctxt "5181:1"
+msgid "Uso de movimientos"
+msgstr ""
+
+#. en: Jumping
+msgctxt "5181:2"
+msgid "Saltar con Salpicadura"
+msgstr ""
+
+#. en: Picking Up Items
+msgctxt "5181:3"
+msgid "Recoger objetos"
+msgstr ""
+
+#. en: Food
+msgctxt "5181:4"
+msgid "Comida"
+msgstr ""
+
+#. en: Giving Presents
+msgctxt "5181:5"
+msgid "Regalos"
+msgstr ""
+
+#. en: Befriending Pokémon
+msgctxt "5181:6"
+msgid "Hacer amigos"
+msgstr ""
+
+#. en: <$sklfull(1)>
+msgctxt "5181:7"
+msgid "<$sklfull(1)>"
+msgstr ""
+
+#. en: Ditto’s Home
+msgctxt "5181:9"
+msgid "Tu casa"
+msgstr ""
+
+#. en: Making Houses Out of Blocks
+msgctxt "5181:10"
+msgid "Casas de bloques"
+msgstr ""
+
+#. en: The <fcap><fqty(1)><$ifull(764)>
+msgctxt "5181:11"
+msgid "<fcap><fqty(1)><$ifull(764)>"
+msgstr ""
+
+#. en: Comfort Level: Pokémon Center
+msgctxt "5181:13"
+msgid "Centros Pokémon y nivel de confort"
+msgstr ""
+
+#. en: <$sklfull(4)>
+msgctxt "5181:14"
+msgid "<$sklfull(4)>"
+msgstr ""
+
+#. en: The Highlight Reel
+msgctxt "5181:15"
+msgid "Fotos destacadas"
+msgstr ""
+
+#. en: <$sklfull(2)>
+msgctxt "5181:16"
+msgid "<$sklfull(2)>"
+msgstr ""
+
+#. en: Healing at a Pokémon Center
+msgctxt "5181:17"
+msgid "Recuperarse en Centros Pokémon"
+msgstr ""
+
+#. en: Moving Plants With <$sklfull(2)>
+msgctxt "5181:18"
+msgid "Usar <$sklfull(2)> para trasplantar"
+msgstr ""
+
+#. en: Reaching High Places
+msgctxt "5181:20"
+msgid "Subir a lugares altos"
+msgstr ""
+
+#. en: Stockpile / Spit Out
+msgctxt "5181:21"
+msgid "Reserva y Escupir"
+msgstr "Reserva y Escupida"
+
+#. en: Placing Items at Your Feet
+msgctxt "5181:23"
+msgid "Colocar algo debajo de ti"
+msgstr ""
+
+#. en: Tidying Up Paths
+msgctxt "5181:26"
+msgid "Arreglar caminos"
+msgstr ""
+
+#. en: <$iicon(2045)>Storage Boxes
+msgctxt "5181:27"
+msgid "<fcap><fqty(2)><class><$ifull(2045)>"
+msgstr ""
+
+#. en: <$sklfull(5)>
+msgctxt "5181:29"
+msgid "<$sklfull(5)>"
+msgstr ""
+
+#. en: Squeezing Through Tight Spaces
+msgctxt "5181:31"
+msgid "Atravesar huecos estrechos"
+msgstr ""
+
+#. en: Walking and Running
+msgctxt "5181:32"
+msgid "Caminar y correr"
+msgstr ""
+
+#. en: Camera Controls
+msgctxt "5181:33"
+msgid "Control de la cámara"
+msgstr ""
+
+#. en: <$sklfull(3)>
+msgctxt "5181:34"
+msgid "<$sklfull(3)>"
+msgstr ""
+
+#. en: Your Bag
+msgctxt "5181:35"
+msgid "La Bolsa"
+msgstr ""
+
+#. en: Making Habitats
+msgctxt "5181:36"
+msgid "Crear hábitats"
+msgstr ""
+
+#. en: Switching Between Moves
+msgctxt "5181:37"
+msgid "Cambiar entre movimientos"
+msgstr ""
+
+#. en: Pokémon Traces
+msgctxt "5181:39"
+msgid "Pistas sobre los Pokémon"
+msgstr ""
+
+#. en: Climbing
+msgctxt "5181:40"
+msgid "Subir desniveles"
+msgstr ""
+
+#. en: Constructing Buildings
+msgctxt "5181:41"
+msgid "Construir estructuras"
+msgstr ""
+
+#. en: Placing Furniture & Living in Houses
+msgctxt "5181:44"
+msgid "Mudarse a una casa humana amueblada"
+msgstr ""
+
+#. en: Taking Photos
+msgctxt "5181:45"
+msgid "Sacar fotos"
+msgstr ""
+
+#. en: Lost Human Relics?
+msgctxt "5181:47"
+msgid "Reliquias humanas"
+msgstr ""
+
+#. en: Inhaling
+msgctxt "5181:48"
+msgid "Absorber"
+msgstr "Absorción"
+
+#. en: <$sklfull(13)>
+msgctxt "5181:49"
+msgid "<$sklfull(13)>"
+msgstr ""
+
+#. en: Running Out of PP
+msgctxt "5181:50"
+msgid "Qué hacer cuando se te agotan los PP"
+msgstr ""
+
+#. en: Running Electricity to Houses
+msgctxt "5181:51"
+msgid "Conectar casas a la corriente"
+msgstr ""
+
+#. en: Comfort Level
+msgctxt "5181:53"
+msgid "Nivel de confort"
+msgstr ""
+
+#. en: Comfort Level: Food
+msgctxt "5181:54"
+msgid "Comida y nivel de confort"
+msgstr ""
+
+#. en: Comfort Level: Relaxation
+msgctxt "5181:55"
+msgid "Objetos de descanso y nivel de confort"
+msgstr ""
+
+#. en: Comfort Level: Toys
+msgctxt "5181:56"
+msgid "Objetos de ocio y nivel de confort"
+msgstr ""
+
+#. en: Things Pokémon Like
+msgctxt "5181:57"
+msgid "Cosas que les gustan a los Pokémon"
+msgstr ""
+
+#. en: Preferred Environment
+msgctxt "5181:58"
+msgid "El entorno ideal"
+msgstr ""
+
+#. en: Comfort Level: Houses
+msgctxt "5181:59"
+msgid "Nivel de confort en casas humanas"
+msgstr ""
+
+#. en: Home Brightness
+msgctxt "5181:61"
+msgid "Luminosidad de los hogares"
+msgstr ""
+
+#. en: Growing Vegetable Crops
+msgctxt "5181:62"
+msgid "Cultivar verduras"
+msgstr ""
+
+#. en: Specialties
+msgctxt "5181:63"
+msgid "Especialidades"
+msgstr ""
+
+#. en: <fcap><$spwfull(10)>
+msgctxt "5181:64"
+msgid "<fcap><$spwfull(10)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(1)>
+msgctxt "5181:66"
+msgid "<fcap><$spwfull(1)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(5)>
+msgctxt "5181:67"
+msgid "<fcap><$spwfull(5)>"
+msgstr ""
+
+#. en: Environment Level
+msgctxt "5181:69"
+msgid "Calidad del entorno"
+msgstr ""
+
+#. en: Things Pokémon Dislike
+msgctxt "5181:70"
+msgid "Cosas que no les gustan a los Pokémon"
+msgstr ""
+
+#. en: Home Temperature
+msgctxt "5181:71"
+msgid "Temperatura de los hogares"
+msgstr ""
+
+#. en: Home Humidity Level
+msgctxt "5181:72"
+msgid "Humedad en los hogares"
+msgstr ""
+
+#. en: Comfort Level & Habitat Boundaries
+msgctxt "5181:75"
+msgid "Área del nivel de confort"
+msgstr ""
+
+#. en: Legendary and Mythical Pokémon
+msgctxt "5181:76"
+msgid "Pokémon legendarios y singulares"
+msgstr ""
+
+#. en: <fcap><$spwfull(6)>
+msgctxt "5181:78"
+msgid "<fcap><$spwfull(6)>"
+msgstr ""
+
+#. en: Help from Followers
+msgctxt "5181:79"
+msgid "Pokémon acompañantes"
+msgstr ""
+
+#. en: Increasing Humidity: Ground
+msgctxt "5181:81"
+msgid "Aumentar la humedad: riego de tierra"
+msgstr ""
+
+#. en: Increasing Humidity: Vegetation
+msgctxt "5181:82"
+msgid "Aumentar la humedad: vegetación"
+msgstr ""
+
+#. en: Increasing Humidity: Water Sources
+msgctxt "5181:83"
+msgid "Aumentar la humedad: lugares con agua"
+msgstr ""
+
+#. en: <$spwicon(26)>Gather Honey
+msgctxt "5181:84"
+msgid "<fcap><$spwfull(26)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(15)>
+msgctxt "5181:85"
+msgid "<fcap><$spwfull(15)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(16)>
+msgctxt "5181:86"
+msgid "<fcap><$spwfull(16)>"
+msgstr ""
+
+#. en: Walking with Pokémon
+msgctxt "5181:87"
+msgid "Hacer que los Pokémon te acompañen"
+msgstr ""
+
+#. en: Maximum Pokémon Followers
+msgctxt "5181:88"
+msgid "Límite de Pokémon que pueden seguirte"
+msgstr ""
+
+#. en: Increasing Comfort Level
+msgctxt "5181:89"
+msgid "Mejorar el nivel de confort"
+msgstr ""
+
+#. en: Decorating to Improve Comfort
+msgctxt "5181:90"
+msgid "Decoración y nivel de confort"
+msgstr ""
+
+#. en: Pokémon Active Hours
+msgctxt "5181:92"
+msgid "Horas de actividad de los Pokémon"
+msgstr ""
+
+#. en: Pokémon Living Spaces
+msgctxt "5181:93"
+msgid "Hogares para los Pokémon"
+msgstr ""
+
+#. en: Beware Deep Water!
+msgctxt "5181:94"
+msgid "¡Cuidado bajo el agua!"
+msgstr ""
+
+#. en: <fcap><$icon(10997)><$spwname(8)>
+msgctxt "5181:95"
+msgid "<fcap><$spwname(8)><nbs2><$icon(10997)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(8)> and the Rain Dance Site
+msgctxt "5181:96"
+msgid "<fcap><$spwfull(8)> con <$hatname(152)>"
+msgstr ""
+
+#. en: Planting Seeds
+msgctxt "5181:98"
+msgid "Plantar semillas"
+msgstr ""
+
+#. en: Placing Items
+msgctxt "5181:100"
+msgid "Colocar objetos"
+msgstr ""
+
+#. en: Plant Growth
+msgctxt "5181:101"
+msgid "Cuidado de las plantas"
+msgstr ""
+
+#. en: <$sklfull(4)> Tips
+msgctxt "5181:102"
+msgid "Consejos para <$sklfull(4)>"
+msgstr ""
+
+#. en: Homes
+msgctxt "5181:104"
+msgid "Hogares"
+msgstr ""
+
+#. en: Jump Rope
+msgctxt "5181:105"
+msgid "Jugar a saltar a la comba"
+msgstr "Jugar a saltar la cuerda"
+
+#. en: Hide-and-Sneak
+msgctxt "5181:106"
+msgid "Jugar al escondite camuflado"
+msgstr ""
+
+#. en: Pokémon Requests
+msgctxt "5181:108"
+msgid "Peticiones de los Pokémon"
+msgstr ""
+
+#. en: <fcap><$spwfull(25)>
+msgctxt "5181:109"
+msgid "<fcap><$spwfull(25)>"
+msgstr ""
+
+#. en: About Dream Islands
+msgctxt "5181:110"
+msgid "Islas Ensueño"
+msgstr ""
+
+#. en: Time to Ask the Professor!
+msgctxt "5181:111"
+msgid "Pide ayuda al profesor"
+msgstr ""
+
+#. en: Life with Your Pokémon Friends
+msgctxt "5181:112"
+msgid "Convivir con los Pokémon"
+msgstr ""
+
+#. en: Picking Up Items
+msgctxt "5181:113"
+msgid "Recoger objetos"
+msgstr ""
+
+#. en: <$sklfull(6)>
+msgctxt "5181:114"
+msgid "<$sklfull(6)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(11)>
+msgctxt "5181:115"
+msgid "<fcap><$spwfull(11)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(27)>
+msgctxt "5181:116"
+msgid "<fcap><$spwfull(27)>"
+msgstr ""
+
+#. en: The Handy Bag
+msgctxt "5181:117"
+msgid "La Bolsa auxiliar"
+msgstr ""
+
+#. en: Choosing What You Want
+msgctxt "5181:118"
+msgid "Elegir entre varias acciones"
+msgstr ""
+
+#. en: Camera Tripod
+msgctxt "5181:119"
+msgid "Trípode"
+msgstr ""
+
+#. en: Using <fcap><$spwfull(10)> at <$iicon(1446)>Smelting Furnaces
+msgctxt "5181:120"
+msgid "<fcap><$spwfull(10)> en un <fqty(1)><$ifull(1446)>"
+msgstr ""
+
+#. en: Washing Away Mud
+msgctxt "5181:121"
+msgid "<fcap><$spwfull(8)> el barro para limpiarlo"
+msgstr ""
+
+#. en: <fcap><$spwfull(13)>
+msgctxt "5181:122"
+msgid "<fcap><$spwfull(13)>"
+msgstr ""
+
+#. en: <$spwfull(19)>
+msgctxt "5181:123"
+msgid "<$spwfull(19)>"
+msgstr ""
+
+#. en: <fcap><$icon(11222)><$spwname(30)>
+msgctxt "5181:124"
+msgid "<fcap><$spwname(30)><nbs2><$icon(11222)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(17)>: <fcap><fqty(1)><$ifull(1738)>
+msgctxt "5181:125"
+msgid "<fcap><$spwfull(17)> <fqty(1)><$ifull(1738)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(28)>
+msgctxt "5181:126"
+msgid "<fcap><$spwfull(28)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(21)>
+msgctxt "5181:127"
+msgid "<fcap><$spwfull(21)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(31)>
+msgctxt "5181:128"
+msgid "<fcap><$spwfull(31)>"
+msgstr ""
+
+#. en: <$spwfull(29)>
+msgctxt "5181:129"
+msgid "<$spwfull(29)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(23)>
+msgctxt "5181:131"
+msgid "<fcap><$spwfull(23)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(34)>
+msgctxt "5181:132"
+msgid "<fcap><$spwfull(34)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(24)>
+msgctxt "5181:133"
+msgid "<fcap><$spwfull(24)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(32)>
+msgctxt "5181:134"
+msgid "<fcap><$spwfull(32)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(35)>
+msgctxt "5181:135"
+msgid "<fcap><$spwfull(35)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(33)>
+msgctxt "5181:136"
+msgid "<fcap><$spwfull(33)>"
+msgstr ""
+
+#. en: Humidity
+msgctxt "5181:137"
+msgid "Humedad"
+msgstr ""
+
+#. en: Remodeling Buildings
+msgctxt "5181:139"
+msgid "Reformar estructuras"
+msgstr ""
+
+#. en: Demolishing Buildings
+msgctxt "5181:140"
+msgid "Demoler estructuras"
+msgstr ""
+
+#. en: Relocating Buildings
+msgctxt "5181:141"
+msgid "Trasladar estructuras"
+msgstr ""
+
+#. en: Return Home
+msgctxt "5181:142"
+msgid "Función \"Llévame a casa\""
+msgstr ""
+
+#. en: Human Records
+msgctxt "5181:143"
+msgid "Notas humanas"
+msgstr ""
+
+#. en: Ask a <$spwfull(29)> About the Mood
+msgctxt "5181:144"
+msgid "Preguntarle al <$spwfull(29)> por el ánimo actual"
+msgstr ""
+
+#. en: Reporting Completed Requests
+msgctxt "5181:145"
+msgid "Informar de las peticiones completadas"
+msgstr ""
+
+#. en: Return Home Safe and Sound
+msgctxt "5181:147"
+msgid "La función \"Llévame a casa\""
+msgstr ""
+
+#. en: <$sklfull(10)>
+msgctxt "5181:153"
+msgid "<$sklfull(10)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(9)>
+msgctxt "5181:154"
+msgid "<fcap><$spwfull(9)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(12)>
+msgctxt "5181:157"
+msgid "<fcap><$spwfull(12)>"
+msgstr ""
+
+#. en: <fcap><$bfull(33)>s
+msgctxt "5181:159"
+msgid "<fcap><$bfull(33)>"
+msgstr ""
+
+#. en: Changing Colors with <fcap><$icon(11008)><$spwname(21)>
+msgctxt "5181:160"
+msgid "<fcap><$spwname(21)><nbs2><$icon(11008)> objetos de otro color"
+msgstr ""
+
+#. en: <fcap><$icon(11008)><$spwname(21)>ing with Balloons
+msgctxt "5181:161"
+msgid "<fcap><$spwname(21)><nbs2><$icon(11008)> con globos de pintura"
+msgstr ""
+
+#. en: Changing Patterns with <fcap><$icon(11008)><$spwname(21)>
+msgctxt "5181:162"
+msgid "Cambiar el diseño pintando<nbs2><$icon(11008)>"
+msgstr ""
+
+#. en: <fcap><$icon(11008)><$spwname(21)>ing Different Parts
+msgctxt "5181:163"
+msgid "<fcap><$spwname(21)><nbs2><$icon(11008)> partes distintas"
+msgstr ""
+
+#. en: Altering the Flow of Water
+msgctxt "5181:164"
+msgid "Cambiar el cauce del agua"
+msgstr ""
+
+#. en: <fcap><$spwfull(4)>
+msgctxt "5181:165"
+msgid "<fcap><$spwfull(4)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(17)>
+msgctxt "5181:166"
+msgid "Reciclar<nbs2><$spwicon(17)>"
+msgstr ""
+
+#. en: Sucking Up Liquids
+msgctxt "5181:167"
+msgid "Absorber líquidos"
+msgstr ""
+
+#. en: <fcap><$bfull(34)>s
+msgctxt "5181:168"
+msgid "<fcap><$bfull(34)>"
+msgstr ""
+
+#. en: <fcap><$bfull(35)>s
+msgctxt "5181:169"
+msgid "<fcap><$bfull(35)>"
+msgstr ""
+
+#. en: Brightening Areas
+msgctxt "5181:173"
+msgid "Iluminar una zona"
+msgstr ""
+
+#. en: <$iicon(3268)>Utility Poles
+msgctxt "5181:175"
+msgid "<fcap><fqty(2)><class><$ifull(1396)>"
+msgstr ""
+
+#. en: <fcap><$spwfull(22)>
+msgctxt "5181:176"
+msgid "<fcap><$spwfull(22)>"
+msgstr ""
+
+#. en: <fcap><fqty(1)><$ifull(1410)>s
+msgctxt "5181:177"
+msgid "<fcap><fqty(2)><$ifull(1410)>"
+msgstr ""
+
+#. en: Generators
+msgctxt "5181:178"
+msgid "Generadores"
+msgstr ""
+
+#. en: Transforming Your Look
+msgctxt "5181:179"
+msgid "Transformar tu aspecto"
+msgstr ""
+
+#. en: <fcap><$icon(11008)><$spwname(21)>ing Houses
+msgctxt "5181:181"
+msgid "<fcap><$spwname(21)><nbs2><$icon(11008)> casas"
+msgstr ""
+
+#. en: Electric Light
+msgctxt "5181:182"
+msgid "Iluminar mediante la electricidad"
+msgstr ""
+
+#. en: Firelight
+msgctxt "5181:183"
+msgid "Iluminar mediante el fuego"
+msgstr ""
+
+#. en: Brightness and <$cname;0(272)>’s Flower
+msgctxt "5181:184"
+msgid "Las flores de <$cname;0(272)> y la iluminación"
+msgstr ""
+
+#. en: Holding Liquids in Your Mouth
+msgctxt "5181:185"
+msgid "Llenarte la boca con bebidas"
+msgstr ""
+
+#. en: The <$iicon(1443)>3D Printer
+msgctxt "5181:186"
+msgid "<fcap><fqty(2)><class><$ifull(1443)>"
+msgstr ""
+
+#. en: Special Conversations Between Pokémon
+msgctxt "5181:190"
+msgid "Conversaciones entre Pokémon"
+msgstr ""
+
+#. en: Talking to Pokémon
+msgctxt "5181:191"
+msgid "Hablar con los Pokémon"
+msgstr ""
+
+#. en: Using <fcap><fqty(1)><$ifull(3994)> to Draw In Pokémon
+msgctxt "5181:201"
+msgid "Atraer a Pokémon con <fqty(1)><$ifull(3994)>"
+msgstr ""
+
+#. en: Inviting Pokémon to Live Elsewhere
+msgctxt "5181:202"
+msgid "Mudanzas"
+msgstr ""
+
+#. en: Rippling Water #1
+msgctxt "5181:203"
+msgid "Ondas en la superficie del agua"
+msgstr ""
+
+#. en: Rippling Water #2
+msgctxt "5181:204"
+msgid "Ondas en la superficie del agua 2"
+msgstr ""
+
+#. en: Rippling Water #3
+msgctxt "5181:205"
+msgid "Ondas en la superficie del agua 3"
+msgstr ""
+
+#. en: <fcap><fqty(1)><$ifull(3994)>
+msgctxt "5181:206"
+msgid "<fcap><fqty(1)><$ifull(3994)>"
+msgstr ""
+
+#. en: Dangerous Lost Relics
+msgctxt "5181:207"
+msgid "Reliquias peligrosas"
+msgstr ""
+
+#. en: Dowsing
+msgctxt "5181:208"
+msgid "Usar el zahorí<nbs2><$iicon(3100)>"
+msgstr ""
+
+#. en: The Mysterious Mural
+msgctxt "5181:209"
+msgid "El mural misterioso"
+msgstr ""
+
+#. en: Visiting Dream Islands
+msgctxt "5181:210"
+msgid "Cómo ir a las Islas Ensueño"
+msgstr ""
+
+#. en: A New Dream Island Every Day
+msgctxt "5181:211"
+msgid "Una Isla Ensueño nueva cada día"
+msgstr ""
+
+#. en: Challenges
+msgctxt "5181:212"
+msgid "Retos"
+msgstr ""
+
+#. en: The Shop
+msgctxt "5181:214"
+msgid "Tienda"
+msgstr ""
+
+#. en: Ordering Items
+msgctxt "5181:216"
+msgid "Encargar artículos"
+msgstr ""
+
+#. en: Stamp Rally
+msgctxt "5181:217"
+msgid "Colección de sellos"
+msgstr ""
+
+#. en: Discovering New Recipes
+msgctxt "5181:218"
+msgid "Descubrir nuevas recetas"
+msgstr ""
+
+#. en: Searching for Pokémon with the Pokédex
+msgctxt "5181:219"
+msgid "Buscar a un Pokémon con la Pokédex"
+msgstr ""
+
+#. en: Installing <$iicon(1471)>Security Cameras
+msgctxt "5181:220"
+msgid "<fcap><fqty(2)><class><$ifull(1471)>"
+msgstr ""
+
+#. en: Summoning Drifloon with Dolls
+msgctxt "5181:221"
+msgid "Llamar a Drifloon con peluches"
+msgstr ""
+
+#. en: Playing Jump Rope
+msgctxt "5181:224"
+msgid "Jugar a saltar a la comba"
+msgstr "Jugar a saltar la cuerda"
+
+#. en: Playing Hide-and-Sneak
+msgctxt "5181:225"
+msgid "Jugar al escondite camuflado"
+msgstr ""
+
+#. en: Look That Way
+msgctxt "5181:226"
+msgid "Jugar a \"esquiva la baya\""
+msgstr ""
+
+#. en: Using Mouse Controls
+msgctxt "5181:230"
+msgid "Modo ratón"
+msgstr "Modo mouse"
+
+#. en: Dive
+msgctxt "5181:249"
+msgid "Buceo"
+msgstr ""
+
+#. en: Powered-Up <$sklfull(10)>
+msgctxt "5181:250"
+msgid "Movimiento potenciado: <$sklfull(10)>"
+msgstr ""
+
+#. en: Strength
+msgctxt "5181:251"
+msgid "Fuerza"
+msgstr ""
+
+#. en: Using Strength to Rotate Objects
+msgctxt "5181:252"
+msgid "Girar objetos con Fuerza"
+msgstr ""
+
+#. en: Let’s Cook!
+msgctxt "5181:253"
+msgid "Preparar comida"
+msgstr ""
+
+#. en: Powered-Up <$sklfull(1)>
+msgctxt "5181:254"
+msgid "Movimiento potenciado: <$sklfull(1)>"
+msgstr ""
+
+#. en: Powered-Up <$sklfull(5)>
+msgctxt "5181:255"
+msgid "Movimiento potenciado: <$sklfull(5)>"
+msgstr ""
+
+#. en: Powered-Up <$sklfull(3)>
+msgctxt "5181:256"
+msgid "Movimiento potenciado: <$sklfull(3)>"
+msgstr ""
+
+#. en: Powered-Up <$sklfull(4)>
+msgctxt "5181:257"
+msgid "Movimiento potenciado: <$sklfull(4)>"
+msgstr ""
+
+#. en: Cooking: Changing Ingredients
+msgctxt "5181:258"
+msgid "Cocinar con ingredientes diversos"
+msgstr ""
+
+#. en: Cooking: Help from Others
+msgctxt "5181:259"
+msgid "Cocinar con pinches diversos"
+msgstr "Cocinar con ayudantes diversos"
+
+#. en: <$iicon(1446)>Smelting Furnaces
+msgctxt "5181:260"
+msgid "<fcap><fqty(2)><class><$ifull(1446)>"
+msgstr ""
+
+#. en: <fcap><$icon(11004)><$spwname(14)>
+msgctxt "5181:262"
+msgid "<fcap><$spwname(14)><nbs2><$icon(11004)>"
+msgstr ""
+
+#. en: Placing Items to Increase Mood
+msgctxt "5181:263"
+msgid "Mejorar el ánimo colocando objetos"
+msgstr ""
+
+#. en: Using Food to Increase Mood
+msgctxt "5181:264"
+msgid "Mejorar el ánimo cocinando"
+msgstr ""
+
+#. en: Party Prep: Cooking
+msgctxt "5181:265"
+msgid "Preparar comida para la fiesta"
+msgstr ""
+
+#. en: Using Ancient Artifacts to Increase Mood
+msgctxt "5181:267"
+msgid "Mejorar el ánimo con objetos antiguos"
+msgstr ""
+
+#. en: <$sklfull(12)>
+msgctxt "5181:270"
+msgid "<$sklfull(12)>"
+msgstr ""
+
+#. en: Getting a <fcap><fqty(1)><$ifull(1461)> Working
+msgctxt "5181:272"
+msgid "Mover <fqty(2)><class><$ifull(1461)>"
+msgstr ""
+
+#. en: Long-Distance Slicing with <$sklfull(5)>
+msgctxt "5181:273"
+msgid "Usar <$sklfull(5)> a mayor distancia"
+msgstr ""
+
+#. en: Party Time!
+msgctxt "5181:274"
+msgid "¡Hora de festejar!"
+msgstr ""
+
+#. en: Party Benefits
+msgctxt "5181:275"
+msgid "Los beneficios de una fiesta"
+msgstr ""
+
+#. en: Pokémon Fossils
+msgctxt "5181:276"
+msgid "Fósiles de Pokémon"
+msgstr ""
+
+#. en: Railroad Crossings
+msgctxt "5181:277"
+msgid "Las paradas para vagonetas"
+msgstr ""
+
+#. en: Ask <$cname(562)>
+msgctxt "5181:281"
+msgid "Pregunta a <$cname(562)>"
+msgstr ""
+
+#. en: Using <$sklfull(2)> on Coral
+msgctxt "5181:282"
+msgid "<$sklfull(2)> el coral"
+msgstr ""
+
+#. en: Moving Underwater with <$sklfull(10)>
+msgctxt "5181:283"
+msgid "Desplazarse bajo el agua con <$sklfull(10)>"
+msgstr ""
+
+#. en: Breaking Things While <$sklfull(10)>ing
+msgctxt "5181:284"
+msgid "Romper cosas mientras usas <$sklfull(10)>"
+msgstr ""
+
+#. en: <$sklfull(11)>
+msgctxt "5181:351"
+msgid "<$sklfull(11)>"
+msgstr ""
+
+#. en: Setting Up a <$iicon(1457)>Lift
+msgctxt "5181:355"
+msgid "Teleféricos<nbs2><$iicon(1457)>"
+msgstr ""
+
+#. en: Setting Up an <$iicon(1469)>Elevator
+msgctxt "5181:357"
+msgid "Ascensores<nbs2><$iicon(1469)>"
+msgstr "Elevadores<nbs2><$iicon(1469)>"
+
+#. en: Making Big Buildings
+msgctxt "5181:362"
+msgid "Cómo construir estructuras enormes"
+msgstr ""
+
+#. en: <$icon(11020)>Waterfall
+msgctxt "5181:364"
+msgid "Cascada<nbs2><$icon(11020)>"
+msgstr ""
+
+#. en: <fcap><fqty(2)><$ifull(1677)>
+msgctxt "5181:365"
+msgid "<fcap><fqty(2)><$ifull(1677)>"
+msgstr ""
+
+#. en: <$iicon(602)>Portal Pods
+msgctxt "5181:366"
+msgid "<fcap><fqty(2)><$ifull(602)>"
+msgstr ""
+
+#. en: Throwing Away Unwanted Items
+msgctxt "5181:367"
+msgid "Qué hacer con los objetos que te sobran"
+msgstr ""
+
+#. en: Changing How Items Attach
+msgctxt "5181:368"
+msgid "Ajustar alineamiento de objetos"
+msgstr ""
+
+#. en: Growing Crops Underwater
+msgctxt "5181:369"
+msgid "Cultivar plantas bajo el agua"
+msgstr ""
+
+#. en: Jump Rope Contests
+msgctxt "5181:400"
+msgid "Torneo de comba"
+msgstr "Torneo de saltar la cuerda"
+
+#. en: Hide-and-Sneak Contests
+msgctxt "5181:401"
+msgid "Torneo de escondite camuflado"
+msgstr ""
+
+#. en: Using <fqty(2)><$ifull(92)>
+msgctxt "5181:440"
+msgid "Cómo usar <fqty(2)><class><$ifull(92)>"
+msgstr ""
+
+#. en: <$iicon(4001)>Pokémon Gifts
+msgctxt "5181:441"
+msgid "Regalos de Pokémon<nbs2><$iicon(4001)>"
+msgstr ""
+
+#. en: Inviting Pokémon from Other Towns
+msgctxt "5181:442"
+msgid "Invitar a Pokémon de otros mundos"
+msgstr ""
+
+#. en: The Communication Wheel
+msgctxt "5181:443"
+msgid "Rueda de mensajes y gestos"
+msgstr ""
+
+#. en: Playing with Others via Link Play
+msgctxt "5181:451"
+msgid "Jugar con otros en conexión"
+msgstr ""
+
+#. en: <$stgname;0(13)>
+msgctxt "5181:453"
+msgid "<fcap><$stgname;0(13)>"
+msgstr ""
+
+#. en: GameShare
+msgctxt "5181:454"
+msgid "GameShare"
+msgstr ""
+
+#. en: Virtual Mode
+msgctxt "5181:455"
+msgid "Visitas virtuales"
+msgstr ""
+
+#. en: A Place to Play Freely with Others
+msgctxt "5181:456"
+msgid "Jugar con otros sin restricciones"
+msgstr ""
+
+#. en: Inviting Others to Visit Your World
+msgctxt "5181:457"
+msgid "Invitar a alguien a tu mundo"
+msgstr ""
+
+#. en: Visiting a Friend’s World
+msgctxt "5181:458"
+msgid "Visitar el mundo de alguien"
+msgstr ""
+
+#. en: Playing on a Cloud Island
+msgctxt "5181:459"
+msgid "Visitar una Isla Nube"
+msgstr ""
+
+#. en: Ask Again If You’re Stuck
+msgctxt "5181:460"
+msgid "Habla con los Pokémon si te pierdes"
+msgstr ""
+
+#. en: Making Walkable Roads
+msgctxt "5181:461"
+msgid "Hacer caminos transitables"
+msgstr ""
+
+#. en: Making a Darker Home
+msgctxt "5181:462"
+msgid "Reducir la iluminación en los hogares"
+msgstr ""
+
+#. en: Playing Music
+msgctxt "5181:463"
+msgid "Reproducir música"
+msgstr ""
+
+#. en: Finding Water
+msgctxt "5181:464"
+msgid "Cómo encontrar agua"
+msgstr ""
+
+#. en: Shops on Cloud Islands
+msgctxt "5181:465"
+msgid "Compras en las Islas Nube"
+msgstr ""
+
+#. en: Downloadable Content on Cloud Islands
+msgctxt "5181:466"
+msgid "Contenido descargable en las Islas Nube"
+msgstr ""
+
+#. en: <fcap><$spwfull(37)>
+msgctxt "5181:468"
+msgid "<fcap><$spwfull(37)>"
+msgstr ""
+
+#. en: Whirlpools
+msgctxt "5181:469"
+msgid "Remolinos"
+msgstr ""
+
+#. en: <fcap><$spwfull(8)>ing Underwater
+msgctxt "5181:470"
+msgid "<fcap><$spwfull(8)> bajo el agua"
+msgstr ""
+
+#. en: Cutting Watermelons
+msgctxt "5181:471"
+msgid "Cortar sandías"
+msgstr ""
+
+#. en: <fcap><$spwname(1)>ing Underwater
+msgctxt "5181:472"
+msgid "<fcap><$spwname(1)> bajo el agua"
+msgstr ""
+
+#. en: The Deep Sea
+msgctxt "5181:473"
+msgid "Las fosas marinas"
+msgstr ""

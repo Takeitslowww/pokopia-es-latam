@@ -1,0 +1,271 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 4839 (es-ES slot); English reference: record 4835.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 4839\n"
+"X-Ldtool-English-Record: 4835\n"
+
+#. en: Someone created a new habitat.
+msgctxt "4839:3"
+msgid "Alguien ha creado un nuevo hábitat."
+msgstr "Alguien creó un nuevo hábitat."
+
+#. en: A new habitat has been created.
+msgctxt "4839:4"
+msgid "Se ha creado un nuevo hábitat."
+msgstr "Se creó un nuevo hábitat."
+
+#. en: <$cdef(27)><$strpname;0(lstr1,lnum1)> </color>returned home.
+msgctxt "4839:7"
+msgid "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> se ha vuelto a casa."
+msgstr "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> volvió a casa."
+
+#. en: Someone’s having trouble following you!
+msgctxt "4839:11"
+msgid "Uno o más Pokémon se han quedado atrás."
+msgstr "Uno o más Pokémon se quedaron atrás."
+
+#. en: “<$msname;0(lnum1)>” completed!
+msgctxt "4839:12"
+msgid "¡\"<$msname;0(lnum1)>\" completado!"
+msgstr ""
+
+#. en: <$cdef(27)><$pkname;0(lnum1)> </color>has come from your friend’s world to play.
+msgctxt "4839:14"
+msgid "<fcap><dart;0()><$cdef(27)><$pkname;0(lnum1)> </color>ha venido del mundo de algún amigo."
+msgstr "<fcap><dart;0()><$cdef(27)><$pkname;0(lnum1)> </color>llegó del mundo de algún amigo."
+
+#. en: <$cdef(27)><$pkname;0(lnum1)> </color>is about to go home to your friend’s world.
+msgctxt "4839:15"
+msgid "<fcap><dart;0()><$cdef(27)><$pkname;0(lnum1)></color>, que estaba de visita, va a volver a casa."
+msgstr ""
+
+#. en: <$cdef(27)><$pkname;0(lnum1)> </color>has gone home to your friend’s world.
+msgctxt "4839:16"
+msgid "<fcap><dart;0()><$cdef(27)><$pkname;0(lnum1)></color>, que estaba de visita, ha vuelto a casa."
+msgstr "<fcap><dart;0()><$cdef(27)><$pkname;0(lnum1)></color>, que estaba de visita, volvió a casa."
+
+#. en: You accepted <$cdef(27)><$cname;0(lnum1)></color>’s request!
+msgctxt "4839:17"
+msgid "Has aceptado la petición <esde;0()><$cdef(27)><$cname;0(lnum1)></color>."
+msgstr "Aceptaste la petición <esde;0()><$cdef(27)><$cname;0(lnum1)></color>."
+
+#. en: You completed <$cdef(27)><$cname;0(lnum1)></color>’s request!
+msgctxt "4839:18"
+msgid "¡Has cumplido la petición <esde;0()><$cdef(27)><$cname;0(lnum1)></color>!"
+msgstr "¡Cumpliste la petición <esde;0()><$cdef(27)><$cname;0(lnum1)></color>!"
+
+#. en: <$cdef(27)><$strpname;0(lstr1,lnum1)> </color>found <$cdef(27)><$cname;1(lnum2)></color>!
+msgctxt "4839:19"
+msgid "¡<$cdef(27)><$strpname;0(lstr1,lnum1)></color> ha encontrado <esa;1()><$cdef(27)><$cname;1(lnum2)></color>!"
+msgstr "¡<$cdef(27)><$strpname;0(lstr1,lnum1)></color> encontró <esa;1()><$cdef(27)><$cname;1(lnum2)></color>!"
+
+#. en: <$cdef(27)><$strpname;0(lstr1,lnum1)></color><$cdef(27)> </color>returned from a <$cdef(27)>Dream Island</color>.
+msgctxt "4839:20"
+msgid "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>ha vuelto de una <$cdef(27)>Isla Ensueño</color>."
+msgstr "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>volvió de una <$cdef(27)>Isla Ensueño</color>."
+
+#. en: <$cdef(27)><$strpname;0(lstr1,lnum1)></color>’s group returned from a <$cdef(27)>Dream Island</color>.
+msgctxt "4839:21"
+msgid "El grupo de <$cdef(27)><$strpname;0(lstr1,lnum1)></color> ha vuelto de una <$cdef(27)>Isla Ensueño</color>."
+msgstr "El grupo de <$cdef(27)><$strpname;0(lstr1,lnum1)></color> volvió de una <$cdef(27)>Isla Ensueño</color>."
+
+#. en: <$cdef(27)><$strpname;0(lstr1,lnum1)> </color>found some treasure!
+msgctxt "4839:22"
+msgid "¡<$cdef(27)><$strpname;0(lstr1,lnum1)></color> ha encontrado un tesoro!"
+msgstr "¡<$cdef(27)><$strpname;0(lstr1,lnum1)></color> encontró un tesoro!"
+
+#. en: <$cdef(27)><$strpname;0(lstr1,lnum1)></color> placed a building kit.
+msgctxt "4839:23"
+msgid "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> ha colocado un kit de construcción."
+msgstr "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> colocó un kit de construcción."
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)></color> construction underway.
+msgctxt "4839:24"
+msgid "Construcción en curso: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)></color> has been built!
+msgctxt "4839:25"
+msgid "Construcción finalizada: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: <$cdef(27)><$strpname;0(lstr1,lnum1)> </color>placed a demolition kit.
+msgctxt "4839:26"
+msgid "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>ha colocado un kit de demolición."
+msgstr "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>colocó un kit de demolición."
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)></color> demolition underway.
+msgctxt "4839:27"
+msgid "Demolición en curso: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)></color> has been demolished!
+msgctxt "4839:28"
+msgid "Demolición finalizada: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: <$cdef(27)><$strpname;0(lstr1,lnum1)> </color>placed a relocation kit.
+msgctxt "4839:29"
+msgid "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>ha colocado un kit de traslado."
+msgstr "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>colocó un kit de traslado."
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)></color> move underway.
+msgctxt "4839:30"
+msgid "Traslado en curso: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)></color> has been moved!
+msgctxt "4839:31"
+msgid "Traslado finalizado: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: <$cdef(27)><$strpname;0(lstr1,lnum1)></color> placed a party cooking pot.
+msgctxt "4839:32"
+msgid "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>ha colocado una marmita de fiesta."
+msgstr "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>colocó una marmita de fiesta."
+
+#. en: <$cdef(27)><$strpname;0(lstr1,lnum1)></color> started cooking for a party.
+msgctxt "4839:33"
+msgid "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>está preparando un banquete."
+msgstr ""
+
+#. en: <$cdef(27)><$strpname;0(lstr1,lnum1)></color> is throwing a party!
+msgctxt "4839:34"
+msgid "¡<$cdef(27)><$strpname;0(lstr1,lnum1)></color> ha organizado una fiesta!"
+msgstr "¡<$cdef(27)><$strpname;0(lstr1,lnum1)></color> organizó una fiesta!"
+
+#. en: <$cdef(27)><$strpname;0(lstr1,lnum1)></color> snagged a photo op!
+msgctxt "4839:35"
+msgid "¡<$cdef(27)><$strpname;0(lstr1,lnum1)></color> ha capturado un momento especial!"
+msgstr "¡<$cdef(27)><$strpname;0(lstr1,lnum1)></color> capturó un momento especial!"
+
+#. en: <$cdef(27)><$strpname;0(lstr1,lnum1)> </color>is coming to visit.
+msgctxt "4839:36"
+msgid "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> está de camino."
+msgstr ""
+
+#. en: <$cdef(27)><$strpname;0(lstr1,lnum1)> </color>has come to visit!
+msgctxt "4839:37"
+msgid "¡Ha llegado <$cdef(27)><$strpname;0(lstr1,lnum1)></color>!"
+msgstr "¡Llegó <$cdef(27)><$strpname;0(lstr1,lnum1)></color>!"
+
+#. en: <$cdef(27)><$strpname;0(lstr1,lnum1)> </color>was found!
+msgctxt "4839:40"
+msgid "¡Han encontrado a <$cdef(27)><$strpname;0(lstr1,lnum1)></color>!"
+msgstr "¡Encontraron a <$cdef(27)><$strpname;0(lstr1,lnum1)></color>!"
+
+#. en: <$cdef(27)><$pkname;0(lnum1)> </color>was registered in your Cloud Island Pokédex.
+msgctxt "4839:41"
+msgid "<$cdef(27)><$pkname;0(lnum1)></color> registrad<gen;0(o,a)> en la Pokédex Nube."
+msgstr ""
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)></color> has been built!
+msgctxt "4839:42"
+msgid "Construcción finalizada: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)></color> has been demolished!
+msgctxt "4839:43"
+msgid "Demolición finalizada: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)></color> has been moved!
+msgctxt "4839:44"
+msgid "Traslado completado: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)></color> has been rebuilt!
+msgctxt "4839:45"
+msgid "Reconstrucción finalizada: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)> </color>has been remodeled!
+msgctxt "4839:46"
+msgid "Reforma finalizada: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)> </color>is ready for relocation!
+msgctxt "4839:47"
+msgid "Preparativos finalizados: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: The environment level increased!
+msgctxt "4839:48"
+msgid "¡Ha aumentado la calidad del entorno!"
+msgstr "¡Aumentó la calidad del entorno!"
+
+#. en: The party food is ready!
+msgctxt "4839:49"
+msgid "¡El banquete para el festejo está listo!"
+msgstr ""
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)></color> has been rebuilt!
+msgctxt "4839:50"
+msgid "Reconstrucción finalizada: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)> </color>has been remodeled!
+msgctxt "4839:51"
+msgid "Reforma finalizada: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)></color> is ready for relocation!
+msgctxt "4839:52"
+msgid "Preparativos finalizados: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: Someone has placed a <fqty(1)><$iname(2871)>.
+msgctxt "4839:53"
+msgid "Alguien ha colocado un <fqty(1)><$iname(2871)>."
+msgstr "Alguien colocó un <fqty(1)><$iname(2871)>."
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)></color> relocation prep underway.
+msgctxt "4839:54"
+msgid "Preparativos en curso: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: <$strpname;0(lstr1,lnum1)> has started rebuilding.
+msgctxt "4839:55"
+msgid "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> ha iniciado una reconstrucción."
+msgstr "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> inició una reconstrucción."
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)></color> rebuild underway.
+msgctxt "4839:56"
+msgid "Reconstrucción en curso: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: <$strpname;0(lstr1,lnum1)> has placed a kit for a remodel.
+msgctxt "4839:57"
+msgid "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> ha colocado un kit de reforma."
+msgstr "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> colocó un kit de reforma."
+
+#. en: <$cdef(27)><fcap><$bfull;0(lnum1)></color> remodel underway.
+msgctxt "4839:58"
+msgid "Reforma en curso: <$cdef(27)><$bfull;0(lnum1)></color>."
+msgstr ""
+
+#. en: Security camera #<dgt1;0(lnum1)> has spotted a new Pokémon!
+msgctxt "4839:59"
+msgid "¡La cámara de seguridad n.º <dgt1;0(lnum1)> ha captado a un Pokémon nuevo!"
+msgstr "¡La cámara de seguridad n.º <dgt1;0(lnum1)> captó a un Pokémon nuevo!"
+
+#. en: Get your camera! A great photo op is happening nearby!
+msgctxt "4839:60"
+msgid "¡Saca una foto de este momento especial!"
+msgstr "¡Toma una foto de este momento especial!"
+
+#. en: There’s stuff in the <$cdef(27)><fqty(1)><$ifullwithnum;0(1442,0)></color>!
+msgctxt "4839:61"
+msgid "Hay algo dentro <esde;0()><fqty(1)><$ifullwithnum;0(1442,0)>."
+msgstr ""

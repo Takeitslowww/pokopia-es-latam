@@ -1,0 +1,5155 @@
+{
+ "schema": 1,
+ "generator": "assettool 0.2.0",
+ "game": {
+  "name": "Pokemon Pokopia",
+  "version": "2.0.1",
+  "update": 655360,
+  "platform": "Switch 2 (G1T platform 0x18)"
+ },
+ "source": {
+  "asset_dir": "motor_asset_re/KIDS_PLATFORM_OUNCE",
+  "rdb_entries": 60722
+ },
+ "source_language": "es",
+ "target_language": "es-419",
+ "languages": [
+  "ja",
+  "en",
+  "fr",
+  "it",
+  "de",
+  "es",
+  "zh-Hant",
+  "ko",
+  "zh-Hans"
+ ],
+ "language_sets": [
+  {
+   "id": "set1",
+   "scale_exponent": 8,
+   "packs": {
+    "ja": "0x25d85da4",
+    "en": "0x0ccd9dee",
+    "fr": "0xd4106457",
+    "it": "0xfc04c6b6",
+    "de": "0x522bd378",
+    "es": "0x1477abe8",
+    "zh-Hant": "0x6e6cd8a1",
+    "ko": "0x5232ba7e",
+    "zh-Hans": "0x12ab439e"
+   }
+  },
+  {
+   "id": "set2",
+   "scale_exponent": 8,
+   "packs": {
+    "ja": "0x3e368745",
+    "en": "0x252bc78f",
+    "fr": "0xec6e8df8",
+    "it": "0x1462f057",
+    "de": "0x6a89fd19",
+    "es": "0x2cd5d589",
+    "zh-Hant": "0x86cb0242",
+    "ko": "0x6a90e41f",
+    "zh-Hans": "0x2b096d3f"
+   }
+  },
+  {
+   "id": "set3",
+   "scale_exponent": 0,
+   "packs": {
+    "ja": "0x24b83555",
+    "en": "0xdcaf5f9f",
+    "fr": "0xdc8f9f08",
+    "it": "0x35dfd067",
+    "de": "0x28f8bf29",
+    "es": "0xa11c0799",
+    "zh-Hant": "0x6c61fd52",
+    "ko": "0x33020c2f",
+    "zh-Hans": "0x90a5b54f"
+   }
+  }
+ ],
+ "stats": {
+  "assets": 49,
+  "fingerprinted_textures": 410,
+  "language_packs": 27,
+  "language_sets": 3,
+  "objdb_entries": 4479,
+  "objdb_without_data": 371,
+  "texture_packs": 34
+ },
+ "assets": [
+  {
+   "name": "banner__0800_txt_new_craft",
+   "kind": "texture",
+   "category": "banner",
+   "description": "Banner shown when a new creation (recipe) is unlocked.",
+   "files": {
+    "es-419": "es-419/banner__0800_txt_new_craft.png",
+    "es-ES": "reference/es-ES/banner__0800_txt_new_craft.png",
+    "en": "reference/en/banner__0800_txt_new_craft.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 128,
+    "mode": "RGBA",
+    "es_ES_sha256": "bd67f6ad0ebd77433e5279e65d301c0851760931aed7289fd2905455d7451979"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x22c1e760",
+    "rdb_index": 8373,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 134987040,
+    "stored_size": 14712,
+    "size": 131124,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 128,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 4
+    },
+    "sprite_set": "0x5b12134b",
+    "sprites": [
+     {
+      "name": "0800_txt_new_craft",
+      "rect": [
+       0,
+       0,
+       900,
+       112
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 7
+   },
+   "en": {
+    "ktid": "0x1b17d966",
+    "rdb_index": 6522,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 112856656,
+    "stored_size": 8397,
+    "size": 131124,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 128,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 4
+    },
+    "sprite_set": "0x5b12134b",
+    "sprites": [
+     {
+      "name": "0800_txt_new_craft",
+      "rect": [
+       0,
+       0,
+       900,
+       112
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "banner__8000_txt_atlas",
+   "kind": "texture",
+   "category": "banner",
+   "description": "Atlas of request/mission banners (completed, important request x2, get to work).",
+   "files": {
+    "es-419": "es-419/banner__8000_txt_atlas.png",
+    "es-ES": "reference/es-ES/banner__8000_txt_atlas.png",
+    "en": "reference/en/banner__8000_txt_atlas.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "87a1392defab566ec75bc82c342ccba587d63b9e81317279c3baf40c95e0c306"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x4df78a0c",
+    "rdb_index": 18520,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 135196336,
+    "stored_size": 57664,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xd81e7ff7",
+    "sprites": [
+     {
+      "name": "8000_txt_clear_0",
+      "rect": [
+       0,
+       0,
+       720,
+       120
+      ]
+     },
+     {
+      "name": "8000_txt_mission_0",
+      "rect": [
+       0,
+       124,
+       720,
+       244
+      ]
+     },
+     {
+      "name": "8000_txt_mission_1",
+      "rect": [
+       0,
+       248,
+       720,
+       368
+      ]
+     },
+     {
+      "name": "8000_txt_start_0",
+      "rect": [
+       0,
+       372,
+       720,
+       492
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x464d7c12",
+    "rdb_index": 16739,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 113021072,
+    "stored_size": 45129,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xd81e7ff7",
+    "sprites": [
+     {
+      "name": "8000_txt_clear_0",
+      "rect": [
+       0,
+       0,
+       720,
+       120
+      ]
+     },
+     {
+      "name": "8000_txt_mission_0",
+      "rect": [
+       0,
+       124,
+       720,
+       244
+      ]
+     },
+     {
+      "name": "8000_txt_mission_1",
+      "rect": [
+       0,
+       248,
+       720,
+       368
+      ]
+     },
+     {
+      "name": "8000_txt_start_0",
+      "rect": [
+       0,
+       372,
+       720,
+       492
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "banner__8000_txt_gate_open",
+   "kind": "texture",
+   "category": "banner",
+   "description": "Banner: access opened.",
+   "files": {
+    "es-419": "es-419/banner__8000_txt_gate_open.png",
+    "es-ES": "reference/es-ES/banner__8000_txt_gate_open.png",
+    "en": "reference/en/banner__8000_txt_gate_open.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 256,
+    "mode": "RGBA",
+    "es_ES_sha256": "6e146da60bdbdc533da157849e57390bb74d104aeeb2592410f059be316fd9c7"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x3084d9fe",
+    "rdb_index": 11647,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 135011568,
+    "stored_size": 52603,
+    "size": 262196,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 256,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 8
+    },
+    "sprite_set": "0x12be86e9",
+    "sprites": [
+     {
+      "name": "8000_txt_gate_open",
+      "rect": [
+       0,
+       0,
+       1024,
+       256
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x28dacc04",
+    "rdb_index": 9859,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 112865056,
+    "stored_size": 54262,
+    "size": 262196,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 256,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 8
+    },
+    "sprite_set": "0x12be86e9",
+    "sprites": [
+     {
+      "name": "8000_txt_gate_open",
+      "rect": [
+       0,
+       0,
+       1024,
+       256
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "hud__8000_num_dev_max_atlas",
+   "kind": "texture",
+   "category": "hud",
+   "description": "'MAX' counter labels (big number with MAX tag, small MAX tag).",
+   "files": {
+    "es-419": "es-419/hud__8000_num_dev_max_atlas.png",
+    "es-ES": "reference/es-ES/hud__8000_num_dev_max_atlas.png",
+    "en": "reference/en/hud__8000_num_dev_max_atlas.png"
+   },
+   "image": {
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "b7b79fe72fc57f5e63436be682f573ad160b6529416de1edd7476bd09a78152f"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x47360995",
+    "rdb_index": 16957,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 135001760,
+    "stored_size": 9799,
+    "size": 262196,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 512,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x07901300",
+    "sprites": [
+     {
+      "name": "8000_num_dev_max",
+      "rect": [
+       0,
+       184,
+       172,
+       264
+      ]
+     },
+     {
+      "name": "8000_num_dev_max_L",
+      "rect": [
+       0,
+       0,
+       352,
+       180
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": null,
+   "en": {
+    "ktid": "0x4569a14b",
+    "rdb_index": 16522,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 109202096,
+    "stored_size": 9291,
+    "size": 262196,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 512,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x07901300",
+    "sprites": [
+     {
+      "name": "8000_num_dev_max",
+      "rect": [
+       0,
+       184,
+       172,
+       264
+      ]
+     },
+     {
+      "name": "8000_num_dev_max_L",
+      "rect": [
+       0,
+       0,
+       352,
+       180
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "sprite-set",
+    "ptbr_translated": false
+   }
+  },
+  {
+   "name": "language_select__0030_prt_language_2",
+   "kind": "sprite",
+   "category": "language_select",
+   "description": "Language-selection label 'Español (España)' (360x64 crop of a shared atlas). The es-419 copy is the label of the 10th (es-419) button: the build adds it as the new sprite 0030_prt_language_3. The Spain button keeps the original.",
+   "files": {
+    "es-419": "es-419/language_select__0030_prt_language_2.png",
+    "es-ES": "reference/es-ES/language_select__0030_prt_language_2.png",
+    "en": "reference/en/language_select__0030_prt_language_2.png"
+   },
+   "image": {
+    "width": 360,
+    "height": 64,
+    "mode": "RGBA",
+    "es_ES_sha256": "e3e7815de4d704ec305842206b0a9bf9cff75b815ea1e63f1bba518d91e94799"
+   },
+   "language_set": null,
+   "es-ES": {
+    "ktid": "0xbc2c37f5",
+    "rdb_index": 44551,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 772320,
+    "stored_size": 1205215,
+    "size": 19207660,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 62,
+     "sub_texture": 32,
+     "format": "0x66",
+     "format_name": "BC7",
+     "width": 4096,
+     "height": 2048,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x987344aa",
+    "sprites": [
+     {
+      "name": "0030_prt_language_2",
+      "rect": [
+       1536,
+       1648,
+       1896,
+       1712
+      ]
+     }
+    ],
+    "crop": [
+     1536,
+     1648,
+     1896,
+     1712
+    ],
+    "pack": "0xe2e43333"
+   },
+   "ktid_fingerprint": null,
+   "en": {
+    "ktid": "0xbc2c37f5",
+    "rdb_index": 44551,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 772320,
+    "stored_size": 1205215,
+    "size": 19207660,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 62,
+     "sub_texture": 32,
+     "format": "0x66",
+     "format_name": "BC7",
+     "width": 4096,
+     "height": 2048,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x987344aa",
+    "sprites": [
+     {
+      "name": "0030_prt_language_1",
+      "rect": [
+       580,
+       1628,
+       940,
+       1692
+      ]
+     }
+    ],
+    "crop": [
+     580,
+     1628,
+     940,
+     1692
+    ],
+    "pack": "0xe2e43333",
+    "match": "label-sprite",
+    "ptbr_translated": false
+   },
+   "latam_label": {
+    "role": "The es-419 file is the label of the 10th (es-419) language button. The build adds it as a new sprite; the Spain button keeps the es-ES original.",
+    "sprite": "0030_prt_language_3",
+    "sprite_hash": "0xfc5b0505",
+    "atlas": "0xbc2c37f5",
+    "sub_texture": 32,
+    "rect": [
+     0,
+     1776,
+     360,
+     1840
+    ],
+    "sprite_set": "0x987344aa",
+    "label_table": {
+     "linkdata_record": 1552,
+     "row": "0x102",
+     "ui_asset": 10
+    }
+   }
+  },
+  {
+   "name": "minigame__8000_minigame_atlas",
+   "kind": "texture",
+   "category": "minigame",
+   "description": "Mini-game banners: well done, too bad, it's over, result, let's play, time's up.",
+   "files": {
+    "es-419": "es-419/minigame__8000_minigame_atlas.png",
+    "es-ES": "reference/es-ES/minigame__8000_minigame_atlas.png",
+    "en": "reference/en/minigame__8000_minigame_atlas.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGBA",
+    "es_ES_sha256": "0aaa201705db2467905509de1dade178a451997b2a9a53e3215e34a51eeabbcd"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0xfaf10db7",
+    "rdb_index": 59491,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 135064176,
+    "stored_size": 132149,
+    "size": 1048628,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 1024,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xa0083622",
+    "sprites": [
+     {
+      "name": "8000_minigame_clear",
+      "rect": [
+       0,
+       0,
+       900,
+       160
+      ]
+     },
+     {
+      "name": "8000_minigame_failure",
+      "rect": [
+       0,
+       164,
+       900,
+       324
+      ]
+     },
+     {
+      "name": "8000_minigame_finish",
+      "rect": [
+       0,
+       328,
+       900,
+       488
+      ]
+     },
+     {
+      "name": "8000_minigame_result",
+      "rect": [
+       0,
+       492,
+       900,
+       652
+      ]
+     },
+     {
+      "name": "8000_minigame_start",
+      "rect": [
+       0,
+       656,
+       900,
+       816
+      ]
+     },
+     {
+      "name": "8000_minigame_timeup",
+      "rect": [
+       0,
+       820,
+       900,
+       980
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0xf346ffbd",
+    "rdb_index": 57670,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 112919328,
+    "stored_size": 101740,
+    "size": 1048628,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 1024,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xa0083622",
+    "sprites": [
+     {
+      "name": "8000_minigame_clear",
+      "rect": [
+       0,
+       0,
+       900,
+       160
+      ]
+     },
+     {
+      "name": "8000_minigame_failure",
+      "rect": [
+       0,
+       164,
+       900,
+       324
+      ]
+     },
+     {
+      "name": "8000_minigame_finish",
+      "rect": [
+       0,
+       328,
+       900,
+       488
+      ]
+     },
+     {
+      "name": "8000_minigame_result",
+      "rect": [
+       0,
+       492,
+       900,
+       652
+      ]
+     },
+     {
+      "name": "8000_minigame_start",
+      "rect": [
+       0,
+       656,
+       900,
+       816
+      ]
+     },
+     {
+      "name": "8000_minigame_timeup",
+      "rect": [
+       0,
+       820,
+       900,
+       980
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "title__8000_dlc_logo",
+   "kind": "texture",
+   "category": "title",
+   "description": "Game logo with the expansion subtitle (MountPoint_1 language set).",
+   "files": {
+    "es-419": "es-419/title__8000_dlc_logo.png",
+    "es-ES": "reference/es-ES/title__8000_dlc_logo.png",
+    "en": "reference/en/title__8000_dlc_logo.png"
+   },
+   "image": {
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "35f88e08996b897b3f8f482fdc6e4aa1d46eb4524581a024c14cddedeb8b110f"
+   },
+   "language_set": "set2",
+   "es-ES": {
+    "ktid": "0x196889e1",
+    "rdb_index": 6105,
+    "rdb_type": "0xafbec60c",
+    "fdata": "MountPoint_1/0x00176283.fdata",
+    "fdata_offset": 2268000,
+    "stored_size": 56853,
+    "size": 262196,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x66",
+     "format_name": "BC7",
+     "width": 512,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x9dcc774c",
+    "sprites": [
+     {
+      "name": "8000_dlc_logo",
+      "rect": [
+       0,
+       0,
+       416,
+       396
+      ]
+     }
+    ],
+    "pack": "0x2cd5d589"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 8,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x174715e7",
+    "rdb_index": 5604,
+    "rdb_type": "0xafbec60c",
+    "fdata": "MountPoint_1/0x00176283.fdata",
+    "fdata_offset": 1021840,
+    "stored_size": 56939,
+    "size": 262196,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x66",
+     "format_name": "BC7",
+     "width": 512,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x9dcc774c",
+    "sprites": [
+     {
+      "name": "8000_dlc_logo",
+      "rect": [
+       0,
+       0,
+       416,
+       396
+      ]
+     }
+    ],
+    "pack": "0x252bc78f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "title__8000_dlc_logo_atlas.t0",
+   "kind": "texture",
+   "category": "title",
+   "description": "Expansion artwork cards with a small subtitle (sub-texture 0 of 2).",
+   "files": {
+    "es-419": "es-419/title__8000_dlc_logo_atlas.t0.png",
+    "es-ES": "reference/es-ES/title__8000_dlc_logo_atlas.t0.png",
+    "en": "reference/en/title__8000_dlc_logo_atlas.t0.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGBA",
+    "es_ES_sha256": "a303319b6316e4dfefb9c909b70dddad50bd482cf7305bd5667a5ce21000e01b"
+   },
+   "language_set": "set1",
+   "es-ES": {
+    "ktid": "0x0a399140",
+    "rdb_index": 2521,
+    "rdb_type": "0xafbec60c",
+    "fdata": "MountPoint_2/0x0017d6e2.fdata",
+    "fdata_offset": 21006704,
+    "stored_size": 241154,
+    "size": 1310796,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 2,
+     "sub_texture": 0,
+     "format": "0x66",
+     "format_name": "BC7",
+     "width": 1024,
+     "height": 1024,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x024d0075",
+    "sprites": [
+     {
+      "name": "8000_dlc_logo_1",
+      "rect": [
+       0,
+       0,
+       416,
+       396
+      ]
+     },
+     {
+      "name": "8000_dlc_logo_2",
+      "rect": [
+       418,
+       0,
+       834,
+       396
+      ]
+     },
+     {
+      "name": "8000_dlc_logo_3",
+      "rect": [
+       0,
+       398,
+       416,
+       794
+      ]
+     }
+    ],
+    "pack": "0x1477abe8"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 8,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x08181d46",
+    "rdb_index": 1991,
+    "rdb_type": "0xafbec60c",
+    "fdata": "MountPoint_2/0x0017d6e2.fdata",
+    "fdata_offset": 18583952,
+    "stored_size": 184655,
+    "size": 1048628,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x66",
+     "format_name": "BC7",
+     "width": 1024,
+     "height": 1024,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x25fcb72b",
+    "sprites": [
+     {
+      "name": "8000_dlc_logo_1",
+      "rect": [
+       0,
+       0,
+       416,
+       396
+      ]
+     },
+     {
+      "name": "8000_dlc_logo_2",
+      "rect": [
+       418,
+       0,
+       834,
+       396
+      ]
+     },
+     {
+      "name": "8000_dlc_logo_3",
+      "rect": [
+       0,
+       398,
+       416,
+       794
+      ]
+     }
+    ],
+    "pack": "0x0ccd9dee",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "title__8000_dlc_logo_atlas.t1",
+   "kind": "texture",
+   "category": "title",
+   "description": "Game logo with the expansion subtitle (sub-texture 1 of 2; the English G1T has no second sub-texture).",
+   "files": {
+    "es-419": "es-419/title__8000_dlc_logo_atlas.t1.png",
+    "es-ES": "reference/es-ES/title__8000_dlc_logo_atlas.t1.png",
+    "en": null
+   },
+   "image": {
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "35f88e08996b897b3f8f482fdc6e4aa1d46eb4524581a024c14cddedeb8b110f"
+   },
+   "language_set": "set1",
+   "es-ES": {
+    "ktid": "0x0a399140",
+    "rdb_index": 2521,
+    "rdb_type": "0xafbec60c",
+    "fdata": "MountPoint_2/0x0017d6e2.fdata",
+    "fdata_offset": 21006704,
+    "stored_size": 241154,
+    "size": 1310796,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 2,
+     "sub_texture": 1,
+     "format": "0x66",
+     "format_name": "BC7",
+     "width": 512,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x024d0075",
+    "sprites": [
+     {
+      "name": "8000_dlc_logo",
+      "rect": [
+       0,
+       0,
+       512,
+       512
+      ]
+     }
+    ],
+    "pack": "0x1477abe8"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 8,
+    "votes": 8
+   },
+   "en": null
+  },
+  {
+   "name": "title__8000_title_atlas",
+   "kind": "texture",
+   "category": "title",
+   "description": "Title screen: game logo and 'press A' prompt.",
+   "files": {
+    "es-419": "es-419/title__8000_title_atlas.png",
+    "es-ES": "reference/es-ES/title__8000_title_atlas.png",
+    "en": "reference/en/title__8000_title_atlas.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGBA",
+    "es_ES_sha256": "6ceed3aaefa074a702935f1ed9f9d4b76f32a7154a51fe2c98ea165002138639"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x7b934558",
+    "rdb_index": 29267,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 135254000,
+    "stored_size": 113575,
+    "size": 1048628,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x66",
+     "format_name": "BC7",
+     "width": 1024,
+     "height": 1024,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x0f93b543",
+    "sprites": [
+     {
+      "name": "8000_title_logo",
+      "rect": [
+       0,
+       0,
+       756,
+       592
+      ]
+     },
+     {
+      "name": "8000_title_press_btn",
+      "rect": [
+       0,
+       596,
+       652,
+       716
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 5
+   },
+   "en": {
+    "ktid": "0x79c6dd0e",
+    "rdb_index": 28863,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 109362352,
+    "stored_size": 125493,
+    "size": 1048628,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x66",
+     "format_name": "BC7",
+     "width": 1024,
+     "height": 1024,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x0f93b543",
+    "sprites": [
+     {
+      "name": "8000_title_logo",
+      "rect": [
+       0,
+       0,
+       756,
+       592
+      ]
+     },
+     {
+      "name": "8000_title_press_btn",
+      "rect": [
+       0,
+       596,
+       652,
+       716
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "sprite-set",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_004",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: item pop-up with an item name tag over a field.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_004.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_004.png",
+    "en": "reference/en/tutorial__still_tutorial_004.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "4886d97c426c0a1aa9548d61eae0932528e670a8a539b05a85d8bec308e672aa"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x08530fd1",
+    "rdb_index": 2048,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 135367584,
+    "stored_size": 112439,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x4a079b3c",
+    "sprites": [
+     {
+      "name": "still_tutorial_004",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x00a901d7",
+    "rdb_index": 153,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 113066208,
+    "stored_size": 112588,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x4a079b3c",
+    "sprites": [
+     {
+      "name": "still_tutorial_004",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_005",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: item pop-up with an item name tag (variant).",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_005.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_005.png",
+    "en": "reference/en/tutorial__still_tutorial_005.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "c87782d2532903d6af4b1252a658262c7375e498d3e8a1e8369051559ee8ee3e"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0xed947e92",
+    "rdb_index": 56262,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 135480032,
+    "stored_size": 95433,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xbf81c17d",
+    "sprites": [
+     {
+      "name": "still_tutorial_005",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0xe5ea7098",
+    "rdb_index": 54501,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 113178800,
+    "stored_size": 95870,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xbf81c17d",
+    "sprites": [
+     {
+      "name": "still_tutorial_005",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_006",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: item bar with materials.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_006.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_006.png",
+    "en": "reference/en/tutorial__still_tutorial_006.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "a26877501c1b157e152c70a080266f13376b8ab2f750173fc7ba199e22d8ce66"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0xd2d5ed53",
+    "rdb_index": 50068,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 135575472,
+    "stored_size": 133521,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x34fbe7be",
+    "sprites": [
+     {
+      "name": "still_tutorial_006",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0xcb2bdf59",
+    "rdb_index": 48173,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 113274672,
+    "stored_size": 133570,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x34fbe7be",
+    "sprites": [
+     {
+      "name": "still_tutorial_006",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": false
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_009",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: material pop-up with a furniture name tag.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_009.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_009.png",
+    "en": "reference/en/tutorial__still_tutorial_009.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "c6882994ae9d0dfab435b79bf74091c74986d34ad779c4f5f82d78fad03a05c6"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x829a3996",
+    "rdb_index": 30904,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 135709008,
+    "stored_size": 109431,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x956a5a81",
+    "sprites": [
+     {
+      "name": "still_tutorial_009",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x7af02b9c",
+    "rdb_index": 29115,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 113408256,
+    "stored_size": 108389,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x956a5a81",
+    "sprites": [
+     {
+      "name": "still_tutorial_009",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_024",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: main menu with the 'take me home' option.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_024.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_024.png",
+    "en": "reference/en/tutorial__still_tutorial_024.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "10bfac6f28da39843f14fda1cc6911a4b1165abf584d4ef9d2c41f23e265c04d"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x171d7a0f",
+    "rdb_index": 5573,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 135818448,
+    "stored_size": 94676,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xbcf6b67a",
+    "sprites": [
+     {
+      "name": "still_tutorial_024",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x0f736c15",
+    "rdb_index": 3743,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 113516656,
+    "stored_size": 94697,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xbcf6b67a",
+    "sprites": [
+     {
+      "name": "still_tutorial_024",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_029",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: move selector (Water Gun).",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_029.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_029.png",
+    "en": "reference/en/tutorial__still_tutorial_029.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "5b175dd7bfb9fe5c4a89985deb543825f2f03dffdd4dfde01542fff152c1f5b3"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x9164a3d4",
+    "rdb_index": 34465,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 135913136,
+    "stored_size": 99717,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x085975bf",
+    "sprites": [
+     {
+      "name": "still_tutorial_029",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x89ba95da",
+    "rdb_index": 32618,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 113611360,
+    "stored_size": 99624,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x085975bf",
+    "sprites": [
+     {
+      "name": "still_tutorial_029",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": false
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_030",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: move selector (Leafage).",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_030.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_030.png",
+    "en": "reference/en/tutorial__still_tutorial_030.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "7f92e0786e973573f4c6c483549b130c349ac071225c7cc5cdfa04cac6fac63d"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x897cf42a",
+    "rdb_index": 32560,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 136012864,
+    "stored_size": 102590,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xa085ab15",
+    "sprites": [
+     {
+      "name": "still_tutorial_030",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x81d2e630",
+    "rdb_index": 30734,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 113710992,
+    "stored_size": 103065,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xa085ab15",
+    "sprites": [
+     {
+      "name": "still_tutorial_030",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": false
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_054",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: Pokemon speech bubble.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_054.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_054.png",
+    "en": "reference/en/tutorial__still_tutorial_054.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "046f76e354a304d45d634ae8e3c60a8beb40fda13c4a7cacff0dbb5670efd4f4"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x2d4d196c",
+    "rdb_index": 10894,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 136115456,
+    "stored_size": 140976,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xe95d5f57",
+    "sprites": [
+     {
+      "name": "still_tutorial_054",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x25a30b72",
+    "rdb_index": 9052,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 113814064,
+    "stored_size": 140236,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xe95d5f57",
+    "sprites": [
+     {
+      "name": "still_tutorial_054",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_057",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: storage box / item transfer screen.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_057.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_057.png",
+    "en": "reference/en/tutorial__still_tutorial_057.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "b6e27d3ca0b36091089cf3b943727fc8aae5141b66fe72817b9adfa30e2fdf1a"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0xdd1165af",
+    "rdb_index": 52509,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 136256432,
+    "stored_size": 87684,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x49cbd21a",
+    "sprites": [
+     {
+      "name": "still_tutorial_057",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0xd56757b5",
+    "rdb_index": 50689,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 113954304,
+    "stored_size": 88132,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x49cbd21a",
+    "sprites": [
+     {
+      "name": "still_tutorial_057",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_063",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: conversation with a choice menu.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_063.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_063.png",
+    "en": "reference/en/tutorial__still_tutorial_063.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "647b92db26617aed6205cda9589fc51e672c6bc1637981f21d0ab776e8c4c667"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x4f70dfca",
+    "rdb_index": 18880,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 136344128,
+    "stored_size": 124147,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x2d5ac6b5",
+    "sprites": [
+     {
+      "name": "still_tutorial_063",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x47c6d1d0",
+    "rdb_index": 17084,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 114042448,
+    "stored_size": 124341,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x2d5ac6b5",
+    "sprites": [
+     {
+      "name": "still_tutorial_063",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_070",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: camera viewfinder.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_070.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_070.png",
+    "en": "reference/en/tutorial__still_tutorial_070.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "384e7dba1cd9ad328a9927aa346fa45a9c8144ed880ea28d249306e566999006"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0xa711c8a6",
+    "rdb_index": 39601,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 136468288,
+    "stored_size": 130314,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x8663e191",
+    "sprites": [
+     {
+      "name": "still_tutorial_070",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x9f67baac",
+    "rdb_index": 37817,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 114166800,
+    "stored_size": 130462,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x8663e191",
+    "sprites": [
+     {
+      "name": "still_tutorial_070",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": false
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_071",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: speech bubble in a town square.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_071.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_071.png",
+    "en": "reference/en/tutorial__still_tutorial_071.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "de4d07e3d5532506d656bf792a68e26461ff3af77c12b9bd69d107dfcfe08b61"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x8c533767",
+    "rdb_index": 33255,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 136598608,
+    "stored_size": 152083,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xfbde07d2",
+    "sprites": [
+     {
+      "name": "still_tutorial_071",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x84a9296d",
+    "rdb_index": 31394,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 114297264,
+    "stored_size": 152099,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xfbde07d2",
+    "sprites": [
+     {
+      "name": "still_tutorial_071",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": false
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_081",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: challenges menu, online play card.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_081.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_081.png",
+    "en": "reference/en/tutorial__still_tutorial_081.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "c8679e518429e7c3314294cdc34df71828dac32be7c81bc8da3ddf2b46d56162"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x93b86c86",
+    "rdb_index": 35056,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 136750704,
+    "stored_size": 50603,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xb5559571",
+    "sprites": [
+     {
+      "name": "still_tutorial_081",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x8c0e5e8c",
+    "rdb_index": 33204,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 114449376,
+    "stored_size": 50685,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xb5559571",
+    "sprites": [
+     {
+      "name": "still_tutorial_081",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_088",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: Pokemon details: specialty, ideal habitat, likes.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_088.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_088.png",
+    "en": "reference/en/tutorial__still_tutorial_088.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "c576c87f8c9bda52b34e577f1ffa740371b11b2abdfd6905895f7cfdf76f3d96"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0xd88273cd",
+    "rdb_index": 51427,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 136801312,
+    "stored_size": 74452,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xebaca138",
+    "sprites": [
+     {
+      "name": "still_tutorial_088",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0xd0d865d3",
+    "rdb_index": 49595,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 114500064,
+    "stored_size": 72791,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xebaca138",
+    "sprites": [
+     {
+      "name": "still_tutorial_088",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_112",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: habitat comfort meter.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_112.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_112.png",
+    "en": "reference/en/tutorial__still_tutorial_112.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "9cfd967f7bc9b27d1eea5271849b4acc599e1450665bfffd31ff07057214f8dc"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0xd1d5926f",
+    "rdb_index": 49828,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 136875776,
+    "stored_size": 127432,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xb32b9eda",
+    "sprites": [
+     {
+      "name": "still_tutorial_112",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0xca2b8475",
+    "rdb_index": 47923,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 114572864,
+    "stored_size": 127198,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xb32b9eda",
+    "sprites": [
+     {
+      "name": "still_tutorial_112",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_126",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: Pokemon asking for an item.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_126.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_126.png",
+    "en": "reference/en/tutorial__still_tutorial_126.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "79aa851a76dea64a62c54f4d0da1e7fa15993085756ef8bf2899756160a2c546"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x6e408292",
+    "rdb_index": 26145,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 137003216,
+    "stored_size": 127378,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x428bc57d",
+    "sprites": [
+     {
+      "name": "still_tutorial_126",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x66967498",
+    "rdb_index": 24398,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 114700064,
+    "stored_size": 120786,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x428bc57d",
+    "sprites": [
+     {
+      "name": "still_tutorial_126",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_127",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: conversation menu asking about comfort.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_127.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_127.png",
+    "en": "reference/en/tutorial__still_tutorial_127.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "3ad22cdb0431e65bb7f97e7879ab4b97481390046306fb252daeb6b6ff4984a5"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x5381f153",
+    "rdb_index": 19859,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 137130608,
+    "stored_size": 119871,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xb805ebbe",
+    "sprites": [
+     {
+      "name": "still_tutorial_127",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x4bd7e359",
+    "rdb_index": 18021,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 114820864,
+    "stored_size": 117308,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xb805ebbe",
+    "sprites": [
+     {
+      "name": "still_tutorial_127",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_132",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: Pokemon details: specialty, ideal habitat, likes (variant).",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_132.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_132.png",
+    "en": "reference/en/tutorial__still_tutorial_132.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "a12816f5c3652c54f8b250b8aa1676d8ed9e437676e16b64b254fe528e85585d"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0xe09ffcad",
+    "rdb_index": 53355,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 137250480,
+    "stored_size": 73691,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x261aba18",
+    "sprites": [
+     {
+      "name": "still_tutorial_132",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0xd8f5eeb3",
+    "rdb_index": 51535,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 114938176,
+    "stored_size": 71677,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x261aba18",
+    "sprites": [
+     {
+      "name": "still_tutorial_132",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_133",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: Pokemon with a small name tag (root data).",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_133.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_133.png",
+    "en": "reference/en/tutorial__still_tutorial_133.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "030c3d29d888c8f65e031d20a46aa1f3e25f886bfdd69ee44d2ff0f5354a9fc5"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0xc5e16b6e",
+    "rdb_index": 46868,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 137324176,
+    "stored_size": 151413,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x9b94e059",
+    "sprites": [
+     {
+      "name": "still_tutorial_133",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0xbe375d74",
+    "rdb_index": 45036,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 115009856,
+    "stored_size": 151208,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x9b94e059",
+    "sprites": [
+     {
+      "name": "still_tutorial_133",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_133.mp1",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: Pokemon with a small name tag (MountPoint_1 copy; differs from the root one).",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_133.mp1.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_133.mp1.png",
+    "en": "reference/en/tutorial__still_tutorial_133.mp1.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "196788b243dc7d1d7c6a453566f7c3a1bb92e405666b1148a4fa20f410fc06f7"
+   },
+   "language_set": "set2",
+   "es-ES": {
+    "ktid": "0x6c00255e",
+    "rdb_index": 25637,
+    "rdb_type": "0xafbec60c",
+    "fdata": "MountPoint_1/0x00176283.fdata",
+    "fdata_offset": 2324864,
+    "stored_size": 157422,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x5c000c49",
+    "sprites": [
+     {
+      "name": "still_tutorial_133",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0x2cd5d589"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 8,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x69deb164",
+    "rdb_index": 25180,
+    "rdb_type": "0xafbec60c",
+    "fdata": "MountPoint_1/0x00176283.fdata",
+    "fdata_offset": 1078784,
+    "stored_size": 151208,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x5c000c49",
+    "sprites": [
+     {
+      "name": "still_tutorial_133",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0x252bc78f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_137",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: Pokemon details (variant).",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_137.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_137.png",
+    "en": "reference/en/tutorial__still_tutorial_137.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "d1eea675e3a11d00ebb1d6e7944cbaf480034d6f8ff3cb3964b0aa24bd47b66c"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x5ae72672",
+    "rdb_index": 21540,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 137475600,
+    "stored_size": 73826,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x717d795d",
+    "sprites": [
+     {
+      "name": "still_tutorial_137",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x533d1878",
+    "rdb_index": 19791,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 115161072,
+    "stored_size": 71760,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x717d795d",
+    "sprites": [
+     {
+      "name": "still_tutorial_137",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_146",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: outfit set menu.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_146.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_146.png",
+    "en": "reference/en/tutorial__still_tutorial_146.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "abcc8dd8f3211ec2a9d7247164e3856124cec609182f08ebf1e17868164f836d"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x7d0aecd0",
+    "rdb_index": 29647,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 137549440,
+    "stored_size": 51210,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xb57ae0bb",
+    "sprites": [
+     {
+      "name": "still_tutorial_146",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x7560ded6",
+    "rdb_index": 27834,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 115232832,
+    "stored_size": 50659,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xb57ae0bb",
+    "sprites": [
+     {
+      "name": "still_tutorial_146",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_147",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: colour customisation menu.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_147.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_147.png",
+    "en": "reference/en/tutorial__still_tutorial_147.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "9aa7dbfae0267c45e49e97ab5c69ee44ab9e174f7e076b9a9794b0ccc7187bf4"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x624c5b91",
+    "rdb_index": 23377,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 137600656,
+    "stored_size": 60972,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x2af506fc",
+    "sprites": [
+     {
+      "name": "still_tutorial_147",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x5aa24d97",
+    "rdb_index": 21467,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 115283504,
+    "stored_size": 60948,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x2af506fc",
+    "sprites": [
+     {
+      "name": "still_tutorial_147",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_150",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: shop item list with a notice line.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_150.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_150.png",
+    "en": "reference/en/tutorial__still_tutorial_150.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "ee1e0257757325f2a35b4e55e7ba18472480b6b0eb791ae4e7c5c346b886f012"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x24e78969",
+    "rdb_index": 8850,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 137661632,
+    "stored_size": 73115,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xae1588d4",
+    "sprites": [
+     {
+      "name": "still_tutorial_150",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x1d3d7b6f",
+    "rdb_index": 7017,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 115344464,
+    "stored_size": 72394,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xae1588d4",
+    "sprites": [
+     {
+      "name": "still_tutorial_150",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_176",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: conversation choice menu (go somewhere together).",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_176.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_176.png",
+    "en": "reference/en/tutorial__still_tutorial_176.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "70e4857f92656ac538a340aa48826930e54488b32fe1c1855da694f9dc2f23e2"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x933a8c2d",
+    "rdb_index": 34910,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 137734752,
+    "stored_size": 130885,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xe1e18998",
+    "sprites": [
+     {
+      "name": "still_tutorial_176",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x8b907e33",
+    "rdb_index": 33073,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 115416864,
+    "stored_size": 117456,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xe1e18998",
+    "sprites": [
+     {
+      "name": "still_tutorial_176",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_186",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: cooking pop-up.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_186.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_186.png",
+    "en": "reference/en/tutorial__still_tutorial_186.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "4ab2c7bdd0839f45b10060510f5d725f759a40bd01c4d2d9be4f53e4f93a1075"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x9a9fc14c",
+    "rdb_index": 36679,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 137865648,
+    "stored_size": 128762,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x9b591737",
+    "sprites": [
+     {
+      "name": "still_tutorial_186",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x92f5b352",
+    "rdb_index": 34844,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 115534320,
+    "stored_size": 128307,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x9b591737",
+    "sprites": [
+     {
+      "name": "still_tutorial_186",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_187",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: cooking result with dish description.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_187.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_187.png",
+    "en": "reference/en/tutorial__still_tutorial_187.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "261c14c2135971eba1e0c3c7cc3d49a1dcc9953baca9d3142f115968a72ab113"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x7fe1300d",
+    "rdb_index": 30319,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 137994416,
+    "stored_size": 129089,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x10d33d78",
+    "sprites": [
+     {
+      "name": "still_tutorial_187",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x78372213",
+    "rdb_index": 28491,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 115662640,
+    "stored_size": 128391,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x10d33d78",
+    "sprites": [
+     {
+      "name": "still_tutorial_187",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_206",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: decoration request sheet (paints, order button).",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_206.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_206.png",
+    "en": "reference/en/tutorial__still_tutorial_206.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "9651fecefb6ede8eff0d14b86510697d19e235ee4b4c3cecc45ac5f605c6f3aa"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0xec164355",
+    "rdb_index": 55892,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 138123520,
+    "stored_size": 34635,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x6a3d6cc0",
+    "sprites": [
+     {
+      "name": "still_tutorial_206",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0xe46c355b",
+    "rdb_index": 54156,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 115791040,
+    "stored_size": 34433,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x6a3d6cc0",
+    "sprites": [
+     {
+      "name": "still_tutorial_206",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_207",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: main menu with the Habitat Dex selected.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_207.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_207.png",
+    "en": "reference/en/tutorial__still_tutorial_207.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "cbd2baa41dea58d771f913cf527b94bc9d33df3aaf69f951fa63cd70c3b906ce"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0xd157b216",
+    "rdb_index": 49696,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 138158160,
+    "stored_size": 64259,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xdfb79301",
+    "sprites": [
+     {
+      "name": "still_tutorial_207",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0xc9ada41c",
+    "rdb_index": 47806,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 115825488,
+    "stored_size": 64312,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xdfb79301",
+    "sprites": [
+     {
+      "name": "still_tutorial_207",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_209",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: daily challenges board.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_209.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_209.png",
+    "en": "reference/en/tutorial__still_tutorial_209.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "f4a3ea9696a9c6eace400f352790c1e42097e34a7f7236cd34c41ef994d75e9d"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x9bda8f98",
+    "rdb_index": 36993,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 138222432,
+    "stored_size": 60982,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xcaabdf83",
+    "sprites": [
+     {
+      "name": "still_tutorial_209",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x9430819e",
+    "rdb_index": 35178,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 115889808,
+    "stored_size": 60163,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xcaabdf83",
+    "sprites": [
+     {
+      "name": "still_tutorial_209",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_211",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: daily shop item list.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_211.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_211.png",
+    "en": "reference/en/tutorial__still_tutorial_211.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "5d46de31a4887245faf1d3f9708d70a174316b423df8405e02ce59292fe04c9b"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x79344eaf",
+    "rdb_index": 28714,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 138283424,
+    "stored_size": 71849,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xd8523b1a",
+    "sprites": [
+     {
+      "name": "still_tutorial_211",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x718a40b5",
+    "rdb_index": 26914,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 115949984,
+    "stored_size": 71206,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xd8523b1a",
+    "sprites": [
+     {
+      "name": "still_tutorial_211",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_213",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: daily shop item list (one row).",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_213.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_213.png",
+    "en": "reference/en/tutorial__still_tutorial_213.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "1147d93396e1d141c2258a0e9ec541cf41099a02d92f008e812f8a2d8efc8293"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x43b72c31",
+    "rdb_index": 16145,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 138355280,
+    "stored_size": 52772,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xc346879c",
+    "sprites": [
+     {
+      "name": "still_tutorial_213",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x3c0d1e37",
+    "rdb_index": 14293,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 116021200,
+    "stored_size": 52910,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xc346879c",
+    "sprites": [
+     {
+      "name": "still_tutorial_213",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_214",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: environment quality card with a details button.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_214.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_214.png",
+    "en": "reference/en/tutorial__still_tutorial_214.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "88b24fd93880278ae6de193729e4ac6f0db28ddedbccef0905882fbb0986da36"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x28f89af2",
+    "rdb_index": 9883,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 138408064,
+    "stored_size": 35093,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x38c0addd",
+    "sprites": [
+     {
+      "name": "still_tutorial_214",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x214e8cf8",
+    "rdb_index": 8005,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 116074112,
+    "stored_size": 34330,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x38c0addd",
+    "sprites": [
+     {
+      "name": "still_tutorial_214",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_215",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: stamp card and stamp collection.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_215.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_215.png",
+    "en": "reference/en/tutorial__still_tutorial_215.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "125384d6534e5c12eaa712e1943be6e81222a48a75f74e76b516ffddf17d86aa"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x0e3a09b3",
+    "rdb_index": 3484,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 138443168,
+    "stored_size": 56901,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xae3ad41e",
+    "sprites": [
+     {
+      "name": "still_tutorial_215",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x068ffbb9",
+    "rdb_index": 1622,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 116108448,
+    "stored_size": 55816,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xae3ad41e",
+    "sprites": [
+     {
+      "name": "still_tutorial_215",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_235",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: online play menu (invite, visit, online/local).",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_235.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_235.png",
+    "en": "reference/en/tutorial__still_tutorial_235.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "ae45fa3fe3b99d6aad698b29440c28386d691778c5f4e773b42da3dcb2112e86"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x1d0473f1",
+    "rdb_index": 6959,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 138500080,
+    "stored_size": 56003,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x2129ef5c",
+    "sprites": [
+     {
+      "name": "still_tutorial_235",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x155a65f7",
+    "rdb_index": 5171,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 116164272,
+    "stored_size": 55325,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x2129ef5c",
+    "sprites": [
+     {
+      "name": "still_tutorial_235",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_236",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: online session menu (end session, password, settings).",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_236.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_236.png",
+    "en": "reference/en/tutorial__still_tutorial_236.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "02176ed9eba694efde007c295e8364d71ff2b9240932b392641667ac04636dd4"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0x0245e2b2",
+    "rdb_index": 567,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 138556096,
+    "stored_size": 54717,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x96a4159d",
+    "sprites": [
+     {
+      "name": "still_tutorial_236",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0xfa9bd4b8",
+    "rdb_index": 59395,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 116219600,
+    "stored_size": 54752,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x96a4159d",
+    "sprites": [
+     {
+      "name": "still_tutorial_236",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_238",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: speech bubble during a search.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_238.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_238.png",
+    "en": "reference/en/tutorial__still_tutorial_238.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "6ea5b63dcfcd838d6bce46dbda2f27080e78318a4270bd8cd582c7ccec8d034b"
+   },
+   "language_set": "set3",
+   "es-ES": {
+    "ktid": "0xccc8c034",
+    "rdb_index": 48592,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 138610816,
+    "stored_size": 136905,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x8198621f",
+    "sprites": [
+     {
+      "name": "still_tutorial_238",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xa11c0799"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 0,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0xc51eb23a",
+    "rdb_index": 46664,
+    "rdb_type": "0xafbec60c",
+    "fdata": "0x00011c54.fdata",
+    "fdata_offset": 116274352,
+    "stored_size": 142248,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x8198621f",
+    "sprites": [
+     {
+      "name": "still_tutorial_238",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0xdcaf5f9f",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_255",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: code-lock keypad.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_255.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_255.png",
+    "en": "reference/en/tutorial__still_tutorial_255.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "8322169012915e54463020674d5919fac936ad8b2d35d562f6a3841ad65d3bc6"
+   },
+   "language_set": "set1",
+   "es-ES": {
+    "ktid": "0xc6c44e7e",
+    "rdb_index": 47081,
+    "rdb_type": "0xafbec60c",
+    "fdata": "MountPoint_2/0x0017d6e2.fdata",
+    "fdata_offset": 21248048,
+    "stored_size": 110262,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xf84aa569",
+    "sprites": [
+     {
+      "name": "still_tutorial_255",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0x1477abe8"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 8,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0xc4a2da84",
+    "rdb_index": 46551,
+    "rdb_type": "0xafbec60c",
+    "fdata": "MountPoint_2/0x0017d6e2.fdata",
+    "fdata_offset": 18768608,
+    "stored_size": 109893,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0xf84aa569",
+    "sprites": [
+     {
+      "name": "still_tutorial_255",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0x0ccd9dee",
+    "match": "ktid-offset",
+    "ptbr_translated": false
+   }
+  },
+  {
+   "name": "tutorial__still_tutorial_256",
+   "kind": "texture",
+   "category": "tutorial",
+   "description": "Tutorial screenshot: code-lock keypad with a wrong-code message.",
+   "files": {
+    "es-419": "es-419/tutorial__still_tutorial_256.png",
+    "es-ES": "reference/es-ES/tutorial__still_tutorial_256.png",
+    "en": "reference/en/tutorial__still_tutorial_256.png"
+   },
+   "image": {
+    "width": 1024,
+    "height": 512,
+    "mode": "RGBA",
+    "es_ES_sha256": "51f25679994ba0e10de93db8aadacdcbd85910a2615216b0864bd3c68e789dd0"
+   },
+   "language_set": "set1",
+   "es-ES": {
+    "ktid": "0x0a4f6c3f",
+    "rdb_index": 2541,
+    "rdb_type": "0xafbec60c",
+    "fdata": "MountPoint_2/0x0017d6e2.fdata",
+    "fdata_offset": 21358320,
+    "stored_size": 109709,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x219efaaa",
+    "sprites": [
+     {
+      "name": "still_tutorial_256",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0x1477abe8"
+   },
+   "ktid_fingerprint": {
+    "lang": "es",
+    "scale_exponent": 8,
+    "votes": 8
+   },
+   "en": {
+    "ktid": "0x082df845",
+    "rdb_index": 2015,
+    "rdb_type": "0xafbec60c",
+    "fdata": "MountPoint_2/0x0017d6e2.fdata",
+    "fdata_offset": 18878512,
+    "stored_size": 108454,
+    "size": 524340,
+    "g1t": {
+     "version": "0600",
+     "platform": 24,
+     "sub_textures": 1,
+     "sub_texture": 0,
+     "format": "0x62",
+     "format_name": "BC3",
+     "width": 1024,
+     "height": 512,
+     "mips": 1,
+     "flags": "11102110",
+     "ext_header": "0c0000000000000000000001",
+     "swizzle": "switch2-block-linear",
+     "gob_block_height": 16
+    },
+    "sprite_set": "0x219efaaa",
+    "sprites": [
+     {
+      "name": "still_tutorial_256",
+      "rect": [
+       0,
+       0,
+       844,
+       472
+      ]
+     }
+    ],
+    "pack": "0x0ccd9dee",
+    "match": "ktid-offset",
+    "ptbr_translated": true
+   }
+  }
+ ],
+ "movies_checked": [
+  {
+   "file": "movie_asset/ounce/MV01.webm",
+   "kind": "movie",
+   "bytes": 370449468,
+   "localized": false,
+   "note": "One copy for all languages: a single VP9 1920x1080 video track (language 'und'), no audio or subtitle tracks; no text seen in frames sampled every 8 s. Not localized."
+  },
+  {
+   "file": "movie_asset/ounce/MV02.webm",
+   "kind": "movie",
+   "bytes": 136042909,
+   "localized": false,
+   "note": "One copy for all languages: a single VP9 1920x1080 video track (language 'und'), no audio or subtitle tracks; no text seen in frames sampled every 8 s. Not localized."
+  }
+ ],
+ "shared_with_english": [],
+ "notes": []
+}

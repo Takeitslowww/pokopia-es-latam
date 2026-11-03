@@ -1,0 +1,1301 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 5127 (es-ES slot); English reference: record 5123.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 5127\n"
+"X-Ldtool-English-Record: 5123\n"
+
+#. en: Find a Pokémon with the <$cdef(27)><fcap><$spwname(11)></color> specialty to help you.
+msgctxt "5127:1"
+msgid "Necesitas que te ayude algún Pokémon especialista en <$cdef(27)><$spwname(11)></color>."
+msgstr ""
+
+#. en: There aren’t any Pokémon who can be called over...
+msgctxt "5127:7"
+msgid "No hay nadie a quien llamar."
+msgstr ""
+
+#. en: You don’t have enough Pokémon helpers...
+msgctxt "5127:8"
+msgid "Necesitas más Pokémon ayudantes."
+msgstr ""
+
+#. en: You can only plant things in tilled soil.
+msgctxt "5127:9"
+msgid "Tienes que arar la tierra antes de plantar en ella."
+msgstr ""
+
+#. en: Still cooking... Come back later!
+msgctxt "5127:11"
+msgid "Aún se está preparando. ¡Vuelve en un rato!"
+msgstr ""
+
+#. en: None of the items in your bag are already stored here.
+msgctxt "5127:12"
+msgid "No hay nada que coincida con lo que llevas encima."
+msgstr ""
+
+#. en: You can’t use this right now.
+msgctxt "5127:13"
+msgid "No puedes usar eso ahora mismo o en este lugar."
+msgstr ""
+
+#. en: You can’t use that move now.
+msgctxt "5127:14"
+msgid "No puedes usar ese movimiento ahora mismo."
+msgstr ""
+
+#. en: Save successful
+msgctxt "5127:15"
+msgid "Guardado completado."
+msgstr ""
+
+#. en: Unable to save
+msgctxt "5127:16"
+msgid "No se ha podido guardar."
+msgstr "No se pudo guardar."
+
+#. en: You can’t access this right now.
+msgctxt "5127:17"
+msgid "No puedes acceder ahora mismo."
+msgstr ""
+
+#. en: There’s no point in placing more of these.
+msgctxt "5127:19"
+msgid "No tendría sentido colocar más."
+msgstr ""
+
+#. en: There are too many of these for them to work properly.
+msgctxt "5127:20"
+msgid "No se puede usar porque hay demasiados."
+msgstr ""
+
+#. en: You are currently playing in that language.
+msgctxt "5127:22"
+msgid "Ya estás jugando en este idioma."
+msgstr ""
+
+#. en: That won’t have any effect here...
+msgctxt "5127:23"
+msgid "No tiene sentido usar eso aquí."
+msgstr ""
+
+#. en: There aren’t any items to retrieve.
+msgctxt "5127:25"
+msgid "No tienes nada que recoger."
+msgstr ""
+
+#. en: You can’t do that right now.
+msgctxt "5127:26"
+msgid "No puedes hacer eso ahora mismo."
+msgstr ""
+
+#. en: None of the items stored here are already in your bag.
+msgctxt "5127:27"
+msgid "No llevas nada que coincida con lo que hay guardado."
+msgstr ""
+
+#. en: You can’t buy from the shop right now.
+msgctxt "5127:28"
+msgid "Ahora mismo no puedes comprar."
+msgstr ""
+
+#. en: You can only install wallpaper indoors.
+msgctxt "5127:29"
+msgid "Los papeles decorativos son para el interior de las casas."
+msgstr ""
+
+#. en: You can’t install wallpaper in this house.
+msgctxt "5127:30"
+msgid "No se pueden poner papeles decorativos en esta estructura."
+msgstr ""
+
+#. en: You’re carrying too much stuff!
+msgctxt "5127:37"
+msgid "¡Tu inventario está lleno!"
+msgstr ""
+
+#. en: You need to water the dry ground before you can plant that.
+msgctxt "5127:41"
+msgid "Riega el suelo antes de plantar nada."
+msgstr ""
+
+#. en: You already have this information.
+msgctxt "5127:43"
+msgid "Ya conocías esta información."
+msgstr ""
+
+#. en: You can’t select this yet.
+msgctxt "5127:44"
+msgid "No puedes seleccionar esto todavía."
+msgstr ""
+
+#. en: Failed to save the game.
+msgctxt "5127:46"
+msgid "No se ha podido guardar la partida."
+msgstr "No se pudo guardar la partida."
+
+#. en: You don’t have enough PP!
+msgctxt "5127:48"
+msgid "¡No tienes suficientes PP!"
+msgstr ""
+
+#. en: This move isn’t registered.
+msgctxt "5127:49"
+msgid "Necesitas asignar el movimiento a la rueda."
+msgstr ""
+
+#. en: Nothing has been registered to this slot.
+msgctxt "5127:50"
+msgid "No hay nada asignado."
+msgstr ""
+
+#. en: You don’t have enough materials...
+msgctxt "5127:53"
+msgid "No tienes suficientes materiales."
+msgstr ""
+
+#. en: You don’t have enough materials...
+msgctxt "5127:54"
+msgid "No tienes suficientes materiales."
+msgstr ""
+
+#. en: You can’t do that inside a building.
+msgctxt "5127:58"
+msgid "Mejor no hacer eso aquí dentro."
+msgstr "Mejor no hacer eso aquí adentro."
+
+#. en: You can’t use that while camouflaged...
+msgctxt "5127:60"
+msgid "No puedes usar eso mientras estás camuflad<gen;-2(o,a)>."
+msgstr ""
+
+#. en: You don’t have enough Life Coins.
+msgctxt "5127:61"
+msgid "No tienes suficientes monevitas."
+msgstr ""
+
+#. en: Out of stock.
+msgctxt "5127:62"
+msgid "Este artículo está agotado."
+msgstr ""
+
+#. en: You can’t save right now.
+msgctxt "5127:67"
+msgid "No puedes guardar tu progreso ahora mismo."
+msgstr ""
+
+#. en: Your inventory is full. You can’t place any more orders.
+msgctxt "5127:68"
+msgid "No puedes encargar objetos porque tu inventario está lleno."
+msgstr ""
+
+#. en: You can’t remove a move that’s currently in use.
+msgctxt "5127:69"
+msgid "No se puede quitar el movimiento activo."
+msgstr ""
+
+#. en: You can’t make this exchange because your inventory is full.
+msgctxt "5127:71"
+msgid "No puedes comprar más cosas porque tu inventario está lleno."
+msgstr ""
+
+#. en: There’s nothing burnable inside.
+msgctxt "5127:72"
+msgid "No hay nada que sirva de combustible."
+msgstr ""
+
+#. en: You’re carrying too much stuff!
+msgctxt "5127:73"
+msgid "¡Tu inventario está lleno!"
+msgstr ""
+
+#. en: You don’t have enough Pokémon helpers...
+msgctxt "5127:74"
+msgid "No hay suficientes Pokémon que puedan ayudar..."
+msgstr ""
+
+#. en: Try adding food.
+msgctxt "5127:75"
+msgid "Esto no sirve como ingrediente."
+msgstr ""
+
+#. en: You don’t have enough ingredients to add.
+msgctxt "5127:76"
+msgid "Necesitas más ingredientes."
+msgstr ""
+
+#. en: You can’t add that ingredient.
+msgctxt "5127:77"
+msgid "No puedes usar este ingrediente."
+msgstr ""
+
+#. en: Only <$cdef(27)><$strpname;0(lstr1,lnum1)></color> can finish this building.
+msgctxt "5127:78"
+msgid "Solo <$cdef(27)><$strpname;0(lstr1,lnum1)></color> puede completar la construcción."
+msgstr ""
+
+#. en: Incorrect passcode.
+msgctxt "5127:80"
+msgid "El código es incorrecto."
+msgstr ""
+
+#. en: Hey! That <$cdef(27)><fqty(1)><$iname(1677)></color> belongs to <$cdef(27)><$strpname;0(lstr1,lnum1)></color>!
+msgctxt "5127:81"
+msgid "No trastees con la <$cdef(27)><fqty(1)><$iname(1677)></color> de <$cdef(27)><$strpname;0(lstr1,lnum1)></color>..."
+msgstr "No toques la <$cdef(27)><fqty(1)><$iname(1677)></color> de <$cdef(27)><$strpname;0(lstr1,lnum1)></color>..."
+
+#. en: It’s full and can’t hold any more.
+msgctxt "5127:82"
+msgid "No cabe nada más."
+msgstr ""
+
+#. en: You can’t move that here.
+msgctxt "5127:83"
+msgid "No se puede dejar aquí."
+msgstr ""
+
+#. en: You don’t have enough materials or Pokémon helpers...
+msgctxt "5127:84"
+msgid "Te faltan materiales y Pokémon que puedan ayudar..."
+msgstr ""
+
+#. en: You can’t use this right now.
+msgctxt "5127:86"
+msgid "Ahora mismo no se puede usar."
+msgstr ""
+
+#. en: The object isn’t in the picture.
+msgctxt "5127:87"
+msgid "El objeto no está encuadrado."
+msgstr ""
+
+#. en: That object can’t be copied.
+msgctxt "5127:88"
+msgid "El objeto de esta foto no se puede imprimir."
+msgstr ""
+
+#. en: The object is too close to the camera.
+msgctxt "5127:89"
+msgid "La cámara está demasiado cerca."
+msgstr ""
+
+#. en: The object is too far from the camera.
+msgctxt "5127:90"
+msgid "El objeto está demasiado lejos."
+msgstr ""
+
+#. en: You can’t place a camera here.
+msgctxt "5127:91"
+msgid "No puedes colocar la cámara aquí."
+msgstr ""
+
+#. en: You can’t operate the camera right now. Exiting photo mode.
+msgctxt "5127:92"
+msgid "Has salido del modo foto porque no puedes operar la cámara."
+msgstr "Saliste del modo foto porque no puedes operar la cámara."
+
+#. en: You’ve entered water. Exiting photo mode.
+msgctxt "5127:93"
+msgid "Has salido del modo foto porque estás en el agua."
+msgstr "Saliste del modo foto porque estás en el agua."
+
+#. en: You’re too far away from the camera! Exiting photo mode.
+msgctxt "5127:94"
+msgid "Has salido del modo foto porque te has alejado demasiado de la cámara."
+msgstr "Saliste del modo foto porque te alejaste demasiado de la cámara."
+
+#. en: You couldn’t receive some items because your inventory is full.
+msgctxt "5127:95"
+msgid "No has podido recoger algunos objetos porque tu inventario está lleno."
+msgstr "No pudiste recoger algunos objetos porque tu inventario está lleno."
+
+#. en: Some items could not be stored.
+msgctxt "5127:96"
+msgid "Algunos objetos no se han podido guardar."
+msgstr "Algunos objetos no se pudieron guardar."
+
+#. en: This isn’t the correct item.
+msgctxt "5127:97"
+msgid "No es uno de los objetos requeridos."
+msgstr ""
+
+#. en: You can’t change tabs while photos are selected.
+msgctxt "5127:98"
+msgid "No puedes cambiar de pestaña durante la selección de fotos."
+msgstr ""
+
+#. en: You don’t have enough materials...
+msgctxt "5127:99"
+msgid "No tienes suficientes materiales."
+msgstr ""
+
+#. en: You can’t trade for this item...
+msgctxt "5127:100"
+msgid "Necesitas ofrecer algo mejor."
+msgstr ""
+
+#. en: They don’t seem interested in this...
+msgctxt "5127:101"
+msgid "Parece que no le interesa."
+msgstr ""
+
+#. en: Someone else is using this! You can’t use it right now!
+msgctxt "5127:102"
+msgid "Ya hay alguien configurando la cámara de seguridad."
+msgstr ""
+
+#. en: Please place a security camera.
+msgctxt "5127:103"
+msgid "Aún no has colocado ninguna cámara de seguridad."
+msgstr ""
+
+#. en: There’s already a Pokémon nearby...
+msgctxt "5127:104"
+msgid "El Pokémon que vive aquí ya está cerca."
+msgstr ""
+
+#. en: Raise the environment level!
+msgctxt "5127:105"
+msgid "Necesitas aumentar la calidad del entorno."
+msgstr ""
+
+#. en: You need to meet the conditions first.
+msgctxt "5127:106"
+msgid "Aún no cumples las condiciones."
+msgstr ""
+
+#. en: You don’t have any completed challenges to report!
+msgctxt "5127:107"
+msgid "No hay ningún reto del que puedas informar."
+msgstr ""
+
+#. en: This challenge has already been reported.
+msgctxt "5127:108"
+msgid "Ya se ha informado sobre este reto."
+msgstr "Ya se informó sobre este reto."
+
+#. en: You can’t move any more items here.
+msgctxt "5127:109"
+msgid "No puedes añadir más unidades."
+msgstr ""
+
+#. en: You have too many security cameras. If you place another, you won’t be able to use it.
+msgctxt "5127:110"
+msgid "Has colocado demasiadas cámaras de seguridad, así que no podrás usar esta."
+msgstr "Colocaste demasiadas cámaras de seguridad, así que no podrás usar esta."
+
+#. en: There isn’t enough space in your bag to fit everything.
+msgctxt "5127:111"
+msgid "No tienes suficiente espacio en la Bolsa para todo."
+msgstr ""
+
+#. en: The mood isn’t 100 yet.
+msgctxt "5127:112"
+msgid "El ánimo todavía no ha alcanzado los 100 puntos."
+msgstr ""
+
+#. en: There’s not enough space to build.
+msgctxt "5127:113"
+msgid "No hay espacio suficiente para construir esto."
+msgstr ""
+
+#. en: You can’t build on a surface that isn’t level.
+msgctxt "5127:114"
+msgid "Necesitas terreno llano para construir esto."
+msgstr ""
+
+#. en: There’s nothing to demolish.
+msgctxt "5127:115"
+msgid "No hay nada que demoler."
+msgstr ""
+
+#. en: You’re in the process of moving into another building.
+msgctxt "5127:116"
+msgid "Ya hay una estructura en proceso de traslado."
+msgstr ""
+
+#. en: You can’t build any more buildings.
+msgctxt "5127:117"
+msgid "No se pueden construir más estructuras aquí."
+msgstr ""
+
+#. en: You probably shouldn’t have more building projects happening at once.
+msgctxt "5127:118"
+msgid "No se pueden construir más estructuras a la vez."
+msgstr ""
+
+#. en: You became friends with <$cdef(27)><$cname;0(lnum1)></color>!
+msgctxt "5127:119"
+msgid "¡Te has hecho amig<gen;-2(o,a)> <esde;0()><$cdef(27)><$cname;0(lnum1)></color>!"
+msgstr "¡Te hiciste amig<gen;-2(o,a)> <esde;0()><$cdef(27)><$cname;0(lnum1)></color>!"
+
+#. en: Building has been interrupted. Canceling...
+msgctxt "5127:120"
+msgid "No se ha podido finalizar la construcción."
+msgstr "No se pudo finalizar la construcción."
+
+#. en: Fully recovered PP!
+msgctxt "5127:121"
+msgid "¡Tus PP están al máximo!"
+msgstr ""
+
+#. en: Recovered PP!
+msgctxt "5127:123"
+msgid "¡Has recuperado PP!"
+msgstr "¡Recuperaste PP!"
+
+#. en: They’re busy doing something else right now.
+msgctxt "5127:124"
+msgid "Ahora mismo tiene otros asuntos que atender."
+msgstr ""
+
+#. en: They’re in a different town right now.
+msgctxt "5127:125"
+msgid "Ahora mismo se encuentra en otro vecindario."
+msgstr ""
+
+#. en: You can’t relocate to a different area.
+msgctxt "5127:126"
+msgid "No se puede trasladar a otro vecindario."
+msgstr ""
+
+#. en: The Pokémon following you right now can’t go with you.
+msgctxt "5127:127"
+msgid "No puedes llevar contigo al Pokémon que te acompaña."
+msgstr ""
+
+#. en: Only one other Pokémon may accompany you.
+msgctxt "5127:128"
+msgid "Solo puede acompañarte un Pokémon."
+msgstr ""
+
+#. en: You can’t go as is.
+msgctxt "5127:129"
+msgid "No puedes ir en las condiciones actuales."
+msgstr ""
+
+#. en: It’s about to explode! Splash it with water to cool it down!
+msgctxt "5127:131"
+msgid "¡Va a explotar! ¡Evítalo con un buen chorro de agua!"
+msgstr ""
+
+#. en: This could be something good! Keep smashing <$keyicon(6)>!
+msgctxt "5127:132"
+msgid "¡Estás al borde de un gran hallazgo! ¡Pulsa <$keyicon(6)> sin parar!"
+msgstr "¡Estás al borde de un gran hallazgo! ¡Presiona <$keyicon(6)> sin parar!"
+
+#. en: Building underway... Come back and check in later!
+msgctxt "5127:135"
+msgid "Construcción en marcha... ¡Vuelve en un rato!"
+msgstr ""
+
+#. en: This move has been registered.
+msgctxt "5127:138"
+msgid "Ahora este es el movimiento activo."
+msgstr ""
+
+#. en: Eating salad has powered up your <$cdef(27)><$sklname(1)></color>!
+msgctxt "5127:143"
+msgid "¡La ensalada ha potenciado el movimiento <$cdef(27)><$sklname(1)></color>!"
+msgstr "¡La ensalada potenció el movimiento <$cdef(27)><$sklname(1)></color>!"
+
+#. en: Eating soup has powered up your <$cdef(27)><$sklname(3)></color>!
+msgctxt "5127:144"
+msgid "¡La sopa ha potenciado el movimiento <$cdef(27)><$sklname(3)></color>!"
+msgstr "¡La sopa potenció el movimiento <$cdef(27)><$sklname(3)></color>!"
+
+#. en: Eating hamburger steak has powered up your <$cdef(27)><$sklname(4)></color>!
+msgctxt "5127:145"
+msgid "¡La hamburguesa ha potenciado el movimiento <$cdef(27)><$sklname(4)></color>!"
+msgstr "¡La hamburguesa potenció el movimiento <$cdef(27)><$sklname(4)></color>!"
+
+#. en: Eating bread has powered up your <$cdef(27)><$sklname(5)></color>!
+msgctxt "5127:146"
+msgid "¡El pan ha potenciado el movimiento <$cdef(27)><$sklname(5)></color>!"
+msgstr "¡El pan potenció el movimiento <$cdef(27)><$sklname(5)></color>!"
+
+#. en: You’ve restored <iart;0()><$cdef(27)><$hatname;0(lnum1)></color> habitat!
+msgctxt "5127:147"
+msgid "¡Has creado el hábitat <$cdef(27)><$hatname;0(lnum1)></color>!"
+msgstr "¡Creaste el hábitat <$cdef(27)><$hatname;0(lnum1)></color>!"
+
+#. en: You can’t use this right now.
+msgctxt "5127:148"
+msgid "No está disponible ahora mismo."
+msgstr ""
+
+#. en: You only need one Pokémon Center.
+msgctxt "5127:149"
+msgid "Con un Centro Pokémon aquí es suficiente."
+msgstr ""
+
+#. en: They won’t grow in this type of ground.
+msgctxt "5127:150"
+msgid "No puedes plantar esto aquí."
+msgstr ""
+
+#. en: <$cdef(27)><pname;0> </color>wins!
+msgctxt "5127:151"
+msgid "¡La baya le ha dado!"
+msgstr "¡La baya le dio!"
+
+#. en: <$cdef(27)><$cname;0(lnum1)> </color>wins!
+msgctxt "5127:152"
+msgid "¡<fcap><dart;0()><$cdef(27)><$cname;0(lnum1)> </color>ha esquivado la baya!"
+msgstr "¡<fcap><dart;0()><$cdef(27)><$cname;0(lnum1)> </color>esquivó la baya!"
+
+#. en: It doesn’t look like you can deposit anything else...
+msgctxt "5127:153"
+msgid "No puede guardarte más objetos."
+msgstr ""
+
+#. en: You couldn’t store some items.
+msgctxt "5127:154"
+msgid "No ha podido guardarte todos los objetos."
+msgstr "No pudo guardarte todos los objetos."
+
+#. en: This photo is already in your highlight reel.
+msgctxt "5127:155"
+msgid "Esta foto ya está guardada como foto destacada."
+msgstr ""
+
+#. en: You need to clear out everything that’s in the house.
+msgctxt "5127:156"
+msgid "Retira antes las cosas colocadas en el interior."
+msgstr ""
+
+#. en: You can’t do that when someone’s still inside.
+msgctxt "5127:157"
+msgid "No puedes hacer eso ahora porque hay alguien dentro."
+msgstr "No puedes hacer eso ahora porque hay alguien adentro."
+
+#. en: You need to clear off everything that’s attached to the house.
+msgctxt "5127:158"
+msgid "Retira las cosas colocadas en el exterior de la casa."
+msgstr ""
+
+#. en: You can’t do that right now.
+msgctxt "5127:159"
+msgid "No puedes hacer eso ahora mismo."
+msgstr ""
+
+#. en: There is nothing to move.
+msgctxt "5127:160"
+msgid "No hay nada que trasladar."
+msgstr ""
+
+#. en: You can’t build any more houses.
+msgctxt "5127:161"
+msgid "No puedes construir más casas."
+msgstr ""
+
+#. en: There’s no point in building another one.
+msgctxt "5127:162"
+msgid "No tendría sentido construir más."
+msgstr ""
+
+#. en: You can’t do that with water nearby.
+msgctxt "5127:163"
+msgid "El agua te impide hacer eso."
+msgstr ""
+
+#. en: You can’t break this while another player is using it.
+msgctxt "5127:164"
+msgid "No puedes romper eso porque otro jugador lo está usando."
+msgstr ""
+
+#. en: You can’t break this while it’s being used to conduct <$cdef(27)><$spwname(12)>s</color>.
+msgctxt "5127:165"
+msgid "No puedes romper eso porque se está usando para <$cdef(27)><$spwname(12)></color>."
+msgstr ""
+
+#. en: You can’t break this while it’s running.
+msgctxt "5127:166"
+msgid "No puedes romper eso porque está en marcha."
+msgstr ""
+
+#. en: You can’t break this right now.
+msgctxt "5127:167"
+msgid "No puedes romper eso ahora mismo."
+msgstr ""
+
+#. en: This should be placed on a flat wall.
+msgctxt "5127:168"
+msgid "Debe colocarse en una pared plana."
+msgstr ""
+
+#. en: This should be placed on a flat ceiling.
+msgctxt "5127:169"
+msgid "Debe colocarse en un techo plano."
+msgstr ""
+
+#. en: This can’t be placed because something’s in the way.
+msgctxt "5127:170"
+msgid "No se puede colocar porque hay algo entorpeciendo."
+msgstr ""
+
+#. en: You already have a home in this town.
+msgctxt "5127:171"
+msgid "Ya has marcado una casa como tuya en este vecindario."
+msgstr "Ya marcaste una casa como tuya en este vecindario."
+
+#. en: You shouldn’t put this inside.
+msgctxt "5127:172"
+msgid "No se puede colocar aquí dentro."
+msgstr "No se puede colocar aquí adentro."
+
+#. en: You shouldn’t place this while someone’s inside.
+msgctxt "5127:173"
+msgid "No se puede colocar eso aquí porque hay alguien dentro."
+msgstr "No se puede colocar eso aquí porque hay alguien adentro."
+
+#. en: You can’t place this right now.
+msgctxt "5127:174"
+msgid "No se puede colocar aquí ahora mismo."
+msgstr ""
+
+#. en: You can’t plant this right now.
+msgctxt "5127:175"
+msgid "No se puede plantar aquí ahora mismo."
+msgstr ""
+
+#. en: You can only search for Pokémon you already know.
+msgctxt "5127:176"
+msgid "Solo puedes buscar Pokémon que ya conozcas."
+msgstr ""
+
+#. en: There are no patterns in the picture.
+msgctxt "5127:177"
+msgid "No hay ningún diseño en esta foto que puedas usar."
+msgstr ""
+
+#. en: You’ve shown this picture before.
+msgctxt "5127:178"
+msgid "Ya le has enseñado esta foto."
+msgstr "Ya le mostraste esta foto."
+
+#. en: This can’t be <$cdef(27)><$spwname(21)>ed</color>.
+msgctxt "5127:179"
+msgid "Esto no se puede <$cdef(27)><$spwname(21)></color>."
+msgstr ""
+
+#. en: You need at least <dgt3;0(lnum1)> of these to have them <$cdef(27)><$spwname(21)>ed</color>.
+msgctxt "5127:180"
+msgid "Necesitas <dgt3;0(lnum1)> o más para <$cdef(27)><$spwname(21)></color> esto."
+msgstr ""
+
+#. en: This can’t be changed when you’re already connected!
+msgctxt "5127:181"
+msgid "No puedes cambiar esto mientras estás jugando en conexión."
+msgstr "No puedes cambiar esto mientras estás jugando en línea."
+
+#. en: There is no backup data.
+msgctxt "5127:182"
+msgid "No hay copia de seguridad."
+msgstr ""
+
+#. en: You can’t camouflage yourself as that.
+msgctxt "5127:183"
+msgid "No puedes usar Camuflaje para transformarte en esto."
+msgstr ""
+
+#. en: You can’t change your hair color when you’re Ditto color.
+msgctxt "5127:184"
+msgid "El tono de piel \"Ditto\" no permite cambiarte el color de pelo."
+msgstr ""
+
+#. en: You can’t stop when it’s almost finished.
+msgctxt "5127:185"
+msgid "No se puede cancelar porque ya está casi todo listo."
+msgstr ""
+
+#. en: You didn’t find anything...
+msgctxt "5127:186"
+msgid "No has encontrado nada..."
+msgstr "No encontraste nada..."
+
+#. en: There are no photos.
+msgctxt "5127:187"
+msgid "No hay fotos."
+msgstr ""
+
+#. en: Please choose the photos to delete.
+msgctxt "5127:188"
+msgid "Selecciona las fotos que quieras borrar."
+msgstr ""
+
+#. en: You should go with the host player.
+msgctxt "5127:189"
+msgid "Debe acompañarte <gen;0(el,la)> anfitri<gen;0(ón,ona)> <$cdef(27)><$strpname;0(lstr1,lnum1)></color>."
+msgstr ""
+
+#. en: You can’t use this right now.
+msgctxt "5127:190"
+msgid "No está disponible ahora mismo."
+msgstr ""
+
+#. en: You have received all the items.
+msgctxt "5127:191"
+msgid "Has recibido todos los objetos."
+msgstr "Recibiste todos los objetos."
+
+#. en: This doesn’t go in here.
+msgctxt "5127:192"
+msgid "Eso no se puede colocar aquí."
+msgstr ""
+
+#. en: You can’t put an item in here.
+msgctxt "5127:193"
+msgid "No puedes colocar objetos aquí."
+msgstr ""
+
+#. en: You should remove what’s been completed first.
+msgctxt "5127:194"
+msgid "Retira primero los objetos que están listos."
+msgstr ""
+
+#. en: You can’t use the camera right now.
+msgctxt "5127:196"
+msgid "No puedes usar la cámara ahora mismo."
+msgstr ""
+
+#. en: You can’t send messages right now.
+msgctxt "5127:198"
+msgid "No puedes usar los mensajes ahora mismo."
+msgstr ""
+
+#. en: You already added this stamp.
+msgctxt "5127:199"
+msgid "Ya has conseguido este sello."
+msgstr "Ya conseguiste este sello."
+
+#. en: You can’t give any more stamps today.
+msgctxt "5127:200"
+msgid "Se ha alcanzado el límite de sellos por hoy."
+msgstr "Se alcanzó el límite de sellos por hoy."
+
+#. en: You don’t have enough <$cdef(27)><fqty(2)><class><$iname;0(lnum1)></color>.
+msgctxt "5127:201"
+msgid "No tienes suficientes <$cdef(27)><fqty(2)><class><$iname;0(lnum1)></color>."
+msgstr ""
+
+#. en: You need to pick something to <$cdef(27)><$spwname(12)></color> for.
+msgctxt "5127:202"
+msgid "Elige los objetos con los que te gustaría <$cdef(27)><$spwname(12)></color>."
+msgstr ""
+
+#. en: You can’t select this button.
+msgctxt "5127:203"
+msgid "No puedes elegir ese botón."
+msgstr ""
+
+#. en: This can’t be changed.
+msgctxt "5127:204"
+msgid "No puedes cambiar esto."
+msgstr ""
+
+#. en: This button can’t be assigned to that command.
+msgctxt "5127:205"
+msgid "No puedes asignar este comando a ese botón."
+msgstr ""
+
+#. en: You can’t add any more stamps this week.
+msgctxt "5127:206"
+msgid "No puedes conseguir más sellos esta semana."
+msgstr ""
+
+#. en: This can’t be exchanged right now.
+msgctxt "5127:207"
+msgid "No puedes canjear la tarjeta ahora mismo."
+msgstr ""
+
+#. en: You don’t have enough items to meet the requirements.
+msgctxt "5127:208"
+msgid "No hay suficientes objetos que cumplan las condiciones."
+msgstr ""
+
+#. en: Please wait for the guest player to arrive.
+msgctxt "5127:209"
+msgid "Espera a que lleguen los visitantes."
+msgstr ""
+
+#. en: There’s nothing nearby that can be <$cdef(27)><$spwname(21)>ed</color>.
+msgctxt "5127:210"
+msgid "No hay nada que se pueda <$cdef(27)><$spwname(21)></color> por aquí."
+msgstr ""
+
+#. en: There’s nothing nearby that can be <$cdef(27)><$spwname(21)>ed</color>.
+msgctxt "5127:211"
+msgid "No hay nada que se pueda <$cdef(27)><$spwname(21)></color> por aquí."
+msgstr ""
+
+#. en: That’s already been <$cdef(27)><$spwname(21)>ed </color>the same color.
+msgctxt "5127:212"
+msgid "Esto ya está <$cdef(27)>pintado</color> de ese color."
+msgstr ""
+
+#. en: Be sure to pick up any items on the floor inside.
+msgctxt "5127:213"
+msgid "Retira antes las cosas que hay dentro en el suelo."
+msgstr "Retira antes las cosas que hay adentro en el suelo."
+
+#. en: You can’t go any further.
+msgctxt "5127:215"
+msgid "No puedes avanzar por aquí."
+msgstr ""
+
+#. en: That’s something important, so you probably shouldn’t take it out right now.
+msgctxt "5127:216"
+msgid "Es un objeto clave, así que mejor no sacarlo ahora."
+msgstr ""
+
+#. en: That’s something important, so you probably shouldn’t drop it right now.
+msgctxt "5127:217"
+msgid "Es un objeto clave, así que mejor no tirarlo ahora."
+msgstr ""
+
+#. en: That’s something important, so you probably should keep it in your bag.
+msgctxt "5127:218"
+msgid "Es un objeto clave, así que mejor guardarlo en la Bolsa."
+msgstr ""
+
+#. en: They need to be closer to you to help out!
+msgctxt "5127:220"
+msgid "No puedes pedírselo si no lo traes más cerca."
+msgstr ""
+
+#. en: That’s something important, so you probably should keep it in your bag.
+msgctxt "5127:221"
+msgid "Es un objeto clave, así que mejor guardarlo en la Bolsa."
+msgstr ""
+
+#. en: You can’t do that right now.
+msgctxt "5127:223"
+msgid "No puedes hacer eso ahora mismo."
+msgstr ""
+
+#. en: You can’t fit any more items inside.
+msgctxt "5127:224"
+msgid "Ya hay otros objetos dentro."
+msgstr "Ya hay otros objetos adentro."
+
+#. en: You already inserted another CD there.
+msgctxt "5127:225"
+msgid "Ya hay algún CD dentro."
+msgstr "Ya hay algún CD adentro."
+
+#. en: You can’t do that because there’s lava.
+msgctxt "5127:226"
+msgid "La lava te impide hacer eso."
+msgstr ""
+
+#. en: You shouldn’t use that inside.
+msgctxt "5127:227"
+msgid "No puede usarse aquí dentro."
+msgstr "No puede usarse aquí adentro."
+
+#. en: You shouldn’t use that while playing.
+msgctxt "5127:228"
+msgid "No puedes hacer eso mientras estás jugando."
+msgstr ""
+
+#. en: You don’t have enough materials...
+msgctxt "5127:229"
+msgid "No tienes suficientes materiales."
+msgstr ""
+
+#. en: Please choose a color.
+msgctxt "5127:230"
+msgid "Elige un color."
+msgstr ""
+
+#. en: Please choose a color or pattern.
+msgctxt "5127:231"
+msgid "Elige un color o diseño."
+msgstr ""
+
+#. en: There’s no space for anything else.
+msgctxt "5127:232"
+msgid "No puedes colocar más."
+msgstr ""
+
+#. en: The Pokémon can’t get out because there’s so much stuff!
+msgctxt "5127:233"
+msgid "Los Pokémon no pueden salir porque hay demasiadas cosas."
+msgstr ""
+
+#. en: This Cloud Island can’t be made public.
+msgctxt "5127:235"
+msgid "Esta Isla Nube no se puede hacer pública."
+msgstr ""
+
+#. en: Your comfort level is now <$cdef(27)><flow><$stflevel;1(lnum1)></color>!
+msgctxt "5127:236"
+msgid "¡Tu nivel de confort ha pasado a ser <$cdef(27)><$stflevel;1(lnum1)></color>!"
+msgstr "¡Tu nivel de confort pasó a ser <$cdef(27)><$stflevel;1(lnum1)></color>!"
+
+#. en: Only the host can report a challenge.
+msgctxt "5127:237"
+msgid "Solo <gen;0(el,la)> anfitri<gen;0(ón,ona)> <$cdef(27)><$strpname;0(lstr1,lnum1)></color> puede informar de este reto."
+msgstr ""
+
+#. en: You need to power up <$cdef(27)><$sklname(1)></color>.
+msgctxt "5127:238"
+msgid "<$cdef(27)><$sklname(1)></color> no tiene suficiente potencia para usarse aquí."
+msgstr ""
+
+#. en: You can’t make any more reports today.
+msgctxt "5127:239"
+msgid "No puedes enviar más denuncias hoy."
+msgstr ""
+
+#. en: You can’t do that right now.
+msgctxt "5127:240"
+msgid "Ahora no es el mejor momento."
+msgstr ""
+
+#. en: They seem too busy to talk right now. Come back later!
+msgctxt "5127:241"
+msgid "Espera a que termine lo que está haciendo."
+msgstr ""
+
+#. en: A communication error occurred. Your items have been reset.
+msgctxt "5127:242"
+msgid "Debido a un error de conexión, los objetos han vuelto a su estado inicial."
+msgstr "Debido a un error de conexión, los objetos volvieron a su estado inicial."
+
+#. en: The elevator is moving...
+msgctxt "5127:243"
+msgid "El ascensor aún no ha llegado..."
+msgstr "El elevador aún no ha llegado..."
+
+#. en: Someone else is using this.
+msgctxt "5127:244"
+msgid "Ya hay alguien usando el teleférico."
+msgstr ""
+
+#. en: You probably shouldn’t hand over any more items.
+msgctxt "5127:245"
+msgid "No puedes ofrecer más objetos."
+msgstr ""
+
+#. en: You probably shouldn’t trade important items.
+msgctxt "5127:246"
+msgid "¡No puedes ofrecer algo tan valioso!"
+msgstr ""
+
+#. en: Please read the user agreement to the end.
+msgctxt "5127:247"
+msgid "Lee el acuerdo de usuario hasta el final."
+msgstr ""
+
+#. en: You probably shouldn’t burn important items.
+msgctxt "5127:248"
+msgid "¡No puedes quemar algo tan valioso!"
+msgstr ""
+
+#. en: You haven’t added anything to burn.
+msgctxt "5127:249"
+msgid "No hay nada que quemar."
+msgstr ""
+
+#. en: You can’t repaint that spot.
+msgctxt "5127:250"
+msgid "No se puede reemplazar."
+msgstr ""
+
+#. en: There’s already a cooking pot in this area.
+msgctxt "5127:251"
+msgid "Ya hay una marmita en esta zona."
+msgstr ""
+
+#. en: The effects of food have worn off.
+msgctxt "5127:252"
+msgid "Se ha pasado el efecto de la comida."
+msgstr "Se pasó el efecto de la comida."
+
+#. en: You already know this recipe.
+msgctxt "5127:253"
+msgid "Ya conoces estas instrucciones."
+msgstr ""
+
+#. en: You didn’t participate in this challenge, so you can’t report it.
+msgctxt "5127:254"
+msgid "No puedes informar sobre el reto sin haber participado."
+msgstr ""
+
+#. en: You need to connect it to another <$cdef(27)><fqty(1)><$iname(1457)></color>.
+msgctxt "5127:255"
+msgid "No hay ninguna otra <$cdef(27)><fqty(1)><$iname(1457)></color> conectada."
+msgstr ""
+
+#. en: Which way do you want to go?
+msgctxt "5127:256"
+msgid "Elige en qué dirección quieres ir."
+msgstr ""
+
+#. en: You’ve arrived!
+msgctxt "5127:257"
+msgid "¡Has llegado!"
+msgstr "¡Llegaste!"
+
+#. en: You’ve arrived!
+msgctxt "5127:258"
+msgid "¡Has llegado!"
+msgstr "¡Llegaste!"
+
+#. en: You need to connect it to another <$cdef(27)><fqty(1)><$iname(1469)></color>.
+msgctxt "5127:259"
+msgid "No hay ningún otro <$cdef(27)><fqty(1)><$iname(1469)></color> conectado."
+msgstr ""
+
+#. en: This would probably still work, if only there were electricity...
+msgctxt "5127:260"
+msgid "Necesita electricidad para funcionar."
+msgstr ""
+
+#. en: There’s something in the way of the electrical wires.
+msgctxt "5127:261"
+msgid "Hay algún obstáculo que impide la conexión a la corriente."
+msgstr ""
+
+#. en: You shouldn’t pick this up while there’s stuff in the way.
+msgctxt "5127:262"
+msgid "No puedes recoger este objeto porque hay algo en él."
+msgstr ""
+
+#. en: You shouldn’t pick this up while a <$cdef(27)><$spwname(12)></color> is happening.
+msgctxt "5127:263"
+msgid "No puedes recoger esto cuando hay algún Pokémon <$cdef(27)>negociando</color>."
+msgstr ""
+
+#. en: You shouldn’t pick this up while it’s moving.
+msgctxt "5127:264"
+msgid "No puedes recoger esto mientras se está moviendo."
+msgstr ""
+
+#. en: You shouldn’t pick this up while Pokémon are <$cdef(27)><$spwname(1)>ing</color> it.
+msgctxt "5127:265"
+msgid "No puedes recoger esto mientras se está <$cdef(27)>construyendo</color>."
+msgstr ""
+
+#. en: You need to put the hose in water to use this.
+msgctxt "5127:266"
+msgid "Para poder usarla, la manguera debe estar metida en agua."
+msgstr ""
+
+#. en: You discovered the <$cdef(27)><$hatname;0(lnum1)></color> habitat!
+msgctxt "5127:267"
+msgid "¡Has descubierto el hábitat <$cdef(27)><$hatname;0(lnum1)></color>!"
+msgstr "¡Descubriste el hábitat <$cdef(27)><$hatname;0(lnum1)></color>!"
+
+#. en: There’s nothing you can report here.
+msgctxt "5127:268"
+msgid "No hay nada o nadie que puedas denunciar."
+msgstr ""
+
+#. en: Someone else is using this right now.
+msgctxt "5127:269"
+msgid "Ya hay alguien usando esto ahora mismo."
+msgstr ""
+
+#. en: You can’t report this challenge.
+msgctxt "5127:270"
+msgid "No puedes informar de este reto."
+msgstr ""
+
+#. en: You can’t place that here.
+msgctxt "5127:271"
+msgid "No se puede colocar aquí."
+msgstr ""
+
+#. en: You can’t set up an elevator without a ladder.
+msgctxt "5127:272"
+msgid "Solo puede colocarse si hay una escalera de mano."
+msgstr ""
+
+#. en: Try connecting this to another block.
+msgctxt "5127:273"
+msgid "Debe colocarse tocando un bloque."
+msgstr ""
+
+#. en: You need more electricity to run everything that’s connected.
+msgctxt "5127:274"
+msgid "No hay suficiente potencia para dar corriente a todo lo que está conectado."
+msgstr ""
+
+#. en: You can’t move this right now.
+msgctxt "5127:275"
+msgid "No puedes mover esto ahora mismo."
+msgstr ""
+
+#. en: Another Pokémon is living here. Try somewhere else.
+msgctxt "5127:276"
+msgid "Ya hay un Pokémon viviendo aquí. Busca otro lugar."
+msgstr ""
+
+#. en: Another Pokémon may want to live here. Try somewhere else.
+msgctxt "5127:277"
+msgid "Parece que aquí podría vivir otro Pokémon. Busca otro lugar."
+msgstr ""
+
+#. en: That Pokémon can’t live in this habitat. Try somewhere else.
+msgctxt "5127:278"
+msgid "Este Pokémon no puede vivir aquí. Busca otro sitio."
+msgstr "Este Pokémon no puede vivir aquí. Busca otro lugar."
+
+#. en: This habitat is already registered in your Habitat Dex.
+msgctxt "5127:279"
+msgid "Ya has registrado este hábitat."
+msgstr "Ya registraste este hábitat."
+
+#. en: Some Pokémon couldn’t come with you due to a communication error.
+msgctxt "5127:280"
+msgid "Debido a un error de conexión, uno o más Pokémon se han quedado atrás."
+msgstr "Debido a un error de conexión, uno o más Pokémon se quedaron atrás."
+
+#. en: You can’t do that right now.
+msgctxt "5127:281"
+msgid "No puedes hacer eso ahora mismo."
+msgstr ""
+
+#. en: You shouldn’t place that there.
+msgctxt "5127:284"
+msgid "No se puede colocar aquí."
+msgstr ""
+
+#. en: Even if you plant more here, the plants won’t have room to grow.
+msgctxt "5127:285"
+msgid "Aunque plantes más, no podrán crecer."
+msgstr ""
+
+#. en: You can’t do that while using GameShare.
+msgctxt "5127:286"
+msgid "No puedes hacer eso mientras usas GameShare."
+msgstr ""
+
+#. en: You can’t place any more.
+msgctxt "5127:287"
+msgid "No puedes colocar más."
+msgstr ""
+
+#. en: Only the owner can do that.
+msgctxt "5127:288"
+msgid "Solo el creador o creadora puede hacer eso."
+msgstr ""
+
+#. en: Please wait until your guests arrive.
+msgctxt "5127:289"
+msgid "Espera a que lleguen los visitantes."
+msgstr ""
+
+#. en: Your PP is full!
+msgctxt "5127:290"
+msgid "¡Ya tienes los PP al máximo!"
+msgstr ""
+
+#. en: You already know these recipes.
+msgctxt "5127:291"
+msgid "Ya conoces estas instrucciones."
+msgstr ""
+
+#. en: You don’t have enough ingredients...
+msgctxt "5127:292"
+msgid "No tienes suficientes ingredientes."
+msgstr ""
+
+#. en: You don’t have enough materials or Pokémon helpers...
+msgctxt "5127:293"
+msgid "Te faltan ingredientes y Pokémon que puedan ayudar..."
+msgstr ""
+
+#. en: Drifloon is busy helping over in <dart;0()><$cdef(27)><$stgname;0(lnum1)> </color>right now!
+msgctxt "5127:294"
+msgid "Ahora mismo, Drifloon está ocupada en <dart;0()><$cdef(27)><$stgname;0(lnum1)></color>."
+msgstr ""
+
+#. en: Even if you plant more here, the plants won’t produce anything.
+msgctxt "5127:295"
+msgid "Aunque plantes más, no producirán nada."
+msgstr ""
+
+#. en: You can’t do that right now because one or more players are busy.
+msgctxt "5127:296"
+msgid "No es posible hacer eso ahora porque hay al menos un jugador ocupado."
+msgstr ""
+
+#. en: When you’re Ditto color, other bag and clothing colors will not display.
+msgctxt "5127:297"
+msgid "El tono de piel \"Ditto\" no permite cambiar el color de la ropa o de la Bolsa."
+msgstr ""
+
+#. en: You can’t build floating structures without water.
+msgctxt "5127:299"
+msgid "No puedes construir estructuras flotantes si no hay agua."
+msgstr ""
+
+#. en: That’s something important, so you probably shouldn’t throw it away.
+msgctxt "5127:300"
+msgid "Esto parece importante; mejor no tirarlo a la basura."
+msgstr ""
+
+#. en: Hey! That’s someone else’s <$cdef(27)><fqty(1)><$iname(1677)></color>!
+msgctxt "5127:301"
+msgid "No trastees con la <$cdef(27)><fqty(1)><$iname(1677)></color> de otra persona..."
+msgstr "No toques la <$cdef(27)><fqty(1)><$iname(1677)></color> de otra persona..."
+
+#. en: This is <$cdef(27)><$strpname;0(lstr1,lnum1)></color>’s <$cdef(27)><fqty(1)><$iname(1677)></color>. You can’t break it.
+msgctxt "5127:302"
+msgid "No destroces la <$cdef(27)><fqty(1)><$iname(1677)></color> de <$cdef(27)><$strpname;0(lstr1,lnum1)></color>..."
+msgstr ""
+
+#. en: This is someone else’s <$cdef(27)><fqty(1)><$iname(1677)></color>. You can’t break it.
+msgctxt "5127:303"
+msgid "No destroces la <$cdef(27)><fqty(1)><$iname(1677)></color> de otra persona..."
+msgstr ""
+
+#. en: You have to complete the Pokémon’s request first.
+msgctxt "5127:304"
+msgid "Antes de nada, completa su petición."
+msgstr "Antes que nada, completa su petición."
+
+#. en: Additional downloadable content required.
+msgctxt "5127:305"
+msgid "Requiere datos del contenido descargable."
+msgstr ""
+
+#. en: Drinking a smoothie has powered up <$cdef(27)><$sklname(10)></color>!
+msgctxt "5127:306"
+msgid "¡El batido ha potenciado el movimiento <$cdef(27)><$sklname(10)></color>!"
+msgstr "¡El batido potenció el movimiento <$cdef(27)><$sklname(10)></color>!"
+
+#. en: You can’t change the color of this section after a pattern has been painted onto it.
+msgctxt "5127:307"
+msgid "No puedes cambiar el color de esta parte si eliges un diseño."
+msgstr ""
+
+#. en: The <$cdef(27)><fqty(1)><$iname(1440)> </color>must be placed on top of a house.
+msgctxt "5127:308"
+msgid "La <$cdef(27)><fqty(1)><$iname(1440)></color> debe colocarse encima de una casa."
+msgstr ""
+
+#. en: You can’t use <$cdef(27)>Surf</color> while deep underwater.
+msgctxt "5127:309"
+msgid "Estás a demasiada profundidad para usar Surf."
+msgstr ""
+
+#. en: You probably shouldn’t destroy someone’s home.
+msgctxt "5127:310"
+msgid "Este hogar pertenece a alguien, mejor no destruirlo."
+msgstr ""

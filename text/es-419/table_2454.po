@@ -1,0 +1,206 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 2454 (es-ES slot); English reference: record 2450.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 2454\n"
+"X-Ldtool-English-Record: 2450\n"
+
+#. en: <$comeff(4,14)><$motion(4,805)><$voicel(4,5)>*sniff sniff*<clear><br>I can smell something...
+msgctxt "2454:0"
+msgid "<$comeff(4,14)><$motion(4,805)><$voicel(4,5)>Snif, snif... Hueleee..."
+msgstr ""
+
+#. en: <$emotion(4,14)><$voicel(4,7)>Hey, so, uh... I think I can smell a <$cdef(27)>spring</color> around here.
+msgctxt "2454:1"
+msgid "<$emotion(4,14)><$voicel(4,7)>Pooos... como si hubiera un <$cdef(27)>manantial</color> por aquí cerca."
+msgstr ""
+
+#. en: <$comcan(4)><$motion(4,807)><$voicel(4,7)>No, no... I smell a <$cdef(27)>spring</color>. Y’know, like, spring water?
+msgctxt "2454:2"
+msgid "<$comcan(4)><$motion(4,807)><$voicel(4,7)>Naaah, es como si hubiera un <$cdef(27)>manantial</color> por aquí cerca..."
+msgstr ""
+
+#. en: <$motion(4,661)><$voicel(4,5)>So... There are some places where water just, y’know,<br>gushes out of the wall! Those are <$cdef(27)>springs</color>.
+msgctxt "2454:3"
+msgid "<$motion(4,661)><$voicel(4,5)>Un <$cdef(27)>manantial</color> es un sitio de donde sale agua a chorros<br>de la pared."
+msgstr "<$motion(4,661)><$voicel(4,5)>Un <$cdef(27)>manantial</color> es un lugar de donde sale agua a chorros<br>de la pared."
+
+#. en: <$motion(4,805)><$voicel(4,7)>I can SMELL one, but I don’t see it anywhere...<$comeff(4,10)><$motion(4,803)><$voicel(4,10)> That<br>must mean it’s hiding, right?
+msgctxt "2454:4"
+msgid "<$cdef(27)><$motion(4,805)></color><$voicel(4,7)>Lo que pasa es que lo huelo pero no lo veo, <$comeff(4,10)><$motion(4,803)><$voicel(4,10)>así que fiiijo<br>que está escondido o algo."
+msgstr "<$cdef(27)><$motion(4,805)></color><$voicel(4,7)>Lo que pasa es que lo huelo pero no lo veo, <$comeff(4,10)><$motion(4,803)><$voicel(4,10)>así que<br>segurooo que está escondido o algo."
+
+#. en: <$comeff(4,14)><$motion(4,805)><$voicel(4,5)>Once we find a <$cdef(27)>spring</color>, we can let the water out and get it<br>really flowing! <$voicel(4,8)>That’ll make a pool, right?<$comeff(4,9)><$facial(4,4)><$motion(4,801)><$voicel(4,9)> That’s sure<slide><br>to make this whole area more...uh, humid.
+msgctxt "2454:5"
+msgid "<$comeff(4,14)><$motion(4,805)><$voicel(4,5)>Cuando el agua de un <$cdef(27)>manantial</color> se acumula en el suelo,<br>se forma un buen estanque.<clear><br><$voicel(4,8)>O sea que si lo encontramos... <$comeff(4,9)><$facial(4,4)><$motion(4,801)><$voicel(4,9)>fijo que habrá humedad<br>de la buena."
+msgstr "<$comeff(4,14)><$motion(4,805)><$voicel(4,5)>Cuando el agua de un <$cdef(27)>manantial</color> se acumula en el suelo,<br>se forma un buen estanque.<clear><br><$voicel(4,8)>O sea que si lo encontramos... <$comeff(4,9)><$facial(4,4)><$motion(4,801)><$voicel(4,9)>seguro que habrá humedad<br>de la buena."
+
+#. en: <$comeff(4,6)><$motion(4,803)><$voicel(4,6)>Did you find a <$cdef(27)>spring</color> hiding anywhere?
+msgctxt "2454:6"
+msgid "<$comeff(4,6)><$motion(4,803)><$voicel(4,6)>¿Has encontrao el <$cdef(27)>manantial</color>?"
+msgstr "<$comeff(4,6)><$motion(4,803)><$voicel(4,6)>¿Encontraste el <$cdef(27)>manantial</color>?"
+
+#. en: <$comeff(2,14)><$motion(2,805)><$voicel(2,5)>*sniff sniff* Hmmm... I swear the smell of water’s coming<br>from somewhere around here...
+msgctxt "2454:7"
+msgid "<$comeff(2,14)><$motion(2,805)><$voicel(2,5)>Snif, snif... Huele como si hubiera agua por aquí cerca."
+msgstr ""
+
+#. en: <oneline><$comeff(2,3)><$motion(2,803)><$voicel(2,7)>Huh? You’re looking for a spring,<br><$cdef(27)><pname;0></color>?<clear><br><$emotion(2,38)><$voicel(2,10)>I think it’s gotta be somewhere near here!
+msgctxt "2454:8"
+msgid "<$comeff(2,3)><$motion(2,803)><$voicel(2,7)>¡Ah, hola, <$cdef(27)><pname;0></color>!<clear><br>¿Estás buscando un manantial? <$emotion(2,38)><$voicel(2,10)>¡Estoy segur<gen;-3(o,a)> de que hay<br>uno por aquí cerca!"
+msgstr ""
+
+#. en: <oneline><$emotion(2,38)><$voicel(2,9)>Great job, <$cdef(27)><pname;0></color>! You found<br>the spring!<clear><br><$comeff(2,6)><$facial(2,1)><$motion(2,805)><$voicel(2,7)>That should help make this area a little bit more humid!
+msgctxt "2454:10"
+msgid "<oneline><$emotion(2,38)><$voicel(2,9)>¡Has encontrado el manantial! ¡Eres <gen;-2(el,la)> mejor,<br><$cdef(27)><pname;0></color>!<clear><br><$facial(2,1)><$motion(2,805)><$voicel(2,7)>Se nota que el ambiente está un poquito más húmedo,<br><$comeff(2,6)>¿que no?"
+msgstr "<oneline><$emotion(2,38)><$voicel(2,9)>¡Encontraste el manantial! ¡Eres <gen;-2(el,la)> mejor,<br><$cdef(27)><pname;0></color>!<clear><br><$facial(2,1)><$motion(2,805)><$voicel(2,7)>Se nota que el ambiente está un poquito más húmedo,<br><$comeff(2,6)>¿no crees?"
+
+#. en: <$emotion(2,60)><$voicel(2,10)>I wonder if <$cdef(27)>Slowpoke</color> can yawn properly now!
+msgctxt "2454:11"
+msgid "<$emotion(2,60)><$voicel(2,10)>¡A ver qué tal bosteza ahora <$cdef(27)>Slowpoke</color>!"
+msgstr ""
+
+#. en: <oneline><$comeff(4,6)><$motion(4,803)><$voicel(4,5)>Oh, hey there, <$cdef(27)><pname;0></color>. Did you find<br>that,<slide><br>uh...<$cdef(27)>spring</color><slide><br>we<slide><br>were<slide><br>looking for...?
+msgctxt "2454:17"
+msgid "<oneline><$comeff(4,6)><$motion(4,803)><$voicel(4,5)>Eeeh, <$cdef(27)><pname;0></color>... ¿Al final has encontrao<br>el <$cdef(27)>manantial</color>?"
+msgstr "<oneline><$comeff(4,6)><$motion(4,803)><$voicel(4,5)>Eeeh, <$cdef(27)><pname;0></color>... ¿Al final encontraste<br>el <$cdef(27)>manantial</color>?"
+
+#. en: <$comeff(4,10)><$facial(4,4)><$motion(4,801)><$voicel(4,9)>Oooh, yaaay! I was wondering why it suddenly got a little<br>more humid around here...<clear><br><$comeff(4,9)><$facial(4,4)><$motion(4,805)><$voicel(4,7)>I bet there are still some <$cdef(27)>springs</color> out there... Maybe you<br>could find some more?
+msgctxt "2454:18"
+msgid "<$comeff(4,10)><$facial(4,4)><$motion(4,801)><$voicel(4,9)>Lo sabía. Ya notaba yo como más humedad.<clear><br><$comeff(4,9)><$facial(4,4)><$motion(4,805)><$voicel(4,7)>Fijo que aún queda algún que otro <$cdef(27)>manantial</color> por la zona.<br>¿Qué tal si intentas buscarlos?"
+msgstr "<$comeff(4,10)><$facial(4,4)><$motion(4,801)><$voicel(4,9)>Lo sabía. Ya notaba yo como más humedad.<clear><br><$comeff(4,9)><$facial(4,4)><$motion(4,805)><$voicel(4,7)>Seguro que aún queda algún que otro <$cdef(27)>manantial</color> por la zona.<br>¿Qué tal si intentas buscarlos?"
+
+#. en: <$comeff(4,20)><$motion(4,803)><$voicel(4,7)>Ooh, I just had a really good idea!
+msgctxt "2454:19"
+msgid "<$comeff(4,20)><$motion(4,803)><$voicel(4,7)>Buah... Pedazo idea acabo de tener."
+msgstr "<$comeff(4,20)><$motion(4,803)><$voicel(4,7)>Uf... Qué gran idea acabo de tener."
+
+#. en: <$comeff(4,6)><$facial(4,1)><$motion(4,805)><$voicel(4,5)>OK, so, you know how you found all those <$cdef(27)>springs</color>, right?<clear><br><$comeff(4,14)><$voicel(4,7)>Well, maybe if we put like, a <$cdef(27)>fountain</color> near one, then<br>the water could splash around! <$comeff(4,9)><$facial(4,4)><$motion(4,801)><$voicel(4,6)>Don’t you think that’d<slide><br>make things even more humid?
+msgctxt "2454:20"
+msgid "<$comeff(4,6)><$facial(4,1)><$motion(4,805)><$voicel(4,5)>Mira, ¿sabes el <$cdef(27)>manantial</color> que has encontrao?<clear><br><$comeff(4,14)><$voicel(4,7)>Si colocas una <$cdef(27)>fuente </color>en el estanque que se ha formao,<br>podrías salpicarlo to de agua.<clear><br><$comeff(4,9)><$facial(4,4)><$motion(4,801)><$voicel(4,6)>Así habría máaas humedad todavía."
+msgstr "<$comeff(4,6)><$facial(4,1)><$motion(4,805)><$voicel(4,5)>Mira, ¿sabes el <$cdef(27)>manantial</color> que encontraste?<clear><br><$comeff(4,14)><$voicel(4,7)>Si colocas una <$cdef(27)>fuente </color>en el estanque que se formó,<br>podrías salpicarlo to de agua.<clear><br><$comeff(4,9)><$facial(4,4)><$motion(4,801)><$voicel(4,6)>Así habría máaas humedad todavía."
+
+#. en: <$comeff(4,14)><$facial(4,1)><$motion(4,805)><$voicel(4,5)>I guess we need to find a <$cdef(27)>fountain</color> somewhere, huh?<clear><br><$comeff(4,10)><$facial(4,4)><$motion(4,801)><$voicel(4,9)>I’m sure you can do it! I believe in you!
+msgctxt "2454:21"
+msgid "<$comeff(4,14)><$facial(4,1)><$motion(4,805)><$voicel(4,5)>Pero claro, primero hay que encontrar una <$cdef(27)>fuente</color>...<br><$comeff(4,10)><$facial(4,4)><$motion(4,801)><$voicel(4,9)>Bah, eres tú, así que fijo que lo consigues. Áaanimo."
+msgstr "<$comeff(4,14)><$facial(4,1)><$motion(4,805)><$voicel(4,5)>Pero claro, primero hay que encontrar una <$cdef(27)>fuente</color>...<br><$comeff(4,10)><$facial(4,4)><$motion(4,801)><$voicel(4,9)>Bah, eres tú, así que seguro que lo consigues. Áaanimo."
+
+#. en: <$comeff(4,14)><$facial(4,1)><$motion(4,805)><$voicel(4,5)>I guess we need to find a <$cdef(27)>fountain</color> somewhere, huh?<clear><br><$voicel(4,8)>I think I saw one, um...somewhere, but...
+msgctxt "2454:22"
+msgid "<$comeff(4,14)><$facial(4,1)><$motion(4,805)><$voicel(4,5)>Hmm... Lo primero de todo es encontrar una <$cdef(27)>fuente</color>...<br><$voicel(4,8)>Me suena que he visto alguna, pero no recuerdo dónde."
+msgstr ""
+
+#. en: <$comcan(4)>Once you find a <$cdef(27)>fountain</color>, try placing it in a pool of<br>spring water!<clear><br>The water flowing from the <$cdef(27)>fountain</color> will humidify the<br>surrounding area!
+msgctxt "2454:23"
+msgid "Consigue una <$cdef(27)>fuente</color><$comcan(4)> y prueba a colocarla en el estanque<br>que se ha formado bajo el manantial.<clear><br>El agua que brotará de ella aumentará la humedad del<br>ambiente."
+msgstr "Consigue una <$cdef(27)>fuente</color><$comcan(4)> e intenta colocarla en el estanque<br>que se formó bajo el manantial.<clear><br>El agua que brotará de ella aumentará la humedad del<br>ambiente."
+
+#. en: <$comeff(4,10)><$facial(4,4)><$motion(4,801)><$voicel(4,9)>A <$cdef(27)>fountain</color> would help humidify the air even more...<br>Uh, probably...
+msgctxt "2454:29"
+msgid "<$comeff(4,10)><$facial(4,4)><$motion(4,801)><$voicel(4,9)>Con una <$cdef(27)>fuente </color>podríamos hacer que haya más humedad."
+msgstr ""
+
+#. en: Once you find a <$cdef(27)>fountain</color>, try placing it in a pool of<br>spring water!<clear><br>The water flowing from the <$cdef(27)>fountain</color> will humidify the<br>surrounding area!
+msgctxt "2454:30"
+msgid "Consigue una <$cdef(27)>fuente</color> y prueba a colocarla en el estanque<br>que se ha formado bajo el manantial.<clear><br>El agua que brotará de ella aumentará la humedad<br>del ambiente."
+msgstr "Consigue una <$cdef(27)>fuente</color> e intenta colocarla en el estanque<br>que se formó bajo el manantial.<clear><br>El agua que brotará de ella aumentará la humedad<br>del ambiente."
+
+#. en: <$comeff(4,9)><$facial(4,4)><$motion(4,803)><$voicel(4,5)>Oooh, you set up a <$cdef(27)><fqty(1)><$ifull(1262)></color>! Thanks so much!
+msgctxt "2454:38"
+msgid "<$comeff(4,9)><$facial(4,4)><$motion(4,803)><$voicel(4,5)>Uoooh... Has colocao una <$cdef(27)><fqty(1)><$ifull(1262)></color>.<br>¡Gracias, colega!"
+msgstr "<$comeff(4,9)><$facial(4,4)><$motion(4,803)><$voicel(4,5)>Uoooh... Colocaste una <$cdef(27)><fqty(1)><$ifull(1262)></color>.<br>¡Muchas gracias!"
+
+#. en: <$comeff(4,10)><$facial(4,4)><$motion(4,801)><$voicel(4,7)>I can feel it getting more humid around here!
+msgctxt "2454:39"
+msgid "<$comeff(4,10)><$facial(4,4)><$motion(4,801)><$voicel(4,7)>Ya se nota que el aire está más húmedo."
+msgstr ""
+
+#. en: <oneline><$emotion(1,29)><$voicel(1,7)>Did you find a spring, <$cdef(27)><pname;0></color>? Perhaps<br>that’s<slide><br>what<slide><br>raised<slide><br>the humidity!
+msgctxt "2454:40"
+msgid "<oneline><$emotion(1,29)><$voicel(1,7)>¿Has descubierto un manantial,<br><$cdef(27)><pname;0></color>?<clear><br>Deduzco que esa es la causa del aumento repentino<br>en la humedad ambiente."
+msgstr "<oneline><$emotion(1,29)><$voicel(1,7)>¿Descubriste un manantial,<br><$cdef(27)><pname;0></color>?<clear><br>Deduzco que esa es la causa del aumento repentino<br>en la humedad ambiente."
+
+#. en: <$emotion(1,38)><$voicel(1,9)>I think there should be several springs around here!
+msgctxt "2454:41"
+msgid "<$emotion(1,38)><$voicel(1,9)>¡Seguramente haya más manantiales por la zona!"
+msgstr ""
+
+#. en: <$emotion(1,38)><$voicel(1,9)>Ahhh, the air feels more humid now, thanks to the<br><$cdef(27)><fqty(1)><$ifull(1262)></color>.
+msgctxt "2454:42"
+msgid "<$emotion(1,38)><$voicel(1,9)>Se nota que ha aumentado la humedad del ambiente<br>gracias a la <$cdef(27)><fqty(1)><$ifull(1262)></color>."
+msgstr ""
+
+#. en: <$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,7)>I can’t wait to witness <$cdef(27)>Slowpoke</color>’s yawn!
+msgctxt "2454:43"
+msgid "<$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,7)>¡Esperemos que ahora <$cdef(27)>Slowpoke </color>bostece a gusto!"
+msgstr ""
+
+#. en: <$comeff(1,3)><$facial(1,4)><$motion(1,824)><$voicel(1,7)>The other Pokémon have given you some good advice.<br><$voicel(1,5)>It sounds like finding springs of water or adding more<slide><br>plant life <$voicel(1,8)>around here would help.
+msgctxt "2454:44"
+msgid "<$comeff(1,3)><$facial(1,4)><$motion(1,824)><$voicel(1,7)>Hemos obtenido una serie de recomendaciones la mar<br>de útiles de parte de los otros Pokémon.<clear><br><$voicel(1,5)>En resumen, sería buena idea fomentar la flora del lugar,<br>así como <$voicel(1,8)>hallar manantiales de agua."
+msgstr "<$comeff(1,3)><$facial(1,4)><$motion(1,824)><$voicel(1,7)>Obtuvimos una serie de recomendaciones muy<br>útiles de parte de los otros Pokémon.<clear><br><$voicel(1,5)>En resumen, sería buena idea fomentar la flora del lugar,<br>así como <$voicel(1,8)>hallar manantiales de agua."
+
+#. en: <$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>And don’t forget to check up on <$cdef(27)>Slowpoke’s yawns</color> every<br>now and then!
+msgctxt "2454:45"
+msgid "<$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>¡Ah, y no olvides consultar los <$cdef(27)>bostezos de Slowpoke<br></color>de vez en cuando!"
+msgstr ""
+
+#. en: <$voicel(4,5)><$motion(4,803)>I wanted to go...somewhere? Uhhh... Oh! Right! I wanted<br>to go to the <$cdef(27)>professor</color>!<clear><br><$voicel(4,7)><$comeff(4,10)>Do you think you could clear a path for me?
+msgctxt "2454:49"
+msgid "<$voicel(4,5)><$motion(4,803)>Me gustaría ir a ver al <$cdef(27)>profe</color>...<clear><br><$voicel(4,7)><$comeff(4,10)>¿Podrías arreglarme el camino? Es que, tal y como está,<br>me da una pereeeza... Solo de pensarlo ya me canso..."
+msgstr ""
+
+#. en: If you place steps where the terrain is different heights,<br>Pokémon will be able to walk more easily.
+msgctxt "2454:50"
+msgid "Coloca escaleras donde haya un desnivel que dificulte el<br>paso. Así los Pokémon podrán subir y bajar cómodamente."
+msgstr ""
+
+#. en: Also, Pokémon can walk much farther on moistened paths<br>than on dried-up ground.
+msgctxt "2454:51"
+msgid "Además, ten en cuenta que a los Pokémon les cuesta más<br>caminar por terreno seco.<clear><br>Se cansarán mucho menos si hay senderos de tierra bien<br>regada que no resulte dura de pisar."
+msgstr ""
+
+#. en: <$comeff(4,14)><$facial(4,1)><$motion(4,805)><$voicel(4,5)>Hey, know what I noticed? There’s, uh, spring water<br>around here!
+msgctxt "2454:52"
+msgid "<$comeff(4,14)><$facial(4,1)><$motion(4,805)><$voicel(4,5)>Oye... Me acabo de dar cuenta de que hay un manantial<br>aquí al lao..."
+msgstr ""
+
+#. en: <$comeff(4,10)><$facial(4,4)><$motion(4,805)><$voicel(4,7)>Were you the one who found that? That’s so cool.<clear><br><$motion(4,661)><$voicel(4,6)><$comeff(4,3)><$facial(4,1)>You know what I’m talking about, right? <$cdef(27)>Spring water</color>? The<br>water that kinda, um, gushes out of walls and stuff. I think.
+msgctxt "2454:53"
+msgid "<$motion(4,661)><$voicel(4,6)><$comeff(4,3)><$facial(4,1)>Por si no lo sabes, un <$cdef(27)>manantial</color> es cuando sale un chorro<br>de agua de una pared.<clear><br><$comeff(4,10)><$facial(4,4)><$motion(4,805)><$voicel(4,7)>Ah, pero si lo encontraste tú... Je, entonces ya lo sabrías."
+msgstr ""
+
+#. en: <$comeff(4,14)><$facial(4,1)><$motion(4,661)><$voicel(4,5)>Letting spring water flow and pool up will make<br>stuff, <$voicel(4,7)>y’know...real soggy. Uh, humid? Yeah, humid.
+msgctxt "2454:54"
+msgid "<$comeff(4,14)><$facial(4,1)><$motion(4,661)><$voicel(4,5)>Si toda el agua que sale a borbotones se acumula y forma<br>un estanque o algo, <$voicel(4,7)>sube la humedad de la zona."
+msgstr ""
+
+#. en: <$comeff(4,3)><$facial(4,1)><$motion(4,805)><$voicel(4,6)>The air here used to be so dry...<clear><br><$comeff(4,21)><$facial(4,4)><$motion(4,661)><$voicel(4,9)>But now, it’s getting all nice and uh, humid! Thanks to you.<br><$voicel(4,7)>Please keep up the good work!
+msgctxt "2454:55"
+msgid "<$comeff(4,3)><$facial(4,1)><$motion(4,805)><$voicel(4,6)>Dicen que esta zona estaba sequísima hasta hace nada...<clear><br><$comeff(4,21)><$facial(4,4)><$motion(4,661)><$voicel(4,9)>Pero, oye, gracias a ti... ya se va notando que hay algo<br>más de humedad. <$voicel(4,7)>No te desanimes y sigue así, colegui."
+msgstr "<$comeff(4,3)><$facial(4,1)><$motion(4,805)><$voicel(4,6)>Dicen que esta zona estaba sequísima hasta hace nada...<clear><br><$comeff(4,21)><$facial(4,4)><$motion(4,661)><$voicel(4,9)>Pero, oye, gracias a ti... ya se va notando que hay algo<br>más de humedad. <$voicel(4,7)>No te desanimes y sigue así, ¿eh?"
+
+#. en: <oneline><$comeff(4,3)><$motion(4,803)><$voicel(4,7)>Hey, <$cdef(27)><pname;0></color>, you know that<br><$cdef(27)><fqty(1)><$ifull(1262)></color><slide><br>sitting<slide><br>in<slide><br>that water?<clear><br>It’s, y’know, super nice, right? Yeah, real nice.
+msgctxt "2454:59"
+msgid "<oneline><$comeff(4,3)><$motion(4,803)><$voicel(4,7)>Oye, <$cdef(27)><pname;0></color>, la <$cdef(27)><fqty(1)><$ifull(1262)><br></color>que hay<slide><br>en medio<slide><br>del estanque está muuu guapa..."
+msgstr "<oneline><$comeff(4,3)><$motion(4,803)><$voicel(4,7)>Oye, <$cdef(27)><pname;0></color>, la <$cdef(27)><fqty(1)><$ifull(1262)><br></color>que hay<slide><br>en medio<slide><br>del estanque está muuu bonita..."
+
+#. en: <$comeff(4,13)><$facial(4,4)><$motion(4,805)><$voicel(4,9)>All that water splishing and uh, splashing... Splish-splash,<br>splish-splash. <$voicel(4,8)>The fountain sure makes things feel more<slide><br>humid around here, it does.
+msgctxt "2454:60"
+msgid "<$comeff(4,13)><$facial(4,4)><$motion(4,805)><$voicel(4,9)>Las fuentes como esa que escupen tanta agua aumentan<br><$voicel(4,8)>la humedad del aire que da gusto..."
+msgstr ""
+
+#. en: <$facial(4,1)><$comcan(4)>Slowpoke is right! If you put a fountain in the pool of water<br>that collects below a spring, it will gush water that makes<slide><br>the surrounding air more humid!
+msgctxt "2454:61"
+msgid "<$facial(4,1)><$comcan(4)>Tal y como dice <$cdef(27)>Slowpoke</color>, colocar una fuente en un<br>estanque que se haya formado a los pies de un manantial<slide><br>también sirve para humedecer el ambiente."
+msgstr ""

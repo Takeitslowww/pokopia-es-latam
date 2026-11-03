@@ -1,0 +1,31 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 3624 (es-ES slot); English reference: record 3620.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 3624\n"
+"X-Ldtool-English-Record: 3620\n"
+
+#. en: <$comeff(2,3)><$motion(2,803)><$voicel(2,5)>That Pokémon gets scared really easy and they HATE<br>dark places.
+msgctxt "3624:0"
+msgid "<$comeff(2,3)><$motion(2,803)><$voicel(2,5)>Esa pequeña siempre ha sido muy miedosa y no le gustan<br>naaada de nada los lugares oscuros."
+msgstr ""
+
+#. en: <$voicel(2,7)>It’s pretty deep and dark over there. I wonder if they got<br>lost. <$facial(2,9)><$voicel(2,4)>I’m kinda worried about them.
+msgctxt "3624:1"
+msgid "<$voicel(2,7)>Por allí el agua es muy profunda y además casi no hay luz.<br>Espero que no se haya perdido por esa zona...<clear><br><$facial(2,9)><$voicel(2,4)>No sé... Estoy un poco preocupad<gen;-3(o,a)>..."
+msgstr "<$voicel(2,7)>Por allá el agua es muy profunda y además casi no hay luz.<br>Espero que no se haya perdido por esa zona...<clear><br><$facial(2,9)><$voicel(2,4)>No sé... Estoy un poco preocupad<gen;-3(o,a)>..."
+
+#. en: <$voicel(2,9)><$facial(2,5)><$motion(2,839)><$comeff(2,21)>Oooh, you met <$cdef(27)><$cname(560)></color>? YAY! If they need anything,<br>make sure to help ’em out!
+msgctxt "3624:7"
+msgid "<$voicel(2,9)><$facial(2,5)><$motion(2,839)><$comeff(2,21)>Hala, ¿has conocido a <$cdef(27)><$cname(560)></color>? Si tiene algún problema,<br>intenta echarle una mano, ¿vale?"
+msgstr "<$voicel(2,9)><$facial(2,5)><$motion(2,839)><$comeff(2,21)>Guau, ¿conociste a <$cdef(27)><$cname(560)></color>? Si tiene algún problema,<br>intenta echarle una mano, ¿sí?"

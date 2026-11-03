@@ -1,0 +1,66 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 5037 (es-ES slot); English reference: record 5033.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 5037\n"
+"X-Ldtool-English-Record: 5033\n"
+
+#. en: I want something!
+msgctxt "5037:1"
+msgid "¡Me gustaría tener esto!"
+msgstr ""
+
+#. en: I want more of these!
+msgctxt "5037:2"
+msgid "¡Ojalá tuviese más de esto!"
+msgstr ""
+
+#. en: Less of this, please!
+msgctxt "5037:3"
+msgid "Preferiría no tener esto."
+msgstr ""
+
+#. en: I would love this!
+msgctxt "5037:4"
+msgid "¡Quiero un entorno así!"
+msgstr ""
+
+#. en: Glad that’s gone!
+msgctxt "5037:6"
+msgid "¡Qué bien no tener esto ya!"
+msgstr ""
+
+#. en: This is getting better...
+msgctxt "5037:7"
+msgid "¡El entorno así está mejor!"
+msgstr ""
+
+#. en: I’m having a blast!
+msgctxt "5037:12"
+msgid "¡Me divierto mucho con esto!"
+msgstr ""
+
+#. en: This is making my day!
+msgctxt "5037:13"
+msgid "¡Esto me ha alegrado el día!"
+msgstr "¡Esto me alegró el día!"
+
+#. en: What a tasty treat!
+msgctxt "5037:14"
+msgid "¡Sabía muy bien!"
+msgstr ""
+
+#. en: I’m so well rested now!
+msgctxt "5037:15"
+msgid "¡Descansé muy bien en esto!"
+msgstr ""

@@ -1,0 +1,1511 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 5154 (es-ES slot); English reference: record 5150.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 5154\n"
+"X-Ldtool-English-Record: 5150\n"
+
+#. en: You can use moves by pressing <$keyicon(1)>. Using a move reduces<br>your <$cdef(27)>PP</color>. Your current <$cdef(27)>PP</color> is shown as a gauge at the bottom<br>right of the screen.
+msgctxt "5154:1"
+msgid "Pulsa <$keyicon(1)> para usar movimientos, los cuales consumen <$cdef(27)>PP</color>.<br>Tus <$cdef(27)>PP </color>actuales se muestran en el medidor de la esquina inferior<br>derecha de la pantalla."
+msgstr "Presiona <$keyicon(1)> para usar movimientos, los cuales consumen <$cdef(27)>PP</color>.<br>Tus <$cdef(27)>PP </color>actuales se muestran en el medidor de la esquina inferior<br>derecha de la pantalla."
+
+#. en: There are many different kinds of moves. Try each one out and<br>change the terrain to restore homes for all the Pokémon!
+msgctxt "5154:2"
+msgid "Puedes aprender muchos movimientos de lo más variados.<br>Prueba a usar todos los que tengas a tu disposición para ir<br>modificando el entorno y que los Pokémon vuelvan a tener<br>un lugar donde vivir."
+msgstr "Puedes aprender muchos movimientos de lo más variados.<br>Intenta usar todos los que tengas a tu disposición para ir<br>modificando el entorno y que los Pokémon vuelvan a tener<br>un lugar donde vivir."
+
+#. en: Press <$keyicon(3)> to <$cdef(27)>jump</color>. This will allow you to get over holes and other<br>obstacles with a little bit of air time!
+msgctxt "5154:4"
+msgid "Pulsa <$keyicon(3)> para <$cdef(27)>saltar </color>con <$cdef(27)>Salpicadura</color>. Así podrás llegar más alto<br>de lo normal y también podrás sortear agujeros y otros obstáculos."
+msgstr "Presiona <$keyicon(3)> para <$cdef(27)>saltar </color>con <$cdef(27)>Salpicadura</color>. Así podrás llegar más alto<br>de lo normal y también podrás sortear agujeros y otros obstáculos."
+
+#. en: Select an item in your bag, then press <$keyicon(66)> to hold it in your<br>hands. If you talk to a Pokémon while holding an item, you can<br>choose to <$cdef(27)>give it to them </color>as a present!
+msgctxt "5154:13"
+msgid "Desde la Bolsa, pulsa <$keyicon(66)> sobre un objeto para <$cdef(27)>sujetarlo</color>.<br>Si hablas con un Pokémon mientras llevas algo en las manos,<br>puedes elegir <$cdef(27)>regalárselo</color>."
+msgstr "Desde la Bolsa, presiona <$keyicon(66)> sobre un objeto para <$cdef(27)>sujetarlo</color>.<br>Si hablas con un Pokémon mientras llevas algo en las manos,<br>puedes elegir <$cdef(27)>regalárselo</color>."
+
+#. en: You can become closer friends with Pokémon by talking to them,<br>giving them presents, and helping them with their <$cdef(27)>requests</color>.<br>Pokémon who really like you may also give you presents, so try to<br>make friends with lots of different Pokémon!
+msgctxt "5154:16"
+msgid "Si hablas a menudo con los Pokémon, les haces regalos y<br>cumples sus <$cdef(27)>peticiones</color>, vuestra relación se irá estrechando<br>y puede que te regalen cosas a cambio. Prueba a entablar<br>amistad con los Pokémon que más te gusten."
+msgstr "Si hablas a menudo con los Pokémon, les haces regalos y<br>cumples sus <$cdef(27)>peticiones</color>, su relación se irá estrechando<br>y puede que te regalen cosas a cambio. Intenta entablar<br>amistad con los Pokémon que más te gusten."
+
+#. en: You can use this move to make tall grass grow. It won’t work in<br>certain areas.
+msgctxt "5154:19"
+msgid "Con este movimiento, podrás hacer que brote hierba alta<br>de la tierra, aunque no tiene efecto en algunas zonas."
+msgstr ""
+
+#. en: Eat <$cdef(27)>salad</color> to power up <$cdef(27)><$sklfull(1)></color>. You can then press and hold<br><$keyicon(1)> to grow tall grass over a larger area.
+msgctxt "5154:20"
+msgid "Comer <$cdef(27)>ensaladas </color>potencia el movimiento <$cdef(27)><$sklfull(1)></color>, lo que<br>te permite hacer crecer hierba alta en un radio más grande<br>si mantienes pulsado <$keyicon(1)>."
+msgstr "Comer <$cdef(27)>ensaladas </color>potencia el movimiento <$cdef(27)><$sklfull(1)></color>, lo que<br>te permite hacer crecer hierba alta en un radio más grande<br>si mantienes presionado <$keyicon(1)>."
+
+#. en: When powered up, <$cdef(27)><$sklfull(1)> </color>can grow moss or vines on rocks,<br>walls, and other surfaces.
+msgctxt "5154:21"
+msgid "Cuando <$cdef(27)><$sklfull(1)> </color>está potenciado, puedes además hacer crecer<br>musgo y hiedras en suelos de roca y muros."
+msgstr ""
+
+#. en: Place a <$cdef(27)><fqty(1)><$ifull(1440)> </color>on a house to make it your home.<br>For block houses, you can place the flag nearby. You can also<br>invite other Pokémon to live with you.
+msgctxt "5154:25"
+msgid "Coloca una <$cdef(27)><fqty(1)><$ifull(1440)></color> sobre una casa humana para<br>marcarla como <$cdef(27)>tu hogar</color>. Si se trata de una casa de bloques,<br>basta con que la pongas cerca. Recuerda que puedes compartir<br>casa con otros Pokémon."
+msgstr ""
+
+#. en: Place a variety of furniture in your home to increase your<br><$cdef(27)>comfort level</color>.
+msgctxt "5154:26"
+msgid "Cuantos más muebles coloques en tu <$cdef(27)>casa</color>, mayor será tu propio<br><$cdef(27)>nivel de confort</color>."
+msgstr ""
+
+#. en: You can create a <$cdef(27)>block house</color> by enclosing a space within four<br>walls and a door. Just like with a <$cdef(27)><$bname(12)></color>, Pokémon will move in<br>if you place three different pieces of furniture inside.
+msgctxt "5154:28"
+msgid "Para crear una <$cdef(27)>casa de bloques</color>, basta con cerrar un espacio con<br>paredes y colocar una puerta. Si luego quieres que un Pokémon<br>se mude a una, deberás colocar al menos tres muebles distintos<br>en su interior, al igual que hay que hacer con las casas humanas,<br>como la <$cdef(27)><$bname(12)></color>."
+msgstr ""
+
+#. en: A <$cdef(27)>block house</color> can be made without a <$cdef(27)>building kit</color> as long as you<br>place the blocks correctly. However, it can’t be destroyed with<br>a <$cdef(27)>demolition kit</color> or moved with a <$cdef(27)>relocation kit</color>.
+msgctxt "5154:29"
+msgid "Las <$cdef(27)>casas de bloques</color> se pueden construir sin utilizar un <$cdef(27)>kit de<br>construcción</color>. Basta con colocar bloques en la configuración<br>correcta; pero, a cambio, tienen la desventaja de que no puedes<br>demolerlas ni trasladarlas usando <$cdef(27)>kits de demolición </color>o <$cdef(27)>traslado</color>."
+msgstr ""
+
+#. en: At a <$cdef(27)><fqty(1)><$ifull(764)></color>, you can use materials to craft items from<br><$cdef(27)>recipes</color> you’ve learned. You can find new <$cdef(27)>recipes</color> around the<br>world—or, in certain situations, come up with your own.
+msgctxt "5154:31"
+msgid "En una <$cdef(27)><fqty(1)><$ifull(764)></color> puedes usar los materiales que<br>tengas para crear objetos cuyas <$cdef(27)>instrucciones </color>conozcas.<br>Puedes encontrar <$cdef(27)>instrucciones </color>mientras exploras por ahí,<br>¡o tal vez se te ocurran a ti!"
+msgstr ""
+
+#. en: You can make a Pokémon more <$cdef(27)>comfortable</color> by clearing a path<br>from their home to a <$cdef(27)>Pokémon Center</color>. If a Pokémon seems to be<br>having trouble going for a walk, try tidying up the paths around<br>their home!
+msgctxt "5154:37"
+msgid "Para aumentar el <$cdef(27)>nivel de confort </color>de un Pokémon, puedes<br>despejar el camino de su hogar a un <$cdef(27)>Centro Pokémon</color>. Si das<br>con alguna zona poco transitable, asegúrate de arreglarla."
+msgstr ""
+
+#. en: You can use this move to break dirt, rock, and other materials<br>with your fist. This will let you punch holes in walls or the ground.
+msgctxt "5154:40"
+msgid "Usa este movimiento para romper tierra, rocas y otros materiales<br>a puñetazos. Resulta muy útil para abrir agujeros en las paredes<br>o excavar."
+msgstr ""
+
+#. en: Press and hold <$keyicon(1)> to continuously use <$cdef(27)><$sklfull(4)></color>. You can<br>look up or down while using this move to redirect your smash.
+msgctxt "5154:41"
+msgid "Si mantienes pulsado <$keyicon(1)>, podrás usar <$cdef(27)><$sklfull(4)></color> de manera<br>continua. Mira hacia arriba o hacia abajo para elegir qué bloques<br>quieres romper."
+msgstr "Si mantienes presionado <$keyicon(1)>, podrás usar <$cdef(27)><$sklfull(4)></color> de manera<br>continua. Mira hacia arriba o hacia abajo para elegir qué bloques<br>quieres romper."
+
+#. en: Eat <$cdef(27)>hamburger steak</color> to power up <$cdef(27)><$sklfull(4)></color>. When powered<br>up, <$cdef(27)><$sklfull(4)></color><$cdef(27)> </color>can break harder substances than usual.
+msgctxt "5154:42"
+msgid "Comer <$cdef(27)>hamburguesas </color>potencia el movimiento <$cdef(27)><$sklfull(4)></color>,<br>lo que te permite romper cosas más duras."
+msgstr ""
+
+#. en: If you manage to take a photo of a Pokémon during a photo op,<br>it will be added to your <$cdef(27)>highlight reel</color>.
+msgctxt "5154:43"
+msgid "Si consigues sacar una foto de un Pokémon cuando surge un<br>momento especial, la foto se guardará como <$cdef(27)>foto destacada</color>."
+msgstr "Si consigues tomar una foto de un Pokémon cuando surge un<br>momento especial, la foto se guardará como <$cdef(27)>foto destacada</color>."
+
+#. en: If you manage to snag a photo for your highlight reel, you may<br>receive fabulous rewards, such as photo frames! Keep adding to<br>your highlight reel by not missing out on photo ops!
+msgctxt "5154:44"
+msgid "Al sacar fotos destacadas, puede que recibas premios, como<br>divertidos marcos para tus fotos. ¡No pierdas la oportunidad de<br>sacar fotos destacadas cuando surja algún momento especial!"
+msgstr "Al tomar fotos destacadas, puede que recibas premios, como<br>divertidos marcos para tus fotos. ¡No pierdas la oportunidad de<br>tomar fotos destacadas cuando surja algún momento especial!"
+
+#. en: Use this move to till dirt or grass into crop fields. Once you’ve<br>made a crop field, you can plant vegetable seeds in it. You can’t<br>till dry dirt—use moves like <$cdef(27)><$sklfull(3)> </color>to make the ground<br>nice and moist for tilling.
+msgctxt "5154:46"
+msgid "Usa este movimiento para convertir tierra o césped en un huerto<br>en el que plantar semillas y cultivar verduras. Ten en cuenta que<br>la tierra seca y agrietada no se puede arar, así que antes de nada<br>tendrás que humedecerla con <$cdef(27)><$sklfull(3)></color>, por ejemplo."
+msgstr "Usa este movimiento para convertir tierra o césped en un huerto<br>en el que plantar semillas y cultivar verduras. Ten en cuenta que<br>la tierra seca y agrietada no se puede arar, así que antes que nada<br>tendrás que humedecerla con <$cdef(27)><$sklfull(3)></color>, por ejemplo."
+
+#. en: You can use <$cdef(27)><$sklfull(2)></color> on plants and flowers to pick them up.<br>Plants picked up this way can be given to other Pokémon as<br>presents or stored in your bag!
+msgctxt "5154:47"
+msgid "Usar <$cdef(27)><$sklfull(2)></color> sobre matas de hierba alta, plantas o flores<br>te permite trasplantarlas a otro lugar. Si lo prefieres, también<br>puedes regalárselas a otros Pokémon o guardarlas en la Bolsa."
+msgstr ""
+
+#. en: Once a day, you can use the <$cdef(27)><fqty(1)><$ifull(1444)></color> inside to fully<br>restore your <$cdef(27)>PP</color>.
+msgctxt "5154:49"
+msgid "El <$cdef(27)><fqty(1)><$ifull(1444)> </color>del interior te permite recuperar<br>todos tus <$cdef(27)>PP</color> una vez al día."
+msgstr ""
+
+#. en: Sometimes a Pokémon with the <fcap><$icon(11001)><$cdef(27)>trade</color> specialty will trade items<br>with you at the <$cdef(27)><fqty(1)><$ifull(1325)></color> inside the <$cdef(27)>Pokémon Center</color>.
+msgctxt "5154:50"
+msgid "Los Pokémon cuya especialidad sea <$cdef(27)>negociar</color><nbs2><$icon(11001)> puede que se<br>ofrezcan a intercambiar objetos contigo en la <$cdef(27)><fqty(1)><$ifull(1325)></color><br>del interior del <$cdef(27)>Centro Pokémon</color>."
+msgstr ""
+
+#. en: If there are places up high that you can’t reach by jumping, you<br>can place blocks of material, such as dirt or sand, and climb them<br>like a set of steps.
+msgctxt "5154:58"
+msgid "Si te encuentras con un lugar alto al que no llegas ni saltando,<br>prueba a colocar un bloque de tierra, arena u otra cosa para<br>poder subir bloque a bloque."
+msgstr "Si te encuentras con un lugar alto al que no llegas ni saltando,<br>intenta colocar un bloque de tierra, arena u otra cosa para<br>poder subir bloque a bloque."
+
+#. en: You can use <$cdef(27)>Stockpile </color>to swallow items that are too big to carry in<br>your hands, such as furniture, and store them in your bag.
+msgctxt "5154:61"
+msgid "Con <$cdef(27)>Reserva</color>, puedes almacenar dentro de tu cuerpo muebles<br>y otros objetos grandes que no se pueden transportar fácilmente."
+msgstr ""
+
+#. en: You can use <$cdef(27)>Spit Out</color> to place the items you’ve stockpiled in your<br>bag. Just go where you want to place an item, then press <$keyicon(0)> to<br>spit it out.
+msgctxt "5154:62"
+msgid "Usa <$cdef(27)>Escupir</color> para colocar los objetos que hayas guardado en<br>la Bolsa. Dirígete al lugar donde quieras colocar el objeto<br>y escúpelo con <$keyicon(0)>."
+msgstr "Usa <$cdef(27)>Escupida</color> para colocar los objetos que hayas guardado en<br>la Bolsa. Dirígete al lugar donde quieras colocar el objeto<br>y escúpelo con <$keyicon(0)>."
+
+#. en: You can adjust the height at which you place an item by changing<br>where the camera is facing. This can come in handy when placing<br>wall-hanging items up high or filling holes in the ground.
+msgctxt "5154:63"
+msgid "Puedes ajustar la altura a la que colocas objetos si cambias el<br>ángulo de la cámara. Esto te puede resultar útil para colocar<br>decoraciones en paredes altas o para rellenar huecos a tus pies."
+msgstr ""
+
+#. en: You can adjust where you place an object by moving the camera<br>as you’re placing it. If you point the camera straight down, you<br>can place objects under your feet to lift yourself up one block at<br>a time.
+msgctxt "5154:67"
+msgid "Mover la cámara te permitirá ajustar la posición y la altura a la<br>que colocas objetos. Si apuntas la cámara hacia abajo, podrás<br>colocar objetos debajo de ti, y eso te permitirá ascender sobre<br>los objetos que vayas colocando."
+msgstr ""
+
+#. en: If you make paths nicer, such as by smoothing over cracked<br>ground or placing steps on hills, you can encourage Pokémon to<br>travel farther from their homes.
+msgctxt "5154:76"
+msgid "Puedes hacer los caminos más transitables si arreglas el suelo<br>agrietado o colocas escaleras para salvar desniveles. Eso hará<br>que los Pokémon se atrevan a aventurarse más lejos de su hogar."
+msgstr ""
+
+#. en: When Pokémon go for a walk, they can visit buildings, such<br>as <$cdef(27)>Pokémon Centers</color> or other Pokémon’s homes.
+msgctxt "5154:77"
+msgid "Los Pokémon suelen salir para visitar edificios como los <$cdef(27)>Centros<br>Pokémon </color>o los hogares de otros Pokémon."
+msgstr ""
+
+#. en: You can store your items inside a <$cdef(27)><fqty(1)><$ifull(2045)></color>. If your bag gets<br>full, make some space by putting items in here!
+msgctxt "5154:79"
+msgid "Puedes usar los <$cdef(27)><fqty(2)><$ifull(2045)> </color>para guardar tus objetos.<br>Muy útil cuando tienes la Bolsa llena."
+msgstr ""
+
+#. en: You can also press and hold <$keyicon(196)>, then press <$keyicon(67)> to <$cdef(27)>transfer half<br>a stack of items</color>.
+msgctxt "5154:80"
+msgid "Mientras mueves objetos, si mantienes pulsado <$keyicon(196)> y luego<br>pulsas <$keyicon(67)>, podrás <$cdef(27)>dejar la mitad</color>. Se trata de un atajo muy<br>cómodo para organizar tus cosas."
+msgstr "Mientras mueves objetos, si mantienes presionado <$keyicon(196)><br>y luego presionas <$keyicon(67)>, podrás <$cdef(27)>dejar la mitad</color>. Se trata<br>de un atajo muy cómodo para organizar tus cosas."
+
+#. en: If you place a <$cdef(27)><fqty(1)><$ifull(2045)></color> next to a <$cdef(27)><fqty(1)><$ifull(764)></color>, you can<br>use materials directly from the box when crafting items!
+msgctxt "5154:81"
+msgid "Coloca un <$cdef(27)><fqty(1)><$ifull(2045)></color> junto a tu <$cdef(27)><fqty(1)><$ifull(764)> </color>para tener<br>a mano tus objetos almacenados y poder usarlos directamente<br>a la hora de fabricar nuevos artículos."
+msgstr ""
+
+#. en: You can use this move to cut what’s in front of you, such as trees<br>or wooden objects, with sharp blades.
+msgctxt "5154:85"
+msgid "Este movimiento te permite usar cuchillas afiladas para cortar<br>lo que tengas delante. También puedes talar árboles o romper<br>objetos hechos de madera."
+msgstr ""
+
+#. en: Eat <$cdef(27)>bread</color> to power up <$cdef(27)><$sklfull(5)></color>. You can then press and hold <$keyicon(1)><br>to slice up things that are farther away.
+msgctxt "5154:86"
+msgid "Comer <$cdef(27)>pan</color> potencia el movimiento <$cdef(27)><$sklfull(5)></color>, lo que te permite<br>cortar a mayor distancia si mantienes pulsado <$keyicon(1)>."
+msgstr "Comer <$cdef(27)>pan</color> potencia el movimiento <$cdef(27)><$sklfull(5)></color>, lo que te permite<br>cortar a mayor distancia si mantienes presionado <$keyicon(1)>."
+
+#. en: When powered up, <$cdef(27)><$sklfull(5)> </color>can slice up harder substances<br>than usual.
+msgctxt "5154:87"
+msgid "Cuando <$cdef(27)><$sklfull(5)></color> está potenciado, puedes romper objetos más<br>duros que antes."
+msgstr ""
+
+#. en: As a <$cdef(27)>Ditto</color>, you can make yourself smaller to fit through tight<br>spaces. You’ll return to your normal size once you’re back out in<br>the open.
+msgctxt "5154:91"
+msgid "<$cdef(27)>Ditto</color> puede encogerse para pasar por lugares estrechos.<br>Al salir, volverá a su forma habitual."
+msgstr ""
+
+#. en: Tilt <$keyicon(194)> slightly to walk in that direction. If you tilt it all the way,<br>you’ll start running. If you press and hold <$keyicon(55)> or press <$keyicon(54)>, you<br>can run even faster.
+msgctxt "5154:94"
+msgid "Inclina <$keyicon(194)> un poco hacia cualquier dirección para caminar<br>despacio, o inclínala del todo para caminar deprisa.<br>Si mantienes pulsado <$keyicon(55)> o pulsas <$keyicon(54)>, podrás correr."
+msgstr "Inclina <$keyicon(194)> un poco hacia cualquier dirección para caminar<br>despacio, o inclínala del todo para caminar deprisa.<br>Si mantienes presionado <$keyicon(55)> o presionas <$keyicon(54)>, podrás correr."
+
+#. en: Tilt <$keyicon(195)> to move the camera.
+msgctxt "5154:97"
+msgid "Inclina <$keyicon(195)> para mover la cámara en esa dirección."
+msgstr ""
+
+#. en: You can use this move to spray water and revitalize dried dirt and<br>withered plants, such as grass, trees, and flowers.
+msgctxt "5154:100"
+msgid "Usa este movimiento para rehidratar la tierra agrietada o para<br>devolver su verdor a árboles secos, hierba alta seca o flores<br>marchitas."
+msgstr ""
+
+#. en: Eat <$cdef(27)>soup</color> to power up <$cdef(27)><$sklfull(3)></color>. You can then press and hold<br><$keyicon(1)> to spray water over a larger area.
+msgctxt "5154:101"
+msgid "Tomar <$cdef(27)>sopa</color> potencia el movimiento <$cdef(27)><$sklfull(3)></color>, lo que te<br>permite mojar un área más grande si mantienes pulsado <$keyicon(1)>."
+msgstr "Tomar <$cdef(27)>sopa</color> potencia el movimiento <$cdef(27)><$sklfull(3)></color>, lo que te<br>permite mojar un área mayor si mantienes presionado <$keyicon(1)>."
+
+#. en: Items you obtain are placed in your bag. Press <$keyicon(159)> to access your<br>bag. From there, you can use any items you have.
+msgctxt "5154:103"
+msgid "Los objetos que consigas se guardarán en tu Bolsa,<br>a la que puedes acceder pulsando <$keyicon(159)>."
+msgstr "Los objetos que consigas se guardarán en tu Bolsa,<br>a la que puedes acceder presionando <$keyicon(159)>."
+
+#. en: There’s a limit to how many items you can fit in your bag. You can<br>increase this limit by purchasing <$cdef(27)>Packing Tips </color>from the <$cdef(27)>shop</color>.
+msgctxt "5154:104"
+msgid "Solo puedes llevar un número limitado de objetos en la Bolsa,<br>pero es posible aumentar este límite comprando <$cdef(27)>guías de</color><br><$cdef(27)>almacenaje</color> en la <$cdef(27)>tienda</color>."
+msgstr ""
+
+#. en: Grass, trees, rocks, furniture, and other items can be placed near<br>each other in certain combinations to create Pokémon habitats.<br>Placing the same combination of items in a different location—<br>such as near water or in a high place—might even create a<br>different habitat altogether!
+msgctxt "5154:106"
+msgid "Hay veces que, al combinar elementos como matas de hierba<br>alta, árboles, rocas o muebles, se crea un hábitat en el que<br>pueden vivir los Pokémon. Se pueden crear hábitats diferentes<br>con los mismos elementos según dónde se encuentren, como<br>cerca del agua o en un lugar elevado."
+msgstr ""
+
+#. en: When you create a new habitat, a Pokémon you haven’t yet<br>registered in your <$cdef(27)>Pokédex</color> may appear there. Try making all sorts<br>of habitats to meet a wide variety of Pokémon friends!
+msgctxt "5154:107"
+msgid "Si creas un hábitat nuevo, es posible que atraiga a algún<br>Pokémon que todavía no has registrado en la <$cdef(27)>Pokédex</color>.<br>¡Prueba a crear todo tipo de hábitats para hacer nuevos amigos!"
+msgstr "Si creas un hábitat nuevo, es posible que atraiga a algún<br>Pokémon que todavía no has registrado en la <$cdef(27)>Pokédex</color>.<br>¡Intenta crear todo tipo de hábitats para hacer nuevos amigos!"
+
+#. en: If you’ve learned multiple moves, press <$keyicon(142)> or <$keyicon(143)> to switch<br>between them. You can register moves by holding <$keyicon(142)> or <$keyicon(143)>,<br>or by pressing and holding <$keyicon(246)>.
+msgctxt "5154:109"
+msgid "Cuando conoces varios movimientos, puedes seleccionar el que<br>quieras con <$keyicon(142)> y <$keyicon(143)>. También puedes elegirlos en el menú<br>de rueda de los movimientos si mantienes pulsado <$keyicon(246)>, <$keyicon(142)><br>o <$keyicon(143)>."
+msgstr "Cuando conoces varios movimientos, puedes seleccionar el que<br>quieras con <$keyicon(142)> y <$keyicon(143)>. También puedes elegirlos en el menú<br>de rueda de los movimientos si mantienes presionado <$keyicon(246)>, <$keyicon(142)><br>o <$keyicon(143)>."
+
+#. en: Sometimes you may notice something sparkling on the ground.<br>You can investigate these sparkling areas to discover traces of<br>a Pokémon, which will provide information about that Pokémon’s<br>habitat and preferred environment. This information will be<br>recorded in your <$cdef(27)>Pokédex</color>.
+msgctxt "5154:115"
+msgid "A veces verás un brillo en el suelo. Si lo investigas, encontrarás<br>una pista sobre un Pokémon. Esta información se registrará en<br>la Pokédex y obtendrás más datos sobre el hábitat y el tipo<br>de entorno que le gustan."
+msgstr ""
+
+#. en: You can learn about <$cdef(27)>Pokémon and their habitats </color>by investigating<br>traces. The info you gather is recorded in your <$cdef(27)>Pokédex</color>.
+msgctxt "5154:116"
+msgid "Recolectar pistas te permitirá obtener información acerca del<br><$cdef(27)>hábitat de un Pokémon</color>, así como otros <$cdef(27)>datos</color>. Esta información<br>quedará registrada en la <$cdef(27)>Pokédex</color>."
+msgstr ""
+
+#. en: If you walk toward a block, you can climb on top of it.<br>However, you can’t climb on top of anything that’s more<br>than one block high.
+msgctxt "5154:118"
+msgid "Si caminas hacia un bloque, podrás subirte a él de un salto.<br>Ten en cuenta que no podrás saltar si el desnivel es de dos<br>o más bloques."
+msgstr ""
+
+#. en: Follow these steps to <$cdef(27)><$spwfull(1)></color> a house.<br>1. Place a <$cdef(27)>building kit </color>in the spot where you wish to build.<br>2. Collect the materials listed in the kit.<br>3. Gather Pokémon who meet the requirements of the kit.<br>It will take a little time for the building process to complete.
+msgctxt "5154:121"
+msgid "Para <$cdef(27)><$spwfull(1)></color> una estructura, sigue los siguientes pasos:<br>1. Coloca un <$cdef(27)>kit de construcción</color> donde quieras construirla.<br>2. Reúne los materiales necesarios.<br>3. Busca Pokémon que cumplan las condiciones del kit.<br>Ten en cuenta que la construcción llevará un tiempo."
+msgstr ""
+
+#. en: Talk to a Pokémon who meets the requirements of the <$cdef(27)>building kit<br></color>you placed and have them follow you to it. Once there, you can<br>ask them to help with the <$cdef(27)><$spwfull(1)>ing</color> process!
+msgctxt "5154:122"
+msgid "Si encuentras un Pokémon que cumpla las condiciones del <$cdef(27)>kit</color>,<br>haz que te siga para llevarlo hasta el lugar donde lo colocaste<br>y pídele que te ayude a <$cdef(27)><$spwfull(1)></color>."
+msgstr ""
+
+#. en: You can use a different <$cdef(27)>building kit </color>to <$cdef(27)>remodel </color>an existing house<br>or <$cdef(27)>Pokémon Center</color> into a whole new house with all of the same<br>furniture inside. However, you cannot turn a large house into a<br>smaller one.
+msgctxt "5154:123"
+msgid "Puedes <$cdef(27)>reformar</color> una casa humana o un <$cdef(27)>Centro Pokémon</color> que<br>hayas construido si usas un <$cdef(27)>kit de construcción</color> diferente. Esto<br>conserva los muebles que ya hubiese dentro, pero ten en cuenta<br>que no puedes reformar una casa para hacerla más pequeña."
+msgstr "Puedes <$cdef(27)>reformar</color> una casa humana o un <$cdef(27)>Centro Pokémon</color> que<br>hayas construido si usas un <$cdef(27)>kit de construcción</color> diferente. Esto<br>conserva los muebles que ya hubiera adentro, pero ten en cuenta<br>que no puedes reformar una casa para hacerla más pequeña."
+
+#. en: A newly built house does not come with any furniture. Pokémon<br>cannot live in a house until it has three different pieces of<br>furniture inside.
+msgctxt "5154:130"
+msgid "Los Pokémon no pueden vivir en casas humanas que estén vacías,<br>sino que deben tener al menos tres muebles distintos."
+msgstr ""
+
+#. en: If you talk to a Pokémon who is following you while you’re both<br>near a house, you can invite them to live in that house. Pokémon<br>are <$cdef(27)>very comfortable in houses</color> and love living in them!
+msgctxt "5154:131"
+msgid "Si llevas a un Pokémon cerca de una casa humana y le hablas,<br>puedes sugerirle que se mude a ella. A los Pokémon <$cdef(27)>les encanta</color><br>vivir en este tipo de casas, ¡así que intenta buscarles una a todos<br>los que puedas!"
+msgstr ""
+
+#. en: When powered by electricity, certain houses will light up and the<br>machines inside will start running. Try placing <$cdef(27)><fqty(2)><$ifull(1396)> </color>to<br>provide power to a house.
+msgctxt "5154:132"
+msgid "Algunas casas pueden conectarse a la corriente para encender<br>las luces y los aparatos electrónicos que tengan en su interior.<br>Para ello necesitarás colocar un <$cdef(27)><fqty(1)><$ifull(1396)></color> cerca."
+msgstr ""
+
+#. en: You can take pictures of Pokémon and other things around you<br>using your camera. Enter photo mode by pressing <$keyicon(52)> or selecting<br><$cdef(27)>Camera</color> in the <$keyicon(4)> menu. Once in photo mode, press <$keyicon(155)> to take<br>a picture!
+msgctxt "5154:133"
+msgid "Puedes sacar fotos de los Pokémon y otras cosas que haya a tu<br>alrededor. Para abrir la <$cdef(27)>cámara</color>, pulsa <$keyicon(52)> o accede a ella desde<br>el menú <$keyicon(4)>. Una vez en el modo foto, pulsa <$keyicon(155)> para sacar una."
+msgstr "Puedes tomar fotos de los Pokémon y otras cosas que haya a tu<br>alrededor. Para abrir la <$cdef(27)>cámara</color>, presiona <$keyicon(52)> o selecciónala en<br>el menú <$keyicon(4)>. Una vez en modo foto, presiona <$keyicon(155)> para tomar una."
+
+#. en: Press <$keyicon(49)> while in photo mode to change the way you hold<br>the camera.
+msgctxt "5154:134"
+msgid "Pulsa <$keyicon(49)> cuando estés usando la cámara para cambiar el modo<br>de sujeción."
+msgstr "Presiona <$keyicon(49)> cuando estés usando la cámara para cambiar<br>el modo de sujeción."
+
+#. en: Once you get the <$cdef(27)><fqty(1)><$ifull(4000)></color>, you’ll be able to fix your<br>camera on the tripod and move freely while you take photos.<br>Press <$keyicon(49)> while in selfie mode to fix the camera in place.
+msgctxt "5154:135"
+msgid "Si consigues un <$cdef(27)><fqty(1)><$ifull(4000)></color>, podrás usarlo para fijar la cámara<br>y tomar fotos moviéndote libremente. Pulsa <$keyicon(49)> cuando estés<br>en modo selfi para fijar la cámara en un sitio."
+msgstr "Si consigues un <$cdef(27)><fqty(1)><$ifull(4000)></color>, podrás usarlo para fijar la cámara<br>y tomar fotos moviéndote libremente. Presiona <$keyicon(49)> cuando estés<br>en modo selfi para fijar la cámara en un lugar."
+
+#. en: You may sometimes find <$cdef(27)>lost relics</color> buried in the ground.<br>Try showing them to a Pokémon with the <$cdef(27)><fcap><$spwfull(25)></color> specialty!
+msgctxt "5154:139"
+msgid "Si encuentras alguna <$cdef(27)>reliquia</color> enterrada en el suelo, muéstrasela<br>a un Pokémon cuya especialidad sea <$cdef(27)><$spwfull(25)></color>."
+msgstr ""
+
+#. en: Some items you find buried in the ground are unstable and could<br>explode at any minute! If you happen upon one of these, quickly<br>spray it with water!
+msgctxt "5154:140"
+msgid "En ocasiones, es posible que encuentres objetos enterrados<br>que están a punto de explotar. En esos casos, debes echarles<br>agua enseguida para desactivarlos."
+msgstr ""
+
+#. en: Press and hold <$keyicon(153)> to inhale items on the ground near you. This<br>can come in handy when you <$cdef(27)>headbutt</color> a tree to knock off its<br>berries, or when you break rocks and dirt with <$cdef(27)><$sklfull(4)></color>.
+msgctxt "5154:142"
+msgid "Mantén pulsado <$keyicon(153)> para absorber todos los objetos que haya<br>tirados a tu alrededor. Es muy útil para recoger las bayas que<br>hayan caído de un árbol al usar <$cdef(27)>Golpe Cabeza</color>, o cuando hayas<br>roto muchas rocas con <$cdef(27)><$sklfull(4)></color>."
+msgstr "Mantén presionado <$keyicon(153)> para absorber todos los objetos que haya<br>tirados a tu alrededor. Es muy útil para recoger las bayas que<br>hayan caído de un árbol al usar <$cdef(27)>Golpe Cabeza</color>, o cuando hayas<br>roto muchas rocas con <$cdef(27)><$sklfull(4)></color>."
+
+#. en: <$cdef(27)><$sklfull(13)></color> lets you move while you hover in the air. You can<br>float down or up by pressing <$keyicon(59)> or <$keyicon(58)> while using this move.
+msgctxt "5154:145"
+msgid "<$cdef(27)><$sklfull(13)> </color>te permite desplazarte flotando por el aire. Puedes<br>usar <$keyicon(59)> o <$keyicon(58)> para descender o elevarte mientras lo usas."
+msgstr ""
+
+#. en: Select an item in your bag and press <$keyicon(0)> to spit it out. For certain<br>items, you can adjust the number of items you spit out at once by<br>pressing <$keyicon(30)> and redirect where you spit them out by using <$keyicon(31)>.<br>If you press <$keyicon(253)>, you can enter <$cdef(27)>replacement mode</color>, which allows<br>you to swap what you want to spit out with what’s on the ground.
+msgctxt "5154:146"
+msgid "Selecciona un objeto de la Bolsa y pulsa <$keyicon(0)> para escupirlo.<br>Puedes ajustar la cantidad con <$keyicon(30)>, y cambiar la orientación del<br>conjunto con <$keyicon(31)>.<br>Pulsa <$keyicon(253)> para entrar en <$cdef(27)>modo reemplazar</color>, con el que podrás<br>reemplazar lo que escupas por lo que haya en ese lugar."
+msgstr "Selecciona un objeto de la Bolsa y presiona <$keyicon(0)> para escupirlo.<br>Puedes ajustar la cantidad con <$keyicon(30)>, y cambiar la orientación del<br>conjunto con <$keyicon(31)>.<br>Presiona <$keyicon(253)> para entrar en <$cdef(27)>modo reemplazar</color>, con el que podrás<br>reemplazar lo que escupas por lo que haya en ese lugar."
+
+#. en: You can break what’s in front of you with <$keyicon(153)>. The broken item<br>will then be stored in your bag. If you press and hold the button<br>to break something, you will store it in your body so you can spit<br>it out whole.
+msgctxt "5154:147"
+msgid "Puedes romper lo que tengas delante con <$keyicon(153)>. Los objetos que<br>rompas se guardarán automáticamente en la Bolsa. Si mantienes<br>el botón pulsado, almacenarás lo que rompas con Reserva y<br>podrás escupirlo inmediatamente."
+msgstr "Puedes romper lo que tengas delante con <$keyicon(153)>. Los objetos que<br>rompas se guardarán automáticamente en la Bolsa. Si mantienes<br>el botón presionado, almacenarás lo que rompas con Reserva y<br>podrás escupirlo inmediatamente."
+
+#. en: You’ll get tired if you try to use moves while you’re out of <$cdef(27)>PP</color>.<br>The gauge at the bottom right of the screen displays how much<br><$cdef(27)>PP</color> you have left.
+msgctxt "5154:148"
+msgid "Si te quedas sin <$cdef(27)>PP</color>, te cansarás al usar movimientos.<br>Tus <$cdef(27)>PP</color> actuales se muestran en el medidor de la esquina<br>inferior derecha de la pantalla."
+msgstr ""
+
+#. en: You can restore your <$cdef(27)>PP</color> by eating food, such as <$cdef(27)>berries and<br>vegetables</color>. Open your bag with <$keyicon(159)> and select what you want<br>to eat with <$keyicon(0)>.
+msgctxt "5154:149"
+msgid "Comer <$cdef(27)>bayas, verduras u otros alimentos</color> te permite recuperar <$cdef(27)>PP</color>.<br>Abre la Bolsa con <$keyicon(159)> y pulsa <$keyicon(0)> para comer lo que te apetezca."
+msgstr "Comer <$cdef(27)>bayas, verduras u otros alimentos</color> te permite recuperar <$cdef(27)>PP</color>.<br>Abre la Bolsa con <$keyicon(159)> y presiona <$keyicon(0)> para comer lo que quieras."
+
+#. en: You can tell how much a Pokémon likes their home by checking<br>their <$cdef(27)>comfort level</color>. Place things the Pokémon likes near their<br>home to raise their <$cdef(27)>comfort level</color>.
+msgctxt "5154:157"
+msgid "El <$cdef(27)>nivel de confort</color> es la comodidad que sienten los Pokémon<br>en sus hogares. Coloca cosas que le gusten a cada Pokémon<br>cerca de su hogar para aumentar su <$cdef(27)>nivel de confort</color>."
+msgstr ""
+
+#. en: Interested in raising a Pokémon’s <$cdef(27)>comfort level</color>? Go ahead and<br><$cdef(27)>ask them if they’re feeling comfy</color>! They’ll let you know if there’s<br>anything they need from you. If you don’t have what they ask for,<br>check the <$cdef(27)>shop</color> or go hunting for <$cdef(27)>recipes</color>!
+msgctxt "5154:158"
+msgid "Si quieres saber qué necesita cada Pokémon para que mejore<br>su <$cdef(27)>nivel de confort</color>, solo tienes que <$cdef(27)>preguntárselo</color>.<br>Si no tienes lo que quieren, quizá puedas comprarlo en la <$cdef(27)>tienda</color><br>o encontrar las <$cdef(27)>instrucciones</color> para fabricarlo."
+msgstr "Si quieres saber qué necesita cada Pokémon para que mejore<br>su <$cdef(27)>nivel de confort</color>, solo tienes que <$cdef(27)>preguntárselo</color>.<br>Si no tienes lo que quieren, quizás puedas comprarlo en la <$cdef(27)>tienda</color><br>o encontrar las <$cdef(27)>instrucciones</color> para fabricarlo."
+
+#. en: A Pokémon’s <$cdef(27)>comfort level</color> will increase when they eat their<br>favorite food or if they eat until they are full.
+msgctxt "5154:160"
+msgid "El <$cdef(27)>nivel de confort</color> de los Pokémon aumenta si están saciados<br>o si les das comidas o bebidas que les gusten."
+msgstr ""
+
+#. en: You can give food directly to a Pokémon for them to eat, but you<br>can also put food on a <$cdef(27)>plate</color> near their living space or plant a<br><$cdef(27)>berry tree</color> near their home. When the Pokémon is hungry, they<br>will eat on their own.
+msgctxt "5154:161"
+msgid "Puedes regalarles cosas de comer y beber directamente,<br>pero también puedes colocárselas en un <$cdef(27)>plato</color> o plantarles<br>un <$cdef(27)>árbol de bayas</color> cerca de su hogar para que coman cuando<br>tengan hambre."
+msgstr ""
+
+#. en: Place furniture around a Pokémon’s home for them to rest on,<br>such as a <$cdef(27)>bed</color> or a <$cdef(27)>chair</color>, to raise their <$cdef(27)>comfort level</color>.
+msgctxt "5154:163"
+msgid "Colocar cerca de su hogar algunos objetos donde los Pokémon<br>puedan descansar, como <$cdef(27)>camas</color> o <$cdef(27)>sillas</color>, ayuda a aumentar<br>su <$cdef(27)>nivel de confort</color>."
+msgstr ""
+
+#. en: Pokémon can’t use <$cdef(27)>beds</color> or <$cdef(27)>chairs</color> that are smaller than they are.<br>Make sure to get big furniture for big Pokémon!
+msgctxt "5154:164"
+msgid "Ten en cuenta que a los Pokémon grandes no les sirven las <$cdef(27)>camas</color><br>o <$cdef(27)>sillas</color> que sean más pequeñas que ellos, así que intenta elegir<br>siempre muebles del tamaño adecuado para cada caso."
+msgstr ""
+
+#. en: Place items around a Pokémon’s home that they can play<br>with, such as <$cdef(27)><fqty(1)><$ifull(1274)> </color>or <$cdef(27)><fqty(1)><$ifull(1271)></color>, to raise their<br><$cdef(27)>comfort level</color>.
+msgctxt "5154:166"
+msgid "A los Pokémon les gusta tener cosas con las que jugar, como<br><$cdef(27)><fqty(2)><$ifull(1274)></color> o <$cdef(27)><fqty(2)><$ifull(1271)></color>. Colocárselas cerca<br>de su hogar ayuda a aumentar su <$cdef(27)>nivel de confort</color>."
+msgstr ""
+
+#. en: Different Pokémon like different things. Placing something a<br>Pokémon likes around their home will greatly raise their<br><$cdef(27)>comfort level</color>!
+msgctxt "5154:169"
+msgid "Los Pokémon tienen distintos gustos. Colocarles cerca de su<br>hogar cosas de acuerdo con ellos ayuda a aumentar mucho su<br><$cdef(27)>nivel de confort</color>."
+msgstr ""
+
+#. en: A Pokémon’s <$cdef(27)>comfort level</color> also greatly increases when they<br>consume their favorite food or drink.
+msgctxt "5154:170"
+msgid "El <$cdef(27)>nivel de confort</color> de los Pokémon también aumenta mucho<br>cuando comen cosas de sabores que les gusten."
+msgstr ""
+
+#. en: You can check your <$cdef(27)>Pokédex</color> to see what each Pokémon likes.
+msgctxt "5154:171"
+msgid "Puedes consultar los gustos de cada Pokémon en la <$cdef(27)>Pokédex</color>."
+msgstr ""
+
+#. en: Pokémon also have different preferences when it comes to<br><$cdef(27)>brightness</color>, <$cdef(27)>temperature</color>, and <$cdef(27)>humidity</color>. Adjusting a Pokémon’s<br>home to match these preferences will raise that Pokémon’s<br><$cdef(27)>comfort level</color>.
+msgctxt "5154:172"
+msgid "Cada Pokémon también tiene sus propias preferencias en cuanto<br>a <$cdef(27)>luz</color>, <$cdef(27)>temperatura </color>y <$cdef(27)>humedad</color>. Si su hogar las cumple, aumentará<br>su <$cdef(27)>nivel de confort</color>."
+msgstr ""
+
+#. en: You can check your <$cdef(27)>Pokédex</color> to see a Pokémon’s <$cdef(27)>brightness</color>,<br><$cdef(27)>temperature</color>, and <$cdef(27)>humidity</color> preferences.
+msgctxt "5154:173"
+msgid "Puedes consultar las preferencias en cuanto a <$cdef(27)>luz</color>, <$cdef(27)>temperatura</color><br>y <$cdef(27)>humedad </color>de cada Pokémon en la <$cdef(27)>Pokédex</color>."
+msgstr ""
+
+#. en: <$cdef(27)><fcap><$spwfull(1)>ing </color>a house allows you to easily increase a Pokémon’s<br><$cdef(27)>comfort level</color>. Once construction on a house is finished, you can<br>invite Pokémon to move in.
+msgctxt "5154:175"
+msgid "Las casas humanas que <$cdef(27)>construyas<nbs2><$spwicon(1)></color> aumentarán el <$cdef(27)>nivel de<br>confort</color> de los Pokémon más fácilmente. Prueba a invitarlos<br>a que se muden a ellas."
+msgstr "Las casas humanas que <$cdef(27)>construyas<nbs2><$spwicon(1)></color> aumentarán el <$cdef(27)>nivel de<br>confort</color> de los Pokémon más fácilmente. Intenta invitarlos<br>a que se muden a ellas."
+
+#. en: The larger the house, the more the <$cdef(27)>comfort levels</color> of the Pokémon<br>living there will increase.
+msgctxt "5154:176"
+msgid "Cuanto más grande sea la casa, mayor será su <$cdef(27)>nivel de confort</color>."
+msgstr ""
+
+#. en: The <$cdef(27)>comfort levels</color> of Pokémon living in a house won’t be affected<br>by adjustments to brightness, temperature, or humidity outside<br>the house. Such adjustments need to be made <$cdef(27)>inside the house</color> to<br>affect the <$cdef(27)>comfort levels</color> of the Pokémon living there.
+msgctxt "5154:177"
+msgid "El nivel de confort de los Pokémon que vivan en casas humanas<br>no se verá afectado por cambios de luz, temperatura o humedad<br>en el exterior de la casa.<br>Para mejorarlo, será necesario modificar el <$cdef(27)>interior de la casa</color>."
+msgstr ""
+
+#. en: Roofs and light sources can affect the <$cdef(27)>brightness </color>of a home. You<br>can brighten a home by placing lamps or streetlights around it.<br>Conversely, you can darken a home by placing a roof over it to<br>block light.
+msgctxt "5154:181"
+msgid "El nivel de <$cdef(27)>iluminación</color> de un hábitat varía según si tiene tejado<br>o elementos que iluminen. Si quieres que tenga más luz, coloca<br>cerca lámparas o farolas, y si quieres que sea más oscura, ponle<br>un tejado para resguardarla de la luz del sol."
+msgstr "El nivel de <$cdef(27)>iluminación</color> de un hábitat varía según si tiene techo<br>o elementos que iluminen. Si quieres que tenga más luz, coloca<br>cerca lámparas o faroles, y si quieres que sea más oscura, ponle<br>un techo para resguardarla de la luz del sol."
+
+#. en: After you’ve used <$cdef(27)><$sklfull(2)> </color>to make a crop field, you can<br>plant seeds and grow vegetables. Water your crops often, either<br>with <$cdef(27)><$sklfull(3)></color> or by other methods, to make sure they grow!
+msgctxt "5154:184"
+msgid "Puedes plantar semillas de verduras u otras plantas en los huertos<br>que crees con <$cdef(27)><$sklfull(2)></color>.<br>¡Recuerda regarlas a menudo con <$cdef(27)><$sklfull(3)> </color>o con otros<br>métodos para que crezcan!"
+msgstr ""
+
+#. en: Press <$keyicon(153)> to harvest vegetables once they are ripe. You can then<br>water your vegetable plants with <$cdef(27)><$sklfull(3)> </color>or other methods<br>to regrow them.
+msgctxt "5154:185"
+msgid "Puedes cosechar las verduras que estén listas con <$keyicon(153)>.<br>Tras hacerlo, si las sigues regando, ya sea con <$cdef(27)><$sklfull(3)><br></color>o de otra forma, ¡volverán a producir!"
+msgstr "Puedes cosechar las verduras que estén listas con <$keyicon(153)>.<br>Luego, si las sigues regando, ya sea con <$cdef(27)><$sklfull(3)><br></color>o de otra forma, ¡volverán a producir!"
+
+#. en: Each Pokémon has a <$cdef(27)>specialty</color>. You can see a Pokémon’s specialty<br>in the <$cdef(27)>Pokédex</color>, which you can access via the <$keyicon(4)> menu.
+msgctxt "5154:187"
+msgid "Cada Pokémon tiene su propia <$cdef(27)>especialidad</color>, que puedes<br>comprobar si accedes a la <$cdef(27)>Pokédex</color> desde el menú <$keyicon(4)>."
+msgstr ""
+
+#. en: Pokémon with the <$cdef(27)><fcap><$spwfull(10)></color> specialty will ignite nearby flammable<br>objects in their free time. If you’re traveling with a Pokémon who<br>has this specialty, just stand in front of what you want burned, and<br>they’ll set it ablaze for you.
+msgctxt "5154:190"
+msgid "Los Pokémon cuya especialidad sea <$cdef(27)><$spwfull(10)></color> pueden prender<br>fuego a las cosas que tengan a su alrededor.<br>Si quieres que prendan algo, pídeles que te acompañen y párate<br>delante de lo que necesite una buena llamarada."
+msgstr ""
+
+#. en: Also, if you bring them to a <$cdef(27)><fqty(1)><$ifull(1446)></color>, they can melt<br>certain materials, such as metal or sand, for processing.
+msgctxt "5154:191"
+msgid "También puedes llevarlos a un <$cdef(27)><fqty(1)><$ifull(1446)></color> para que te ayuden<br>a fundir materiales como metales o arena."
+msgstr ""
+
+#. en: Pokémon with the <$cdef(27)><fcap><$spwfull(1)></color> specialty will <$cdef(27)>lead</color> other Pokémon<br>when building or remodeling structures. You can’t <$cdef(27)><$spwfull(1)><br></color>anything without a leader Pokémon.
+msgctxt "5154:196"
+msgid "Los Pokémon cuya especialidad sea <$cdef(27)><$spwfull(1)></color> pueden hacer<br>de <$cdef(27)>líderes </color>en cualquier obra de construcción o reconstrucción.<br>De hecho, no se puede llevar a cabo una <$cdef(27)>construcción</color><nbs2><$spwicon(1)> sin<br>un <$cdef(27)>líder </color>al mando."
+msgstr ""
+
+#. en: Pokémon with the <$cdef(27)><fcap><$spwfull(5)></color> specialty will use their free time to<br>help nearby plants mature faster. If you bring a Pokémon with this<br>skill to a plant, they will help <$cdef(27)><$spwfull(5)></color> it for you!
+msgctxt "5154:199"
+msgid "Los Pokémon cuya especialidad sea <$cdef(27)><$spwfull(5)></color> pueden ayudar a<br>que las plantas que tengan a su alrededor crezcan más rápido.<br>Pídeles que te acompañen, párate delante de una planta y usarán<br>su especialidad."
+msgstr ""
+
+#. en: Plants such as <$cdef(27)><fqty(2)><$ifull(8)></color> won’t grow unless they’re watered,<br>even if a Pokémon who specializes in <$cdef(27)><$spwfull(5)>ing</color> is with you.<br>Use <$cdef(27)><$sklfull(3)> </color>or something similar to water your plants first,<br>then ask a Pokémon to help you grow them!
+msgctxt "5154:200"
+msgid "Los <$cdef(27)><fqty(2)><$ifull(8)></color> y demás hortalizas necesitan que primero las<br>riegues para que el <$cdef(27)>abono<nbs2><$spwicon(5)></color> surta efecto. Recuerda regarlas<br>siempre con <$cdef(27)><$sklfull(3)> </color>antes de pedirle a un Pokémon<br>que las <$cdef(27)>abone<nbs2><$spwicon(5)></color>."
+msgstr ""
+
+#. en: This parameter will <$cdef(27)>increase</color> as you befriend more Pokémon and<br>raise their <$cdef(27)>comfort levels</color>. As the <$cdef(27)>environment level</color> goes up, you’ll<br>unlock more <$cdef(27)>challenges</color> and <$cdef(27)>shop</color> items!
+msgctxt "5154:205"
+msgid "A medida que te hagas amig<gen;-2(o,a)> de más Pokémon y mejores<br>su <$cdef(27)>nivel de confort</color>, la <$cdef(27)>calidad del entorno </color>irá <$cdef(27)>aumentando</color> y,<br>con ello, irán apareciendo más <$cdef(27)>retos </color>y artículos disponibles<br>en la <$cdef(27)>tienda</color>."
+msgstr ""
+
+#. en: Every Pokémon likes certain things—and every Pokémon dislikes<br>certain things too! If you place items that a Pokémon dislikes<br>around their home, their <$cdef(27)>comfort level</color> will decrease.
+msgctxt "5154:208"
+msgid "Al igual que los Pokémon sienten preferencia por ciertas cosas,<br>también hay cosas que no les gustan. Si les colocas algo que les<br>desagrade cerca de sus hogares, disminuirá su <$cdef(27)>nivel de confort</color>."
+msgstr ""
+
+#. en: Items that can heat or cool an area, such as <$cdef(27)><fqty(2)><$ifull(1280)><br></color>or <$cdef(27)><fqty(1)><$ifull(1096)></color>, will change the <$cdef(27)>temperature </color>of the home they’re<br>placed near.
+msgctxt "5154:211"
+msgid "Los objetos que calienten o enfríen, como <$cdef(27)><fqty(2)><$ifull(1280)></color> o <$cdef(27)><fqty(1)><$ifull(1096)></color>,<br>pueden cambiar la <$cdef(27)>temperatura</color> de los hogares de los Pokémon."
+msgstr ""
+
+#. en: Water, plants, and other related items will increase a home’s<br><$cdef(27)>humidity</color>. You can also remove those types of items from a home<br>to make it drier.
+msgctxt "5154:214"
+msgid "El agua, la vegetación y similares aumentan la <$cdef(27)>humedad</color> de los<br>hogares de los Pokémon. Quítalas si quieres que el ambiente sea<br>más seco."
+msgstr ""
+
+#. en: When you place an item for a Pokémon, be sure to place it near<br>their home. Items placed too far away will have no effect on the<br>Pokémon’s <$cdef(27)>comfort level</color>.
+msgctxt "5154:223"
+msgid "Cuando quieras aumentar el <$cdef(27)>nivel de confort</color> de los Pokémon,<br>recuerda que debes colocarles los objetos cerca de sus hogares.<br>No servirán de nada si los colocas lejos."
+msgstr ""
+
+#. en: You can press <$keyicon(32)> near a Pokémon’s home to display the area<br>around it. This area display will disappear if you press <$keyicon(32)> again<br>or if you move away from the home.
+msgctxt "5154:224"
+msgid "Si pulsas <$keyicon(32)> cerca del hogar de un Pokémon, se mostrará<br>el área que ocupa. Púlsalo de nuevo o aléjate del hogar para<br>dejar de mostrarla."
+msgstr "Si presionas <$keyicon(32)> cerca del hogar de un Pokémon, se mostrará<br>el área que ocupa. Presiónalo de nuevo o aléjate del hogar<br>para dejar de mostrarla."
+
+#. en: Legendary Pokémon have a greater effect on the <$cdef(27)>environment<br>level</color> than other Pokémon, making it easier to <$cdef(27)>increase</color>.
+msgctxt "5154:226"
+msgid "Los Pokémon legendarios y singulares influyen más en<br>la <$cdef(27)>calidad del entorno </color>que el resto de Pokémon y hacen<br>que sea más fácil subir el <$cdef(27)>nivel</color>."
+msgstr ""
+
+#. en: Pokémon with the <$cdef(27)><fcap><$spwfull(6)> </color>specialty can hold items for you.<br>Just tell one of these Pokémon “<$cdef(27)>I wanna check my storage</color>” to add<br>items to or remove items from their inventory.
+msgctxt "5154:232"
+msgid "Los Pokémon cuya especialidad sea <$cdef(27)><$spwfull(6)></color> te pueden<br>guardar objetos; ¡solo tienes que hablar con ellos y <$cdef(27)>pedírselo</color>!"
+msgstr ""
+
+#. en: If you use a <$cdef(27)><fqty(1)><$ifull(764)></color> while accompanied by a Pokémon who<br>is holding items for you, you can use any crafting materials they<br>are holding directly from their inventory.
+msgctxt "5154:233"
+msgid "Si un Pokémon que te esté guardando objetos te acompaña<br>hasta una <$cdef(27)><fqty(1)><$ifull(764)></color>, puedes usar los materiales que<br>tenga almacenados directamente para fabricar lo que quieras."
+msgstr ""
+
+#. en: When you travel with a Pokémon, they’ll help you out in various<br>ways. If you stand in front of something you need help with, the<br>Pokémon with you will use their specialty to try to help you out.
+msgctxt "5154:235"
+msgid "Los Pokémon que te acompañen pueden sacarte de un apuro.<br>Si te paras delante de algo con lo que necesites ayuda, usarán<br>su especialidad para echarte una mano."
+msgstr ""
+
+#. en: If you give <$cdef(27)><fqty(1)><$ifull(3994)></color> to a Pokémon with the <$spwicon(26)><$cdef(27)>Gather Honey</color><br>specialty, they’ll give you furniture with special patterns in<br>exchange.
+msgctxt "5154:250"
+msgid "Si le ofreces <$cdef(27)><fqty(1)><$ifull(3994)></color> a un Pokémon cuya especialidad sea<br><$cdef(27)><$spwfull(26)></color>, te la cambiará por muebles con diseños<br>especiales."
+msgstr ""
+
+#. en: Pokémon with the <$cdef(27)><fcap><$spwfull(15)></color> specialty will process <$cdef(27)><fqty(2)><$ifull(1482)></color><br>you give to them into <$cdef(27)><fqty(1)><$ifull(407)></color>.
+msgctxt "5154:253"
+msgid "Si le das un <$cdef(27)><fqty(1)><$ifull(1482)></color> a un Pokémon cuya especialidad<br>sea <$cdef(27)><$spwfull(15)></color>, podrá convertirlo en trozos de <$cdef(27)><fqty(1)><$ifull(407)></color>."
+msgstr "Si le das un <$cdef(27)><fqty(1)><$ifull(1482)></color> a un Pokémon cuya especialidad<br>sea <$cdef(27)><$spwfull(15)></color>, podrá convertirlo en pedazos de <$cdef(27)><fqty(1)><$ifull(407)></color>."
+
+#. en: If you provide suitable materials to a Pokémon with the <$cdef(27)><fcap><$spwfull(16)><br></color>specialty, they will process those materials into other items.
+msgctxt "5154:256"
+msgid "Dales materiales a los Pokémon cuya especialidad sea<br><$cdef(27)><$spwfull(16)> </color>para que los procesen y te los conviertan<br>en otros objetos."
+msgstr ""
+
+#. en: You can travel with a Pokémon by <$cdef(27)>asking one to come with you</color>.
+msgctxt "5154:259"
+msgid "Si quieres que un Pokémon te acompañe a algún lugar, puedes<br>hablarle y <$cdef(27)>pedirle que te siga</color>."
+msgstr ""
+
+#. en: Press <$keyicon(214)> to invite all the Pokémon in front of you to follow you.<br>Up to five Pokémon can travel with you at a time.
+msgctxt "5154:260"
+msgid "Pulsa <$keyicon(214)> para invitar al Pokémon que tengas delante a<br>acompañarte. Podrán ir contigo hasta cinco Pokémon a la vez."
+msgstr "Presiona <$keyicon(214)> para invitar al Pokémon que tengas delante a<br>acompañarte. Podrán ir contigo hasta cinco Pokémon a la vez."
+
+#. en: When Pokémon are hungry, they may refuse to travel with you<br>or stop following you altogether. In those situations, give them<br>some food.
+msgctxt "5154:261"
+msgid "Si un Pokémon tiene hambre, es posible que rechace tu invitación<br>o que se quede parado en mitad del camino. Dale algo de comer<br>para que recupere las fuerzas."
+msgstr "Si un Pokémon tiene hambre, es posible que rechace tu invitación<br>o que se quede parado en medio del camino. Dale algo de comer<br>para que recupere las fuerzas."
+
+#. en: If you ask a<$cdef(27)> </color>Pokémon “<$cdef(27)>How’s your comfort level?</color>” they will tell<br>you how <$cdef(27)>comfortable</color> they currently are. This will also allow you<br>to see how to raise that Pokémon’s <$cdef(27)>comfort level</color>.
+msgctxt "5154:265"
+msgid "Puedes preguntarles a los Pokémon si <$cdef(27)>están a gusto</color> para saber<br>su <$cdef(27)>nivel de confort</color> actual, y te darán ideas para <$cdef(27)>mejorarlo</color>."
+msgstr ""
+
+#. en: You can get information about an item or favor that the Pokémon<br>is requesting that day. Granting a Pokémon’s request will increase<br>their <$cdef(27)>comfort level</color>.
+msgctxt "5154:266"
+msgid "Cada día, cada Pokémon te dirá una cosa que puedes hacer<br>por ellos o algo que quieren. Haz lo que te pidan y aumentará<br>su <$cdef(27)>nivel de confort</color>."
+msgstr ""
+
+#. en: Asking a Pokémon “<$cdef(27)>How’s your comfort level?</color>” and granting their<br>request isn’t the only way to improve their <$cdef(27)>comfort</color>. They may also<br>want other items or favors besides what they’ve requested. Feel<br>free to try different things when you have time!
+msgctxt "5154:267"
+msgid "Además de cumplir con lo que te pidan cuando les <$cdef(27)>preguntes</color>,<br>si les haces algún favor aunque no te lo hayan pedido, también<br>aumentará su <$cdef(27)>nivel de confort</color>. Si tienes tiempo, es buena idea<br>intentar ayudarles en todo lo que puedas."
+msgstr "Además de cumplir con lo que te pidan cuando les <$cdef(27)>preguntes</color>,<br>si les haces algún favor aunque no te lo hayan pedido, también<br>aumentará su <$cdef(27)>nivel de confort</color>. Si tienes tiempo, es buena idea<br>intentar ayudarlos en todo lo que puedas."
+
+#. en: Adding decorations to a Pokémon’s home, such as<br><$cdef(27)><fqty(2)><$ifull(1367)></color> or <$cdef(27)><fqty(2)><$ifull(1542)></color>, will increase their<br><$cdef(27)>comfort level</color>.
+msgctxt "5154:268"
+msgid "Colocar objetos decorativos como <$cdef(27)><fqty(2)><class><$ifull(1367)></color><br>o <$cdef(27)><fqty(2)><class><$ifull(1542)></color> hará que aumente el <$cdef(27)>nivel de confort</color>."
+msgstr ""
+
+#. en: If the <$cdef(27)>brightness</color> of a Pokémon’s home matches their preference<br>or the hours of the day they are usually active, that Pokémon will<br>stay awake longer.
+msgctxt "5154:274"
+msgid "Si el nivel de <$cdef(27)>iluminación</color> del hogar de un Pokémon se ajusta<br>a su preferencia y a sus horas de actividad, pasará más horas<br>despierto."
+msgstr ""
+
+#. en: Pokémon with the <$cdef(27)><fcap><$spwfull(8)></color> specialty will use nearby<br><$cdef(27)><fqty(2)><$ifull(1261)> </color>you’ve filled to water surrounding plants.
+msgctxt "5154:283"
+msgid "Los Pokémon cuya especialidad sea <$cdef(27)><$spwfull(8)> </color>te pueden<br>ayudar a regar las plantas y la vegetación de los alrededores.<br>Solo tienes que llenar de agua un <$cdef(27)><fqty(1)><$ifull(1261)></color> y colocarlo<br>cerca de ellos."
+msgstr ""
+
+#. en: Offer food at a <$cdef(27)><$hatname(152)></color> and bring a Pokémon with<br>the <$cdef(27)><fcap><$spwfull(8)></color> specialty there to have them throw a <$cdef(27)>Rain Dance</color><br>party, which will increase the <$cdef(27)>humidity </color>of the area.
+msgctxt "5154:286"
+msgid "Si colocas comida en un <$cdef(27)><$hatname(152)> </color>y llevas a<br>un Pokémon cuya especialidad sea <$cdef(27)><$spwfull(8)> </color>hasta allí, usará<br><$cdef(27)>Danza Lluvia </color>para aumentar la <$cdef(27)>humedad </color>de los alrededores."
+msgstr "Si colocas comida en un <$cdef(27)><$hatname(152)> </color>y llevas a<br>un Pokémon cuya especialidad sea <$cdef(27)><$spwfull(8)> </color>hasta ahí, usará<br><$cdef(27)>Danza de Lluvia </color>para aumentar la <$cdef(27)>humedad </color>de los alrededores."
+
+#. en: Flower and tree seeds can be planted in the ground. Open your<br>bag, select the seeds to hold in your hands, and press <$keyicon(0)> to<br>plant them. Seeds can’t be planted in dry ground—be sure to wet<br>the ground with <$cdef(27)><$sklfull(3)></color> or something similar first!
+msgctxt "5154:292"
+msgid "Puedes plantar semillas de flores, árboles y otras plantas.<br>Para ello, abre la Bolsa, <$cdef(27)>sujeta </color>las semillas y pulsa <$keyicon(0)> para<br>plantarlas. Recuerda que no podrás plantarlas en tierra seca,<br>así que tendrás que humedecerla primero con <$cdef(27)><$sklfull(3)><br></color>u otros medios."
+msgstr "Puedes plantar semillas de flores, árboles y otras plantas.<br>Para ello, abre la Bolsa, <$cdef(27)>sujeta </color>las semillas y presiona <$keyicon(0)><br>para plantarlas. Recuerda que no podrás plantarlas en tierra<br>seca, así que tendrás que humedecerla primero con <$cdef(27)><$sklfull(3)><br></color>u otros medios."
+
+#. en: It takes a little time for seeds to grow. Try waiting until the next<br>day to check on them.
+msgctxt "5154:293"
+msgid "Las semillas tardan un tiempo en crecer, así que vuelve al día<br>siguiente a comprobar su progreso."
+msgstr ""
+
+#. en: When a Pokémon starts living in a habitat, that habitat becomes<br>their <$cdef(27)>home</color>. Once a habitat becomes a home, no new Pokémon<br>will appear in that habitat. You will need to create more habitats<br>for new Pokémon to appear.
+msgctxt "5154:310"
+msgid "Si un Pokémon se muda a un hábitat, lo convertirá en su <$cdef(27)>hogar</color>.<br>En los hábitats que sean el hogar de algún Pokémon no aparecerá<br>ningún Pokémon nuevo, así que crea más hábitats para tener la<br>oportunidad de hacer nuevos amigos."
+msgstr ""
+
+#. en: You can play <$cdef(27)>jump rope</color> by talking to <$cdef(27)>Bulbasaur</color>. Press <$keyicon(3)> at the<br>right time to jump over the vine—if it touches you, that’s the end<br>of the game!
+msgctxt "5154:313"
+msgid "Habla con <$cdef(27)>Bulbasaur</color> si te apetece jugar a <$cdef(27)>saltar a la comba</color>.<br>Presta atención al movimiento de la liana y pulsa <$keyicon(3)> para saltar.<br>Si la pisas o te chocas con ella, acabará el juego."
+msgstr "Habla con <$cdef(27)>Bulbasaur</color> si quieres jugar a <$cdef(27)>saltar la cuerda</color>. Presta<br>atención al movimiento de la liana y presiona <$keyicon(3)> para saltar.<br>Si la pisas o te chocas con ella, acabará el juego."
+
+#. en: This minigame can also be played with other players. When<br>playing with others, touching the vine removes you from the<br>game. The last player remaining wins the game. Rankings are<br>determined by the number of successful jumps each player made.
+msgctxt "5154:314"
+msgid "Puedes saltar a la comba con otros jugadores. En ese caso,<br>quien pise la comba saldrá despedido y se eliminará del juego.<br>Ganará quien quede en pie hasta el final y la clasificación<br>se determinará por el número de saltos de cada jugador."
+msgstr "Puedes saltar la cuerda con otros jugadores. En ese caso,<br>quien pise la cuerda saldrá despedido y se eliminará del juego.<br>Ganará quien quede en pie hasta el final y la clasificación<br>se determinará por el número de saltos de cada jugador."
+
+#. en: Players who’ve touched the vine can change its speed to hinder<br>players who are still jumping. Press <$keyicon(7)> to increase the vine’s<br>speed and <$keyicon(8)> to decrease it. The speed will change based on<br>how many players press the buttons, so work together as a team!
+msgctxt "5154:315"
+msgid "Los jugadores eliminados pueden cambiar la velocidad de la<br>comba para incordiar a quien siga jugando. Pulsa <$keyicon(7)> para<br>acelerarla y <$keyicon(8)> para que vaya más despacio. La comba cambiará<br>de velocidad según lo que pulséis entre todos, ¡así que colaborad<br>y coordinaos para pulsar los botones!"
+msgstr "Los jugadores eliminados pueden cambiar la velocidad de la<br>cuerda para molestar a quien siga jugando. Presiona <$keyicon(7)> para<br>acelerarla y <$keyicon(8)> para que vaya más despacio. La cuerda cambiará<br>de velocidad según lo que presionen entre todos, ¡así que<br>colaboren y coordínense para presionar los botones!"
+
+#. en: You can talk to <$cdef(27)>Zorua</color> to play the <$cdef(27)>hide-and-sneak</color> minigame.<br>To win, you must touch the <$cdef(27)>PC</color> at the <$cdef(27)>Pokémon Center</color> without<br>getting found by the seeker Pokémon. If you are found, you will<br>be sent back to the starting point.
+msgctxt "5154:316"
+msgid "Habla con <$cdef(27)>Zorua </color>cuando quieras jugar al <$cdef(27)>escondite camuflado</color>.<br>El juego consiste en intentar tocar el <$cdef(27)>PC</color> del <$cdef(27)>Centro Pokémon</color><br>sin que te descubran los demás Pokémon. Si te pillan, tendrás<br>que volver a empezar desde el principio."
+msgstr "Habla con <$cdef(27)>Zorua </color>cuando quieras jugar al <$cdef(27)>escondite camuflado</color>.<br>El juego consiste en intentar tocar el <$cdef(27)>PC</color> del <$cdef(27)>Centro Pokémon</color><br>sin que te descubran los demás Pokémon. Si te atrapan, tendrás<br>que volver a empezar desde el principio."
+
+#. en: Using <$cdef(27)><$sklfull(6)> </color>will make it harder for the seeker Pokémon<br>to find you. You can also create distractions by placing items on<br>the ground, using items that make noise, or using emotes. Try<br>different types of diversions to create openings and keep moving<br>toward the <$cdef(27)>PC</color>!
+msgctxt "5154:317"
+msgid "Usa <$cdef(27)><$sklfull(6)></color> para ponérselo difícil a los demás Pokémon.<br>También puedes intentar despistarlos colocando obstáculos,<br>usando objetos que hagan ruido o incluso haciendo gestos.<br>¡Procura moverte con astucia para que no te pillen!"
+msgstr "Usa <$cdef(27)><$sklfull(6)></color> para ponérselo difícil a los demás Pokémon.<br>También puedes intentar despistarlos colocando obstáculos,<br>usando objetos que hagan ruido o incluso haciendo gestos.<br>¡Procura moverte con astucia para que no te atrapen!"
+
+#. en: When you play hide-and-sneak with other players, it becomes a<br>team game. If any player touches the <$cdef(27)>PC</color>, the whole team wins.<br>Players found by the seeker Pokémon will be sent back to the<br>starting point. Work with your team to reach the <$cdef(27)>PC</color>!
+msgctxt "5154:318"
+msgid "También puedes jugar en equipo con otros jugadores. En ese<br>caso, basta con que una persona del equipo toque el <$cdef(27)>PC</color> del<br>Centro Pokémon para ganar. Quien sea descubierto por algún<br>Pokémon tendrá que volver a empezar. ¡Colaborad entre todos<br>para llegar hasta el <$cdef(27)>PC</color>!"
+msgstr "También puedes jugar en equipo con otros jugadores. En ese<br>caso, basta con que una persona del equipo toque el <$cdef(27)>PC</color> del<br>Centro Pokémon para ganar. Quien sea descubierto por algún<br>Pokémon tendrá que volver a empezar. ¡Colaboren entre todos<br>para llegar hasta el <$cdef(27)>PC</color>!"
+
+#. en: If you talk to a Pokémon who has a problem that needs solving,<br>they may <$cdef(27)>request</color> your help. You can check the <$cdef(27)>requests</color> you’ve<br>accepted from the main menu at any time.
+msgctxt "5154:322"
+msgid "Si hablas con algún Pokémon que necesite ayuda, es posible que<br>recibas una <$cdef(27)>petición</color>. Puedes consultar todas las <$cdef(27)>peticiones</color> que<br>te han hecho los Pokémon en el menú principal."
+msgstr ""
+
+#. en: If you show a <$cdef(27)>lost relic</color> to <$cdef(27)><$cname(341)></color>, who has the<br><$cdef(27)><fcap><$spwfull(25)> </color>specialty, they can tell you what kind of item<br>you’ve found.
+msgctxt "5154:325"
+msgid "Enséñale una <$cdef(27)>reliquia</color> al <$cdef(27)><$cname(341)></color>, especialista<br>en <$cdef(27)>identificarlas<nbs2><$spwicon(25)></color>, y te dirá de qué se trata."
+msgstr ""
+
+#. en: <$cdef(27)>Drifloon</color> can take you to mysterious places called <$cdef(27)>Dream Islands</color>.<br>Some items can only be found on <$cdef(27)>Dream Islands</color>, so explore them<br>thoroughly! When you’re ready to leave a <$cdef(27)>Dream Island</color>, just talk<br>to <$cdef(27)>Drifloon</color>.
+msgctxt "5154:328"
+msgid "<$cdef(27)>Drifloon </color>puede llevarte a unas misteriosas islas llamadas <$cdef(27)>Islas<br>Ensueño</color>, donde hay objetos que solo se pueden encontrar allí,<br>así que merece la pena ir a explorarlas. Una vez allí, basta con<br>hablar con <$cdef(27)>Drifloon </color>de nuevo para que te traiga de vuelta a casa."
+msgstr "<$cdef(27)>Drifloon </color>puede llevarte a unas misteriosas islas llamadas <$cdef(27)>Islas<br>Ensueño</color>, donde hay objetos que solo se pueden encontrar ahí,<br>así que vale la pena ir a explorarlas. Una vez ahí, basta con<br>hablar con <$cdef(27)>Drifloon </color>de nuevo para que te traiga de vuelta a casa."
+
+#. en: You can only travel to <$cdef(27)>one Dream Island per day</color>, but you can<br>revisit that island <$cdef(27)>as many times as you want</color>. If you would like to<br>go to a different island, you’ll have to wait until the next day to<br>talk to <$cdef(27)>Drifloon</color> again.
+msgctxt "5154:330"
+msgid "Puedes revisitar <$cdef(27)>la misma Isla Ensueño</color> <$cdef(27)>cuantas veces quieras</color>,<br>pero <$cdef(27)>Drifloon</color> solo te llevará a <$cdef(27)>una nueva cada día</color>.<br>Si quieres viajar a una que sea diferente a la que has visitado,<br>deberás esperar hasta el día siguiente."
+msgstr "Puedes revisitar <$cdef(27)>la misma Isla Ensueño</color> <$cdef(27)>cuantas veces quieras</color>,<br>pero <$cdef(27)>Drifloon</color> solo te llevará a <$cdef(27)>una nueva cada día</color>.<br>Si quieres viajar a una que sea diferente a la que visitaste,<br>deberás esperar hasta el día siguiente."
+
+#. en: Enjoy your time here by chatting with other Pokémon, making all<br>sorts of items, or doing whatever you like at your own pace!
+msgctxt "5154:334"
+msgid "Habla con los Pokémon, fabrica objetos, explora aquí y allá...<br>¡Disfruta de tu vida aquí como más te guste!"
+msgstr ""
+
+#. en: You can also look for new Pokémon, help the Pokémon you<br>already know with their <$cdef(27)>requests</color>, or build your dream town—this<br>world is yours to enjoy as you see fit!
+msgctxt "5154:335"
+msgid "Puedes buscar Pokémon nuevos, ayudar a los Pokémon con sus<br><$cdef(27)>peticiones</color> o crear un vecindario a tu gusto y totalmente único...<br>¡Puedes hacer lo que más te apetezca!"
+msgstr "Puedes buscar Pokémon nuevos, ayudar a los Pokémon con sus<br><$cdef(27)>peticiones</color> o crear un vecindario a tu gusto y totalmente único...<br>¡Puedes hacer lo que más te guste!"
+
+#. en: You can pick up things on the ground with <$keyicon(153)>. Anything you<br>pick up like this is automatically put in your bag.
+msgctxt "5154:337"
+msgid "Pulsa <$keyicon(153)> para recoger los objetos que te encuentres por el suelo<br>y meterlos en la Bolsa."
+msgstr "Presiona <$keyicon(153)> para recoger los objetos que te encuentres<br>por el suelo y meterlos en la Bolsa."
+
+#. en: You can use this move to <$cdef(27)><$spwfull(36)> </color>into an object in front<br>of you. You can move around while transformed.
+msgctxt "5154:340"
+msgid "Puedes <$cdef(27)>transformarte<nbs2><$spwicon(36)></color> en cualquier cosa que tengas delante,<br>lo cual no te impedirá desplazarte."
+msgstr ""
+
+#. en: If you hold the <$cdef(27)><fqty(1)><$ifull(2793)></color> and press <$keyicon(0)> while walking<br>with a Pokémon who has the <$cdef(27)><fcap><$spwfull(11)></color> specialty, you’ll start<br>looking for buried items.
+msgctxt "5154:343"
+msgid "Si pulsas <$keyicon(0)> para usar el <$cdef(27)><fqty(1)><$ifull(2793)></color> cuando te acompañe<br>un Pokémon cuya especialidad sea <$cdef(27)><$spwfull(11)></color>, este se pondrá<br>a buscar objetos enterrados."
+msgstr "Si presionas <$keyicon(0)> para usar el <$cdef(27)><fqty(1)><$ifull(2793)></color> cuando te acompañe<br>un Pokémon cuya especialidad sea <$cdef(27)><$spwfull(11)></color>, este se pondrá<br>a buscar objetos enterrados."
+
+#. en: You can talk to a Pokémon with the <$cdef(27)><fcap><$spwfull(27)></color> specialty to find out<br><$cdef(27)>how humid it is</color> currently.
+msgctxt "5154:346"
+msgid "Habla con un Pokémon cuya especialidad sea <$cdef(27)><$spwfull(27)></color><br>cuando quieras saber el <$cdef(27)>nivel de humedad del entorno</color> actual."
+msgstr ""
+
+#. en: You can set your handy bag to always display by opening your<br>bag and pressing <$keyicon(247)>. Items in your handy bag can be accessed<br>by pressing <$keyicon(161)> or <$keyicon(162)> without having to open your bag.
+msgctxt "5154:349"
+msgid "Abre la Bolsa y pulsa <$keyicon(247)> para fijar la Bolsa auxiliar. De esta<br>forma podrás usar los objetos que haya en ella pulsando <$keyicon(161)><$keyicon(162)><br>sin necesidad de abrir la Bolsa cada vez."
+msgstr "Abre la Bolsa y presiona <$keyicon(247)> para fijar la Bolsa auxiliar. Así<br>podrás usar los objetos que haya en ella presionando <$keyicon(161)><$keyicon(162)><br>sin necesidad de abrir la Bolsa cada vez."
+
+#. en: When there are multiple things nearby that you can interact with<br>(such as items to <$cdef(27)>pick up</color>, objects to <$cdef(27)>inspect</color>, or Pokémon to <$cdef(27)>talk<br>to</color>), you can press <$keyicon(249)> to target a specific one. Give it a try if<br>you’re having trouble interacting with something!
+msgctxt "5154:352"
+msgid "Cuando tienes varios objetivos para interactuar con acciones<br>como <$cdef(27)>recoger</color>, <$cdef(27)>examinar </color>o <$cdef(27)>hablar</color>, puedes pulsar <$keyicon(249)> para<br>seleccionar el que prefieras. Prueba a usarlo en momentos<br>en los que la opción que quieres no aparezca."
+msgstr "Cuando tienes varios objetivos para interactuar con acciones<br>como <$cdef(27)>recoger</color>, <$cdef(27)>examinar </color>o <$cdef(27)>hablar</color>, puedes presionar <$keyicon(249)> para<br>seleccionar el que prefieras. Intenta usarlo en momentos<br>en los que la opción que quieres no aparezca."
+
+#. en: Pokémon with the <fcap><$cdef(27)><$spwfull(10)></color> specialty can process metals, such as<br><$cdef(27)><fqty(1)><$ifull(107)></color> and <$cdef(27)><fqty(1)><$ifull(106)></color>, at a <$cdef(27)><fqty(1)><$ifull(1446)></color>.
+msgctxt "5154:358"
+msgid "Los Pokémon especializados en <$cdef(27)><$spwfull(10)></color> pueden ayudarte<br>también a fundir y procesar <$cdef(27)><fqty(1)><$ifull(107)></color>, <$cdef(27)><fqty(1)><$ifull(106)></color> u otros<br>materiales en <$cdef(27)><fqty(2)><class><$ifull(1446)></color>."
+msgstr ""
+
+#. en: If you encounter any mud while traveling with a Pokémon who<br>has the <fcap><$cdef(27)><$spwfull(8)></color> specialty, they’ll cover the mud with bubbles.<br>You can then spray the mud with water to wash it away!
+msgctxt "5154:361"
+msgid "Cuando pases por un área embarrada acompañad<gen;-2(o,a)> de un<br>Pokémon especializado en <$cdef(27)><$spwfull(8)></color>, verás como este<br>la cubre de burbujas. Rocía con agua el barro cubierto de<br>burbujas para limpiarlo."
+msgstr ""
+
+#. en: Pokémon with the <$icon(10993)><$cdef(27)><fcap><$spwname(13)></color> specialty will pick up materials<br>and other items they find on the ground and place them in a<br><$cdef(27)><fqty(1)><$ifull(1460)></color>.
+msgctxt "5154:364"
+msgid "Los Pokémon cuya especialidad sea <$cdef(27)><$spwname(13)></color><nbs2><$icon(10993)> se encargarán<br>de recoger los materiales que haya por el suelo y de almacenarlos<br>en la <$cdef(27)><fqty(1)><$ifull(1460)></color>."
+msgstr ""
+
+#. en: They can also bring materials from a <$cdef(27)><fqty(1)><$ifull(1460)></color> to<br>anywhere they can be processed, such as a <$cdef(27)><fqty(1)><$ifull(1446)></color>.
+msgctxt "5154:365"
+msgid "Si en la <$cdef(27)><fqty(1)><$ifull(1460)></color> hay guardados materiales que pueden<br>procesarse, los Pokémon los llevarán a donde se puedan procesar,<br>como, por ejemplo, un <$cdef(27)><fqty(1)><$ifull(1446)></color>."
+msgstr ""
+
+#. en: A certain Pokémon will take you to a <$cdef(27)>Dream Island</color> if you bring<br>them a <$cdef(27)>doll</color>. Once you’ve visited a <$cdef(27)>Dream Island </color>at least once,<br>you can get that Pokémon to come to you by interacting with<br>a <$cdef(27)>doll</color>.
+msgctxt "5154:367"
+msgid "Existe un Pokémon capaz de llevarte a una <$cdef(27)>Isla Ensueño </color>si vas<br>a verlo y le muestras un <$cdef(27)>peluche</color>.<br>Una vez lo hayas hecho, basta con interactuar directamente<br>con un <$cdef(27)>peluche </color>para llamar al Pokémon y pedirle que te lleve."
+msgstr ""
+
+#. en: Pokémon with the <$icon(11222)><$cdef(27)><fcap><$spwname(30)></color> specialty can exchange <$cdef(27)>lost relics</color> or<br><$cdef(27)>rare feathers</color> for other items.
+msgctxt "5154:370"
+msgid "Los Pokémon cuya especialidad sea <$cdef(27)><$spwname(30)></color><nbs2><$icon(11222)> te<br>intercambiarán <$cdef(27)>reliquias</color> y <$cdef(27)>plumas raras</color> por otros objetos."
+msgstr ""
+
+#. en: You can give <$cdef(27)><fqty(1)><$ifull(1801)></color> to Pokémon who have the<br><$cdef(27)><fcap><$spwfull(17)> </color>specialty to process into <$cdef(27)><fqty(1)><$ifull(126)></color>!
+msgctxt "5154:373"
+msgid "Si le entregas <$cdef(27)><fqty(1)><$ifull(1801)> </color>a un Pokémon con la<br>especialidad <$cdef(27)><$spwfull(17)></color>, los procesará para hacer <$cdef(27)><fqty(1)><$ifull(126)></color>."
+msgstr ""
+
+#. en: <$cdef(27)><$cname(272)> </color>has the <fcap><$icon(11219)><$cdef(27)><$spwname(28)> </color>specialty and wants some food. Place<br>something to eat on an <$cdef(27)><fqty(1)><$ifull(1811)></color>, and good things may<br>happen based on the food’s flavor or rarity!
+msgctxt "5154:376"
+msgid "Parece que <$cdef(27)><$cname(272)></color> siempre anda en busca de comida,<br>¡es lo que cabe esperar de un especialista en <$cdef(27)><$spwname(28)><nbs2><$icon(11219)></color>!<br>Coloca algo rico en una <$cdef(27)><fqty(1)><$ifull(1811)> </color>y, según su sabor<br>y rareza, puede que sucedan cosas buenas."
+msgstr ""
+
+#. en: <$cdef(27)><$cname(206)></color> has the <fcap><$icon(11008)><$cdef(27)><$spwname(21)> </color>specialty and can use <$cdef(27)>bowls of paint</color><br>to change the color of many items, including furniture. However,<br>some items can’t be recolored.
+msgctxt "5154:379"
+msgid "El <$cdef(27)><$cname(206)> </color>se especializa en<$cdef(27)> <$spwname(21)></color><nbs2><$icon(11008)> y puede usar<br><$cdef(27)>pintura </color>para cambiar el color de tus muebles y objetos varios,<br>¡pero ten en cuenta que no todos pueden pintarse!"
+msgstr ""
+
+#. en: They can also <$icon(11008)><$cdef(27)><$spwname(21)> </color>patterns on items. If you find any <$cdef(27)>human<br>records </color>that depict a pattern or items that have patterns on them,<br>bring them to <$cdef(27)><$cname(206)></color>.
+msgctxt "5154:380"
+msgid "También puedes pedirle que <$cdef(27)>pinte</color><nbs2><$icon(11008)> diseños en los objetos.<br>Si encuentras un mueble con un diseño o alguna <$cdef(27)>nota humana</color><br>en la que se muestre uno, enséñaselo al <$cdef(27)><$cname(206)></color>."
+msgstr ""
+
+#. en: Some items can even have their individual parts decorated with<br>different patterns or colors!
+msgctxt "5154:381"
+msgid "Algunos objetos te permiten cambiar el color o el diseño de<br>distintas partes de forma independiente."
+msgstr ""
+
+#. en: If you bring a Pokémon with the <fcap><$icon(11221)><$cdef(27)><$spwname(31)></color> specialty to a<br><$cdef(27)><fqty(1)><$ifull(1850)></color>, they’ll hop inside! Light the launcher’s fuse to send<br>them flying—they’ll explode on impact, destroying everything<br>around them!
+msgctxt "5154:382"
+msgid "Si llevas a un Pokémon cuya especialidad sea <$cdef(27)><$spwname(31)></color><nbs2><$icon(11221)> a un<br><$cdef(27)><fqty(1)><$ifull(1850)></color>, se meterá dentro. Prende la mecha para<br>hacer que salga disparado por los aires y destruya lo que golpee<br>con una gran explosión."
+msgstr ""
+
+#. en: If you give a music <$cdef(27)>CD </color>to <$cdef(27)><$cname(274)></color>, who has the <$cdef(27)><$spwfull(29)> </color>specialty,<br>they’ll play that right then and there! You can even give them<br>several <$cdef(27)>CDs</color> to play multiple music tracks in a row.
+msgctxt "5154:385"
+msgid "Dale un <$cdef(27)>CD</color> a <$cdef(27)><$cname(274)></color>, especialista en hacer de <$cdef(27)><$spwfull(29)></color>,<br>para que te lo reproduzca ahí mismo. Si le das varios, los<br>reproducirá uno tras otro."
+msgstr ""
+
+#. en: You can also talk to a DJ Pokémon to gauge the current <$cdef(27)>mood</color> of<br>nearby Pokémon.
+msgctxt "5154:386"
+msgid "También puedes hablarle para que te diga cómo anda el <$cdef(27)>ánimo</color><br>en ese momento."
+msgstr ""
+
+#. en: <$cdef(27)><$cname(216)></color>, who has the <$cdef(27)><fcap><$spwfull(23)> </color>specialty, will <$cdef(27)>lead </color>and instruct<br>other Pokémon when cooking food for a party. You can’t have a<br><$cdef(27)>party</color> without a Pokémon leading it!
+msgctxt "5154:391"
+msgid "La <$cdef(27)><$cname(216)></color>, especialista en <$cdef(27)><$spwfull(23)></color>, puede hacer<br>de <$cdef(27)>líder</color> y dar instrucciones a los demás a la hora de cocinar<br>para las fiestas. No se puede celebrar una <$cdef(27)>fiesta</color> sin un líder."
+msgstr ""
+
+#. en: Also, because this Pokémon is good at cooking, if you cook<br>with them using a <$cdef(27)><fqty(1)><$ifull(1301)> </color>or other kitchen equipment,<br>you may end up making more food than expected.
+msgctxt "5154:392"
+msgid "Si usas <$cdef(27)><fqty(2)><$ifull(1301)></color> u otros instrumentos para cocinar<br>junto a ellos, les ayudarás a preparar más cantidad."
+msgstr "Si usas <$cdef(27)><fqty(2)><$ifull(1301)></color> u otros instrumentos para cocinar<br>junto a ellos, los ayudarás a preparar más cantidad."
+
+#. en: If you speak to a Pokémon with the <fcap><$icon(11225)><$cdef(27)><$spwname(34)></color> specialty while you’re<br>using the <$cdef(27)>Pokédex</color> to search for another Pokémon, they can take<br>you to that Pokémon’s location.<br>To search for a Pokémon, select it in your <$cdef(27)>Pokédex</color>, then press <$keyicon(233)><br>to start searching.
+msgctxt "5154:394"
+msgid "Si usas la función de la Pokédex para buscar a un Pokémon y<br>luego hablas con un Pokémon cuya especialidad sea <$cdef(27)><$spwname(34)></color><nbs2><$icon(11225)>,<br>te llevará hasta su ubicación.<br>Abre la entrada de la Pokédex del Pokémon al que quieras ver<br>y pulsa <$keyicon(233)> para empezar la búsqueda."
+msgstr "Si usas la función de la Pokédex para buscar a un Pokémon y<br>luego hablas con un Pokémon cuya especialidad sea <$cdef(27)><$spwname(34)></color><nbs2><$icon(11225)>,<br>te llevará hasta su ubicación.<br>Abre la entrada de la Pokédex del Pokémon al que quieras ver<br>y presiona <$keyicon(233)> para empezar la búsqueda."
+
+#. en: <$cdef(27)><$cname(215)></color> has the <fcap><$icon(11010)><$cdef(27)><$spwname(24)></color> specialty and can lead other<br>Pokémon during large <$cdef(27)><$spwfull(1)>ing</color> or rebuilding projects. If you<br>assign them as the leader of a regular <$cdef(27)><$spwfull(1)>ing </color>project, it will<br>be completed in less time than usual.
+msgctxt "5154:397"
+msgid "La <$cdef(27)><$cname(215)></color>, especializada en <$cdef(27)><$spwname(24)></color><nbs2><$icon(11010)>, asumirá el<br>liderazgo de labores de <$cdef(27)>construcción<nbs2><$spwicon(1)></color> y reconstrucción de<br>estructuras enormes y reunirá a otros Pokémon para la labor.<br>Si hace de líder a la hora de <$cdef(27)><$spwfull(1)></color> proyectos normales,<br>el proceso se acelerará considerablemente."
+msgstr ""
+
+#. en: Additionally, if you give them <$cdef(27)><fqty(2)><$ifull(115)></color>, <$cdef(27)><$cname(215)></color> will<br>process them into <$cdef(27)><fqty(2)><$ifull(119)></color>!
+msgctxt "5154:398"
+msgid "También podrá procesar <$cdef(27)><fqty(2)><class><$ifull(115)></color> para hacer<br><$cdef(27)><fqty(2)><class><$ifull(119)></color>."
+msgstr ""
+
+#. en: If you give <$cdef(27)><fqty(2)><$ifull(92)> </color>to a Pokémon with the <$cdef(27)><fcap><$spwfull(32)><br></color>specialty, they will turn them into <$cdef(27)><fqty(1)><$ifull(121)> </color>for you.
+msgctxt "5154:400"
+msgid "Los Pokémon especializados en <$cdef(27)><$spwfull(32)> </color>pueden<br>convertir <$cdef(27)><fqty(2)><$ifull(92)> </color>en <$cdef(27)><fqty(2)><$ifull(121)></color>."
+msgstr ""
+
+#. en: If you speak to a Pokémon with the <fcap><$icon(11226)><$cdef(27)><$spwname(35)></color> specialty while<br>you’re using the <$cdef(27)>Pokédex</color> to search for another Pokémon, they can<br>take you to that Pokémon’s location.<br>To search for a Pokémon, select it in your <$cdef(27)>Pokédex</color>, then press <$keyicon(233)><br>to start searching.
+msgctxt "5154:403"
+msgid "Si usas la función de la Pokédex para buscar a un Pokémon<br>y a continuación hablas con un Pokémon cuya especialidad<br>sea <$cdef(27)><$spwname(35)></color><nbs2><$icon(11226)>, te llevará hasta su ubicación.<br>Abre la entrada de la Pokédex del Pokémon al que quieras ver<br>y pulsa <$keyicon(233)> para empezar la búsqueda."
+msgstr "Si usas la función de la Pokédex para buscar a un Pokémon<br>y a continuación hablas con un Pokémon cuya especialidad<br>sea <$cdef(27)><$spwname(35)></color><nbs2><$icon(11226)>, te llevará hasta su ubicación.<br>Abre la entrada de la Pokédex del Pokémon al que quieras ver<br>y presiona <$keyicon(233)> para empezar la búsqueda."
+
+#. en: Pokémon with the <$icon(11224)><$cdef(27)><fcap><$spwname(33)></color> specialty can serve as leaders<br>when <$cdef(27)>demolishing</color> <$cdef(27)>Pokémon Centers</color> for reconstruction. They<br>can also serve as leaders when demolishing or relocating other<br>buildings.
+msgctxt "5154:406"
+msgid "Los Pokémon cuya especialidad sea <$cdef(27)><$spwname(33)></color><nbs2><$icon(11224)> pueden hacer<br>de líderes de los demás Pokémon en las <$cdef(27)>demoliciones </color>de<br><$cdef(27)>Centros Pokémon</color> para reconstruirlos.<br>También pueden hacer de líder en tareas de demolición o en el<br>traslado de otros tipos de estructura."
+msgstr ""
+
+#. en: The <$cdef(27)>humidity</color> of the entire town is affected both by how many<br>plants are in the area, and the number of water sources and how<br>big they are. You can check the current humidity level with<br><$cdef(27)>Slowpoke’s yawn</color>.
+msgctxt "5154:409"
+msgid "La <$cdef(27)>humedad</color> del entorno depende del nivel de vegetación y de<br>la cantidad y el tamaño de las zonas con agua. Puedes consultar<br>el nivel de humedad <$cdef(27)>haciendo bostezar a Slowpoke</color>."
+msgstr ""
+
+#. en: There are three ways you can increase the <$cdef(27)>humidity</color> level:<br>・ Water dry ground to make grass grow.<br>・ Water plants, such as dry tall grass and trees.<br>・ Create water sources, such as ponds.
+msgctxt "5154:410"
+msgid "Puedes incrementar la <$cdef(27)>humedad</color> de tres maneras:<br>1. <$cdef(27)>Humedeciendo</color> la tierra agrietada para convertirla en césped.<br>2. Regando plantas y árboles secos para que recuperen su verdor.<br>3. Creando estanques u otros lugares con agua."
+msgstr ""
+
+#. en: To demolish a house, place a <$cdef(27)>demolition kit </color>in front of the house,<br>then gather Pokémon to help with the <$cdef(27)>demolition</color>.
+msgctxt "5154:415"
+msgid "Si quieres <$cdef(27)>demoler</color> una casa humana, coloca un <$cdef(27)>kit de demolición</color><br>delante de ella y reúne Pokémon para que te ayuden."
+msgstr ""
+
+#. en: To relocate a house, place a <$cdef(27)>relocation kit </color>in front of the house,<br>then gather Pokémon to help with the <$cdef(27)>relocation preparations</color>.<br>Once preparations are complete, place the kit in a new spot, then<br>gather Pokémon to help with the <$cdef(27)>relocation</color>.
+msgctxt "5154:416"
+msgid "Si quieres cambiar una casa humana de sitio, coloca un <$cdef(27)>kit de<br>traslado </color>delante de ella y reúne Pokémon para que empiecen con<br>los <$cdef(27)>preparativos</color>. Una vez terminados, coloca el kit donde quieras<br>poner la casa y reúne Pokémon para que completen el <$cdef(27)>traslado</color>."
+msgstr "Si quieres cambiar una casa humana de lugar, coloca un <$cdef(27)>kit de<br>traslado </color>delante de ella y reúne Pokémon para que empiecen con<br>los <$cdef(27)>preparativos</color>. Una vez terminados, coloca el kit donde quieras<br>poner la casa y reúne Pokémon para que completen el <$cdef(27)>traslado</color>."
+
+#. en: Select <$cdef(27)>Return Home </color>from the main menu to instantly return to<br>your home. If you don’t have a home, you’ll return to a different<br>safe location instead. This can come in handy if you find yourself<br>stuck and unable to go anywhere!
+msgctxt "5154:424"
+msgid "La función <$cdef(27)>Llévame a casa</color> del menú principal te devolverá<br>a un lugar seguro en un instante. No dudes en usarla si acabas<br>en algún sitio del que no puedes salir."
+msgstr "La función <$cdef(27)>Llévame a casa</color> del menú principal te devolverá<br>a un lugar seguro en un instante. No dudes en usarla si acabas<br>en algún lugar del que no puedes salir."
+
+#. en: If you have your own home, you can instantly return to it by<br>selecting <$cdef(27)>Return Home</color>. If you don’t have a home yet, you’ll be<br>taken to some other safe location.
+msgctxt "5154:425"
+msgid "Puedes usar la función <$cdef(27)>Llévame a casa</color> para aparecer en tu casa<br>al instante. Si aún no tienes casa, te llevará a otro lugar seguro."
+msgstr ""
+
+#. en: You can sometimes find written records, such as letters and notes,<br>that humans left behind. Inspect them to read their contents.
+msgctxt "5154:427"
+msgid "A veces encontrarás notas de lo más curiosas en el suelo,<br>como cartas y demás anotaciones escritas por los humanos.<br>Puedes examinarlas para leerlas."
+msgstr ""
+
+#. en: You can press <$keyicon(28)> while in water to transform into <$cdef(27)>Lapras</color>,<br>allowing you to swim freely.
+msgctxt "5154:457"
+msgid "Pulsa <$keyicon(28)> en el agua para transformarte en <$cdef(27)>Lapras</color> y moverte<br>libremente por ella."
+msgstr "Presiona <$keyicon(28)> en el agua para transformarte en <$cdef(27)>Lapras</color> y<br>moverte libremente por ella."
+
+#. en: Your <$cdef(27)>PP</color> will slowly decrease while you’re using <$cdef(27)><$sklfull(10)></color>. If you do<br>run out of <$cdef(27)>PP</color>, you can keep using <$cdef(27)><$sklfull(10)> </color>until you press <$keyicon(26)> and<br>end your transformation. You won’t be able to use Surf again<br>while you’re out of <$cdef(27)>PP</color>.
+msgctxt "5154:458"
+msgid "Mientras estés usando <$cdef(27)><$sklfull(10)></color>, tus <$cdef(27)>PP</color> se irán agotando poco<br>a poco. Aunque se agoten por completo, podrás seguir usando<br><$cdef(27)><$sklfull(10)></color> hasta que pulses de nuevo <$keyicon(26)> y vuelvas a tu aspecto<br>habitual. Sin embargo, no podrás usar <$cdef(27)><$sklfull(10)></color> de nuevo hasta<br>haber restablecido los <$cdef(27)>PP</color>."
+msgstr "Mientras estés usando <$cdef(27)><$sklfull(10)></color>, tus <$cdef(27)>PP</color> se irán agotando poco<br>a poco. Aunque se agoten por completo, podrás seguir usando<br><$cdef(27)><$sklfull(10)></color> hasta que presiones de nuevo <$keyicon(26)> y vuelvas a tu aspecto<br>habitual. Sin embargo, no podrás usar <$cdef(27)><$sklfull(10)></color> de nuevo hasta<br>haber restablecido los <$cdef(27)>PP</color>."
+
+#. en: Drink a <$cdef(27)>smoothie</color> to power up <$cdef(27)><$sklfull(10)></color>. You can then press <$keyicon(28)> to<br>transform into <$cdef(27)><$cname(36)></color> even when you’re deep underwater.
+msgctxt "5154:459"
+msgid "Tomar <$cdef(27)>batidos </color>potencia el movimiento <$cdef(27)><$sklfull(10)></color>. Si pulsas <$keyicon(28)>,<br>podrás transformarte en <$cdef(27)><$cname(36)> </color>aunque estés en aguas profundas."
+msgstr "Tomar <$cdef(27)>batidos </color>potencia el movimiento <$cdef(27)><$sklfull(10)></color>. Si presionas <$keyicon(28)>,<br>podrás transformarte en <$cdef(27)><$cname(36)> </color>aunque estés en aguas profundas."
+
+#. en: Pokémon with the <$cdef(27)><fcap><$spwfull(9)></color> specialty will power nearby<br>machines in their free time. If you’re traveling with a Pokémon<br>who has this skill, just stand in front of a machine and they will<br><$cdef(27)><$spwfull(9)></color> power to it for you.
+msgctxt "5154:460"
+msgid "Los Pokémon cuya especialidad sea <$cdef(27)><$spwfull(9)></color> darán<br>corriente a máquinas u otros elementos cercanos que la<br>necesiten. Pídeles que te acompañen, párate delante de<br>una máquina y usarán su especialidad."
+msgstr ""
+
+#. en: Pokémon with the <$cdef(27)><fcap><$spwfull(12)> </color>specialty may start barter exchanges<br>at places where bartering is possible. Just set a <$cdef(27)><fqty(1)><$ifull(1325)><br></color>on a table and supply it with power!
+msgctxt "5154:469"
+msgid "Los Pokémon cuya especialidad sea <$cdef(27)><$spwfull(12)></color> pueden<br>intercambiar bienes si tienen un lugar apropiado donde hacerlo.<br>Solo necesitas prepararles una mesa con una <$cdef(27)><fqty(1)><$ifull(1325)></color><br>conectada a la corriente eléctrica."
+msgstr ""
+
+#. en: You can trade items you own for items you want. Offer up to five<br>items to the Pokémon you’re trading with to convince them to<br>make a trade. Offering items they like will make trading more<br>likely to succeed!
+msgctxt "5154:470"
+msgid "Si encuentras algo que te guste, puedes intercambiarlo por<br>objetos que lleves encima. Ofrécele al Pokémon hasta cinco<br>objetos distintos y, si le parece bien, completaréis el trato.<br>¡Elige objetos que le gusten para que te resulte más sencillo!"
+msgstr "Si encuentras algo que te guste, puedes intercambiarlo por<br>objetos que lleves encima. Ofrécele al Pokémon hasta cinco<br>objetos distintos y, si le parece bien, completarán el trato.<br>¡Elige objetos que le gusten para que te resulte más sencillo!"
+
+#. en: <$cdef(27)><$cname(206)></color> has the <fcap><$icon(11008)><$cdef(27)><$spwname(21)> </color>specialty and can use <$cdef(27)>bowls of paint</color><br>to change the color of many items, including furniture. However,<br>some items can’t be recolored.
+msgctxt "5154:478"
+msgid "El <$cdef(27)><$cname(206)> </color>se especializa en<$cdef(27)> <$spwname(21)></color><nbs2><$icon(11008)> y puede usar<br><$cdef(27)>pintura </color>para cambiar el color de tus muebles y objetos varios,<br>¡pero ten en cuenta que no todos pueden pintarse!"
+msgstr ""
+
+#. en: If you want to change the color of things you can’t carry, such as<br>houses, just bring <$cdef(27)><$cname;0(206)></color><$cdef(27)> </color>to them!
+msgctxt "5154:479"
+msgid "<$cdef(27)><oneline></color>Si quieres cambiar el color de elementos que no puedes mover<br>por tu cuenta, como una casa, puedes llevar allí<br><esa;0()><$cdef(27)><$cname;0(206)></color><slide><br>para que se encargue."
+msgstr "<$cdef(27)><oneline></color>Si quieres cambiar el color de elementos que no puedes mover<br>por tu cuenta, como una casa, puedes llevar ahí<br><esa;0()><$cdef(27)><$cname;0(206)></color><slide><br>para que se encargue."
+
+#. en: Use a <$iicon(230)><$cdef(27)>paint balloon</color> to <$cdef(27)><$spwfull(21)></color> something in front of you.<br>You can craft <$iicon(230)><$cdef(27)>paint balloons</color> out of <$cdef(27)>paint</color>.
+msgctxt "5154:480"
+msgid "Puedes usar <$cdef(27)>globos de pintura</color><nbs2><$iicon(230)> para <$cdef(27)><$spwfull(21)></color> del color del<br>globo lo que tengas delante. Se pueden fabricar con <$cdef(27)>pintura</color>."
+msgstr ""
+
+#. en: They can also apply<$cdef(27)> </color>patterns to items. If you find any <$cdef(27)>human<br>records </color>that depict a pattern or items that have patterns on them,<br>bring them to <$cdef(27)><$cname(206)></color>.
+msgctxt "5154:481"
+msgid "También puedes pedirle que <$cdef(27)>pinte</color> diseños en los objetos.<br>Si encuentras un mueble con un diseño o alguna <$cdef(27)>nota humana</color><br>en la que se muestre uno, enséñaselo al <$cdef(27)><$cname(206)></color>."
+msgstr ""
+
+#. en: For certain furniture, you can change the color or pattern of each<br>individual part.
+msgctxt "5154:482"
+msgid "Algunos muebles permiten cambiar el color y el diseño de<br>distintas partes de forma independiente."
+msgstr ""
+
+#. en: Pokémon with the <$cdef(27)><fcap><$spwfull(4)> </color>specialty will sometimes drop useful<br>items near their home.
+msgctxt "5154:493"
+msgid "Los Pokémon cuya especialidad sea <$cdef(27)><$spwfull(4)></color> dejarán caer<br>objetos cerca de su hogar, los cuales podrás recoger."
+msgstr ""
+
+#. en: Items dropped in this way vary depending on the Pokémon.
+msgctxt "5154:494"
+msgid "El tipo de objeto producido varía dependiendo del Pokémon."
+msgstr ""
+
+#. en: Pokémon will not drop items while you’re watching them.<br>Leave them alone and check on them later.
+msgctxt "5154:495"
+msgid "¡Pero ten en cuenta que no producirán nada si los estás mirando!<br>Déjalos a su aire un rato y vuelve de vez en cuando para ver si<br>han producido algo."
+msgstr "¡Pero ten en cuenta que no producirán nada si los estás mirando!<br>Déjalos tranquilos un rato y vuelve de vez en cuando para ver si<br>han producido algo."
+
+#. en: You can give <$cdef(27)><fqty(1)><$ifull(1395)> </color>to a Pokémon with the<br><$cdef(27)><fcap><$spwfull(17)> </color>specialty to have them process that trash into<br><$cdef(27)><fqty(1)><$ifull(107)></color>.
+msgctxt "5154:496"
+msgid "Los Pokémon cuya especialidad sea <$cdef(27)><$spwfull(17)></color> pueden<br>procesar <$cdef(27)><fqty(1)><$ifull(1395)> </color>y convertirla en <$cdef(27)><fqty(1)><$ifull(107)></color>."
+msgstr ""
+
+#. en: While holding <$keyicon(153)> to inhale, press <$keyicon(206)> to suck up water or other<br>liquids in front of you and store it in your mouth.
+msgctxt "5154:499"
+msgid "Pulsa <$keyicon(206)> mientras mantienes pulsado <$keyicon(153)> para absorber agua<br>u otros líquidos que tengas delante y almacenarlos en la boca."
+msgstr "Presiona <$keyicon(206)> mientras mantienes presionado <$keyicon(153)> para absorber agua<br>u otros líquidos que tengas delante y almacenarlos en la boca."
+
+#. en: You can release the liquid you sucked up anywhere you want by<br>pressing <$keyicon(0)> to spit it out. Liquids will spread over the area where<br>they were spat out.
+msgctxt "5154:500"
+msgid "Pulsa <$keyicon(0)> para escupir el líquido que tengas almacenado en la<br>boca y hacer que se extienda por la zona."
+msgstr "Presiona <$keyicon(0)> para escupir el líquido que tengas almacenado<br>en la boca y hacer que se extienda por la zona."
+
+#. en: You can change the volume of liquid you spit out by pressing and<br>holding <$keyicon(209)>, then pressing <$keyicon(222)> or <$keyicon(223)>.
+msgctxt "5154:501"
+msgid "Mientras mantienes pulsado <$keyicon(209)> con la boca llena, pulsa <$keyicon(222)><br>o <$keyicon(223)> para controlar el volumen del líquido que escupirás."
+msgstr "Con la boca llena, mantén presionado <$keyicon(209)> y presiona <$keyicon(222)><br>o <$keyicon(223)> para controlar el volumen del líquido que escupirás."
+
+#. en: You can brighten up a dark town by placing items that emit<br>light. Try placing light sources everywhere to brighten up the<br>entire town.
+msgctxt "5154:517"
+msgid "Coloca elementos que iluminen para alumbrar el vecindario.<br>Si quieres alumbrarlo entero, tendrás que colocarlos repartidos<br>por toda la zona."
+msgstr ""
+
+#. en: Some machines produce light when powered by electricity.<br>Electric lights will make the town brighter than any other<br>light source.
+msgctxt "5154:518"
+msgid "Algunos objetos se iluminan cuando los conectas a la corriente.<br>Además, las luces eléctricas iluminan el vecindario más que otras<br>fuentes de luz."
+msgstr ""
+
+#. en: Though fires only provide a small amount of light for your town,<br>they also generate warmth that can raise the <$cdef(27)>comfort level</color> for<br>Pokémon who like that kind of environment.
+msgctxt "5154:519"
+msgid "Aunque el fuego no ilumine gran cosa el vecindario, el calor<br>que ofrece aumentará el <$cdef(27)>nivel de confort </color>de los Pokémon que<br>prefieran ese tipo de entorno."
+msgstr ""
+
+#. en: <$cdef(27)><$cname(121)></color>, who has the <$cdef(27)><fcap><$spwfull(22)></color> specialty, can emit light to<br><$cdef(27)><$spwfull(22)></color> the whole town. But they need to build up enough<br>electricity at a powered <$cdef(27)><$bfull(32)> </color>first.
+msgctxt "5154:526"
+msgid "<$cdef(27)><$cname(121)></color>, especialista en <$cdef(27)><$spwfull(22)></color>, puede producir suficiente<br>luz para alumbrar todo el vecindario.<br>Para poder usar su especialidad, deberá cargarse de electricidad<br>en un <$cdef(27)><$bfull(32)></color> con suficiente corriente."
+msgstr ""
+
+#. en: Pokémon become more active at night when the town is<br><$cdef(27)><$spwfull(22)>d</color>.
+msgctxt "5154:527"
+msgid "Mientras todo esté <$cdef(27)>iluminado</color><nbs2><$spwicon(22)>, los Pokémon podrán llevar<br>a cabo sus actividades incluso de noche."
+msgstr ""
+
+#. en: Machines that produce electricity. The way electricity is produced<br>and the amount produced varies depending on the type of<br>generator.
+msgctxt "5154:532"
+msgid "Los generadores son máquinas que producen electricidad.<br>Cada uno funciona de manera distinta y produce una cantidad<br>de energía diferente."
+msgstr ""
+
+#. en: You can place <$cdef(27)><fqty(2)><class><$ifull(1396)> </color>near a <$cdef(27)>generator </color>to transmit<br>electricity over long distances.
+msgctxt "5154:533"
+msgid "Coloca <$cdef(27)><fqty(2)><$ifull(1396)></color> cerca de los <$cdef(27)>generadores</color> para hacer<br>que la electricidad llegue a otras partes."
+msgstr ""
+
+#. en: <$cdef(27)><fcap><fqty(2)><$ifull(1379)></color> produce electricity using wind power. They work no<br>matter where you place them, but they’ll make more electricity<br>if you install them at higher elevations.
+msgctxt "5154:534"
+msgid "El <$cdef(27)><$bfull(33)></color> produce electricidad gracias al viento.<br>Funciona en cualquier parte, pero generará mucha más<br>electricidad si lo colocas en un lugar alto."
+msgstr ""
+
+#. en: You can <$cdef(27)>transform</color> into a new look by pressing <$keyicon(6)> near any<br>furniture with a mirror, such as a <$cdef(27)>dresser</color>.
+msgctxt "5154:535"
+msgid "Pulsa <$keyicon(6)> delante de un <$cdef(27)>tocador</color> u otro mueble con espejo para<br><$cdef(27)>transformarte</color> y cambiar<$cdef(27)> </color>de aspecto."
+msgstr "Presiona <$keyicon(6)> delante de un <$cdef(27)>tocador</color> u otro mueble con espejo<br>para <$cdef(27)>transformarte</color> y cambiar<$cdef(27)> </color>de aspecto."
+
+#. en: You can use the outfits you’ve obtained to change your look<br>however you like.
+msgctxt "5154:536"
+msgid "Al <$cdef(27)>transformarte</color>, podrás elegir entre los conjuntos que hayas<br>conseguido y adoptar el aspecto que más te guste."
+msgstr ""
+
+#. en: If you choose <$cdef(27)>Ditto color</color> for your face, your entire body will<br>become that color. You will not be able to change the individual<br>color of other parts of your body, such as your hair or clothing.
+msgctxt "5154:537"
+msgid "Si eliges el <$cdef(27)>color Ditto</color> para tu tono de piel, todo tu cuerpo<br>adoptará ese color y no podrás elegir otro color para tu pelo<br>u otros elementos."
+msgstr ""
+
+#. en: <oneline>The flower on <$cdef(27)><$cname;0(272)></color>’s head will bloom more and more as the<br>town brightens. Install lights everywhere to really illuminate<br>your town!
+msgctxt "5154:544"
+msgid "Cuanto más luminoso se vuelva el vecindario, más crecerán las<br>flores de la cabeza <esde;0()><$cdef(27)><$cname;0(272)></color>.<br>Coloca luces por todos los rincones para iluminar el vecindario<br>al máximo."
+msgstr ""
+
+#. en: You can press <$keyicon(0)> to gulp any drink you’re holding in your hands.<br>The liquid you can spit out afterward changes depending on the<br>drink you gulped!
+msgctxt "5154:553"
+msgid "Pulsa <$keyicon(0)> para llenarte la boca con una bebida que sujetes y<br>escupir a continuación líquidos de distintos tipos según la bebida."
+msgstr "Presiona <$keyicon(0)> para llenarte la boca con una bebida que sujetes y<br>escupir a continuación líquidos de distintos tipos según la bebida."
+
+#. en: The <$cdef(27)><fqty(1)><$ifull(1443)></color> at the <$cdef(27)>Pokémon Center</color> can create a copy of<br>an item from a photograph. You’ll need <$cdef(27)><fqty(1)><$ifull(120)></color> to create<br>copies.
+msgctxt "5154:556"
+msgid "Las <$cdef(27)><fqty(2)><class><$ifull(1443)></color> de los <$cdef(27)>Centros Pokémon </color>te permiten hacer<br>copias de los objetos que aparecen en las fotos. Las impresoras<br>3D usan <$cdef(27)><fqty(2)><$ifull(120)></color> como material."
+msgstr ""
+
+#. en: Object mode lets you take the photos you need for creating<br>copies of items. Boot up the camera with <$keyicon(52)>, then switch modes<br>with <$keyicon(50)> before taking a photo.
+msgctxt "5154:557"
+msgid "Para sacar fotos con las que realizar copias, deberás activar el<br><$cdef(27)>modo objeto </color>primero. Saca la cámara con <$keyicon(52)> y pulsa <$keyicon(50)> para<br>cambiar de modo antes de sacar fotos de los objetos."
+msgstr "Para tomar fotos con las que realizar copias, deberás activar el<br><$cdef(27)>modo objeto </color>primero. Saca la cámara con <$keyicon(52)> y presiona <$keyicon(50)> para<br>cambiar de modo antes de tomar fotos de los objetos."
+
+#. en: You can even create copies from photos you take on Cloud<br>Islands or in other players’ towns.
+msgctxt "5154:558"
+msgid "También es posible hacer copias de los objetos a los que saques<br>fotos en las Islas Nube o en el mundo de otro jugador."
+msgstr "También es posible hacer copias de los objetos a los que tomes<br>fotos en las Islas Nube o en el mundo de otro jugador."
+
+#. en: If a Pokémon you’re looking for is not near their home, use<br><$cdef(27)><fqty(1)><$ifull(3994)> </color>in front of their home. The sweet smell will lure<br>them back!
+msgctxt "5154:601"
+msgid "Si buscas a un Pokémon, pero no lo encuentras en ningún lado,<br>prueba a usar <$cdef(27)><fqty(1)><$ifull(3994)></color> delante de su hogar. El Pokémon volverá<br>enseguida a él atraído por su dulce aroma."
+msgstr "Si buscas a un Pokémon, pero no lo encuentras en ningún lado,<br>intenta usar <$cdef(27)><fqty(1)><$ifull(3994)></color> delante de su hogar. El Pokémon volverá<br>enseguida a él atraído por su dulce aroma."
+
+#. en: If you would like a Pokémon to move to a different home, bring<br>them to a different habitat and ask them to live there instead.<br>You can also have them move to a new town.
+msgctxt "5154:604"
+msgid "Si quieres que un Pokémon se mude, llévalo hasta otro hábitat,<br>habla con él y ofrécele mudarse ahí. Puedes incluso ofrecerles<br>que se muden a otro vecindario."
+msgstr ""
+
+#. en: However, a Pokémon will not move into a habitat that includes<br>something they dislike.
+msgctxt "5154:605"
+msgid "Ten en cuenta que se negarán a mudarse si en el nuevo hábitat<br>hay algo que no les guste."
+msgstr ""
+
+#. en: You may sometimes see ripples and sparkles on the water’s<br>surface. You can investigate them to get items.
+msgctxt "5154:607"
+msgid "A veces verás unas ondas relucientes en la superficie del agua.<br>Examínalas y conseguirás algún objeto."
+msgstr ""
+
+#. en: Sometimes you may notice flowers that are sparkling. You can<br>inspect these flowers to obtain <$cdef(27)><fqty(1)><$ifull(3994)></color>.
+msgctxt "5154:616"
+msgid "En ocasiones encontrarás flores con destellos. Examínalas para<br>conseguir <$cdef(27)><fqty(1)><$ifull(3994)></color>."
+msgstr ""
+
+#. en: If you talk to a Pokémon with the <$cdef(27)><fcap><$spwfull(11)> </color>specialty while<br>you’re holding a <$cdef(27)><fqty(1)><$ifull(2793)></color>, you can <$cdef(27)>look for items</color>.<br>Work together to find items buried in the ground!
+msgctxt "5154:622"
+msgid "Si hablas con un Pokémon cuya especialidad sea <$cdef(27)><$spwfull(11)><br></color>mientras sujetas el <$cdef(27)><fqty(1)><$ifull(2793)></color>, te ayudará a <$cdef(27)>buscar objetos</color>.<br>¡Colaborad para desenterrar todo tipo de tesoros!"
+msgstr "Si hablas con un Pokémon cuya especialidad sea <$cdef(27)><$spwfull(11)><br></color>mientras sujetas el <$cdef(27)><fqty(1)><$ifull(2793)></color>, te ayudará a <$cdef(27)>buscar objetos</color>.<br>¡Colaboren para desenterrar todo tipo de tesoros!"
+
+#. en: Press <$keyicon(0)> to have your Pokémon friend show you which direction<br>to go to find a buried item.
+msgctxt "5154:623"
+msgid "Pulsa <$keyicon(0)> para que el Pokémon te muestre en qué dirección<br>hay un tesoro enterrado."
+msgstr "Presiona <$keyicon(0)> para que el Pokémon te muestre en qué<br>dirección hay un tesoro enterrado."
+
+#. en: You can fit <$cdef(27)>mysterious slates </color>into the indentation on the wall.
+msgctxt "5154:625"
+msgid "Puedes colocar las<$cdef(27)> piezas misteriosas</color> que te encuentres<br>en este intrigante mural."
+msgstr ""
+
+#. en: <$cdef(27)>Mysterious slates </color>can sometimes be found buried in the ground.<br>Use the <$cdef(27)>Dowsing Machine</color> to look for them! Something might<br>happen if you insert all the <$cdef(27)>slates</color> in the correct configuration.
+msgctxt "5154:626"
+msgid "Es posible que te encuentres <$cdef(27)>piezas misteriosas</color> enterradas<br>cuando busques tesoros con el <$cdef(27)>zahorí<nbs2><$iicon(3100)></color>. ¿Qué pasará si las<br>encuentras todas<$cdef(27)> </color>y completas el mural?"
+msgstr "Es posible que te encuentres <$cdef(27)>piezas misteriosas</color> enterradas<br>cuando busques tesoros con el <$cdef(27)>detector<nbs2><$iicon(3100)></color>. ¿Qué pasará si las<br>encuentras todas<$cdef(27)> </color>y completas el mural?"
+
+#. en: You can only travel to <$cdef(27)>one Dream Island per day</color>, but you can<br>revisit that island <$cdef(27)>as many times as you want</color>. If you would like to<br>go to a different island, you’ll have to wait until the next day to<br>talk to <$cdef(27)>Drifloon</color> again.
+msgctxt "5154:631"
+msgid "Puedes revisitar <$cdef(27)>la misma Isla Ensueño</color> <$cdef(27)>cuantas veces quieras</color>,<br>pero <$cdef(27)>Drifloon</color> solo te llevará a <$cdef(27)>una nueva cada día</color>.<br>Si quieres viajar a una que sea diferente a la que has visitado,<br>deberás esperar hasta el día siguiente."
+msgstr "Puedes revisitar <$cdef(27)>la misma Isla Ensueño</color> <$cdef(27)>cuantas veces quieras</color>,<br>pero <$cdef(27)>Drifloon</color> solo te llevará a <$cdef(27)>una nueva cada día</color>.<br>Si quieres viajar a una que sea diferente a la que visitaste,<br>deberás esperar hasta el día siguiente."
+
+#. en: At the start of a new day, <$cdef(27)>Drifloon</color> will forget the location of any<br><$cdef(27)>Dream Islands</color> you visited the day before, but they’ll find a new<br>island for you every day. Make sure to travel to an island daily if<br>you want to gather heaps of materials!
+msgctxt "5154:632"
+msgid "<$cdef(27)>Drifloon</color> se olvida de un día para otro de la <$cdef(27)>Isla Ensueño </color>que<br>has visitado el día anterior, pero puede descubrir otra nueva.<br>Si necesitas reunir muchos materiales, pídele que te lleve a una<br>isla nueva todos los días."
+msgstr "<$cdef(27)>Drifloon</color> se olvida de un día para otro de la <$cdef(27)>Isla Ensueño </color>que<br>visitaste el día anterior, pero puede descubrir otra nueva.<br>Si necesitas reunir muchos materiales, pídele que te lleve a una<br>isla nueva todos los días."
+
+#. en: These are small goals that will help improve the <$cdef(27)>comfort</color> of<br>Pokémon in the area and raise the <$cdef(27)>environment level</color>.<br>Completing challenges will award <$cdef(27)>Life Coins</color>.
+msgctxt "5154:634"
+msgid "Los retos son pequeños objetivos que cumplir para mejorar<br>el <$cdef(27)>nivel de confort</color> de los Pokémon y la <$cdef(27)>calidad del entorno</color>.<br>Complétalos para recibir <$cdef(27)>monevitas</color>."
+msgstr ""
+
+#. en: <$cdef(27)>Challenge Days</color> take place once a week. On these days, you can<br>get more <$cdef(27)>Life Coins</color> than usual for completing <$cdef(27)>daily challenges</color>.
+msgctxt "5154:635"
+msgid "Una vez a la semana se celebra el <$cdef(27)>día de los retos</color>.<br>¡Al completar <$cdef(27)>retos diarios </color>durante ese día recibirás<br>más <$cdef(27)>monevitas </color>de lo normal!"
+msgstr ""
+
+#. en: At the <$cdef(27)>PC</color> <$cdef(27)>shop</color>, you can use <$cdef(27)>Life Coins</color> earned from <$cdef(27)>challenges<br></color>and other events to buy <$cdef(27)>items</color>, <$cdef(27)>recipes</color>, and more!
+msgctxt "5154:640"
+msgid "Puedes adquirir <$cdef(27)>objetos</color>, o las <$cdef(27)>instrucciones</color> para fabricarlos,<br>en la <$cdef(27)>tienda</color> del <$cdef(27)>PC </color>a cambio de las <$cdef(27)>monevitas </color>que hayas<br>conseguido al completar <$cdef(27)>retos</color>."
+msgstr ""
+
+#. en: Some items for sale in the shop can unlock useful features, so<br>complete lots of <$cdef(27)>challenges</color> to collect <$cdef(27)>Life Coins</color>!
+msgctxt "5154:641"
+msgid "En la tienda puedes encontrar artículos que desbloquearán<br>funciones muy útiles. Completa todos los <$cdef(27)>retos</color> que puedas y<br>reúne <$cdef(27)>monevitas</color> para adquirirlos."
+msgstr ""
+
+#. en: Certain days of the week are <$cdef(27)>Shop Days</color>. On these days, rarer<br>items than usual will be available under the <$cdef(27)>Today Only! </color>header.
+msgctxt "5154:642"
+msgid "Ciertos días de la semana se celebra el <$cdef(27)>día de la tienda</color>.<br>¡Los <$cdef(27)>artículos del día </color>disponibles ese día serán un poco<br>distintos a los del catálogo normal!"
+msgstr ""
+
+#. en: You can <$cdef(27)>order</color> items available for purchase from <$cdef(27)>shops</color> in other<br>players’ towns! Any items you <$cdef(27)>order</color> will be delivered via the <$cdef(27)>PC</color><br>in your town.
+msgctxt "5154:646"
+msgid "Puedes usar la función <$cdef(27)>encargar </color>para comprar objetos en las<br><$cdef(27)>tiendas </color>de los mundos de otros jugadores. Al volver a tu mundo,<br>podrás recoger en tu <$cdef(27)>PC </color>los objetos que hayas <$cdef(27)>encargado</color>."
+msgstr ""
+
+#. en: You can begin a <$cdef(27)>stamp rally </color>after receiving a stamp card from the<br><$cdef(27)>PC</color> at the <$cdef(27)>Pokémon Center</color>. You can add a stamp to the card once<br>per day using the <$cdef(27)>PC</color>.
+msgctxt "5154:649"
+msgid "En el <$cdef(27)>PC</color> de los <$cdef(27)>Centros Pokémon</color> recibirás una tarjeta que podrás<br>sellar una vez al día. ¡Disfruta <$cdef(27)>coleccionando sellos</color>!"
+msgstr ""
+
+#. en: Every Friday, you can exchange the stamps you’ve collected for<br><$cdef(27)>Life Coins</color>. If you’ve collected rare stamps on your card, you’ll get<br>more <$cdef(27)>Life Coins</color> than usual!
+msgctxt "5154:650"
+msgid "Todos los viernes podrás canjear los sellos que hayas conseguido<br>por <$cdef(27)>monevitas</color>. Los sellos menos habituales valdrán incluso más."
+msgstr ""
+
+#. en: You can stamp your card at <$cdef(27)>Pokémon Center PCs</color> in other<br>locations, too—such as another player’s world or a <$cdef(27)>Cloud Island</color>.<br>Collect as many stamps as you can get each week before Friday<br>rolls around!
+msgctxt "5154:651"
+msgid "Puedes sellar tu tarjeta en el <$cdef(27)>PC</color> de los <$cdef(27)>Centros Pokémon </color>de los<br>mundos de otros jugadores y de las <$cdef(27)>Islas Nube</color>. Intenta conseguir<br>todos los sellos que puedas cada semana antes del viernes."
+msgstr ""
+
+#. en: You can select a Pokémon in your <$cdef(27)>Pokédex</color> you want to find and<br>press <$keyicon(233)> to begin <$cdef(27)>searching for them</color>. While you’re searching for<br>a Pokémon, other Pokémon you talk to will tell you<$cdef(27)> where that<br>Pokémon is</color>.
+msgctxt "5154:655"
+msgid "Si seleccionas al Pokémon que quieres buscar en la <$cdef(27)>Pokédex</color><br>y pulsas <$keyicon(233)>, quedará marcado y otros Pokémon te indicarán<br>dónde puedes encontrarlo cuando hables con ellos."
+msgstr "Si seleccionas al Pokémon que quieres buscar en la <$cdef(27)>Pokédex</color><br>y presionas <$keyicon(233)>, quedará marcado y otros Pokémon te indicarán<br>dónde puedes encontrarlo cuando hables con ellos."
+
+#. en: This camera lets you view things even when you’re far away.<br>Place a <$cdef(27)><fqty(1)><$ifull(1471)></color> on the ground, then select Security<br>Cameras from the <$cdef(27)>Camera</color> menu to view what it’s seeing. If you’ve<br>placed several cameras, you’ll be able to toggle between the<br>different camera views.
+msgctxt "5154:658"
+msgid "Estas cámaras te permiten ver a través de ellas por muy lejos<br>que te encuentres. Tras colocar una, podrás ver a través de ella<br>si accedes al menú <$cdef(27)>Cámara</color> y seleccionas <$cdef(27)>Cámaras de seguridad</color>.<br>Puedes colocar un máximo de ocho <$cdef(27)><fqty(2)><$ifull(1471)></color><br>en cada vecindario."
+msgstr "Estas cámaras te permiten ver a través de ellas por muy lejos<br>que te encuentres. Al colocar una, podrás ver a través de ella<br>si accedes al menú <$cdef(27)>Cámara</color> y seleccionas <$cdef(27)>Cámaras de seguridad</color>.<br>Puedes colocar un máximo de ocho <$cdef(27)><fqty(2)><$ifull(1471)></color><br>en cada vecindario."
+
+#. en: Interact with a <$cdef(27)>doll</color> on the ground to summon <$cdef(27)>Drifloon</color>.<br>If you ever want to go to a <$cdef(27)>Dream Island</color>, call <$cdef(27)>Drifloon</color> using<br>any <$cdef(27)>doll</color>!
+msgctxt "5154:661"
+msgid "Interactúa con un <$cdef(27)>peluche </color>para que aparezca <$cdef(27)>Drifloon<br></color>y te ofrezca la opción de ir a una <$cdef(27)>Isla Ensueño</color>."
+msgstr ""
+
+#. en: The <$cdef(27)>Dream Island</color> that <$cdef(27)>Drifloon</color> takes you to will change<br>depending on the type the <$cdef(27)>doll</color> used. Try finding different <$cdef(27)>dolls</color><br>if you want to visit new <$cdef(27)>Dream Islands</color>.
+msgctxt "5154:662"
+msgid "La <$cdef(27)>Isla Ensueño </color>a la que te llevará <$cdef(27)>Drifloon </color>dependerá del tipo<br>de <$cdef(27)>peluche </color>que le muestres. ¡Si encuentras un <$cdef(27)>peluche </color>nuevo,<br>puede que termines en una <$cdef(27)>Isla Ensueño </color>que nunca habías visto!"
+msgstr ""
+
+#. en: Place a Joy-Con 2 with its colored side down on a desk or other<br>flat surface to <$cdef(27)>enable mouse controls</color>. While using mouse controls,<br>you can spit out items where you place the mouse cursor.
+msgctxt "5154:688"
+msgid "Coloca el Joy-Con 2 apoyado lateralmente sobre una mesa<br>u otra superficie para activar automáticamente el <$cdef(27)>modo ratón</color>.<br>Este modo te permite colocar lo que tengas en la boca allá<br>donde apuntes con el cursor."
+msgstr "Coloca el Joy-Con 2 apoyado lateralmente sobre una mesa<br>u otra superficie para activar automáticamente el <$cdef(27)>modo mouse</color>.<br>Este modo te permite colocar lo que tengas en la boca allá<br>donde apuntes con el cursor."
+
+#. en: While mouse controls are enabled, you can also use the cursor to<br>target specific blocks to break with Rock Smash.
+msgctxt "5154:689"
+msgid "Además, cuando utilices Golpe Roca durante el modo ratón,<br>podrás romper el bloque sobre el que hayas situado el cursor."
+msgstr "Además, cuando utilices Golpe Roca durante el modo mouse,<br>podrás romper el bloque sobre el que hayas situado el cursor."
+
+#. en: You can use mouse controls with either a Joy-Con 2 (R) or a<br>Joy-Con 2 (L).
+msgctxt "5154:690"
+msgid "Tanto el Joy-Con 2 izquierdo como el Joy-Con 2 derecho<br>se pueden usar para jugar en modo ratón."
+msgstr "Tanto el Joy-Con 2 izquierdo como el Joy-Con 2 derecho<br>se pueden usar para jugar en modo mouse."
+
+#. en: You can move around effortlessly in water without worry, no<br>matter how long you’re under or how deep you dive!
+msgctxt "5154:745"
+msgid "Buceo te permite desplazarte bajo el agua rápidamente<br>y sin ahogarte, sin límite de tiempo ni de profundidad."
+msgstr ""
+
+#. en: Hold <$keyicon(55)> while underwater to swim. While holding <$keyicon(55)>, you can<br>press <$keyicon(77)> to dive deeper or press <$keyicon(76)> to float higher.
+msgctxt "5154:746"
+msgid "Cuando estés bajo el agua, mantén pulsado <$keyicon(55)> y muévete en<br>cualquier dirección para nadar. Mientras mantienes pulsado <$keyicon(55)>,<br>puedes pulsar <$keyicon(77)> para descender y <$keyicon(76)> para ascender."
+msgstr "Cuando estés bajo el agua, mantén presionado <$keyicon(55)> y muévete en<br>cualquier dirección para nadar. Mientras mantienes presionado<br><$keyicon(55)>, puedes presionar <$keyicon(77)> para descender y <$keyicon(76)> para ascender."
+
+#. en: You can float in place underwater by holding <$keyicon(141)>. This makes it<br>easy to place items in specific locations.<br><br>You can also quickly spin <$keyicon(194)> to sink to the bottom of the sea.
+msgctxt "5154:747"
+msgid "Mantén pulsado <$keyicon(141)> mientras estás en el agua para quedarte<br>en suspensión donde estés. ¡Es muy útil para colocar objetos en<br>lugares específicos dentro del agua! Y si quieres descender veloz<br>hacia el fondo del mar, solo tienes que girar <$keyicon(194)> rápidamente."
+msgstr "Mantén presionado <$keyicon(141)> mientras estás en el agua para quedarte<br>en suspensión donde estés. ¡Es muy útil para colocar objetos en<br>lugares específicos dentro del agua! Y si quieres descender veloz<br>hacia el fondo del mar, solo tienes que girar <$keyicon(194)> rápidamente."
+
+#. en: Press and hold <$keyicon(6)> to use <$cdef(27)>Strength</color>. While using <$cdef(27)>Strength</color>, you can<br>push and pull objects in the world.
+msgctxt "5154:751"
+msgid "Mantén pulsado <$keyicon(6)> al lado de un objeto para usar <$cdef(27)>Fuerza</color>,<br>un movimiento que te permite empujar y tirar de objetos."
+msgstr "Mantén presionado <$keyicon(6)> junto a un objeto para usar <$cdef(27)>Fuerza</color>,<br>un movimiento que te permite empujar y tirar de objetos."
+
+#. en: If you tilt <$keyicon(194)> while using <$cdef(27)>Strength</color>, you can rotate an object in<br>front of you to the left or right.
+msgctxt "5154:752"
+msgid "Si inclinas <$keyicon(194)> mientras usas <$cdef(27)>Fuerza</color>, podrás girar hacia<br>la izquierda o hacia la derecha lo que tengas delante de ti."
+msgstr ""
+
+#. en: You can use a <$cdef(27)><fqty(1)><$ifull(1301)> </color>and other kitchen equipment to<br>cook food with various ingredients. Eating food you cook will<br>power up your moves.
+msgctxt "5154:757"
+msgid "Puedes preparar recetas si tienes los ingredientes e instrumentos<br>de cocina necesarios, como una <$cdef(27)><fqty(1)><$ifull(1301)></color>.<br>La comida que prepares te servirá para potenciar tus movimientos."
+msgstr ""
+
+#. en: If other Pokémon are nearby when you cook, they might join<br>in and help out. You may even end up with a different end result<br>than expected depending on the Pokémon’s specialty and the<br>ingredients you used. Try making all sorts of food and see what<br>you come up with!
+msgctxt "5154:758"
+msgid "Es posible que los Pokémon que se encuentren cerca te ayuden,<br>y sus especialidades y los ingredientes que utilices influirán en el<br>resultado final. Prueba diferentes combinaciones, ¡a ver qué sale!"
+msgstr ""
+
+#. en: You can melt materials such as <$cdef(27)><fqty(1)><$ifull(106)></color> and <$cdef(27)><fqty(1)><$ifull(107)></color> to<br>make <$cdef(27)>ingots</color>. Place the materials in a smelting furnace and ask a<br>Pokémon with the <$cdef(27)><fcap><$spwfull(10)></color> specialty to help you.
+msgctxt "5154:778"
+msgid "Es posible fundir materiales como el <$cdef(27)><fqty(1)><$ifull(106)> </color>o el<$cdef(27)> <fqty(1)><$ifull(107)><br></color>para conseguir <$cdef(27)>lingotes</color>. Después de introducir los materiales,<br>tendrás que pedirle ayuda a algún Pokémon especializado en<br><$cdef(27)><$spwfull(10)> </color>para que ponga en marcha la fundición."
+msgstr ""
+
+#. en: Pokémon with the <$icon(11004)><fcap><$cdef(27)><$spwname(14)></color> specialty will start dancing if music’s<br>playing nearby, improving the <$cdef(27)>mood</color> of the area.
+msgctxt "5154:784"
+msgid "Los Pokémon cuya especialidad sea <$cdef(27)><$spwname(14)></color><nbs2><$icon(11004)> empezarán a<br>bailar si se pone música cerca, lo que hará que aumente el <$cdef(27)>ánimo</color><br>de la zona."
+msgstr ""
+
+#. en: This move transforms you into a <$cdef(27)>Graveler</color>. Tilt <$keyicon(194)> to quickly roll<br>in that direction. You can roll even faster by holding down <$keyicon(55)> or<br>pressing <$keyicon(54)>.
+msgctxt "5154:808"
+msgid "¡Transfórmate en <$cdef(27)>Graveler</color>! Inclina <$keyicon(194)> del todo para moverte<br>rodando a toda velocidad. Puedes ir aún más rápido si mantienes<br>pulsado <$keyicon(55)> o pulsas <$keyicon(54)>."
+msgstr "¡Transfórmate en <$cdef(27)>Graveler</color>! Inclina <$keyicon(194)> del todo para moverte<br>rodando a toda velocidad. Puedes ir aún más rápido si mantienes<br>presionado <$keyicon(55)> o presionas <$keyicon(54)>."
+
+#. en: While holding down <$keyicon(1)>, you can roll into things to break them.<br>However, if you roll into something that <$cdef(27)><$sklfull(4)> </color>can’t<br>break, <$cdef(27)><$sklfull(12)></color> won’t break it either, and your rolling will come<br>to an abrupt stop.
+msgctxt "5154:809"
+msgid "Si mantienes pulsado <$keyicon(1)>, podrás romper la mayoría de<br>obstáculos en tu camino. La excepción son aquellos tan duros<br>que incluso se resisten a <$cdef(27)><$sklfull(4)></color>: tampoco serás capaz<br>de romperlos con <$cdef(27)><$sklfull(12)></color> y, por tanto, detendrán tu avance."
+msgstr "Si mantienes presionado <$keyicon(1)>, podrás romper la mayoría de<br>obstáculos en tu camino. La excepción son aquellos tan duros<br>que incluso se resisten a <$cdef(27)><$sklfull(4)></color>: tampoco serás capaz<br>de romperlos con <$cdef(27)><$sklfull(12)></color> y, por tanto, detendrán tu avance."
+
+#. en: While transformed, you’ll gradually spend <$cdef(27)>PP</color>. Once out of <$cdef(27)>PP</color>, you<br>won’t be able to roll anymore.
+msgctxt "5154:810"
+msgid "Mientras estés usando <$cdef(27)>Rodar</color>, tus <$cdef(27)>PP</color> se irán agotando poco<br>a poco. Si se agotan del todo, no podrás rodar más."
+msgstr "Mientras estés usando <$cdef(27)>Rodada</color>, tus <$cdef(27)>PP</color> se irán agotando poco<br>a poco. Si se agotan del todo, no podrás rodar más."
+
+#. en: If you place a <$cdef(27)><fqty(1)><$ifull(1461)></color> on connected <$cdef(27)><fqty(2)><$ifull(1463)></color>, you<br>can ride it to get around. If you connect additional <$cdef(27)><fqty(2)><$ifull(1461)></color>,<br>you can bring small Pokémon with you on your ride.
+msgctxt "5154:814"
+msgid "Coloca una <$cdef(27)><fqty(1)><$ifull(1461)></color> sobre un recorrido de <$cdef(27)><fqty(2)><$ifull(1463)></color> y móntate<br>en ella para desplazarte. Si conectas varias <$cdef(27)><fqty(2)><class><$ifull(1461)></color>, podrás<br>desplazarte en ellas mientras te acompañan Pokémon pequeños."
+msgstr ""
+
+#. en: Place a <$cdef(27)><fqty(1)><$ifull(1466)></color> near a line of <$cdef(27)><fqty(2)><$ifull(1463)> </color>to make<br>a <$cdef(27)><$hatname(21)> </color>where <$cdef(27)><fqty(2)><$ifull(1461)></color> will briefly stop.<br>Connect two <$cdef(27)><$hatname(21)>s </color>via <$cdef(27)><fqty(2)><$ifull(1463)></color>, and<br>Pokémon will ride <$cdef(27)><fqty(2)><$ifull(1461)></color> on their own.
+msgctxt "5154:815"
+msgid "Coloca una <$cdef(27)><fqty(1)><$ifull(1466)></color> al lado de las <$cdef(27)><fqty(2)><$ifull(1463)></color> para<br>crear una <$cdef(27)><$hatname(21)></color> y que las <$cdef(27)><fqty(2)><class><$ifull(1461)></color><br>se detengan brevemente. Si creas varias <$cdef(27)>paradas </color>a lo largo<br>de las <$cdef(27)><fqty(2)><$ifull(1463)></color>, los Pokémon usarán las <$cdef(27)><fqty(2)><class><$ifull(1461)></color> para<br>desplazarse por cuenta propia."
+msgstr ""
+
+#. en: <oneline>First, set up a <$cdef(27)><fqty(1)><$ifull(1729)></color>. Once the <$cdef(27)>mood</color> around the<br><$cdef(27)><fqty(1)><$ifull(1729)></color> improves, you can throw a <$cdef(27)><$spwfull(23)></color>.<br>You can check the current <$cdef(27)>mood</color> by speaking to <$cdef(27)><$cname;0(274)></color>.
+msgctxt "5154:820"
+msgid "<oneline>Lo primero es colocar una <$cdef(27)><fqty(1)><$ifull(1729)></color>. Cuando el ánimo<br>alrededor de la <$cdef(27)><fqty(1)><$ifull(1729)></color> suba lo suficiente, todos<br>empezarán a <$cdef(27)><$spwfull(23)></color> y la fiesta dará comienzo.<br>Puedes preguntarle <esa;0()><$cdef(27)><$cname;0(274)> </color>cómo<br>están los ánimos."
+msgstr ""
+
+#. en: There are various ways to improve the <$cdef(27)>mood</color>.<br>・Install <$cdef(27)><fqty(2)><$ifull(3997)></color> around the area.<br>・Set up some <$cdef(27)>decorations</color>.<br>・Serve food on a <$cdef(27)><fqty(1)><$ifull(400)></color>.<br>・Get Pokémon with the <$cdef(27)><fcap><$spwfull(14)></color> specialty to start dancing.
+msgctxt "5154:821"
+msgid "Hay varias formas de mejorar el <$cdef(27)>ánimo</color>:<br>・ Colocar <$cdef(27)><fqty(2)><class><$ifull(3997)></color>.<br>・ Colocar <$cdef(27)>decoración</color>.<br>・ Colocar comida en una <$cdef(27)><fqty(1)><$ifull(400)></color>.<br>・ Pedir a un Pokémon especializado en <$cdef(27)><$spwfull(14)></color> que baile."
+msgstr ""
+
+#. en: Once the <$cdef(27)>mood</color> reaches <$cdef(27)>100</color>, have <$cdef(27)><$cname;0(216)> </color>prepare some<br>party food!
+msgctxt "5154:822"
+msgid "<oneline>Cuando el nivel de <$cdef(27)>ánimo </color>llegue a <$cdef(27)>100</color>, pídele<br><esa;0()><$cdef(27)><$cname;0(216)></color><br>que cocine algo para la fiesta."
+msgstr ""
+
+#. en: You may occasionally dig up <$cdef(27)>Pokémon fossils</color>. Some fossils are<br>made up of multiple parts, so make sure they’re assembled in the<br>proper order when displaying them on <$cdef(27)><fqty(2)><$ifull(1528)></color>!
+msgctxt "5154:826"
+msgid "A veces es posible que encuentres <$cdef(27)>fósiles de Pokémon </color>enterrados.<br>Hay algunos que están formados por varias partes, así que<br>asegúrate de ponerlos en el orden correcto cuando los coloques<br>sobre <$cdef(27)><fqty(2)><class><$ifull(1528)></color>."
+msgstr ""
+
+#. en: Some Pokémon may ask you to play “look that way.” In this game,<br>you must guess when prompted whether the Pokémon will look<br>left or right by pressing <$keyicon(222)> or <$keyicon(223)> accordingly. Guess correctly,<br>and you win the round. Guess incorrectly, and you lose.
+msgctxt "5154:1000"
+msgid "Cuando un Pokémon te invite a jugar a \"esquiva la baya\", tendrás<br>que adivinar qué dirección va a elegir al concluir la canción del<br>juego con <$keyicon(222)> o <$keyicon(223)>. Si la dirección que eliges coincide con la<br>del Pokémon, conseguirás un punto."
+msgstr ""
+
+#. en: If you have more wins than losses after three rounds, you win the<br>game. Winning will greatly increase your friendship with the<br>Pokémon. But even if you lose, your friendship still improves<br>somewhat.
+msgctxt "5154:1001"
+msgid "Si ganas al mejor de tres, te llevarás la victoria y tu relación<br>con ese Pokémon mejorará mucho. Pero no te preocupes:<br>aunque pierdas, también os haréis un poquito más amigos."
+msgstr "Si ganas al mejor de tres, te llevarás la victoria y tu relación<br>con ese Pokémon mejorará mucho. Pero no te preocupes:<br>aunque pierdas, también se harán un poquito más amigos."
+
+#. en: You can press <$keyicon(29)> while you’re in the air to transform into<br><$cdef(27)>Dragonite </color>and use <$cdef(27)><$sklfull(11)> </color>to move around. You can’t ascend<br>higher than you were when you started gliding, though!
+msgctxt "5154:1051"
+msgid "Pulsa <$keyicon(29)> cuando estés en el aire para transformarte en <$cdef(27)>Dragonite</color><br>y desplazarte usando <$cdef(27)><$sklfull(11)></color>. Ten en cuenta que no podrás<br>subir más alto de la altura a la que iniciaste la transformación."
+msgstr "Presiona <$keyicon(29)> cuando estés en el aire para transformarte en <$cdef(27)>Dragonite</color><br>y desplazarte usando <$cdef(27)><$sklfull(11)></color>. Ten en cuenta que no podrás<br>subir más alto de la altura a la que iniciaste la transformación."
+
+#. en: While transformed, you’ll gradually spend <$cdef(27)>PP</color>. You’ll transform<br>back to your usual appearance when you land.
+msgctxt "5154:1052"
+msgid "Cuando estés transformad<gen;-2(o,a)>, tus <$cdef(27)>PP</color> se irán agotando poco a poco.<br>Volverás a tu forma habitual cuando toques el suelo."
+msgstr ""
+
+#. en: You can create a <$cdef(27)>lift </color>by placing two <$cdef(27)><fqty(2)><$ifull(1457)></color> facing each<br>other at some distance. You can ride <$cdef(27)>lifts </color>to faraway places when<br>no other path is available and bring other Pokémon with you too.
+msgctxt "5154:1063"
+msgid "Si colocas dos <$cdef(27)><fqty(2)><$ifull(1457)></color> una frente a otra y<br>alejadas entre sí, se conectarán y podrás desplazarte entre ellas.<br>Con el <$cdef(27)>teleférico </color>puedes incluso llevar contigo a otros Pokémon<br>cuando no haya un camino que seguir para llegar a pie."
+msgstr ""
+
+#. en: You can’t make a <$cdef(27)>lift</color> if the <$cdef(27)><fqty(2)><$ifull(1457)></color> are too far apart, if<br>the angle between them is too steep, or if something is blocking<br>the space between them.
+msgctxt "5154:1064"
+msgid "Si colocas las <$cdef(27)><fqty(2)><class><$ifull(1457)></color> demasiado lejos<br>una de la otra, las conectas en un ángulo demasiado abrupto<br>o hay algo estorbando en el trayecto, no podrán usarse."
+msgstr ""
+
+#. en: If you vertically place <$cdef(27)><fqty(2)><$ifull(1469)></color> and connect them<br>by <$iicon(1523)><$cdef(27)>ladders</color>, you can make <$cdef(27)>elevators</color> to transport you up<br>and down.
+msgctxt "5154:1069"
+msgid "Si colocas varios <$cdef(27)><fqty(2)><$ifull(1469)></color> delante de varias<br><$cdef(27)>escaleras de mano<nbs2><$iicon(1523)></color> conectadas entre sí, crearás un <$cdef(27)>ascensor</color>.<br>Úsalo para ascender o descender."
+msgstr "Si colocas varios <$cdef(27)><fqty(2)><$ifull(1469)></color> delante de varias<br><$cdef(27)>escaleras de mano<nbs2><$iicon(1523)></color> conectadas entre sí, crearás un <$cdef(27)>elevador</color>.<br>Úsalo para ascender o descender."
+
+#. en: You can summon an <$cdef(27)>elevator</color> by pressing the button on the<br>platform. You’ll have to wait a bit for the <$cdef(27)>elevator</color> to arrive. Once<br>you’re on the <$cdef(27)>elevator</color>, use the up or down button to move to the<br>floor you want to go to.
+msgctxt "5154:1070"
+msgid "Puedes llamar al <$cdef(27)>ascensor</color> pulsando el botón del acceso, aunque<br>es posible que tarde un poco. Cuando te montes, pulsa el botón<br>de la dirección en la que quieras ir."
+msgstr "Puedes llamar al <$cdef(27)>elevador</color> presionando el botón del acceso,<br>aunque es posible que tarde un poco. Cuando te montes, presiona<br>el botón de la dirección en la que quieras ir."
+
+#. en: You can quickly climb waterfalls while using <$cdef(27)><$sklfull(10)></color> by pressing<br><$keyicon(7)> in front of the waterfall you want to climb.
+msgctxt "5154:1090"
+msgid "Mientras estés usando <$cdef(27)><$sklfull(10)></color>, pulsa <$keyicon(7)> delante de una cascada<br>para subirla a toda velocidad."
+msgstr "Mientras estés usando <$cdef(27)><$sklfull(10)></color>, presiona <$keyicon(7)> delante de una<br>cascada para subirla a toda velocidad."
+
+#. en: This is a storage box that can be locked with a passcode. Open it<br>and press <$keyicon(242)> to set a passcode.
+msgctxt "5154:1093"
+msgid "Este tipo de objeto de almacenaje se puede proteger con<br>un código. Una vez esté abierto, puedes pulsar <$keyicon(242)> para elegirlo."
+msgstr "Este tipo de objeto de almacenaje se puede proteger con<br>un código. Una vez abierto, puedes presionar <$keyicon(242)> para elegirlo."
+
+#. en: Once a passcode has been set, all players other than the one who<br>placed the box will need to enter the correct passcode to open it.<br>However, you will still be able to move or remove other players’<br>storage boxes in your own world or on Cloud Islands where you’re<br>the owner.
+msgctxt "5154:1094"
+msgid "Si proteges una caja fuerte con un código, solo podrán abrirla la<br>persona que la haya colocado y quienes conozcan el código.<br>Si alguien coloca una en un vecindario tuyo o en una Isla Nube<br>que tú hayas creado, siempre podrás recoger lo que contenga."
+msgstr ""
+
+#. en: Items placed inside will be shared between all portal pod storage<br>locations and can be accessed from any of them. This includes<br>portal pod locations in different towns but not those on Cloud<br>Islands. Portal pods on Cloud Islands will only be shared between<br>locations on the same Cloud Island.
+msgctxt "5154:1096"
+msgid "Su contenido se comparte entre terminales, así que podrás<br>acceder a todo lo que guardes dentro desde cualquiera de ellos.<br>Sin embargo, ten en cuenta que esto solo funcionará entre tus<br>vecindarios. Cuando los uses en Islas Nube, el contenido solo se<br>compartirá con otros terminales en la misma Isla Nube."
+msgstr ""
+
+#. en: Any items placed in <$cdef(27)><fqty(2)><$ifull(1373)></color> or <$cdef(27)><fqty(2)><$ifull(626)> </color>will<br>disappear the next day. This is a great way to get rid of<br>unwanted items!
+msgctxt "5154:1099"
+msgid "Todo lo que metas dentro de <$cdef(27)><fqty(2)><$ifull(1373)></color> o de<br><$cdef(27)><fqty(2)><$ifull(626)></color> desaparecerá al día siguiente.<br>Son ideales para deshacerte de cosas que te sobran."
+msgstr ""
+
+#. en: Crops don’t normally grow underwater, but you can help them<br>grow by having Pokémon cover them with bubbles. You can also<br>cover crops with bubbles by using a <$cdef(27)><fqty(1)><$ifull(517)></color>.
+msgctxt "5154:1105"
+msgid "Las plantas de la superficie no toleran bien vivir bajo el agua.<br>Necesitarás la ayuda de algún Pokémon que las oxigene con<br>burbujas para que puedan crecer. También se puede obtener<br>el mismo resultado con una <$cdef(27)><fqty(1)><$ifull(517)></color>."
+msgstr ""
+
+#. en: When playing <$cdef(27)>jump rope</color>, you can receive wonderful prizes based<br>on how many times you successfully jumped! Pull off <$cdef(27)>lots of jumps</color><br>to earn lots of prizes!
+msgctxt "5154:1198"
+msgid "En el <$cdef(27)>torneo de comba</color> podrás ganar fantásticos premios<br>dependiendo de cuántas veces saltes. ¡Consigue una puntuación<br>muy alta para ganar muchos premios!"
+msgstr "En el <$cdef(27)>torneo de salto de cuerda</color> podrás ganar fantásticos<br>premios dependiendo de cuántas veces saltes. ¡Consigue<br>una puntuación muy alta para ganar muchos premios!"
+
+#. en: Connect with other players and play <$cdef(27)>jump rope</color> with them!<br>Compete against each other for the highest score!
+msgctxt "5154:1199"
+msgid "Es posible participar en un <$cdef(27)>torneo de comba</color> con otros jugadores<br>en conexión. ¡Intentad obtener la puntuación más alta que podáis!"
+msgstr "Es posible participar en un <$cdef(27)>torneo de salto de cuerda</color> con otros<br>jugadores en conexión. ¡Intenten lograr la puntuación más alta!"
+
+#. en: You can talk to <$cdef(27)><$cname(195)> </color>to participate in <$cdef(27)>hide-and-sneak</color>. When<br>playing <$cdef(27)>hide-and-sneak</color>, you can receive wonderful prizes based<br>on how quickly you finish the round! Faster completion times will<br>net you better prizes, so do your best to get all kinds of stuff!
+msgctxt "5154:1201"
+msgid "Puedes participar en el torneo de <$cdef(27)>escondite camuflado</color> si hablas<br>con <$cdef(27)><$cname(195)></color>. Hay disponibles premios fantásticos, que serán<br>mejores cuanto menos tiempo tardes en escabullirte y ganar<br>la partida. Juega muchas veces e intenta lograr la mejor marca<br>posible para llevarte toda suerte de premios."
+msgstr ""
+
+#. en: Connect with other players and play <$cdef(27)>hide-and-sneak</color> with them!<br>Compete together to achieve a high score!
+msgctxt "5154:1202"
+msgid "El juego en conexión te permite participar en un <$cdef(27)>torneo<br>de escondite camuflado </color>con la ayuda de otros jugadores.<br>¡Intentad obtener la mejor marca de tiempo que podáis!"
+msgstr "El juego en conexión te permite participar en un <$cdef(27)>torneo<br>de escondite camuflado </color>con la ayuda de otros jugadores.<br>¡Intenten obtener la mejor marca de tiempo que puedan!"
+
+#. en: If you give a <$cdef(27)><fqty(1)><$ifull(92)> </color>to a Pokémon who is visiting from<br>another player’s world, that Pokémon will give you a <$cdef(27)>gift</color>!<br>(This cannot be done with some Pokémon.)
+msgctxt "5154:1318"
+msgid "Si le das un <$cdef(27)><fqty(1)><$ifull(92)></color> a un Pokémon que te visite<br>desde el mundo de otro jugador, te dará a cambio un <$cdef(27)>regalo</color>.<br>Esto no es posible con ciertos Pokémon."
+msgstr ""
+
+#. en: If you open a Pokémon’s <$cdef(27)>gift</color> at a vacant habitat, a new Pokémon<br>will appear—the same species as the Pokémon who gave you<br>the <$cdef(27)>gift</color>!
+msgctxt "5154:1319"
+msgid "Si abres el <$cdef(27)>regalo</color> de un Pokémon en un hábitat vacío, aparecerá<br>un Pokémon de la misma especie que el que te hizo el <$cdef(27)>regalo</color>."
+msgstr ""
+
+#. en: If you open a Pokémon’s <$cdef(27)>gift</color> at a vacant habitat, a new Pokémon<br>will appear—the same species as the Pokémon who gave you<br>the <$cdef(27)>gift</color>!
+msgctxt "5154:1321"
+msgid "Si abres el <$cdef(27)>regalo</color> de un Pokémon en un hábitat en el que no<br>viva nadie todavía, aparecerá un Pokémon de la misma especie."
+msgstr ""
+
+#. en: Pokémon you meet when you play with others may visit your<br>world afterward. You can also invite them to visit when you first<br>meet them!
+msgctxt "5154:1324"
+msgid "Es posible que los Pokémon que conozcas cuando visitas a otro<br>jugador vayan a visitar tu mundo. ¡Y también puedes invitarlos<br>tú en cuanto te los encuentres!"
+msgstr ""
+
+#. en: Pokémon visitors will bring you gifts, so don’t be afraid to invite<br>lots and lots of Pokémon!
+msgctxt "5154:1325"
+msgid "Los Pokémon siempre llevan regalitos cuando van de visita,<br>¡así que no te cortes e invita a muchos!"
+msgstr "Los Pokémon siempre llevan regalitos cuando van de visita,<br>¡así que no te limites e invita a muchos!"
+
+#. en: You can press <$keyicon(133)> to send messages and emotes or register the<br>messages and emotes that you want to send. Use messages and<br>emotes to have fun communicating with others!
+msgctxt "5154:1327"
+msgid "Pulsa <$keyicon(133)> para usar mensajes y gestos. Es posible personalizar<br>la rueda con los mensajes y gestos que prefieras.<br>¡Úsalos para comunicarte con los demás!"
+msgstr "Presiona <$keyicon(133)> para usar mensajes y gestos. Es posible<br>personalizar la rueda con los mensajes y gestos que prefieras.<br>¡Úsalos para comunicarte con los demás!"
+
+#. en: You can play with other players locally or online by selecting<br><$cdef(27)>Link Play </color>on the <$cdef(27)>PC </color>at the <$cdef(27)>Pokémon Center</color>.
+msgctxt "5154:1351"
+msgid "Elige <$cdef(27)>Juego en conexión</color> en el <$cdef(27)>PC</color> del <$cdef(27)>Centro Pokémon</color> para jugar<br>con otros jugadores mediante la comunicación local o en línea."
+msgstr ""
+
+#. en: You can invite players to your world, visit other players’ worlds, or<br>create a Cloud Island for everyone to explore together. You can<br>also use messages and emotes to communicate with each other!
+msgctxt "5154:1352"
+msgid "No solo puedes invitar a otros jugadores a tu mundo o ir a jugar<br>al suyo, sino que también puedes crear una Isla Nube para poder<br>explorarla juntos. ¡Y no olvides que tendrás a tu disposición<br>mensajes y gestos para comunicarte con los demás!"
+msgstr ""
+
+#. en: Connect with other players and have fun together!
+msgctxt "5154:1353"
+msgid "¡Conecta con otros jugadores y pasadlo en grande!"
+msgstr "¡Conecta con otros jugadores y pásenla en grande!"
+
+#. en: Select <$cdef(27)>local connection</color> to play with other players in the same<br>physical space as you, or select <$cdef(27)>online connection</color> to play with<br>players who are far away.
+msgctxt "5154:1354"
+msgid "Cuando quieras jugar con gente que se encuentre cerca, elige<br>la opción de <$cdef(27)>comunicación local</color>. Si quieres jugar a través de<br>internet con gente que se encuentre lejos, utiliza la <$cdef(27)>comunicación<br>en línea</color>."
+msgstr ""
+
+#. en: A <$cdef(27)>Link Code</color> is required when playing via Link Play. You will need<br>to either have a <$cdef(27)>Link Code</color> from another player or create your<br>own and share it with your friends. Don’t share your <$cdef(27)>Link Code</color><br>with people you don’t know!
+msgctxt "5154:1355"
+msgid "Para jugar con otros te hará falta una <$cdef(27)>contraseña</color>, así que<br>deberás crear una y dársela a tus amistades o tener la que<br>ellos hayan creado.<br>Recuerda no darle nunca la contraseña a desconocidos."
+msgstr ""
+
+#. en: These islands don’t have a story to pursue, but they are vast and<br>undeveloped, so you can build them up as you see fit! You can<br>also invite others to play via Link Play to help you develop an<br>island, or you can all visit a <$cdef(27)>Dream Island</color> together.
+msgctxt "5154:1357"
+msgid "Aquí no hay una historia que debas completar. Tienes todo este<br>espacio a tu disposición para transformarlo como quieras,<br>¡con más libertad que nunca! Puedes invitar a otros jugadores<br>a jugar en conexión para que te ayuden a modificar la zona<br>a tu gusto o para viajar juntos a una <$cdef(27)>Isla Ensueño</color>."
+msgstr ""
+
+#. en: You can also bring Pokémon from other towns to <$stgname;0(13)>.<br>There are also some Pokémon who you can only find there! Work<br>together with other players and Pokémon to create a fun and<br>lively island!
+msgctxt "5154:1358"
+msgid "<oneline>Puedes llevar Pokémon de otros lugares<br><esa;0()><$stgname;0(13)>,<br>y también hay Pokémon exclusivos que solo encontrarás en ella.<br>¡Aúna fuerzas con otros jugadores y Pokémon para llenar la zona<br>de diversión!"
+msgstr ""
+
+#. en: This mode allows you to visit a virtual version of an island made<br>by another player.<br><br>Your actions in the virtual version will not affect the other player’s<br>actual island.
+msgctxt "5154:1359"
+msgid "Si te apetece visitar la Isla Nube de otro jugador, puedes realizar<br>una visita virtual tú sol<gen;-2(o,a)>. Tus acciones durante la visita virtual<br>no tendrán ningún efecto en la isla del otro jugador."
+msgstr "Si quieres visitar la Isla Nube de otro jugador, puedes realizar<br>una visita virtual tú sol<gen;-2(o,a)>. Tus acciones durante la visita virtual<br>no tendrán ningún efecto en la isla del otro jugador."
+
+#. en: You can use GameShare to share your game with someone else<br>and play with them. To play locally with other players, select<br>“<$cdef(27)>With nearby players</color>.” To play online with other players, select<br>“<$cdef(27)>Via GameChat</color>.”
+msgctxt "5154:1360"
+msgid "GameShare te permite compartir el juego con otra persona<br>para jugar juntos. Cuando quieras jugar con alguien mediante<br>la comunicación local, selecciona <$cdef(27)>Con alguien cercano</color>, y si<br>prefieres jugar a través de internet, selecciona <$cdef(27)>A través de<br>GameChat</color>."
+msgstr ""
+
+#. en: You can play in Palette Town using GameShare.<br>Note: You will not be able to play in spectator mode or move<br>between areas. Certain other features will also be limited.
+msgctxt "5154:1361"
+msgid "Cuando uses GameShare, podréis divertiros en la Pradera Paleta.<br>Recuerda que no podrás usar el modo observación ni desplazarte<br>a otras áreas, y que algunas de las funciones del juego no estarán<br>disponibles."
+msgstr "Cuando uses GameShare, podrán divertirse en la Pradera Paleta.<br>Recuerda que no podrás usar el modo observación ni desplazarte<br>a otras áreas, y que algunas de las funciones del juego no estarán<br>disponibles."
+
+#. en: You can end GameShare from the <$cdef(27)>PC</color> at a <$cdef(27)>Pokémon Center</color> or by<br>pressing <$keyicon(227)> in the <$keyicon(4)> menu. Items from players who joined the<br>shared game will be added to your <$cdef(27)><fqty(1)><$ifull(1442)></color> after the<br>connection is terminated.
+msgctxt "5154:1362"
+msgid "Puedes finalizar la conexión GameShare mediante el PC del<br>Centro Pokémon o pulsando <$keyicon(227)> en el menú <$keyicon(4)>.<br>Al finalizar la conexión, los objetos de los jugadores que<br>participaban en ella se guardarán en el <$cdef(27)><fqty(1)><$ifull(1442)></color>."
+msgstr "Puedes finalizar la conexión GameShare mediante el PC del<br>Centro Pokémon o presionando <$keyicon(227)> en el menú <$keyicon(4)>.<br>Al finalizar la conexión, los objetos de los jugadores que<br>participaban en ella se guardarán en el <$cdef(27)><fqty(1)><$ifull(1442)></color>."
+
+#. en: This mode allows you to visit a virtual version of another player’s<br><$cdef(27)>Cloud Island</color>. Your actions in the virtual version <$cdef(27)>will not affect the<br>other player’s actual Cloud Island on their end</color>.
+msgctxt "5154:1363"
+msgid "Este modo te permite realizar una visita virtual de la <$cdef(27)>Isla Nube<br></color>de otros jugadores. Tus acciones durante la visita virtual <$cdef(27)>no<br>afectarán al estado de la Isla Nube del otro jugador</color>."
+msgstr ""
+
+#. en: In virtual mode, you can see how players all over the world are<br>developing their islands and get inspiration.<br><br>However, this mode does not allow you to bring your Pokémon<br>friends with you.
+msgctxt "5154:1364"
+msgid "¡Visitar las islas de jugadores de todo el mundo puede servirte<br>como inspiración para decorar la tuya propia!<br>Ten en cuenta que no podrás llevar a Pokémon contigo durante<br>la visita virtual."
+msgstr ""
+
+#. en: You can invite other players to your town to show off what you’ve<br>made and all the Pokémon you’ve befriended! Other players can<br>also help you develop your town.
+msgctxt "5154:1369"
+msgid "Invita a otros jugadores a tu mundo, ya sea para presumir de él,<br>para presentarles a los Pokémon que viven contigo o para que<br>te ayuden a decorarlo."
+msgstr ""
+
+#. en: You can go to other players’ towns and play with them, or check<br>out how they’ve built their town and get new ideas for your own!<br>You can even help them build if they’re in Palette Town!
+msgctxt "5154:1372"
+msgid "Puedes visitar los mundos de otros jugadores para jugar con ellos,<br>ver qué han estado haciendo por su cuenta y tomar inspiración.<br><br>Si te invitan a una Pradera Paleta, ¡también podrás ayudarles<br>a construir y decorar!"
+msgstr "Puedes visitar los mundos de otros jugadores para jugar con ellos,<br>ver qué han estado haciendo por su cuenta y tomar inspiración.<br><br>Si te invitan a una Pradera Paleta, ¡también podrás ayudarlos<br>a construir y decorar!"
+
+#. en: Cloud Islands exist in a different world of their own. Players who<br>know your Cloud Island’s <$cdef(27)>address </color>and <$cdef(27)>Link Code </color>can play there<br>even when you aren’t around. Work with friends to create your<br>own unique island!
+msgctxt "5154:1375"
+msgid "Las Islas Nube forman parte de un mundo distinto al habitual.<br>Cada una tiene una <$cdef(27)>dirección</color> que, junto a la <$cdef(27)>contraseña</color>, permite<br>a otros jugadores visitarla incluso aunque su creador no esté.<br>Juega con tus amigos para crear islas que sean perfectas para<br>vosotros."
+msgstr "Las Islas Nube forman parte de un mundo distinto al habitual.<br>Cada una tiene una <$cdef(27)>dirección</color> que, junto a la <$cdef(27)>contraseña</color>, permite<br>a otros jugadores visitarla incluso aunque su creador no esté.<br>Juega con tus amigos para crear islas que sean perfectas para<br>ustedes."
+
+#. en: To create a new Cloud Island, simply select<br>“<$cdef(27)>Create a new Cloud Island</color>.”
+msgctxt "5154:1376"
+msgid "Para crear tu propia Isla Nube, usa la opción <$cdef(27)>Crear una Isla Nube</color>."
+msgstr ""
+
+#. en: You can also buy items from a Cloud Island’s <$cdef(27)>PC shop</color>. Though<br>purchased items can’t be brought back to your world, you’ll still<br>remember any <$cdef(27)>recipes</color> you learned, so you can craft those items<br>even after you’ve returned home.
+msgctxt "5154:1393"
+msgid "Es posible acceder a la <$cdef(27)>tienda </color>del <$cdef(27)>PC </color>desde una Isla Nube.<br>Los objetos que compres no podrán salir de esa isla, pero si<br>aprendes las <$cdef(27)>instrucciones </color>para fabricar algo, podrás usarlas<br>cuando regreses a tu mundo."
+msgstr ""
+
+#. en: Downloadable content will be reflected on the Cloud Island<br>where you are the owner.
+msgctxt "5154:1396"
+msgid "El contenido descargable se aplicará también a tu Isla Nube."
+msgstr ""
+
+#. en: Changes due to downloadable content will take effect when you<br>visit your Cloud Island. If others are playing on the island at that<br>time, their sessions will end.
+msgctxt "5154:1397"
+msgid "La próxima vez que visites tu Isla Nube, se añadirá el contenido<br>descargable. En caso de que haya visitantes en ella, se disolverá<br>el grupo antes de aplicar los cambios."
+msgstr ""
+
+#. en: If you delete downloadable content data from your system, that<br>content will become unavailable on your Cloud Island. However,<br>you will keep any items obtained through that content.
+msgctxt "5154:1398"
+msgid "Ten en cuenta que, si eliminas los datos del contenido<br>descargable, ya no se podrá acceder a ellos en tu Isla Nube.<br>Los objetos conseguidos hasta el momento sí se conservarán."
+msgstr ""
+
+#. en: If you give <$cdef(27)><fqty(2)><$ifull(436)></color> to a Pokémon with the <$cdef(27)><fcap><$spwfull(37)></color><br>specialty, they will turn them into <$cdef(27)><fqty(2)><$ifull(435)></color> for you.
+msgctxt "5154:1402"
+msgid "Si le das <$cdef(27)><fqty(2)><class><$ifull(436)> </color>a un Pokémon cuya especialidad sea<br><$cdef(27)><$spwfull(37)></color>, les dará lustre y te entregará <$cdef(27)><fqty(2)><class><$ifull(435)></color>."
+msgstr ""
+
+#. en: Pokémon with this specialty will also clean up other nearby<br>Pokémon during their free time. If you’re traveling with a Pokémon<br>who has this specialty, just stand near another Pokémon and they<br>will make that Pokémon squeaky clean. This will also make Ditto<br>better friends with the newly cleaned Pokémon!
+msgctxt "5154:1403"
+msgid "Además, cuando tengan tiempo libre, se dedicarán a limpiar<br>a los demás Pokémon que tengan alrededor.<br>Si le pides a un Pokémon con esta especialidad que te acompañe<br>y te paras delante de algún otro Pokémon, lo dejará bien limpito<br>y esto mejorará vuestro nivel de amistad."
+msgstr "Además, cuando tengan tiempo libre, se dedicarán a limpiar<br>a los demás Pokémon que tengan alrededor.<br>Si le pides a un Pokémon con esta especialidad que te acompañe<br>y te paras delante de algún otro Pokémon, lo dejará bien limpito<br>y esto mejorará su nivel de amistad."
+
+#. en: You may sometimes find sparkling whirlpools underwater.<br>Inspect them to get items!
+msgctxt "5154:1405"
+msgid "A veces verás unos remolinos relucientes debajo del agua.<br>Examínalos y conseguirás algún objeto."
+msgstr ""
+
+#. en: Pokémon with the <$cdef(27)><fcap><$spwfull(8)></color> specialty will cover nearby underwater<br>crops with bubbles in their free time. If you’re traveling with a<br>Pokémon who has this specialty, just stand near some crops and<br>they will cover them with bubbles for you.
+msgctxt "5154:1408"
+msgid "Los Pokémon cuya especialidad sea <$cdef(27)><$spwfull(8)></color> oxigenarán<br>con burbujas las plantas que encuentren bajo el agua cuando<br>tengan tiempo. También puedes pedirles que te acompañen<br>y pararte delante de la planta que quieras que oxigenen."
+msgstr ""
+
+#. en: If you give a <$cdef(27)><fqty(1)><$ifull(520)></color> to a Pokémon with the <$cdef(27)><fcap><$spwfull(15)></color><br>specialty, they will cut it into <$cdef(27)><fqty(2)><$ifull(521)></color> for you.
+msgctxt "5154:1411"
+msgid "Si le das <$cdef(27)><fqty(2)><class><$ifull(520)> </color>a un Pokémon cuya especialidad sea<br><$cdef(27)><$spwfull(15)></color>, las troceará hábilmente y te entregará<br><$cdef(27)><fqty(2)><$ifull(521)></color>."
+msgstr "Si le das <$cdef(27)><fqty(2)><class><$ifull(520)> </color>a un Pokémon cuya especialidad sea<br><$cdef(27)><$spwfull(15)></color>, las cortará hábilmente y te entregará<br><$cdef(27)><fqty(2)><$ifull(521)></color>."
+
+#. en: If you use a <$cdef(27)>building kit </color>while using Dive, you can <$cdef(27)><$spwfull(1)></color><br>floating structures in or on the water.<br>(Certain structures can’t be <$spwicon(1)><$cdef(27)>built </color>in water.)
+msgctxt "5154:1414"
+msgid "Si colocas un <$cdef(27)>kit de construcción</color> mientras usas <$cdef(27)>Buceo</color>, podrás<br><$cdef(27)><$spwfull(1)> </color>estructuras sobre la superficie del agua o bajo ella,<br>aunque no todas se pueden <$cdef(27)><$spwfull(1)> </color>bajo el agua."
+msgstr ""
+
+#. en: Throwing a <$cdef(27)><$spwfull(23)></color> makes it easier to meet new Pokémon or<br>become friendlier with Pokémon you already know. A <$cdef(27)><$spwfull(23)></color><br>only lasts one day, but you can throw another one whenever you<br>want by setting everything up again!
+msgctxt "5154:1501"
+msgid "Durante una <$cdef(27)>fiesta<nbs2><$spwicon(23)> </color>te será más fácil conocer a Pokémon<br>nuevos y mejorar tu nivel de amistad con los que ya conoces.<br>Las <$cdef(27)>fiestas<nbs2><$spwicon(23)> </color>solo duran un día, ¡pero puedes organizar otra<br>cuando quieras si te encargas de los preparativos otra vez!"
+msgstr ""
+
+#. en: <$cdef(27)><fcap><fqty(2)><$ifull(1378)></color> use water to produce electricity. After you set one<br>up, you’ll need a constant flow of water against the bottom of the<br>wheel to generate electricity.
+msgctxt "5154:1502"
+msgid "Un <$cdef(27)><fqty(1)><$ifull(1378)> </color>produce electricidad gracias al agua.<br>Para ponerlo en marcha, debes asegurarte de que haya agua<br>o algún otro líquido fluyendo bajo la rueda para hacerla girar."
+msgstr ""
+
+#. en: <$cdef(27)><fcap><fqty(2)><$ifull(1377)></color> use fire to produce electricity. You can power them<br>by feeding them <$cdef(27)><fqty(2)><$ifull(1482)></color>, <$cdef(27)><fqty(2)><$ifull(565)></color>, and other burnable<br>materials as fuel. Furnaces generate a lot of electricity but will<br>stop working if they run out of fuel.
+msgctxt "5154:1503"
+msgid "Un <$cdef(27)><fqty(1)><$ifull(1377)> </color>produce electricidad gracias al fuego.<br>Coloca en su interior materiales combustibles, como <$cdef(27)><fqty(2)><$ifull(565)></color><br>o <$cdef(27)><fqty(2)><$ifull(1482)></color>, para ponerlo en marcha.<br>Ten en cuenta que, aunque produce mucha energía, dejará<br>de funcionar en cuanto se quede sin materiales que quemar."
+msgstr ""
+
+#. en: With a Joy-Con 2 (R) mouse, you can spit out items with <$keyicon(84)> and<br>use Rock Smash with <$keyicon(85)>. With a Joy-Con 2 (L) mouse, you can<br>spit out items with <$keyicon(86)> and use Rock Smash with <$keyicon(87)>. Note that<br>the original button assignments will be swapped out.
+msgctxt "5154:1504"
+msgid "Cuando estés usando el modo ratón con el Joy-Con 2 derecho,<br>pulsa <$keyicon(84)> para escupir y <$keyicon(85)> para utilizar Golpe Roca; y cuando<br>lo estés usando con el Joy-Con 2 izquierdo, pulsa <$keyicon(86)> para<br>escupir y <$keyicon(87)> para utilizar Golpe Roca. Las acciones asignadas<br>previamente a esos botones cambiarán automáticamente."
+msgstr "Cuando estés usando el modo mouse con el Joy-Con 2 derecho,<br>presiona <$keyicon(84)> para escupir y <$keyicon(85)> para utilizar Golpe Roca; y<br>cuando lo estés usando con el Joy-Con 2 izquierdo, presiona <$keyicon(86)><br>para escupir y <$keyicon(87)> para utilizar Golpe Roca. Las acciones<br>asignadas previamente a esos botones cambiarán automáticamente."
+
+#. en: While underwater, you can press <$keyicon(61)> to dive deeper or <$keyicon(60)> to<br>float higher.
+msgctxt "5154:1505"
+msgid "Cuando estés bajo el agua, pulsa <$keyicon(61)> para descender<br>y <$keyicon(60)> para ascender."
+msgstr "Cuando estés bajo el agua, presiona <$keyicon(61)> para<br>descender y <$keyicon(60)> para ascender."
+
+#. en: When <$cdef(27)><$sklfull(10)></color> is powered up, you can press <$keyicon(1)> to create a<br>whirlpool and break things, such as dirt and rocks.<br>If <$cdef(27)><$sklfull(4)> </color>is powered up at the same time, you can break<br>even harder materials.
+msgctxt "5154:1506"
+msgid "Pulsa <$keyicon(1)> con el movimiento <$cdef(27)><$sklfull(10)></color> potenciado para crear<br>remolinos con los que romper obstáculos como tierra o rocas.<br>Si, además, potencias también el movimiento <$cdef(27)><$sklfull(4)></color>,<br>podrás romper cosas aún más duras."
+msgstr "Presiona <$keyicon(1)> con el movimiento <$cdef(27)><$sklfull(10)></color> potenciado para crear<br>remolinos con los que romper obstáculos como tierra o rocas.<br>Si, además, potencias también el movimiento <$cdef(27)><$sklfull(4)></color>,<br>podrás romper cosas aún más duras."

@@ -1,0 +1,276 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 5100 (es-ES slot); English reference: record 5096.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 5100\n"
+"X-Ldtool-English-Record: 5096\n"
+
+#. en: Pick up a <$cdef(27)><fqty(1)><$iname(2340)> </color>and give it to <$cdef(27)><$cname;0(13)> </color>or <$cdef(27)><$cname;1(28)></color>!
+msgctxt "5100:1"
+msgid "<oneline>Recoge <$cdef(27)><fqty(2)><$iname(2340)> </color>y dáselas <esa;0()><$cdef(27)><$cname;0(13)><br></color>o <esa;1()><$cdef(27)><$cname;1(28)></color>."
+msgstr ""
+
+#. en: Place the <$cdef(27)><fqty(1)><$iname(1985)> </color>next to <$cdef(27)><$cname;0(44)> </color>and sit on it!
+msgctxt "5100:2"
+msgid "<oneline>Coloca la <$cdef(27)><fqty(1)><$iname(1985)></color> cerca <esde;0()><$cdef(27)><$cname;0(44)><br></color>y siéntate."
+msgstr ""
+
+#. en: Follow <$cdef(27)><$cname;0(28)></color>!
+msgctxt "5100:3"
+msgid "Sigue <esa;0()><$cdef(27)><$cname;0(28)></color>."
+msgstr ""
+
+#. en: Make a <$cdef(27)><fqty(1)><$iname(1280)> </color>at the <$cdef(27)><fqty(1)><$iname(764)></color> and place it near <$cdef(27)><$cname;0(44)></color>!
+msgctxt "5100:4"
+msgid "<oneline>Fabrica una <$cdef(27)><fqty(1)><$iname(1280)></color> en la <$cdef(27)><fqty(1)><$iname(764)></color> y colócala cerca<br><esde;0()><$cdef(27)><$cname;0(44)></color>."
+msgstr ""
+
+#. en: Make a <$cdef(27)><$hatname(3)> </color>habitat and find a Pokémon who can use fire!
+msgctxt "5100:5"
+msgid "Crea el hábitat <$cdef(27)><$hatname(3)></color> para encontrarte a un Pokémon que<br>maneje el fuego."
+msgstr ""
+
+#. en: Talk to <$cdef(27)><$cname(47)> </color>and select “<$cdef(27)>Follow me!</color>” or press <$keyicon(214)> to bring<br>them to the <$cdef(27)><fqty(1)><$iname(1280)></color>!
+msgctxt "5100:6"
+msgid "Lleva a <$cdef(27)><$cname(47)></color> hasta la <$cdef(27)><fqty(1)><$iname(1280)> </color>pulsando <$keyicon(214)> o pidiéndole que<br><$cdef(27)>te siga</color>."
+msgstr "Lleva a <$cdef(27)><$cname(47)></color> hasta la <$cdef(27)><fqty(1)><$iname(1280)> </color>presionando <$keyicon(214)> o pidiéndole<br>que <$cdef(27)>te siga</color>."
+
+#. en: Follow <$cdef(27)><$cname;0(44)></color>!
+msgctxt "5100:7"
+msgid "Sigue <esa;0()><$cdef(27)><$cname;0(44)></color>."
+msgstr ""
+
+#. en: Investigate the <$cdef(27)>PC </color>at the <$cdef(27)>Pokémon Center</color>!
+msgctxt "5100:8"
+msgid "Examina el <$cdef(27)>PC</color> del <$cdef(27)>Centro Pokémon</color>."
+msgstr ""
+
+#. en: Clear three <$cdef(27)>challenges </color>and report them on the <$cdef(27)>PC</color>!
+msgctxt "5100:9"
+msgid "Completa <$cdef(27)>3</color> <$cdef(27)>retos</color> e informa de los resultados en el <$cdef(27)>PC</color>."
+msgstr ""
+
+#. en: Raise <$cdef(27)><$cname(28)></color>’s <$cdef(27)>comfort level</color> and unlock new <$cdef(27)>challenges</color>!
+msgctxt "5100:10"
+msgid "Mejora el <$cdef(27)>nivel de confort</color> de <$cdef(27)><$cname(28)></color> para desbloquear<br>nuevos <$cdef(27)>retos</color>."
+msgstr ""
+
+#. en: Find <$cdef(27)><$cname(37)> </color>and bring them to <$cdef(27)><$cname;0(44)></color>!
+msgctxt "5100:11"
+msgid "<oneline>Encuentra a un <$cdef(27)><$cname(37)> </color>y llévalo junto<br><esa;0()><$cdef(27)><$cname;0(44)></color>."
+msgstr ""
+
+#. en: Bring <$cdef(27)><$cname(47)> </color>to <$cdef(27)><$cname;0(44)></color>!
+msgctxt "5100:12"
+msgid "Lleva a <$cdef(27)><$cname(47)> </color>junto <esa;0()><$cdef(27)><$cname;0(44)></color>."
+msgstr ""
+
+#. en: Make a <$cdef(27)><$hatname(3)></color> habitat, then invite <$cdef(27)><$cname;0(13)> </color>to live there!
+msgctxt "5100:13"
+msgid "<oneline>Crea el hábitat <$cdef(27)><$hatname(3)></color> para que<br><dart;0()><$cdef(27)><$cname;0(13)> </color>viva en él."
+msgstr ""
+
+#. en: Learn <$cdef(27)><$sklname(4)></color> from <$cdef(27)><$cname;0(166)></color>!
+msgctxt "5100:14"
+msgid "<oneline>Aprende <$cdef(27)><$sklname(4)> </color>con la ayuda<br><esde;0()><$cdef(27)><$cname;0(166)></color>."
+msgstr ""
+
+#. en: Bust open the cave walls to rescue <$cdef(27)><$cname(17)></color>!
+msgctxt "5100:15"
+msgid "Rompe las paredes de la cueva para ayudar a <$cdef(27)><$cname(17)> </color>a salir."
+msgstr ""
+
+#. en: Buy a <$cdef(27)><fqty(1)><$iname(95)></color> from the <$cdef(27)>PC</color> <$cdef(27)>shop </color>and <$cdef(27)><$spwname(1)> </color>it!
+msgctxt "5100:16"
+msgid "Compra un <$cdef(27)><fqty(1)><$iname(95)> </color>en la <$cdef(27)>tienda </color>del <$cdef(27)>PC</color> y completa<br>su <$cdef(27)>construcción</color>."
+msgstr ""
+
+#. en: Raise the <$cdef(27)>environment level </color>to <$cdef(27)>three </color>so you can buy the<br><$cdef(27)><fqty(1)><$iname(326)></color>!
+msgctxt "5100:17"
+msgid "Aumenta la <$cdef(27)>calidad del entorno</color> al nivel <$cdef(27)>3</color> para poder comprar<br>un <$cdef(27)><fqty(1)><class><$iname(326)></color>."
+msgstr ""
+
+#. en: Investigate the cave by the beach!
+msgctxt "5100:18"
+msgid "Investiga la cueva que hay cerca de la playa."
+msgstr ""
+
+#. en: Ask <$cdef(27)><$cname;0(44)> </color>how to break the walls around <$cdef(27)><$cname(17)></color>!
+msgctxt "5100:19"
+msgid "<oneline>Consulta con <dart;0()><$cdef(27)><$cname;0(44)> </color>cómo romper<br>la pared donde está atrapado <$cdef(27)><$cname(17)></color>."
+msgstr ""
+
+#. en: Investigate the mysterious machine attached to the building on<br>the beach!
+msgctxt "5100:20"
+msgid "Investiga la máquina extraña acoplada al edificio del litoral."
+msgstr ""
+
+#. en: Block the flow of water so you can use the <$cdef(27)>PC </color>at the<br><$cdef(27)>Pokémon Center</color>!
+msgctxt "5100:21"
+msgid "Detén el flujo del agua para poder usar el <$cdef(27)>PC </color>del <$cdef(27)>Centro Pokémon</color>."
+msgstr ""
+
+#. en: Find the <$cdef(27)>Pokémon Center</color> and bring <$cdef(27)><$cname;0(44)> </color>to it!
+msgctxt "5100:22"
+msgid "<oneline>Lleva <esa;0()><$cdef(27)><$cname;0(44)> </color>a ver el <$cdef(27)>Centro Pokémon</color>."
+msgstr ""
+
+#. en: Bring <$cdef(27)><$cname;0(44)> </color>and the other Pokémon to see <$cdef(27)><$cname;1(272)></color>!
+msgctxt "5100:23"
+msgid "<oneline>Lleva <esa;0()><$cdef(27)><$cname;0(44)></color> y demás adonde está<br><dart;1()><$cdef(27)><$cname;1(272)></color>."
+msgstr ""
+
+#. en: Check if <$cdef(27)><$cname;0(272)></color> is awake now that the town is brighter!
+msgctxt "5100:24"
+msgid "<oneline>Comprueba si <dart;0()><$cdef(27)><$cname;0(272)></color> se ha despertado<br>cuando haya luz."
+msgstr "<oneline>Comprueba si <dart;0()><$cdef(27)><$cname;0(272)></color> se despertó<br>cuando haya luz."
+
+#. en: Make habitats and meet <$cdef(27)>two </color>new Pokémon!
+msgctxt "5100:25"
+msgid "Crea hábitats para que regresen <$cdef(27)>2</color> Pokémon nuevos."
+msgstr ""
+
+#. en: Learn from <$cdef(27)><$cname;0(36)> </color>how to swim, then go swimming with <$cdef(27)><$cname;1(118)></color>!
+msgctxt "5100:26"
+msgid "<oneline>Pide <esa;0()><$cdef(27)><$cname;0(36)></color> que te enseñe a nadar y sal<br>a nadar con <dart;1()><$cdef(27)><$cname;1(118)></color>."
+msgstr ""
+
+#. en: Provide lots of electricity to the <$cdef(27)><$bname(32)> </color>to power it on!
+msgctxt "5100:27"
+msgid "Carga de electricidad el <$cdef(27)><$bname(32)> </color>para que se encienda."
+msgstr ""
+
+#. en: Improve the <$cdef(27)>comfort levels</color> of Pokémon to raise the <$cdef(27)>environment<br>level </color>to <$cdef(27)>three</color>!
+msgctxt "5100:28"
+msgid "Mejora el <$cdef(27)>nivel de confort</color> de los Pokémon para aumentar<br>la <$cdef(27)>calidad del entorno</color> al nivel <$cdef(27)>3</color>."
+msgstr ""
+
+#. en: Bring <$cdef(27)><$cname(118)></color> with you to ask the professor about Pokémon who<br>can swim!
+msgctxt "5100:29"
+msgid "Ve con <$cdef(27)><$cname(118)> </color>junto al profesor para consultarlo acerca de los<br>Pokémon que saben nadar."
+msgstr ""
+
+#. en: Move the <$cdef(27)>PC </color>over the power source to use it!
+msgctxt "5100:41"
+msgid "Mueve el <$cdef(27)>PC</color> a la fuente de energía para ponerlo en marcha."
+msgstr ""
+
+#. en: Use a <$cdef(27)><fqty(1)><$iname(1301)></color> to make a <$cdef(27)>salad</color>!
+msgctxt "5100:42"
+msgid "Prepara una <$cdef(27)>ensalada</color> con la <$cdef(27)><fqty(1)><$iname(1301)></color>."
+msgstr ""
+
+#. en: Use a <$cdef(27)><fqty(1)><$iname(1302)> </color>to make <$cdef(27)>bread</color>, then eat it!
+msgctxt "5100:43"
+msgid "Prepara un <$cdef(27)>pan</color> en el <$cdef(27)><fqty(1)><$iname(1302)> </color>y cómetelo."
+msgstr ""
+
+#. en: Use <$cdef(27)>Strength</color> to move the huge rock to the designated location!
+msgctxt "5100:45"
+msgid "Usa <$cdef(27)>Fuerza</color> para llevar la roca hasta el lugar indicado."
+msgstr ""
+
+#. en: Go deeper into the mountain to find the source of the music!
+msgctxt "5100:46"
+msgid "Adéntrate en la montaña hasta descubrir de dónde proviene<br>la música."
+msgstr ""
+
+#. en: Find a Pokémon who knows about <$cdef(27)><$cname(59)></color> and talk to them!
+msgctxt "5100:47"
+msgid "Encuentra a algún Pokémon que conozca a <$cdef(27)><$cname(59)> </color>y habla con él."
+msgstr ""
+
+#. en: Make a <$cdef(27)><$hatname(139)></color> habitat, then talk to <$cdef(27)><$cname(59)></color>!
+msgctxt "5100:48"
+msgid "Crea el hábitat <$cdef(27)><$hatname(139)> </color>y habla con <$cdef(27)><$cname(59)></color>."
+msgstr ""
+
+#. en: Investigate the <$cdef(27)>PC </color>at the <$cdef(27)>Pokémon Center</color>!
+msgctxt "5100:49"
+msgid "Examina el <$cdef(27)>PC</color> del <$cdef(27)>Centro Pokémon</color>."
+msgstr ""
+
+#. en: Follow <$cdef(27)><$cname(341)></color>!
+msgctxt "5100:50"
+msgid "Sigue al <$cdef(27)><$cname(341)></color>."
+msgstr ""
+
+#. en: Power up <$cdef(27)><$sklfull(5)></color> to slice through the <$cdef(27)><fqty(1)><$iname(2079)></color> holding the barrel!
+msgctxt "5100:51"
+msgid "Potencia el movimiento <$cdef(27)><$sklfull(5)> </color>y úsalo para partir la <$cdef(27)><fqty(1)><$iname(2079)><br></color>de la que pende el barril."
+msgstr ""
+
+#. en: Make homes for Pokémon and raise the <$cdef(27)>environment level</color> to <$cdef(27)>three</color>!
+msgctxt "5100:52"
+msgid "Crea hogares para los Pokémon y aumenta la <$cdef(27)>calidad del entorno<br></color>hasta el <$cdef(27)>nivel 3</color>."
+msgstr ""
+
+#. en: Make a <$cdef(27)><$hatname(226)></color> habitat, then talk to <$cdef(27)><$cname(63)></color>!
+msgctxt "5100:53"
+msgid "Crea el hábitat <$cdef(27)><$hatname(226)> </color>y habla con <$cdef(27)><$cname(63)></color>."
+msgstr ""
+
+#. en: Use a <$cdef(27)><fqty(1)><$ifull(1304)></color> to make <$cdef(27)>hamburger steak</color> and chow down!
+msgctxt "5100:54"
+msgid "Prepara una <$cdef(27)>hamburguesa</color> en la <$cdef(27)><fqty(1)><$ifull(1304)> </color>y cómetela."
+msgstr ""
+
+#. en: Power up <$cdef(27)><$sklfull(5)></color> and destroy the fence blocking the path!
+msgctxt "5100:55"
+msgid "Potencia el movimiento <$cdef(27)><$sklfull(5)></color> y úsalo para romper la valla<br>que bloquea el camino."
+msgstr ""
+
+#. en: Make homes for Pokémon and raise the <$cdef(27)>environment<br>level</color> to <$cdef(27)>three</color>!
+msgctxt "5100:61"
+msgid "Crea hogares para los Pokémon y aumenta la <$cdef(27)>calidad del entorno<br></color>hasta el <$cdef(27)>nivel 3</color>."
+msgstr ""
+
+#. en: Make <$cdef(27)>six</color> <$cdef(27)><fqty(2)><class><$iname(118)> </color>and show them to<br><$cdef(27)><$cname;0(215)></color>!
+msgctxt "5100:62"
+msgid "<oneline>Fabrica <$cdef(27)>6</color> <$cdef(27)><fqty(2)><class><$iname(118)></color> y enséñaselas<br><esa;0()><$cdef(27)><$cname;0(215)></color>."
+msgstr ""
+
+#. en: Learn how to fly by talking to <$cdef(27)><$cname(151)></color>!
+msgctxt "5100:65"
+msgid "Pídele a <$cdef(27)><$cname(151)></color> que te enseñe a surcar los cielos."
+msgstr ""
+
+#. en: Wait for <$cdef(27)><$cname(215)> </color>to finish making a <$cdef(27)><fqty(1)><$iname(119)></color>!
+msgctxt "5100:73"
+msgid "Espera a que la <$cdef(27)><$cname(215)> </color>termine de fabricar<br>los <$cdef(27)><fqty(2)><$iname(119)></color>."
+msgstr ""
+
+#. en: Follow <$cdef(27)><$cname(215)> </color>to the <$cdef(27)><fqty(1)><$iname(1457)> </color>setup location!
+msgctxt "5100:74"
+msgid "Sigue a la <$cdef(27)><$cname(215)> </color>hasta donde hay que<br>colocar la <$cdef(27)><fqty(1)><$iname(1457)></color>."
+msgstr ""
+
+#. en: Go to the island across the sea that <$cdef(27)><$cname;0(44)> </color>spotted!
+msgctxt "5100:80"
+msgid "<oneline>Acércate a explorar el islote que ha aparecido en el mar,<br>según <dart;0()><$cdef(27)><$cname;0(44)></color>."
+msgstr "<oneline>Acércate a explorar el islote que apareció en el mar,<br>según <dart;0()><$cdef(27)><$cname;0(44)></color>."
+
+#. en: Take <$cdef(27)><$cname(562)> </color>and find the gate to the town in the sea basin!
+msgctxt "5100:81"
+msgid "Lleva a <$cdef(27)><$cname(562)> </color>contigo y encuentra el pasaje de acceso que<br>conduce al vecindario en el fondo del mar."
+msgstr ""
+
+#. en: Make homes for Pokémon and raise the <$cdef(27)>environment level</color> to <$cdef(27)>three</color>!
+msgctxt "5100:82"
+msgid "Crea hogares para los Pokémon y aumenta la <$cdef(27)>calidad del entorno</color><br>hasta el <$cdef(27)>nivel 3</color>."
+msgstr ""
+
+#. en: Bring <$cdef(27)><$cname(13)></color> to the <$cdef(27)><$hatname(152)></color>!
+msgctxt "5100:91"
+msgid "Guía a <$cdef(27)><$cname(13)> </color>hasta el <$cdef(27)><$hatname(152)></color>."
+msgstr ""

@@ -1,0 +1,43 @@
+POKÉMON POKOPIA: ESPAÑOL (LATINOAMÉRICA)
+========================================
+
+Agrega un décimo idioma al juego: español latinoamericano.
+
+QUÉ NECESITAS
+-------------
+- Eglantine (el fork de Eden para juegos de Switch 2).
+- Tu propia copia de Pokémon Pokopia, actualizada a la versión 2.0.1,
+  extraída en carpetas: exefs\ y romfs\ (una al lado de la otra).
+
+INSTALACIÓN
+-----------
+1. Copia el archivo exefs\subsdk9 de este zip dentro de la carpeta
+   exefs\ de tu juego, al lado del archivo "main".
+
+2. Copia la carpeta 0400A3A01EE4C000 de este zip dentro de:
+
+       %APPDATA%\eden\load\
+
+   Tiene que quedar así:
+
+       %APPDATA%\eden\load\0400A3A01EE4C000\ES-LATAM\exefs\
+       %APPDATA%\eden\load\0400A3A01EE4C000\ES-LATAM\romfs\
+
+3. En Eglantine, abre el juego desde el archivo exefs\main
+   (Archivo > Cargar archivo..., o desde la lista de juegos).
+
+4. En la pantalla de idiomas, elige el décimo botón (abajo a la derecha):
+   Español (Latinoamérica). ¡Listo!
+
+IMPORTANTE
+----------
+- La pantalla de idiomas solo aparece al empezar una partida nueva.
+  Si ya tienes una partida guardada, no la vas a ver.
+- Solo funciona con la versión 2.0.1 del juego.
+- No dejes la carpeta ES-LATAM instalada si sacas el subsdk9:
+  el juego se cierra al arrancar.
+
+DESINSTALAR
+-----------
+Borra la carpeta ES-LATAM. El subsdk9 puede quedarse: sin el mod no hace
+nada y el juego funciona normal.

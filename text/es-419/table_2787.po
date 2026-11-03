@@ -1,0 +1,91 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 2787 (es-ES slot); English reference: record 2783.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 2787\n"
+"X-Ldtool-English-Record: 2783\n"
+
+#. en: ... ... ...
+msgctxt "2787:0"
+msgid "..."
+msgstr ""
+
+#. en: It’s not responding.
+msgctxt "2787:1"
+msgid "No reacciona..."
+msgstr ""
+
+#. en: <$voicel(3,10)><$comeff(3,5)><$textsize(2)>BOO, YO!</textsize>
+msgctxt "2787:7"
+msgid "<$voicel(3,10)><$comeff(3,5)><$textsize(2)>¡¡CHUNDA!!</textsize>"
+msgstr "<$voicel(3,10)><$comeff(3,5)><$textsize(2)>¡¡BUUU!!</textsize>"
+
+#. en: <$comeff(3,3)><$motion(3,803)><$voicel(3,7)>Ha-HA! You scared?!<br><$comeff(3,14)><$motion(3,666)><$facial(3,9)>Huh. <wait(1.8)><$voicel(3,5)>I, uh...I guess not. Darn.<clear><br><$voicel(3,3)><$comeff(3,17)><$motion(3,663)>Maybe I’ve gotten rusty... It’s been a hot minute since<br>I tried to scare a human.
+msgctxt "2787:8"
+msgid "<$comeff(3,3)><$motion(3,803)><$voicel(3,7)>Ja, ja. ¿Te he asustado?... <wait(0.5)><$comeff(3,14)><$motion(3,666)><$facial(3,9)>¿Hm?...<wait(1.8)><$voicel(3,5)> Buah, qué fail...<br>No tienes cara de asustad<gen;-2(o,a)>. Qué palo, tí<gen;-2(o,a)>, me deprimo...<clear><br><$voicel(3,3)><$comeff(3,17)><$motion(3,663)>Como hacía tanto que no me cruzaba con <gen;-2(un,una)> human<gen;-2(o,a)>,<br>se ve que me ha salido un susto nivel noob total..."
+msgstr "<$comeff(3,3)><$motion(3,803)><$voicel(3,7)>Ja, ja. ¿Te asusté?... <wait(0.5)><$comeff(3,14)><$motion(3,666)><$facial(3,9)>¿Hm?...<wait(1.8)><$voicel(3,5)> Uf, qué fail...<br>No pareces asustad<gen;-2(o,a)>. Qué bajón, amig<gen;-2(o,a)>, me deprimo...<clear><br><$voicel(3,3)><$comeff(3,17)><$motion(3,663)>Como hacía tanto que no me cruzaba con <gen;-2(un,una)> human<gen;-2(o,a)>,<br>se ve que me salió un susto nivel noob total..."
+
+#. en: <$voicel(3,9)><$comeff(3,3)><$motion(3,661)>Oh, yeah! I was bumpin’ some <$cdef(27)>tunes</color>!<clear><br><$voicel(3,5)><$comeff(3,6)><$motion(3,666)>And, uh... Who are you?<br>Wait, you’re...not a human?<clear><br>You’re...a <$cdef(27)>Ditto</color>?!<clear><br><$voicel(3,7)><$emotion(3,27)>Yoooooo! That transformation is WILD! I thought you were<br>actually a human!
+msgctxt "2787:9"
+msgid "<$voicel(3,9)><$comeff(3,3)><$motion(3,661)>Bah, perdona, que me he puesto en plan musti<gen;-3(o,a)> y no te<br>he dicho lo que importa: ¡ese <$cdef(27)>musicote</color> lo he puesto yo!<clear><br><$voicel(3,5)><$comeff(3,6)><$motion(3,666)>Y tú, ¿qué...? <wait(0.5)>Eh, un momento, no fastidies que no eres<br>human<gen;-2(o,a)>...<wait(1.0)> ¿Eres un <$cdef(27)>Ditto</color>?<clear><br>¡Qué heavy, tí<gen;-2(o,a)>! ¡Esa transformación tuya es un locurón!<br><$voicel(3,7)><$emotion(3,27)>Te juro que pensaba que eras <gen;-2(un,una)> human<gen;-2(o,a)> cienpor."
+msgstr "<$voicel(3,9)><$comeff(3,3)><$motion(3,661)>Bah, perdona, que me puse en plan deprimid<gen;-3(o,a)> y no te<br>dije lo que importa: ¡ese <$cdef(27)>musicote</color> lo puse yo!<clear><br><$voicel(3,5)><$comeff(3,6)><$motion(3,666)>Y tú, ¿qué...? <wait(0.5)>Eh, un momento, no me digas que no eres<br>human<gen;-2(o,a)>...<wait(1.0)> ¿Eres un <$cdef(27)>Ditto</color>?<clear><br>¡Increíble, amig<gen;-2(o,a)>! ¡Tu transformación es una locura!<br><$voicel(3,7)><$emotion(3,27)>Te juro que pensaba que eras <gen;-2(un,una)> human<gen;-2(o,a)> de verdad."
+
+#. en: <$voicel(3,9)><$comeff(3,5)><$motion(3,665)>Whaaat?! Yooo! You’re...a <$cdef(27)>Ditto</color>?! Whoa! <$voicel(3,8)><$emotion(3,38)>That transformation<br>is WILD!<clear><br><$voicel(3,5)><$comeff(3,14)><$motion(3,666)>So, uh... Anyway... I guess you came to check stuff out<br>’cause you heard some noise?<clear><br><$voicel(3,7)><$comeff(3,3)><$motion(3,661)>My bad, yo! I was just bumpin’ some <$cdef(27)>tunes</color>!
+msgctxt "2787:10"
+msgid "<$voicel(3,9)><$comeff(3,5)><$motion(3,665)>¿Eh? ¿Que no eres human<gen;-2(o,a)>, sino un <$cdef(27)>Ditto</color>? ¡Fli-po!<br><$voicel(3,8)><$emotion(3,38)>¡Esa transformación tuya es un locurón!<clear><br><$voicel(3,5)><$comeff(3,14)><$motion(3,666)>¿Qué pasa, que has oído movimiento por aquí y has<br>venido a cotillear? <$voicel(3,7)><$comeff(3,3)><$motion(3,661)>Pues te cuento lo más clave, tí<gen;-2(o,a)>:<slide><br>¡ese <$cdef(27)>musicote </color>que oyes lo he puesto yo!"
+msgstr "<$voicel(3,9)><$comeff(3,5)><$motion(3,665)>¿Eh? ¿Que no eres human<gen;-2(o,a)>, sino un <$cdef(27)>Ditto</color>? ¡In-creí-ble!<br><$voicel(3,8)><$emotion(3,38)>¡Esa transformación tuya es una locura!<clear><br><$voicel(3,5)><$comeff(3,14)><$motion(3,666)>¿Qué pasa, que oíste movimiento por aquí y viniste<br>a curiosear? <$voicel(3,7)><$comeff(3,3)><$motion(3,661)>Pues te cuento lo más clave, amig<gen;-2(o,a)>:<slide><br>¡ese <$cdef(27)>musicote </color>que oyes lo puse yo!"
+
+#. en: <$voicel(3,5)><$comeff(3,14)>I can go into all sorts of machines ’n’ electronics, y’know?<br><$voicel(3,8)><$comeff(3,5)><$motion(3,659)>This one is SUPER cool! It plays music!!!<clear><br><$voicel(3,9)><$comeff(3,10)><$motion(3,806)>I was waitin’ here alone hopin’ someone would come<br>along, but no one ever did... So I’ve been playin’ music<slide><br>to keep the mood high and the vibes right!
+msgctxt "2787:11"
+msgid "<$voicel(3,5)><$comeff(3,14)>Soy especialista en colarme en toda clase de máquinas,<br><$voicel(3,8)><$comeff(3,5)><$motion(3,659)>¡y esta es una fantasía viva, porque reproduce temazos!<clear><br><$voicel(3,9)><$comeff(3,10)><$motion(3,806)>Pero llevo esperando aquí una eternidad, y aun así nadie<br>se anima a venir de fiesta, así que de vez en cuando subo<slide><br>el volumen a tope para manifestar una tarde loca."
+msgstr "<$voicel(3,5)><$comeff(3,14)>Soy especialista en colarme en toda clase de máquinas,<br><$voicel(3,8)><$comeff(3,5)><$motion(3,659)>¡y esta es lo máximo, porque reproduce temazos!<clear><br><$voicel(3,9)><$comeff(3,10)><$motion(3,806)>Pero llevo esperando aquí una eternidad, y aun así nadie<br>se anima a venir de fiesta, así que de vez en cuando subo<slide><br>el volumen al máximo para manifestar una tarde loca."
+
+#. en: <$voicel(3,5)><$emotion(3,14)>But, hey! Now that YOU’RE here, <$cdef(27)>Ditto</color>, how ’bout listenin’<br>to some hot tracks with me before you run off?!
+msgctxt "2787:12"
+msgid "<$voicel(3,5)><$emotion(3,14)>Ey, <$cdef(27)>Ditto</color>, ya que estás aquí, quédate a escuchar un par<br>de temazos, ¡que mi música lo peta! ¡No me llamo<slide><br><$cdef(27)>DJ Rotom</color> por nada!"
+msgstr "<$voicel(3,5)><$emotion(3,14)>Ey, <$cdef(27)>Ditto</color>, ya que estás aquí, quédate a escuchar un par<br>de temazos, ¡que mi música la rompe! ¡No me llamo<slide><br><$cdef(27)>DJ Rotom</color> por nada!"
+
+#. en: <$voicel(3,3)><$comeff(3,6)><$facial(3,9)>Huh? You don’t have time for that?<clear><br><$motion(0,824)><wait(1.0)><$voicel(3,5)><$comeff(3,14)><$motion(3,827)>Because all the humans and Pokémon disappeared?! Yooo!<br>Seriously?!<clear><br><$voicel(3,7)><$facial(3,1)><$comeff(3,6)>But the Pokémon are slowly comin’ back, you say? Hm...<br><$voicel(3,6)><$comeff(3,3)>And you’re tryin’ to make a new town with great vibes?<$motion(3,654)><$motion(0,652)>
+msgctxt "2787:13"
+msgid "<$voicel(3,3)><$comeff(3,6)><$facial(3,9)>¿Eh? ¿Cómo que no está el ánimo para fiestas?<clear><br><$motion(0,824)><wait(1.0)><$voicel(3,5)><$comeff(3,14)><$motion(3,827)>¿Que no hay ni rastro de los humanos ni de un montón<br>de Pokémon? Vaya tela.<clear><br><$voicel(3,7)><$facial(3,1)><$comeff(3,6)>¿Y dices que los Pokémon están volviendo poco a poco?<clear><br><$voicel(3,6)><$comeff(3,3)>¿Y por eso estás construyendo vecindarios que arrasen,<br>para crear buena vibra?<$motion(3,654)><$motion(0,652)>"
+msgstr "<$voicel(3,3)><$comeff(3,6)><$facial(3,9)>¿Eh? ¿Cómo que no está el ánimo para fiestas?<clear><br><$motion(0,824)><wait(1.0)><$voicel(3,5)><$comeff(3,14)><$motion(3,827)>¿Que no hay ni rastro de los humanos ni de un montón<br>de Pokémon? Qué locura.<clear><br><$voicel(3,7)><$facial(3,1)><$comeff(3,6)>¿Y dices que los Pokémon están volviendo poco a poco?<clear><br><$voicel(3,6)><$comeff(3,3)>¿Y por eso estás construyendo vecindarios que arrasen,<br>para crear buena vibra?<$motion(3,654)><$motion(0,652)>"
+
+#. en: <$comeff(3,14)>... ... ...
+msgctxt "2787:14"
+msgid "<$comeff(3,14)>..."
+msgstr ""
+
+#. en: <$voicel(3,10)><$comeff(3,5)><$motion(3,665)><$textsize(2)>YOOOOOO!!!</textsize>
+msgctxt "2787:15"
+msgid "<$voicel(3,10)><$comeff(3,5)><$motion(3,665)><$textsize(2)>¡Te sales!</textsize>"
+msgstr "<$voicel(3,10)><$comeff(3,5)><$motion(3,665)><$textsize(2)>¡Eres top!</textsize>"
+
+#. en: <$voicel(3,7)><$emotion(3,39)>That is SO cool! Yo, I wanna help out too!
+msgctxt "2787:16"
+msgid "<$voicel(3,7)><$emotion(3,39)>¡Qué fantasía de plan te has marcado, tí<gen;-2(o,a)>! ¡Respeto!<br>¡Déjame que te eche un cable!"
+msgstr "<$voicel(3,7)><$emotion(3,39)>¡Qué plan tan increíble tienes, amig<gen;-2(o,a)>! ¡Respeto!<br>¡Déjame que te eche una mano!"
+
+#. en: <$voicel(3,5)><$emotion(3,49)>Guess I won’t waste any more time just sittin’ around here!
+msgctxt "2787:17"
+msgid "<$voicel(3,5)><$emotion(3,49)>¡Venga, está decidido! ¡Ahora toca ponerme las pilas y<br>dejar de estar aquí plantado!"
+msgstr "<$voicel(3,5)><$emotion(3,49)>¡Bien, está decidido! ¡Ahora me toca ponerme las pilas y<br>dejar de estar aquí plantado!"
+
+#. en: <$voicel(3,8)><$emotion(3,14)>I’ll see ya again in a bit!
+msgctxt "2787:18"
+msgid "<$voicel(3,8)><$emotion(3,14)>Bye-bye, ¡estamos en contacto!"
+msgstr ""
+
+#. en: <$voicel(3,7)><$emotion(3,49)>I wanna help you make the town a vibe, yo! But lemme go<br>meet everybody else first!
+msgctxt "2787:25"
+msgid "<$voicel(3,7)><$emotion(3,49)>¡Quiero echarte un cable con el flow del vecindario!<clear><br>Pero antes de nada, debería pasar a saludar a los demás,<br>para ver la vibra."
+msgstr "<$voicel(3,7)><$emotion(3,49)>¡Quiero echarte una mano con el flow del vecindario!<clear><br>Pero antes de nada, debería pasar a saludar a los demás,<br>para ver la vibra."

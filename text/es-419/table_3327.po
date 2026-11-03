@@ -1,0 +1,66 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 3327 (es-ES slot); English reference: record 3323.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 3327\n"
+"X-Ldtool-English-Record: 3323\n"
+
+#. en: <$comeff(1,20)><$motion(1,664)><$facial(1,4)><$voicel(1,9)>Oho! I’ve got it! These are all items that were used by<br>humans long ago!
+msgctxt "3327:0"
+msgid "<$comeff(1,20)><$motion(1,664)><$facial(1,4)><$voicel(1,9)>¡Eureka! En su día, los humanos hacían uso de objetos<br>como estos con mucha frecuencia, ¿sabes?"
+msgstr ""
+
+#. en: <$voicel(1,1)><$comeff(1,6)><$motion(1,666)>Hmm, I think I could research a few things for you at once.<br>How many things would you like me to <$cdef(27)><$spwfull(25)></color>?
+msgctxt "3327:1"
+msgid "<$voicel(1,1)><$comeff(1,6)><$motion(1,666)>Hmm, has reunido unas cuantas, si no me falla la vista.<br>Si gustas, las puedo <$cdef(27)><$spwfull(25)></color> todas al mismo tiempo."
+msgstr "<$voicel(1,1)><$comeff(1,6)><$motion(1,666)>Hmm, reuniste unas cuantas, si no me falla la vista.<br>Si gustas, las puedo <$cdef(27)><$spwfull(25)></color> todas al mismo tiempo."
+
+#. en: <$comeff(1,14)><$motion(1,661)><$voicel(1,5)>I’ve no clue how to use them, but I suppose there must<br>have been Pokémon who liked these sorts of things.
+msgctxt "3327:2"
+msgid "<$comeff(1,14)><$motion(1,661)><$voicel(1,5)>No tengo ni la más remota idea de para qué sirven...<clear><br>Aunque quizá haya por ahí algún Pokémon con afán<br>de coleccionista a quien le interesen."
+msgstr "<$comeff(1,14)><$motion(1,661)><$voicel(1,5)>No tengo ni la más remota idea de para qué sirven...<clear><br>Aunque quizás haya por ahí algún Pokémon con afán<br>de coleccionista a quien le interesen."
+
+#. en: <$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,7)><$kfacial(1)>They’re rather small... They would probably look<br>interesting displayed in <$cdef(27)><fqty(2)><$ifull(1832)></color>.
+msgctxt "3327:3"
+msgid "<$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,7)><$kfacial(1)>Además, al tener un tamaño tan compacto, algo me dice<br>que quedarían divinamente dentro de un <$cdef(27)><fqty(1)><$ifull(1832)></color>."
+msgstr ""
+
+#. en: <$comeff(1,20)><$motion(1,664)><$facial(1,4)><$voicel(1,9)>Oho! I’ve got it! These are all items that were used by<br>humans long ago!
+msgctxt "3327:4"
+msgid "<$comeff(1,20)><$motion(1,664)><$facial(1,4)><$voicel(1,9)>¡Eureka! En su día, los humanos hacían uso de objetos<br>como estos con mucha frecuencia, ¿sabes?"
+msgstr ""
+
+#. en: <$comeff(1,14)><$motion(1,661)><$voicel(1,6)>I haven’t the foggiest idea how to use them, though...<clear><br><$emotion(1,8)><$voicel(1,7)>It could be fun to use them as decorations in your house!<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,806)><$voicel(1,9)>Or you could place them near Pokémon’s homes. They<br>might really like these!
+msgctxt "3327:5"
+msgid "<$comeff(1,14)><$motion(1,661)><$voicel(1,6)>No tengo la más remota idea de para qué sirven... <$emotion(1,8)><$voicel(1,7)>Eso sí,<br>¡le darían un toque muy interesante a cualquier casa!<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,806)><$voicel(1,9)>También podrían colocarse en la vivienda de algún<br>Pokémon, y con suerte quizá sean de su agrado."
+msgstr "<$comeff(1,14)><$motion(1,661)><$voicel(1,6)>No tengo la más remota idea de para qué sirven... <$emotion(1,8)><$voicel(1,7)>Eso sí,<br>¡le darían un toque muy interesante a cualquier casa!<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,806)><$voicel(1,9)>También podrían colocarse en la vivienda de algún<br>Pokémon, y con suerte quizás sean de su agrado."
+
+#. en: <$voicel(1,5)><$motion(1,666)>Hmmm... Hmmhmm... Can you move them a little farther<br>away from the camera? Yes, just like that.
+msgctxt "3327:6"
+msgid "<$voicel(1,5)><$motion(1,666)>Hmm... A ver... Aléjalos un pellizco de la cámara...<wait(0.5)><br>Así, muy bien."
+msgstr "<$voicel(1,5)><$motion(1,666)>Hmm... A ver... Aléjalos un poquito de la cámara...<wait(0.5)><br>Así, muy bien."
+
+#. en: <$comeff(1,20)><$motion(1,664)><$facial(1,4)><$voicel(1,9)>Oho! I’ve got it! These are all items that were used by<br>humans long ago!
+msgctxt "3327:7"
+msgid "<$comeff(1,20)><$motion(1,664)><$facial(1,4)><$voicel(1,9)>¡Eureka! En su día, los humanos hacían uso de objetos<br>como estos con mucha frecuencia, ¿sabes?"
+msgstr ""
+
+#. en: <$comeff(1,14)><$motion(1,661)><$voicel(1,5)>I’ve no clue how to use them, but I suppose there must be<br>Pokémon who like these sorts of things.
+msgctxt "3327:8"
+msgid "<$comeff(1,14)><$motion(1,661)><$voicel(1,5)>No tengo ni la más remota idea de para qué sirven...<clear><br>Aunque quizá haya por ahí algún Pokémon con afán<br>de coleccionista a quien le interesen."
+msgstr "<$comeff(1,14)><$motion(1,661)><$voicel(1,5)>No tengo ni la más remota idea de para qué sirven...<clear><br>Aunque quizás haya por ahí algún Pokémon con afán<br>de coleccionista a quien le interesen."
+
+#. en: <$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,7)><$kfacial(1)>They’re nice and compact... They would probably look<br>interesting displayed in <$cdef(27)><fqty(2)><$ifull(1832)></color>!
+msgctxt "3327:9"
+msgid "<$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,7)><$kfacial(1)>Además, al tener un tamaño tan compacto, algo me dice<br>que quedarían divinamente dentro de un <$cdef(27)><fqty(1)><$ifull(1832)></color>."
+msgstr ""

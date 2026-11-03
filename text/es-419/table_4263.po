@@ -1,0 +1,456 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 4263 (es-ES slot); English reference: record 4259.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 4263\n"
+"X-Ldtool-English-Record: 4259\n"
+
+#. en: *munch munch munch*
+msgctxt "4263:2"
+msgid "¡A matar el gusanillo!"
+msgstr "¡A matar el hambre!"
+
+#. en: Ya done good!
+msgctxt "4263:3"
+msgid "Qué prodigio."
+msgstr ""
+
+#. en: That’s some good waterin’!
+msgctxt "4263:5"
+msgid "¡Qué frescor!"
+msgstr ""
+
+#. en: I sure am sleepy, tell ya what.
+msgctxt "4263:6"
+msgid "El sueño me puede..."
+msgstr ""
+
+#. en: I’m in a bit of a pickle...
+msgctxt "4263:9"
+msgid "Estoy entre la espada y la pared..."
+msgstr ""
+
+#. en: Howdy, <$cdef(27)><$etpname;0(lnum1)></color>.
+msgctxt "4263:17"
+msgid "Atiende un momento, <$cdef(27)><$etpname;0(lnum1)></color>."
+msgstr ""
+
+#. en: Nicely done there, <$cdef(27)><$etpname;0(lnum1)></color>.
+msgctxt "4263:23"
+msgid "Muy bien hecho, <$cdef(27)><$etpname;0(lnum1)></color>."
+msgstr ""
+
+#. en: Ready fer some good times, I do declare!
+msgctxt "4263:25"
+msgid "Nos vamos a llevar de maravilla, sí señor."
+msgstr ""
+
+#. en: I’m itchin’ to get started!
+msgctxt "4263:28"
+msgid "¡A arrimar el hombro se ha dicho!"
+msgstr ""
+
+#. en: Now we’re gettin’ somewhere!
+msgctxt "4263:29"
+msgid "¡Esto no ha hecho más que empezar!"
+msgstr ""
+
+#. en: Jus’ about done, I reckon!
+msgctxt "4263:30"
+msgid "¡Qué poquito queda!"
+msgstr ""
+
+#. en: Phew!
+msgctxt "4263:31"
+msgid "¡Fiu!"
+msgstr ""
+
+#. en: It’s rainin’? I’m goin’ home, then...
+msgctxt "4263:33"
+msgid "A mucho llover, al hogar he de volver."
+msgstr ""
+
+#. en: Now that sure does look tasty!
+msgctxt "4263:34"
+msgid "¡Se me hace la boca agua!"
+msgstr ""
+
+#. en: I’m quite the treasure hunter, if I do say so myself.
+msgctxt "4263:35"
+msgid "¡Buscar tesoros se me da que no veas!"
+msgstr "¡Buscar tesoros se me da de maravilla!"
+
+#. en: Now how’m I s’posed to get past here?
+msgctxt "4263:37"
+msgid "Uf, me rindo..."
+msgstr ""
+
+#. en: I am plumb tuckered out...
+msgctxt "4263:38"
+msgid "Ayyy, no puedo con mi alma..."
+msgstr ""
+
+#. en: I made it!
+msgctxt "4263:39"
+msgid "Atiza... ¡Lo conseguí!"
+msgstr ""
+
+#. en: Bit rough gettin’ through here...
+msgctxt "4263:40"
+msgid "Caray, lo que cuesta esta parte..."
+msgstr ""
+
+#. en: It’s right here, I tell ya!
+msgctxt "4263:41"
+msgid "¡Está aquí! ¡No me cabe duda alguna!"
+msgstr ""
+
+#. en: I do believe it’s up above here!
+msgctxt "4263:42"
+msgid "¡Me juego lo que quieras a que está ahí arriba!"
+msgstr ""
+
+#. en: I reckon it’s down below here!
+msgctxt "4263:43"
+msgid "¡Me juego lo que quieras a que está aquí debajo!"
+msgstr ""
+
+#. en: It’s thisaway!
+msgctxt "4263:44"
+msgid "¡Por aquí!"
+msgstr ""
+
+#. en: Hmmm... Can’t seem to find anything ’round here.
+msgctxt "4263:45"
+msgid "Estamos dando palos de ciego..."
+msgstr ""
+
+#. en: Maybe over thataway?
+msgctxt "4263:46"
+msgid "¿Por qué no probamos por allí?"
+msgstr "¿Por qué no probamos por allá?"
+
+#. en: It’s ’round here somewhere!
+msgctxt "4263:47"
+msgid "¡Está por aquí!"
+msgstr ""
+
+#. en: We good to set off?
+msgctxt "4263:49"
+msgid "¿Puedo ir tirando entonces o qué?"
+msgstr "¿Puedo irme entonces o qué?"
+
+#. en: Hmmm... I reckon this is a dead end.
+msgctxt "4263:50"
+msgid "¡Repámpanos! Esto no va a ninguna parte."
+msgstr ""
+
+#. en: Could ya bring it a bit closer fer me?
+msgctxt "4263:51"
+msgid "¿Podrías acercarme eso un poco, picaruel<gen;-2(o,a)>?"
+msgstr ""
+
+#. en: Yeah! That’s it!
+msgctxt "4263:52"
+msgid "¡Cáspita, justo lo que necesitaba!"
+msgstr ""
+
+#. en: The <$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>...?
+msgctxt "4263:55"
+msgid "¿Dónde est<qty;0(á,án)> <qty;0(mi,mis)> <$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>?"
+msgstr ""
+
+#. en: Nice ’n’ warm! ♪
+msgctxt "4263:56"
+msgid "♪Cómo se agradece el calorcito.♪"
+msgstr ""
+
+#. en: It’s a li’l hot out...
+msgctxt "4263:57"
+msgid "Demasiado calor para mi gusto..."
+msgstr ""
+
+#. en: I do love me a cool breeze! ♪
+msgctxt "4263:58"
+msgid "♪Este fresquillo es impagable.♪"
+msgstr "♪Este fresquito es impagable.♪"
+
+#. en: It’s a wee bit cold...
+msgctxt "4263:59"
+msgid "Uf, hace un poco de biruji..."
+msgstr "Uf, hace un poco de fresco..."
+
+#. en: It’s brightened up ’round these parts! ♪
+msgctxt "4263:60"
+msgid "♪La luz que no falte.♪"
+msgstr ""
+
+#. en: Ain’t it a bit too bright?
+msgctxt "4263:61"
+msgid "Uf, me ciega un poco tanta luz..."
+msgstr ""
+
+#. en: Sure am glad it’s a bit darker ’round here now! ♪
+msgctxt "4263:62"
+msgid "♪El toque de oscuridad que necesitaba.♪"
+msgstr ""
+
+#. en: Bit too dark for me, I tell you what...
+msgctxt "4263:63"
+msgid "Esta oscuridad se pasa al menos un pueblo..."
+msgstr "Esta oscuridad ya es demasiado..."
+
+#. en: Oh! Nice ’n’ humid now. ♪
+msgctxt "4263:64"
+msgid "♪La humedad justa, como a mí me gusta.♪"
+msgstr ""
+
+#. en: Bit too humid, I do declare...
+msgctxt "4263:65"
+msgid "Demasiada humedad siento yo aquí..."
+msgstr ""
+
+#. en: The air’s dried up nicely. ♪
+msgctxt "4263:66"
+msgid "♪Un ambiente seco, como está mandado.♪"
+msgstr "♪Un ambiente seco, como debe ser.♪"
+
+#. en: It’s a bit too dry in these parts...
+msgctxt "4263:67"
+msgid "Uf, qué sequedad..."
+msgstr ""
+
+#. en: Hmmm... I can’t get myself over there.
+msgctxt "4263:68"
+msgid "Gñe... No puedo llegar hasta allí."
+msgstr "Gñe... No puedo llegar hasta allá."
+
+#. en: I could settle down here nicely!
+msgctxt "4263:69"
+msgid "¡Este lugar parece la mar de tranquilo!"
+msgstr "¡Este lugar parece de lo más tranquilo!"
+
+#. en: Now this is a nice home, I tell you what!
+msgctxt "4263:70"
+msgid "¡Es una casa humana bien apañada!"
+msgstr "¡Es una casa humana muy bien hecha!"
+
+#. en: Well, howdy! Glad ya came!
+msgctxt "4263:71"
+msgid "¡Hombreee, cuánto bueno por aquí!"
+msgstr "¡Hombreee, qué gusto verte por aquí!"
+
+#. en: Bit too small, if ya ask me...
+msgctxt "4263:72"
+msgid "Hombre, el tamaño no es que sea muy generoso..."
+msgstr ""
+
+#. en: All righty! Let’s go!
+msgctxt "4263:73"
+msgid "¡Arreando, que es gerundio!"
+msgstr "¡Andando, que se hace tarde!"
+
+#. en: I’ll be seein’ ya!
+msgctxt "4263:74"
+msgid "¡A cuidarse!"
+msgstr ""
+
+#. en: I’m itchin’ to get started!
+msgctxt "4263:75"
+msgid "¡No veo la hora de ponerme manos a la obra!"
+msgstr ""
+
+#. en: Somethin’ smells mighty good!
+msgctxt "4263:76"
+msgid "¡Aquí huele que alimenta!"
+msgstr ""
+
+#. en: Sure am sorry, but I can’t right now...
+msgctxt "4263:77"
+msgid "Me tienes que perdonar, pero mi cuerpo dice basta."
+msgstr ""
+
+#. en: Now that’s a job well done, if I do say so myself!
+msgctxt "4263:78"
+msgid "¡Una obra maestra! Modestia aparte."
+msgstr ""
+
+#. en: Lemme give it a go.
+msgctxt "4263:79"
+msgid "Me hago cargo del asunto."
+msgstr ""
+
+#. en: Nice place ya got here!
+msgctxt "4263:80"
+msgid "¡Ay, qué gusto de sitio!"
+msgstr "¡Ay, qué gusto de lugar!"
+
+#. en: Whatcha got there?
+msgctxt "4263:81"
+msgid "¿Qué llevas ahí? Que me entere yo."
+msgstr ""
+
+#. en: I’m gonna find ya!
+msgctxt "4263:83"
+msgid "¡Te encontraré, que no te quepa duda!"
+msgstr ""
+
+#. en: I’m too hungry to move another inch...
+msgctxt "4263:84"
+msgid "Tengo tanto apetito que ni un paso más puedo dar."
+msgstr ""
+
+#. en: Hm? What’s this now?
+msgctxt "4263:85"
+msgid "¡Caramba! ¿Y esto?"
+msgstr ""
+
+#. en: Nice ’un!
+msgctxt "4263:86"
+msgid "¡Espléndido!"
+msgstr ""
+
+#. en: Hrumf!
+msgctxt "4263:87"
+msgid "¡Uuumpf!"
+msgstr ""
+
+#. en: This sure is nice, I tell ya what...
+msgctxt "4263:88"
+msgid "Ay, esto es vida..."
+msgstr ""
+
+#. en: Slow down—I say, slow down!
+msgctxt "4263:89"
+msgid "¡Qué ímpetu! ¡Espérame!"
+msgstr ""
+
+#. en: Hmmm. Don’t reckon I can make it there!
+msgctxt "4263:91"
+msgid "¡Uf, hasta allí no llego, eh!"
+msgstr "¡Uf, hasta allá no llego, eh!"
+
+#. en: Well now, you jus’ leave this to me!
+msgctxt "4263:92"
+msgid "¡Vale, yo me encargo!"
+msgstr "¡Bueno, yo me encargo!"
+
+#. en: I reckon this needs a li’l water first.
+msgctxt "4263:93"
+msgid "Lo primero de todo es regar."
+msgstr ""
+
+#. en: Now where might ya be...
+msgctxt "4263:94"
+msgid "¿Por dónde andará?"
+msgstr ""
+
+#. en: Hm... Not here...
+msgctxt "4263:95"
+msgid "Por aquí, tararí que no te vi..."
+msgstr ""
+
+#. en: Hm?! Did I find ’em...?
+msgctxt "4263:96"
+msgid "Y si..."
+msgstr ""
+
+#. en: I’mma sniff ya out!
+msgctxt "4263:97"
+msgid "Me fiaré de mi olfato."
+msgstr ""
+
+#. en: Ya can’t fool these ol’ eyes of mine!
+msgctxt "4263:98"
+msgid "¡Estos ojos míos todo lo ven!"
+msgstr ""
+
+#. en: Ha! Found ya!
+msgctxt "4263:100"
+msgid "¡Te encontré!"
+msgstr ""
+
+#. en: Easy does it!
+msgctxt "4263:102"
+msgid "¡A esforzarse!"
+msgstr ""
+
+#. en: Feast yer eyes on my secret ingredient!
+msgctxt "4263:103"
+msgid "¡Que no falte el ingrediente secreto!"
+msgstr ""
+
+#. en: I’m starvin’...
+msgctxt "4263:104"
+msgid "Uf, qué hambre..."
+msgstr ""
+
+#. en: <fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!
+msgctxt "4263:105"
+msgid "¡<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!"
+msgstr ""
+
+#. en: Gotta put these ol’ bones to work.
+msgctxt "4263:106"
+msgid "Qué ganas de empezar para desoxidarme un poco."
+msgstr ""
+
+#. en: Lookin’ forward to it!
+msgctxt "4263:107"
+msgid "¡Qué alborozo!"
+msgstr ""
+
+#. en: A job well done!
+msgctxt "4263:108"
+msgid "¡Así da gusto!"
+msgstr ""
+
+#. en: ...
+msgctxt "4263:109"
+msgid "..."
+msgstr ""
+
+#. en: Why, this is a mighty fine domicile!
+msgctxt "4263:111"
+msgid "¡Me gusta el ambiente de este sitio!"
+msgstr "¡Me gusta el ambiente de este lugar!"
+
+#. en: Kinda difficult with all that water...
+msgctxt "4263:112"
+msgid "No me esperaba tanta agua..."
+msgstr ""
+
+#. en: We sure did a good job!
+msgctxt "4263:113"
+msgid "¡Albricias y zapatetas, hemos terminado!"
+msgstr "¡Albricias y zapatetas, terminamos!"
+
+#. en: Get rid o’ that thing up there.
+msgctxt "4263:114"
+msgid "Yo diría que eso de arriba va a ser un incordio."
+msgstr "Yo diría que eso de arriba va a ser un estorbo."
+
+#. en: Eyes mus’ be playin’ tricks on me...
+msgctxt "4263:115"
+msgid "Una de dos: o estoy senil o me sobra imaginación."
+msgstr ""
+
+#. en: What’s that noise?!
+msgctxt "4263:116"
+msgid "¡¿Qué ha sido ese sonido?!"
+msgstr "¡¿Qué fue ese sonido?!"
+
+#. en: <fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!
+msgctxt "4263:117"
+msgid "¡<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!"
+msgstr ""

@@ -1,0 +1,36 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 4830 (es-ES slot); English reference: record 4826.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 4830\n"
+"X-Ldtool-English-Record: 4826\n"
+
+#. en: Communication error. Please wait and try again.<br>If this error appears repeatedly, please check your<br>connection.
+msgctxt "4830:1"
+msgid "Se ha producido un error de conexión.<br>Vuelve a intentarlo más tarde.<br>Si el error se sigue produciendo, comprueba<br>tu conexión a internet."
+msgstr "Se produjo un error de conexión.<br>Vuelve a intentarlo más tarde.<br>Si el error se sigue produciendo, comprueba<br>tu conexión a internet."
+
+#. en: Maximum number of players exceeded.
+msgctxt "4830:2"
+msgid "Se ha superado el número máximo de jugadores."
+msgstr "Se superó el número máximo de jugadores."
+
+#. en: Insufficient storage space. Failed to save the game.
+msgctxt "4830:3"
+msgid "No se ha podido guardar la partida porque no hay<br>espacio suficiente."
+msgstr "No se pudo guardar la partida porque no hay<br>espacio suficiente."
+
+#. en: Failed to save the game. If this issue persists, please<br>contact Nintendo Customer Support.
+msgctxt "4830:4"
+msgid "No se ha podido guardar la partida.<br>Si este error persiste, contacta con el servicio<br>de atención al cliente."
+msgstr "No se pudo guardar la partida.<br>Si este error persiste, contacta al servicio<br>de atención al cliente."

@@ -1,0 +1,2326 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 2328 (es-ES slot); English reference: record 2324.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 2328\n"
+"X-Ldtool-English-Record: 2324\n"
+
+#. en: This won’t work while it’s submerged.
+msgctxt "2328:2"
+msgid "No funciona si se sumerge."
+msgstr ""
+
+#. en: The tree is withered... Looks like it needs some water.
+msgctxt "2328:4"
+msgid "Este pobre árbol está muy seco... Necesita agua."
+msgstr ""
+
+#. en: It’s a big tree. It might produce berries after some<br>time passes.
+msgctxt "2328:6"
+msgid "Es un árbol bastante grande. Es posible que produzca<br>bayas si tienes algo de paciencia."
+msgstr ""
+
+#. en: It’s some worn lumber. Is there a move that could be used<br>to cut it?
+msgctxt "2328:8"
+msgid "Tal vez puedas cortar estos trozos de madera vieja<br>con algún movimiento."
+msgstr "Tal vez puedas cortar estos pedazos de madera<br>vieja con algún movimiento."
+
+#. en: It’s a big, hard rock. A simple punch won’t be strong<br>enough to break it.
+msgctxt "2328:10"
+msgid "Es una roca grande y dura. Unos puñetazos normales<br>no servirán para romperla."
+msgstr ""
+
+#. en: You’ve collected <$cdef(27)>five </color>stamps! You can exchange them for<br><$cdef(27)>Life Coins </color>from <timemd;0(lnum1,lnum2)> to <timemd;1(lnum3,lnum4)>.<clear><br>You can replace your stamps until <timemd;2(lnum5,lnum6)>.
+msgctxt "2328:11"
+msgid "¡Has reunido <$cdef(27)>5</color> sellos! Podrás canjearlos por <$cdef(27)>monevitas<br></color>del <timemd;0(lnum1,lnum2)> al <timemd;1(lnum3,lnum4)>.<clear><br>Puedes sustituir tus sellos por otros hasta el <timemd;2(lnum5,lnum6)>."
+msgstr "¡Reuniste <$cdef(27)>5</color> sellos! Podrás canjearlos por <$cdef(27)>monevitas<br></color>del <timemd;0(lnum1,lnum2)> al <timemd;1(lnum3,lnum4)>.<clear><br>Puedes sustituir tus sellos por otros hasta el <timemd;2(lnum5,lnum6)>."
+
+#. en: <oneline>You made<br><$cdef(27)><dgt5;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)></color>!
+msgctxt "2328:13"
+msgid "<oneline>¡Has preparado<br><$cdef(27)><dgt5;1(lnum2)></color><slide><br><$cdef(27)><class><$ifullwithnum;0(lnum1,lnum2)></color>!"
+msgstr "<oneline>¡Preparaste<br><$cdef(27)><dgt5;1(lnum2)></color><slide><br><$cdef(27)><class><$ifullwithnum;0(lnum1,lnum2)></color>!"
+
+#. en: <oneline>You made<br><$cdef(27)><dgt5;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)></color>!
+msgctxt "2328:14"
+msgid "<oneline>¡Has fabricado<br><$cdef(27)><dgt5;1(lnum2)></color><slide><br><$cdef(27)><class><$ifullwithnum;0(lnum1,lnum2)></color>!"
+msgstr "<oneline>¡Fabricaste<br><$cdef(27)><dgt5;1(lnum2)></color><slide><br><$cdef(27)><class><$ifullwithnum;0(lnum1,lnum2)></color>!"
+
+#. en: You learned <$cdef(27)><$sklfull;1(lnum1)></color>!
+msgctxt "2328:16"
+msgid "¡Has aprendido <$cdef(27)><$sklfull;1(lnum1)></color>!"
+msgstr "¡Aprendiste <$cdef(27)><$sklfull;1(lnum1)></color>!"
+
+#. en: <oneline>You got a <$cdef(27)>recipe</color> for<br><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>!
+msgctxt "2328:17"
+msgid "<oneline>¡Has conseguido las <$cdef(27)>instrucciones </color>para fabricar<br><$cdef(27)><fqty(2)><class><$ifull;0(lnum1)></color>!"
+msgstr "<oneline>¡Conseguiste las <$cdef(27)>instrucciones </color>para fabricar<br><$cdef(27)><fqty(2)><class><$ifull;0(lnum1)></color>!"
+
+#. en: *deedle-beep!*<br>A message from your Pokédex!
+msgctxt "2328:18"
+msgid "¡Tirorín! ¡Has recibido una notificación en la Pokédex!"
+msgstr "¡Tirorín! ¡Recibiste una notificación en la Pokédex!"
+
+#. en: You’ve earned a recipe as a reward for discovering lots<br>of Pokémon!
+msgctxt "2328:19"
+msgid "¡Has conseguido unas instrucciones como recompensa<br>por registrar muchos Pokémon!"
+msgstr "¡Conseguiste unas instrucciones como recompensa<br>por registrar muchos Pokémon!"
+
+#. en: Choose where to set <$cdef(27)><$sklfull;0(lnum1)></color>!
+msgctxt "2328:20"
+msgid "¡Asigna <$cdef(27)><$sklfull;0(lnum1)></color> a una ranura!"
+msgstr ""
+
+#. en: <oneline>You got<br><$cdef(27)><dgt5;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)></color>!
+msgctxt "2328:21"
+msgid "<oneline>¡Has conseguido<br><$cdef(27)><dgt5;1(lnum2)></color><slide><br><$cdef(27)><class><$ifullwithnum;0(lnum1,lnum2)></color>!"
+msgstr "<oneline>¡Conseguiste<br><$cdef(27)><dgt5;1(lnum2)></color><slide><br><$cdef(27)><class><$ifullwithnum;0(lnum1,lnum2)></color>!"
+
+#. en: You found a trace of a Pokémon!
+msgctxt "2328:23"
+msgid "¡Has encontrado una pista sobre un Pokémon!"
+msgstr "¡Encontraste una pista sobre un Pokémon!"
+
+#. en: The building is in ruins...
+msgctxt "2328:25"
+msgid "Este edificio se ha caído a pedazos..."
+msgstr "Este edificio se cayó a pedazos..."
+
+#. en: What could this be?
+msgctxt "2328:26"
+msgid "¿Para qué servirá?"
+msgstr ""
+
+#. en: You received the <$cdef(27)><$spwfull(25)>d </color>items!
+msgctxt "2328:27"
+msgid "¡Has recibido todo lo que te acaban de <$cdef(27)><$spwfull(25)></color>!"
+msgstr "¡Recibiste todo lo que te acaban de <$cdef(27)><$spwfull(25)></color>!"
+
+#. en: Intense flames prevent you from picking up this item.<br>Maybe you can put out the fire somehow?
+msgctxt "2328:29"
+msgid "¡Está ardiendo, te quemarías! ¿No habrá alguna forma<br>de apagar el fuego?"
+msgstr ""
+
+#. en: You dug up some treasure! Pick it up and see what it is!
+msgctxt "2328:31"
+msgid "¡Has encontrado un tesoro! ¡Recógelo a ver qué es!"
+msgstr "¡Encontraste un tesoro! ¡Recógelo a ver qué es!"
+
+#. en: No downloadable content available for purchase.
+msgctxt "2328:32"
+msgid "No hay contenido descargable disponible para comprar."
+msgstr ""
+
+#. en: No items available.
+msgctxt "2328:33"
+msgid "No hay artículos disponibles."
+msgstr ""
+
+#. en: This content has not yet been announced.
+msgctxt "2328:34"
+msgid "Este contenido todavía no se ha anunciado."
+msgstr ""
+
+#. en: This content is not yet available for play.
+msgctxt "2328:35"
+msgid "Todavía no se puede jugar a este contenido."
+msgstr ""
+
+#. en: Try going to an area you haven’t visited yet.
+msgctxt "2328:36"
+msgid "Deberías visitar antes un vecindario en el que aún no<br>hayas estado."
+msgstr ""
+
+#. en: Try progressing the story in <$cdef(27)><$stgmyname;0(lnum1)></color>.
+msgctxt "2328:37"
+msgid "<oneline>Deberías progresar antes en la historia<br><esde;0()><$cdef(27)><$stgmyname;0(lnum1)></color>."
+msgstr ""
+
+#. en: Try fulfilling <$cdef(27)><$cname;0(lnum1)></color>’s request.
+msgctxt "2328:38"
+msgid "<oneline>Deberías completar antes la petición<br><esde;0()><$cdef(27)><$cname;0(lnum1)></color>."
+msgstr ""
+
+#. en: <oneline>Try completing the important request<br>“<$iqname;1(lnum2)>”<slide><br>in <$cdef(27)><$stgmyname;0(lnum1)></color>.
+msgctxt "2328:39"
+msgid "<oneline>Deberías completar antes la petición importante<br>\"<$iqname;1(lnum2)>\"<slide><br>en <dart;0()><$cdef(27)><$stgmyname;0(lnum1)></color>."
+msgstr ""
+
+#. en: You found a <$cdef(27)>recipe</color>!
+msgctxt "2328:40"
+msgid "¡Has encontrado unas <$cdef(27)>instrucciones</color> para fabricar algo!"
+msgstr "¡Encontraste unas <$cdef(27)>instrucciones</color> para fabricar algo!"
+
+#. en: <oneline>Try heading over to the <$cdef(27)>Pokémon Center </color>in<br><$cdef(27)><$stgmyname;0(lnum1)></color>.
+msgctxt "2328:41"
+msgid "<oneline>Deberías ir antes al <$cdef(27)>Centro Pokémon</color><br><esde;0()><$cdef(27)><$stgmyname;0(lnum1)></color>."
+msgstr ""
+
+#. en: You cannot receive this because you have not purchased<br>the relevant downloadable content.
+msgctxt "2328:42"
+msgid "No puedes recibir esto porque no has comprado<br>el contenido descargable correspondiente."
+msgstr "No puedes recibir esto porque no compraste<br>el contenido descargable correspondiente."
+
+#. en: You’ve already received this.
+msgctxt "2328:43"
+msgid "Ya has recibido esto."
+msgstr "Ya recibiste esto."
+
+#. en: Everything went black!
+msgctxt "2328:45"
+msgid "¡Todo se ha vuelto oscuro!"
+msgstr "¡Todo se volvió oscuro!"
+
+#. en: It’s an old machine...
+msgctxt "2328:46"
+msgid "Es una máquina con pinta de ser muy antigua."
+msgstr ""
+
+#. en: You came up with a <$cdef(27)>recipe</color>!
+msgctxt "2328:47"
+msgid "¡Se te han ocurrido las <$cdef(27)>instrucciones </color>para fabricar algo!"
+msgstr "¡Se te ocurrieron las <$cdef(27)>instrucciones </color>para fabricar algo!"
+
+#. en: <oneline>You and <$cdef(27)><nname;0></color> are in perfect sync<br>with<slide><br>one another!
+msgctxt "2328:48"
+msgid "<oneline>¡Te sientes más unid<gen;-2(o,a)> que nunca<br><esa;0()><$cdef(27)><nname;0></color>!"
+msgstr ""
+
+#. en: <oneline>You and <$cdef(27)><nname;0> </color>are now great<br>friends!
+msgctxt "2328:49"
+msgid "<oneline>¡<fcap><dart;0()><$cdef(27)><nname;0> </color>y tú sois uña y carne<br>ahora!"
+msgstr "<oneline>¡<fcap><dart;0()><$cdef(27)><nname;0> </color>y tú son uña y carne<br>ahora!"
+
+#. en: Bring a Pokémon with the <$cdef(27)><fcap><$spwfull(10)></color> specialty over to light<br>a fire.
+msgctxt "2328:50"
+msgid "Trae a un Pokémon con la especialidad <$cdef(27)><$spwfull(10)><br></color>para que encienda el fuego."
+msgstr ""
+
+#. en: You need fire to use this item. Try placing it on a campfire<br>or cooking stove.
+msgctxt "2328:51"
+msgid "Para poder utilizar este objeto hace falta fuego.<br>Colócalo encima de una fogata o un fogón de cocina."
+msgstr ""
+
+#. en: Looks like it will grow if you water it.
+msgctxt "2328:52"
+msgid "Seguro que crece con algo de agua."
+msgstr ""
+
+#. en: It’s crackling with electricity. Maybe it used to be<br>connected to something?
+msgctxt "2328:53"
+msgid "A juzgar por las chispas que le salen, es probable que<br>algo estuviese conectado aquí en el pasado."
+msgstr ""
+
+#. en: Would you like to search for <$cdef(27)><$cname;0(lnum1)></color>?
+msgctxt "2328:54"
+msgid "¿Quieres buscar <esa;0()><$cdef(27)><$cname;0(lnum1)></color>?"
+msgstr ""
+
+#. en: Stop searching for <$cdef(27)><$cname;0(lnum1)></color>?
+msgctxt "2328:55"
+msgid "<oneline>¿Quieres dejar de buscar<br><esa;0()><$cdef(27)><$cname;0(lnum1)></color>?"
+msgstr ""
+
+#. en: <oneline>Stop searching for <$cdef(27)><$cname;0(lnum1)> </color>and<br>search<slide><br>for<slide><br><$cdef(27)><$cname;1(lnum2)> </color>instead?
+msgctxt "2328:56"
+msgid "<oneline>¿Quieres dejar de buscar<br><esa;0()><$cdef(27)><$cname;0(lnum1)></color><slide><br>y buscar<slide><br><esa;1()><$cdef(27)><$cname;1(lnum2)></color><slide><br>en su lugar?"
+msgstr ""
+
+#. en: Which Pokémon would you like to search for?
+msgctxt "2328:57"
+msgid "¿A qué Pokémon quieres buscar?"
+msgstr ""
+
+#. en: You learned about a Pokémon! Would you like to view<br>their entry in your Pokédex?
+msgctxt "2328:58"
+msgid "¡Has aprendido algo nuevo acerca de algún Pokémon!<br>¿Por qué no consultas la Pokédex?"
+msgstr "¡Aprendiste algo nuevo acerca de algún Pokémon!<br>¿Por qué no consultas la Pokédex?"
+
+#. en: <oneline>Ending search for <$cdef(27)><$cname;0(lnum1)></color>. Which<br>Pokémon<slide><br>would<slide><br>you<slide><br>like<slide><br>to<slide><br>search for?
+msgctxt "2328:59"
+msgid "Se va a dejar de buscar <esa;0()><$cdef(27)><$cname;0(lnum1)></color>.<br>¿A qué otro Pokémon quieres buscar?"
+msgstr ""
+
+#. en: You can’t send any more items to your town’s <$cdef(27)>PC</color>.<br>Items that can’t be sent to the <$cdef(27)>PC</color> are sent to the<slide><br><$cdef(27)><fqty(1)><$ifull(1442)></color>.
+msgctxt "2328:60"
+msgid "No se pueden enviar más objetos al <$cdef(27)>PC</color> de tu vecindario,<br>por lo que el resto se enviará al <$cdef(27)><fqty(1)><$ifull(1442)></color>."
+msgstr ""
+
+#. en: <oneline>You got a <$cdef(27)>recipe</color> for<br><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>!<slide><br>But you already know this <$cdef(27)>recipe</color>...
+msgctxt "2328:61"
+msgid "<$cdef(27)><oneline></color>¡Has conseguido las <$cdef(27)>instrucciones </color>para fabricar<br><fqty(2)><class><$cdef(27)><$ifull;0(lnum1)></color>!<clear><br>Pero resulta que ya las conoces..."
+msgstr "<$cdef(27)><oneline></color>¡Conseguiste las <$cdef(27)>instrucciones </color>para fabricar<br><fqty(2)><class><$cdef(27)><$ifull;0(lnum1)></color>!<clear><br>Pero resulta que ya las conoces..."
+
+#. en: <$cdef(27)><$strpname;0(lstr1,lnum1)> </color>reached the <$cdef(27)>PC</color>!
+msgctxt "2328:62"
+msgid "¡<$cdef(27)><$strpname;0(lstr1,lnum1)></color> ha tocado el <$cdef(27)>PC</color>!"
+msgstr "¡<$cdef(27)><$strpname;0(lstr1,lnum1)></color> tocó el <$cdef(27)>PC</color>!"
+
+#. en: Do you want to stop playing hide-and-sneak?
+msgctxt "2328:63"
+msgid "¿Quieres dejar de jugar al escondite camuflado?"
+msgstr ""
+
+#. en: <oneline><$cdef(27)><string;0(lstr1)> </color>ended the<br>game<slide><br>of<slide><br>hide-and-sneak.
+msgctxt "2328:64"
+msgid "<oneline><$cdef(27)><string;0(lstr1)></color> ha tirado<br>la toalla."
+msgstr "<oneline><$cdef(27)><string;0(lstr1)></color> tiró<br>la toalla."
+
+#. en: The wind is too strong for you to get any closer. Is there a<br>move that could cut through it?
+msgctxt "2328:65"
+msgid "El viento es demasiado fuerte y no te permite acercarte.<br>A lo mejor podrías usar un movimiento para abrirte paso..."
+msgstr ""
+
+#. en: How do you want to connect?
+msgctxt "2328:66"
+msgid "Elige cómo quieres conectarte."
+msgstr ""
+
+#. en: Do you want to stop playing hide-and-sneak?<br>This will end the game for all other players as well.
+msgctxt "2328:67"
+msgid "¿Quieres dejar de jugar al escondite camuflado?<br>La partida finalizará para todo el mundo."
+msgstr ""
+
+#. en: Time to rebuild the <$cdef(27)>Pokémon Center</color>! Gather up materials<br>and Pokémon helpers!
+msgctxt "2328:68"
+msgid "¡Hora de reconstruir el <$cdef(27)>Centro Pokémon</color>!<br>Reúne a los Pokémon y los materiales que necesites."
+msgstr ""
+
+#. en: Flip it over?
+msgctxt "2328:69"
+msgid "¿Quieres darle la vuelta?"
+msgstr ""
+
+#. en: It looks like a Pokémon following you has unfinished<br>business in this town.
+msgctxt "2328:70"
+msgid "Parece que un Pokémon que te sigue todavía tiene cosas<br>que hacer en este vecindario."
+msgstr ""
+
+#. en: Would you like to begin with the selected language?
+msgctxt "2328:71"
+msgid "¿Quieres empezar la partida en el idioma elegido?"
+msgstr ""
+
+#. en: The game must restart to change the language settings.<br>Do you wish to restart the game?
+msgctxt "2328:72"
+msgid "Se necesita reiniciar el juego para cambiar el idioma.<br>¿Quieres continuar?"
+msgstr ""
+
+#. en: Whose items will you collect?
+msgctxt "2328:73"
+msgid "Elige el jugador cuyos objetos quieras retirar."
+msgstr ""
+
+#. en: Are you sure you want to play in Japanese?
+msgctxt "2328:74"
+msgid "¿Quieres jugar en japonés?"
+msgstr ""
+
+#. en: Are you sure you want to play in English?
+msgctxt "2328:75"
+msgid "¿Quieres jugar en inglés?"
+msgstr ""
+
+#. en: Are you sure you want to play in French?
+msgctxt "2328:76"
+msgid "¿Quieres jugar en francés?"
+msgstr ""
+
+#. en: Are you sure you want to play in Italian?
+msgctxt "2328:77"
+msgid "¿Quieres jugar en italiano?"
+msgstr ""
+
+#. en: Are you sure you want to play in German?
+msgctxt "2328:78"
+msgid "¿Quieres jugar en alemán?"
+msgstr ""
+
+#. en: Are you sure you want to play in Spanish?
+msgctxt "2328:79"
+msgid "¿Quieres jugar en español de España?"
+msgstr ""
+
+#. en: <$cdef(27)><fcap><$spwfull(21)></color> with this color?
+msgctxt "2328:82"
+msgid "¿Quieres <$cdef(27)><$spwfull(21)> </color>esto así?"
+msgstr ""
+
+#. en: You used Transform!
+msgctxt "2328:83"
+msgid "¡<$cdef(27)><pname;0></color> ha usado <$cdef(27)>Transformación</color>!"
+msgstr "¡<$cdef(27)><pname;0></color> usó <$cdef(27)>Transformación</color>!"
+
+#. en: <oneline>You came up with a <$cdef(27)>recipe</color> for<br><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>!
+msgctxt "2328:84"
+msgid "<oneline>¡Se te ha ocurrido cómo fabricar<br><$cdef(27)><fqty(2)><class><$ifull;0(lnum1)></color>!"
+msgstr "<oneline>¡Se te ocurrió cómo fabricar<br><$cdef(27)><fqty(2)><class><$ifull;0(lnum1)></color>!"
+
+#. en: Your bag is full and can’t hold any more. Swap this with an<br>item from your bag?
+msgctxt "2328:85"
+msgid "No hay suficiente espacio en la Bolsa para guardar esto.<br>¿Quieres cambiarlo por otro objeto que lleves encima?"
+msgstr ""
+
+#. en: You learned the <$cdef(27)><$emotename;0(lnum1)> </color>emote!
+msgctxt "2328:86"
+msgid "¡Has aprendido un nuevo gesto!<br><$cdef(27)><$emotename;0(lnum1)> </color>se ha añadido a la lista."
+msgstr "¡Aprendiste un nuevo gesto!<br><$cdef(27)><$emotename;0(lnum1)> </color>se añadió a la lista."
+
+#. en: Go to <dart;0()><$cdef(27)><$stgmyname;0(lnum1)></color>?
+msgctxt "2328:88"
+msgid "<oneline>¿Quieres ir<br><esa;0()><$cdef(27)><$stgmyname;0(lnum1)></color>?"
+msgstr ""
+
+#. en: You can’t go there yet.
+msgctxt "2328:89"
+msgid "No puedes ir por aquí todavía."
+msgstr ""
+
+#. en: Check the settings for <dart;0()><$cdef(27)><$stgmyname;0(lnum1)></color>?
+msgctxt "2328:91"
+msgid "<oneline>¿Quieres comprobar los ajustes<br><esde;0()><$cdef(27)><$stgmyname;0(lnum1)></color>?"
+msgstr ""
+
+#. en: Are these settings OK?
+msgctxt "2328:92"
+msgid "¿Te parece bien así?"
+msgstr ""
+
+#. en: *beep beep beep*<br>This Pokédex will register Pokémon who live on<slide><br>Cloud Islands!<clear><br>Work with your friends to register as many Pokémon<br>as possible!
+msgctxt "2328:93"
+msgid "¡Pi, pi, piii! Esta Pokédex registrará a los Pokémon que<br>viven en tu Isla Nube.<clear><br>¡Invita a tus amigos para registrar a todos los que podáis!"
+msgstr "¡Pi, pi, piii! Esta Pokédex registrará a los Pokémon que<br>viven en tu Isla Nube.<clear><br>¡Invita a tus amigos para registrar a todos los que puedan!"
+
+#. en: <oneline>How many<br><$cdef(27)><fqty(2)><class><$ifull;0(lnum1)></color><slide><$cdef(27)><br></color>will<slide><br>you<slide><br>hand<slide><br>over?<slide><br>(You have <$cdef(27)><dgt4;1(lnum2)></color>.)
+msgctxt "2328:94"
+msgid "<oneline>¿Cuánt<gen;0(o,a)>s<br><$cdef(27)><class><fqty(2)><$ifull;0(lnum1)></color><slide><br>quieres darle?<slide><br>Tienes <$cdef(27)><dgt4;1(lnum2)></color>."
+msgstr ""
+
+#. en: <oneline>Hand over<br><$cdef(27)><dgt4;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)></color><slide><br>to<slide><br>be<slide><br>made<slide><br>into<slide><br><$cdef(27)><dgt5;3(lnum4)> <class><$ifullwithnum;2(lnum3,lnum4)></color>?
+msgctxt "2328:95"
+msgid "<oneline>¿Quieres entregarle<br><$cdef(27)><dgt4;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)><slide><br></color>para que<slide><br>luego<slide><br>te dé<slide><br><$cdef(27)><dgt5;3(lnum4)></color><slide><br><$cdef(27)><class><$ifullwithnum;2(lnum3,lnum4)></color>?"
+msgstr ""
+
+#. en: *beep beep beep*<br>You cannot pass through this area gate at your current<slide><br>Trainer rank.
+msgctxt "2328:96"
+msgid "¡Pi, pi, pi, piii! No puedes pasar por este pasaje de acceso<br>con tu rango de Entrenado<gen;-2(r,ra)> actual."
+msgstr ""
+
+#. en: *beep beep beep*<br>You have arrived at an area gate.
+msgctxt "2328:97"
+msgid "¡Pi, pi, piii! Has llegado a un pasaje de acceso."
+msgstr "¡Pi, pi, piii! Llegaste a un pasaje de acceso."
+
+#. en: Please scan the gate panel with your Pokédex.
+msgctxt "2328:98"
+msgid "Acerca la Pokédex al panel de la puerta."
+msgstr ""
+
+#. en: *beep beep beep*<br>Your Trainer rank is <$cdef(27)><trnrank;0></color>.<slide><br>The area gate will now open.
+msgctxt "2328:99"
+msgid "¡Pi, pi, piii!<clear><br>Rango de Entrenado<gen;-2(r,ra)>: <$cdef(27)><trnrank;0></color>.<br>Se va a abrir el pasaje de acceso."
+msgstr ""
+
+#. en: Begin building the <$cdef(27)><$bfull;0(lnum1)></color>?
+msgctxt "2328:100"
+msgid "<oneline>¿Quieres iniciar la construcción<br><esde;0()><$cdef(27)><$bfull;0(lnum1)></color>?"
+msgstr ""
+
+#. en: Begin rebuilding the <$cdef(27)><$bfull;0(lnum1)></color>?
+msgctxt "2328:101"
+msgid "<oneline>¿Quieres iniciar la reconstrucción<br><esde;0()><$cdef(27)><$bfull;0(lnum1)></color>?"
+msgstr ""
+
+#. en: <oneline>How many<br><$cdef(27)><fqty(2)><class><$ifull;0(lnum1)></color><slide><br>will<slide><br>you<slide><br>hand<slide><br>over?<slide><br>(You have <$cdef(27)><dgt4;1(lnum2)></color>.)
+msgctxt "2328:102"
+msgid "<oneline>¿Cuánt<gen;0(o,a)>s<br><$cdef(27)><fqty(2)><class><$ifull;0(lnum1)></color><slide><br>quieres darle?<slide><br>Tienes <$cdef(27)><dgt4;1(lnum2)></color>."
+msgstr ""
+
+#. en: <oneline>Hand over<br><$cdef(27)><dgt4;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)></color><slide><br>to<slide><br>be<slide><br>made<slide><br>into<slide><br><$cdef(27)><dgt5;3(lnum4)> <class><$ifullwithnum;2(lnum3,lnum4)></color>?
+msgctxt "2328:103"
+msgid "<oneline>¿Quieres darle <$cdef(27)><dgt4;1(lnum2)></color><br><$cdef(27)><class><$ifullwithnum;0(lnum1,lnum2)></color><slide><br>para que te fabrique<slide><br><$cdef(27)><dgt5;3(lnum4)></color><slide><br><$cdef(27)><class><$ifullwithnum;2(lnum3,lnum4)></color>?"
+msgstr ""
+
+#. en: <oneline>How many copies of the<br><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color><slide><br>will<slide><br>you make?
+msgctxt "2328:104"
+msgid "<oneline>¿Cuántas copias quieres hacer<br><esde;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>?"
+msgstr ""
+
+#. en: Begin making <iart;0()><$cdef(27)><$bfull;0(lnum1)></color>?
+msgctxt "2328:105"
+msgid "<oneline>¿Quieres empezar a preparar<br><dart;0()><$cdef(27)><$bfull;0(lnum1)></color>?"
+msgstr ""
+
+#. en: <oneline>Use <$cdef(27)><dgt4;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)></color><br>to make<slide><br><$cdef(27)><dgt4;3(lnum4)> <class><$ifullwithnum;2(lnum3,lnum4)></color>?
+msgctxt "2328:106"
+msgid "<oneline>¿Quieres usar<br><$cdef(27)><dgt4;1(lnum2)></color> <$cdef(27)><class><$ifullwithnum;0(lnum1,lnum2)><slide><br></color>para fabricar<slide><br><$cdef(27)><dgt4;3(lnum4)></color> <$cdef(27)><class><$ifullwithnum;2(lnum3,lnum4)></color>?"
+msgstr ""
+
+#. en: <oneline>You opened <$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>!<br>Come<slide><br>back<slide><br>in<slide><br>a<slide><br>little while.
+msgctxt "2328:107"
+msgid "<oneline>¡Has abierto <dart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>!<br>Vuelve dentro de un rato."
+msgstr "<oneline>¡Abriste <dart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>!<br>Vuelve dentro de un rato."
+
+#. en: One or more players are not ready yet.
+msgctxt "2328:109"
+msgid "Algún jugador no está listo todavía."
+msgstr ""
+
+#. en: Area gate unlocked. You may now pass through.
+msgctxt "2328:110"
+msgid "El pasaje de acceso se ha abierto. ¡Adelante!"
+msgstr "El pasaje de acceso se abrió. ¡Adelante!"
+
+#. en: *beep beep beep*<br>Calculating completion time...
+msgctxt "2328:111"
+msgid "Pi, pi, piii... Calculando el tiempo restante..."
+msgstr ""
+
+#. en: It’ll be done at <timehm;0(lnum1,lnum2)>.
+msgctxt "2328:112"
+msgid "Hora de finalización prevista: <timehm;0(lnum1,lnum2)>."
+msgstr ""
+
+#. en: It’ll be done tomorrow.
+msgctxt "2328:113"
+msgid "Terminará mañana."
+msgstr ""
+
+#. en: *beep beep beep*<br>To enter this area, you need to purchase and download<slide><br>the Pokémon Pokopia Expansion Pass.<clear><br>For more info, please visit Nintendo eShop.
+msgctxt "2328:114"
+msgid "Para entrar a esta zona es necesario comprar y descargar<br>el pase de expansión de Pokémon Pokopia.<clear><br>Para más información, accede a Nintendo eShop."
+msgstr ""
+
+#. en: If you purchase the Pokémon Pokopia Expansion Pass and<br>update your Pokédex, you’ll be able to go to this new town!
+msgctxt "2328:115"
+msgid "Si compras el pase de expansión de Pokémon Pokopia<br>y actualizas la Pokédex, ¡tendrás un nuevo vecindario<slide><br>para explorar!"
+msgstr ""
+
+#. en: The <$cdef(27)><$bfull;0(lnum1)> </color>is complete!
+msgctxt "2328:116"
+msgid "<oneline>¡<fcap><dart;0()><$cdef(27)><$bfull;0(lnum1)></color> est<qty;0(á,án)><br>terminad<genqty;0(o,a,os,as)>!"
+msgstr ""
+
+#. en: You rebuilt the <$cdef(27)><$bfull;0(lnum1)></color>!
+msgctxt "2328:117"
+msgid "<oneline>¡Has reconstruido<br><dart;0()><$cdef(27)><$bfull;0(lnum1)></color>!"
+msgstr "<oneline>¡Reconstruiste<br><dart;0()><$cdef(27)><$bfull;0(lnum1)></color>!"
+
+#. en: To receive a <$cdef(27)><fqty(1)><$ifull(433)></color>, you must have a<br><$cdef(27)><fqty(1)><$ifull(432)> </color>to give to a Pokémon when you accept<slide><br>their request.<clear><br>Do you want to hear their request anyway?
+msgctxt "2328:120"
+msgid "Si no puedes entregarle un<$cdef(27)> <fqty(1)><$ifull(432)></color> al<br>Pokémon cuando te diga lo que quiere, no podrás obtener<slide><br>un <$cdef(27)><fqty(1)><$ifull(433)></color>.<clear><br>¿Quieres escuchar su petición aun así?"
+msgstr ""
+
+#. en: You found someone’s hidden treasure!<br>It’s <iart;0()><$cdef(27)><$ifull;0(lnum1)></color>!
+msgctxt "2328:121"
+msgid "<oneline>¡Has encontrado <dart;0()><$cdef(27)><$ifull;0(lnum1)><br></color>que alguien<slide><br>había escondido!"
+msgstr "<oneline>¡Encontraste <dart;0()><$cdef(27)><$ifull;0(lnum1)><br></color>que alguien<slide><br>había escondido!"
+
+#. en: <oneline>You learned the <$cdef(27)><$coordname;1(lnum1)> </color>look!
+msgctxt "2328:123"
+msgid "<oneline>¡Has aprendido a imitar<br><dart;1()><$cdef(27)><$coordname;1(lnum1)></color>!"
+msgstr "<oneline>¡Aprendiste a imitar<br><dart;1()><$cdef(27)><$coordname;1(lnum1)></color>!"
+
+#. en: A Pokémon with the <$cdef(27)><fcap><$spwfull(21)> </color>specialty might be able to<br>learn this design and reproduce it for you.
+msgctxt "2328:124"
+msgid "Enséñale el diseño a algún Pokémon que sepa <$cdef(27)><$spwfull(21)></color><br>para que lo estudie, ¡y con suerte podrá replicarlo!"
+msgstr ""
+
+#. en: <$cdef(27)><$cname(206)> </color>learned a new pattern!
+msgctxt "2328:125"
+msgid "¡El repertorio de diseños del <$cdef(27)><$cname(206)><br></color>ha aumentado!"
+msgstr "¡El repertorio de diseños del <$cdef(27)><$cname(206)><br></color>aumentó!"
+
+#. en: <oneline>You got<br><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!
+msgctxt "2328:126"
+msgid "<oneline>¡Has conseguido<br><iart;0()><$cdef(27)><class><$ifull;0(lnum1)></color>!"
+msgstr "<oneline>¡Conseguiste<br><iart;0()><$cdef(27)><class><$ifull;0(lnum1)></color>!"
+
+#. en: You learned some <$cdef(27)>Packing Tips</color>!<clear><br>You can now fit a little more in your bag!
+msgctxt "2328:127"
+msgid "¡Has aprendido a <$cdef(27)>organizar mejor la Bolsa</color>!<br>Ahora te caben más cosas."
+msgstr "¡Aprendiste a <$cdef(27)>organizar mejor la Bolsa</color>!<br>Ahora te caben más cosas."
+
+#. en: You used a <$cdef(27)><fqty(1)><$ifull(3976)></color>. You can now use your moves a<br>lot more!
+msgctxt "2328:128"
+msgid "Has usado un <$cdef(27)><fqty(1)><class><$ifull(3976)></color>.<br>Ahora puedes usar tus movimientos más veces."
+msgstr "Usaste un <$cdef(27)><fqty(1)><class><$ifull(3976)></color>.<br>Ahora puedes usar tus movimientos más veces."
+
+#. en: The food you ate powered up <$cdef(27)><$sklfull;0(lnum1)></color>!
+msgctxt "2328:129"
+msgid "<oneline>¡La comida ha potenciado el movimiento<br><$cdef(27)><$sklfull;0(lnum1)></color>!"
+msgstr "<oneline>¡La comida potenció el movimiento<br><$cdef(27)><$sklfull;0(lnum1)></color>!"
+
+#. en: Would you like to check out the new info you got?
+msgctxt "2328:130"
+msgid "¿Quieres ver los datos que has comprado?"
+msgstr "¿Quieres ver los datos que compraste?"
+
+#. en: <$cdef(27)>Photo op snagged!</color>
+msgctxt "2328:131"
+msgid "<$cdef(27)>¡Has sacado una foto de un momento especial!</color>"
+msgstr "<$cdef(27)>¡Tomaste una foto de un momento especial!</color>"
+
+#. en: This will open Nintendo eShop.<clear><br>Your game will stay open and can be resumed later.<clear><br>However, you must restart the game to activate any<br>new downloadable content.<clear><br>Would you like to save now?
+msgctxt "2328:132"
+msgid "Vas a acceder a Nintendo eShop.<clear><br>El juego no se cerrará, por lo que podrás retomar<br>la partida más adelante.<clear><br>Para poder disfrutar del contenido descargable, eso sí,<br>deberás reiniciar el juego.<clear><br>¿Quieres guardar tu progreso y continuar?"
+msgstr ""
+
+#. en: Which items would you like to check?
+msgctxt "2328:133"
+msgid "¿Qué te gustaría ver en detalle?"
+msgstr ""
+
+#. en: Receive these items?
+msgctxt "2328:134"
+msgid "¿Quieres recibir esto?"
+msgstr ""
+
+#. en: You can’t receive these items because your bag is full.
+msgctxt "2328:135"
+msgid "No puedes recibir esto porque tu Bolsa está llena."
+msgstr ""
+
+#. en: <oneline><$cdef(27)><$cname;0(lnum2)></color> is once again offering some<br>special<slide><br>items<slide><br>at the<slide><br><$cdef(27)><$stgmyname;1(lnum1)></color><slide><$cdef(27)><br>Pokémon</color><slide><$cdef(27)><br>Center </color>today!<clear><br>Looks like they’ll trade these items in exchange for<br><$cdef(27)><fqty(2)><evcpitem;3></color><slide><br>for<slide><br><$cdef(27)><evcleftdnum;2></color><slide><br>more <qty;2(day,days)>!
+msgctxt "2328:136"
+msgid "<oneline><fcap><dart;0()><$cdef(27)><$cname;0(lnum2)> </color>ha vuelto a preparar<br>unos objetos<slide><br>muy especiales<slide><br>en el <$cdef(27)>Centro Pokémon</color><slide><br><esde;1()><$cdef(27)><$stgmyname;1(lnum1)></color>.<clear><br>Tienes <$cdef(27)><evcleftdnum;2></color> dí<qty;2(a,as)> más para intercambiarlos por tus<br><fqty(2)><$cdef(27)><class><evcpitem;3></color>."
+msgstr "<oneline><fcap><dart;0()><$cdef(27)><$cname;0(lnum2)> </color>volvió a preparar<br>unos objetos<slide><br>muy especiales<slide><br>en el <$cdef(27)>Centro Pokémon</color><slide><br><esde;1()><$cdef(27)><$stgmyname;1(lnum1)></color>.<clear><br>Tienes <$cdef(27)><evcleftdnum;2></color> dí<qty;2(a,as)> más para intercambiarlos por tus<br><fqty(2)><$cdef(27)><class><evcpitem;3></color>."
+
+#. en: <oneline>Today’s the last day to trade with<br><$cdef(27)><$cname;1(lnum2)></color><slide><br>at the<slide><br><$cdef(27)><$stgmyname;0(lnum1)></color><slide><$cdef(27)><br>Pokémon Center</color>!<clear><br>If they have any items you want, be sure to bring some<br><$cdef(27)><fqty(2)><evcpitem;2></color> to trade!
+msgctxt "2328:137"
+msgid "<oneline>¡Hoy es el último día que<br><dart;1()><$cdef(27)><$cname;1(lnum2)></color><slide><br>estará<slide><br>intercambiando<slide><br>en el <$cdef(27)>Centro Pokémon</color><slide><br><esde;0()><$cdef(27)><$stgmyname;0(lnum1)></color>!<clear><br>Si te interesa algún objeto, recuerda reunir<br><$cdef(27)><fqty(2)><class><evcpitem;2></color><slide><br>y llevársel<gen;2(o,a)>s."
+msgstr ""
+
+#. en: You have already registered this Pokémon. Would you like<br>to open your Pokédex?
+msgctxt "2328:138"
+msgid "Ya has registrado a este Pokémon. ¿Quieres consultar<br>la Pokédex?"
+msgstr "Ya registraste a este Pokémon. ¿Quieres consultar<br>la Pokédex?"
+
+#. en: In your last session, you did not disconnect correctly.<clear><br>Disconnecting during a Link Play session may cause your<br>progress in the game to revert to your last save point.<clear><br>Please check that you have a stable connection before<br>enjoying Link Play.
+msgctxt "2328:139"
+msgid "La conexión no finalizó adecuadamente la última vez.<clear><br>Cuando esto sucede durante el juego en conexión,<br>es posible que la partida no se guarde y se revierta<slide><br>tu progreso al del punto de guardado anterior.<clear><br>Asegúrate de tener una conexión estable para jugar en<br>conexión."
+msgstr ""
+
+#. en: Your photo album is full! Would you like to open your<br>album to make room?
+msgctxt "2328:140"
+msgid "El álbum está lleno. ¿Quieres echarle un vistazo?"
+msgstr ""
+
+#. en: You sense a strong presence coming from within. It seems<br>like someone is inside...
+msgctxt "2328:141"
+msgid "Sientes una presencia imponente en el interior...<br>¿Habrá alguien dentro?"
+msgstr "Sientes una presencia imponente en el interior...<br>¿Habrá alguien adentro?"
+
+#. en: Saving...<br>Do not turn off the power.
+msgctxt "2328:143"
+msgid "Guardando... No apagues la consola."
+msgstr ""
+
+#. en: <oneline>You got <$cdef(27)><dgt2;1(lnum2)></color> <$cdef(27)><class><$ifullwithnum;0(lnum1,lnum2)></color><br>from a <$cdef(27)><$spwfull(12)></color>!
+msgctxt "2328:144"
+msgid "<oneline>¡Has conseguido<br><$cdef(27)><dgt2;1(lnum2)></color> <class><$cdef(27)><$ifullwithnum;0(lnum1,lnum2)></color><slide><br>tras la <$cdef(27)>negociación</color><$cdef(27)><nbs2></color><$spwicon(12)>!"
+msgstr "<oneline>¡Conseguiste<br><$cdef(27)><dgt2;1(lnum2)></color> <class><$cdef(27)><$ifullwithnum;0(lnum1,lnum2)></color><slide><br>con la <$cdef(27)>negociación</color><$cdef(27)><nbs2></color><$spwicon(12)>!"
+
+#. en: Are you sure you want to change the passcode?
+msgctxt "2328:145"
+msgid "¿Quieres cambiar el código?"
+msgstr ""
+
+#. en: <oneline>You learned the <$cdef(27)><$hairname;1(lnum1)><br></color>hairstyle!
+msgctxt "2328:146"
+msgid "<oneline>¡Has aprendido a imitar el peinado<br><$cdef(27)><$hairname;1(lnum1)></color>!"
+msgstr "<oneline>¡Aprendiste a imitar el peinado<br><$cdef(27)><$hairname;1(lnum1)></color>!"
+
+#. en: Would you like to set a passcode?
+msgctxt "2328:147"
+msgid "¿Quieres ponerle un código?"
+msgstr ""
+
+#. en: <oneline>This is <$cdef(27)><$strpname;0(lstr1,lnum1)></color>’s <$cdef(27)><fqty(1)><$ifull(1677)></color>. Would you<br>like<slide><br>to<slide><br>open it?
+msgctxt "2328:148"
+msgid "<oneline>Esta <$cdef(27)><fqty(1)><$ifull(1677)></color> es de <$cdef(27)><$strpname;0(lstr1,lnum1)></color>.<br>¿Quieres abrirla?"
+msgstr ""
+
+#. en: Set your desired passcode.
+msgctxt "2328:149"
+msgid "Crea un código."
+msgstr ""
+
+#. en: Enter the passcode.
+msgctxt "2328:150"
+msgid "Introduce el código."
+msgstr "Ingresa el código."
+
+#. en: Are you sure you wish to delete the selected photos?
+msgctxt "2328:151"
+msgid "¿Quieres borrar la selección de fotos?"
+msgstr ""
+
+#. en: Are you sure you wish to delete this photo?
+msgctxt "2328:152"
+msgid "¿Quieres borrar esta foto?"
+msgstr ""
+
+#. en: Change your highlight reel photo?
+msgctxt "2328:153"
+msgid "¿Quieres sustituir esta foto destacada de un momento<br>especial?"
+msgstr ""
+
+#. en: Do you wish to return home?
+msgctxt "2328:154"
+msgid "¿Quieres usar la función <$cdef(27)>Llévame a casa</color>?"
+msgstr ""
+
+#. en: Show this human record to <$cdef(27)><$cname;0(206)></color>?
+msgctxt "2328:155"
+msgid "<oneline>¿Quieres enseñarle la nota humana<br><esa;0()><$cdef(27)><$cname;0(206)></color>?"
+msgstr ""
+
+#. en: Backup data from <timeymd;0(lnum1,lnum2,lnum3)> found.<clear><br>Would you like to recover this data and replace your<br>existing save data?
+msgctxt "2328:156"
+msgid "Se ha encontrado una copia de seguridad con fecha<br>del <timeymd;0(lnum1,lnum2,lnum3)>.<clear><br>¿Quieres sobrescribir la partida guardada actual<br>y restaurar los datos de la copia de seguridad?"
+msgstr "Se encontró una copia de seguridad con fecha<br>del <timeymd;0(lnum1,lnum2,lnum3)>.<clear><br>¿Quieres sobrescribir la partida guardada actual<br>y restaurar los datos de la copia de seguridad?"
+
+#. en: Loading backup data. Don’t turn off the power.
+msgctxt "2328:157"
+msgid "Cargando la copia de seguridad... No apagues la consola."
+msgstr ""
+
+#. en: Save and quit the game?
+msgctxt "2328:158"
+msgid "¿Quieres guardar y salir del juego?"
+msgstr ""
+
+#. en: Recovering backup data will delete your existing save<br>data. Do you wish to proceed?
+msgctxt "2328:159"
+msgid "Si restauras los datos de la copia de seguridad,<br>se borrará la partida actual. ¿Quieres continuar?"
+msgstr ""
+
+#. en: Would you like to stay <$cdef(27)>transformed</color> like this?
+msgctxt "2328:160"
+msgid "¿Te gustaría quedarte con este aspecto?"
+msgstr ""
+
+#. en: Store everything that’s in your bag?
+msgctxt "2328:161"
+msgid "¿Quieres guardar todo lo que tienes en la Bolsa?"
+msgstr ""
+
+#. en: Store everything that’s in your handy bag?
+msgctxt "2328:162"
+msgid "¿Quieres guardar todo lo que tienes en la Bolsa auxiliar?"
+msgstr ""
+
+#. en: Retrieve all the items inside?
+msgctxt "2328:163"
+msgid "¿Quieres sacar todo lo que hay guardado aquí?"
+msgstr ""
+
+#. en: Are you sure you wish to play in Chinese (Traditional)?
+msgctxt "2328:164"
+msgid "¿Quieres jugar en chino tradicional?"
+msgstr ""
+
+#. en: Are you sure you wish to play in Korean?
+msgctxt "2328:165"
+msgid "¿Quieres jugar en coreano?"
+msgstr ""
+
+#. en: Are you sure you wish to play in Chinese (Simplified)?
+msgctxt "2328:166"
+msgid "¿Quieres jugar en chino simplificado?"
+msgstr ""
+
+#. en: Would you like to have your handy bag accessible at<br>all times?
+msgctxt "2328:167"
+msgid "¿Quieres fijar la Bolsa auxiliar y tenerla siempre visible?"
+msgstr ""
+
+#. en: Would you like to put away your handy bag?
+msgctxt "2328:168"
+msgid "¿Quieres cerrar la Bolsa auxiliar?"
+msgstr ""
+
+#. en: Which home would you like to return to?
+msgctxt "2328:169"
+msgid "¿A qué casa quieres volver?"
+msgstr ""
+
+#. en: <oneline>Taking you back to your home in<br><dart;0()><$cdef(27)><$stgmyname;0(lnum1)></color>.
+msgctxt "2328:170"
+msgid "<oneline>Volviendo a la casa que tienes en<br><dart;0()><$stgmyname;0(lnum1)>..."
+msgstr ""
+
+#. en: You don’t have a home. Would you like to go to a safe<br>location nearby instead?
+msgctxt "2328:171"
+msgid "No tienes casa, así que volverás al lugar seguro más<br>cercano. ¿Te parece bien?"
+msgstr ""
+
+#. en: You can’t return to your home right now. Would you like to<br>go to a safe location nearby instead?
+msgctxt "2328:172"
+msgid "No es posible llevarte a casa ahora mismo, así que<br>volverás al lugar seguro más cercano. ¿Te parece bien?"
+msgstr ""
+
+#. en: Taking you to a different location.
+msgctxt "2328:173"
+msgid "Iniciando viaje..."
+msgstr ""
+
+#. en: You have arrived home.
+msgctxt "2328:174"
+msgid "¡Ya estás en casita!"
+msgstr ""
+
+#. en: Your home could not be found. You were taken to a safe<br>location nearby instead.
+msgctxt "2328:175"
+msgid "No ha sido posible encontrar tu casa, así que has vuelto<br>al lugar seguro más cercano."
+msgstr "No fue posible encontrar tu casa, así que volviste<br>al lugar seguro más cercano."
+
+#. en: <oneline>You got<br><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!
+msgctxt "2328:176"
+msgid "<oneline>¡Has conseguido<br><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!"
+msgstr "<oneline>¡Conseguiste<br><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!"
+
+#. en: This is someone else’s <$cdef(27)><fqty(1)><$ifull(1677)></color>. Do you want to open it?
+msgctxt "2328:178"
+msgid "Esta <$cdef(27)><fqty(1)><$ifull(1677)></color> pertenece a otra persona.<br>¿Quieres abrirla?"
+msgstr ""
+
+#. en: If you do not set a passcode, anyone will be able to open<br>this. Are you sure you want to continue?
+msgctxt "2328:179"
+msgid "¿Quieres eliminar el código? Si lo haces, cualquiera podría<br>acceder al contenido."
+msgstr ""
+
+#. en: Items left inside will disappear tomorrow. Are you OK with<br>leaving everything inside?
+msgctxt "2328:181"
+msgid "Los objetos que dejes aquí dentro desaparecerán mañana.<br>¿Seguro que quieres tirarlos?"
+msgstr ""
+
+#. en: You have been taken to a safe location nearby.
+msgctxt "2328:186"
+msgid "Has vuelto al lugar seguro más cercano."
+msgstr "Volviste al lugar seguro más cercano."
+
+#. en: <oneline>You don’t have a home in<br><dart;0()><$cdef(27)><$stgmynamefull;0(lnum1)></color>.<clear><br>If you leave<br><dart;1()><$cdef(27)><$stgmynamefull;1(lnum1)></color>,<slide><br>you<slide><br>won’t<slide><br>be able<slide><br>to come<slide><br>back<slide><br>using<slide><br>Return Home.<slide><br>Is that OK?
+msgctxt "2328:191"
+msgid "<oneline>No podrás volver<br><esa;0()><$stgmynamefull;0(lnum1)><slide><br>con la función<slide><br><$cdef(27)>Llévame a casa</color><slide><br>porque no tienes casa aquí.<clear><br>¿Quieres viajar de todas formas?"
+msgstr ""
+
+#. en: You got some habitat information!
+msgctxt "2328:194"
+msgid "¡Has conseguido información sobre un hábitat!"
+msgstr "¡Conseguiste información sobre un hábitat!"
+
+#. en: Would you like to skip the credits?
+msgctxt "2328:195"
+msgid "¿Quieres omitir los créditos?"
+msgstr ""
+
+#. en: Are you sure you wish to disband the current group of<br>players and close the connection?
+msgctxt "2328:196"
+msgid "Se interrumpirá la conexión y se expulsará a los visitantes.<br>¿Te parece bien?"
+msgstr ""
+
+#. en: <oneline>That will be <$icon(lnum1)><moneyint;0(lnum2)>. Would you like to make<br>this purchase?
+msgctxt "2328:197"
+msgid "<qty;0(Sería,Serían)> <moneyint;0(lnum2)><nbs2><$icon(lnum1)>. ¿Te parece bien?"
+msgstr ""
+
+#. en: Purchase complete.
+msgctxt "2328:198"
+msgid "¡Compra realizada!"
+msgstr ""
+
+#. en: <$cdef(27)><gevcmainpk;0></color> seems determined to continue the event<br>through <$cdef(27)>today</color>!
+msgctxt "2328:199"
+msgid "<oneline>¡Parece que <dart;0()><$cdef(27)><gevcmainpk;0></color> quiere que <$cdef(27)>hoy </color>sea el último<br>día de<slide><br>su evento!"
+msgstr ""
+
+#. en: *beep beep beep*<br>New data found! Commencing Pokédex update.
+msgctxt "2328:200"
+msgid "Pi, pi, piii... ¡Se han encontrado datos nuevos!<br>Se va a actualizar la Pokédex."
+msgstr "Pi, pi, piii... ¡Se encontraron datos nuevos!<br>Se va a actualizar la Pokédex."
+
+#. en: Update complete! You can now register new Pokémon.
+msgctxt "2328:201"
+msgid "¡Actualización completada!<br>Ahora podrás registrar nuevos Pokémon."
+msgstr ""
+
+#. en: A message from your Pokédex!<clear><br>Today’s your lucky day—you’re going to find more<br>sparkling ripples and lost relics than usual!
+msgctxt "2328:202"
+msgid "¡Has recibido una notificación en la Pokédex!<clear><br>¡Es tu día de suerte! Hoy podrás encontrar más ondas<br>relucientes en el agua y más reliquias enterradas."
+msgstr "¡Recibiste una notificación en la Pokédex!<clear><br>¡Es tu día de suerte! Hoy podrás encontrar más ondas<br>relucientes en el agua y más reliquias enterradas."
+
+#. en: A Pokémon is the talk of the town!<clear><br>Head to <dart;0()><$cdef(27)><$stgmyname;0(lnum1)></color> to see for yourself!
+msgctxt "2328:203"
+msgid "<oneline>Hay algo de revuelo con un Pokémon en<br><dart;0()><$cdef(27)><$stgmyname;0(lnum1)></color>.<slide><br>¡Ve a echar un vistazo!"
+msgstr ""
+
+#. en: A Pokémon is the talk of the town!<clear><br>Head to the <$cdef(27)>Pokémon Center</color> to see for yourself!
+msgctxt "2328:204"
+msgid "Hay algo de revuelo con un Pokémon.<br>¡Apresúrate al <$cdef(27)>Centro Pokémon</color> a ver qué sucede!"
+msgstr ""
+
+#. en: <oneline>A Pokémon is still the talk of the town today!<clear><br>Head to the<br><$cdef(27)><$stgmyname;0(lnum1)></color><slide><$cdef(27)><br>Pokémon Center</color><slide><br>to talk<slide><br>to them!
+msgctxt "2328:205"
+msgid "<oneline>Todavía hay algo de revuelo con el Pokémon.<clear><br>¡Apresúrate al <$cdef(27)>Centro Pokémon<br></color><esde;0()><$cdef(27)><$stgmyname;0(lnum1)></color><slide><br>y habla con él!"
+msgstr ""
+
+#. en: <oneline>You got<br><iart;1()><$cdef(27)><class><$ifullwithnum;1(lnum1,lnum2)></color><slide><$cdef(27)><br></color>from<slide><br><$cdef(27)><gevcmainpk;0></color>!
+msgctxt "2328:206"
+msgid "<oneline>¡<fcap><dart;0()><$cdef(27)><gevcmainpk;0> </color>te ha entregado<br><iart;1()><$cdef(27)><class><$ifullwithnum;1(lnum1,lnum2)></color>!"
+msgstr "<oneline>¡<fcap><dart;0()><$cdef(27)><gevcmainpk;0> </color>te entregó<br><iart;1()><$cdef(27)><class><$ifullwithnum;1(lnum1,lnum2)></color>!"
+
+#. en: You got a lot of prizes from <$cdef(27)>Bulbasaur</color>!
+msgctxt "2328:207"
+msgid "¡<$cdef(27)>Bulbasaur </color>te ha entregado un montón de premios!"
+msgstr "¡<$cdef(27)>Bulbasaur </color>te entregó un montón de premios!"
+
+#. en: Your reward was sent to the <$cdef(27)>PC</color> in your own world.
+msgctxt "2328:208"
+msgid "El regalo se ha enviado al <$cdef(27)>PC</color> de tu vecindario."
+msgstr "El regalo se envió al <$cdef(27)>PC</color> de tu vecindario."
+
+#. en: <$cdef(27)><gevcmainpk;0></color> seems determined to continue the event for<br><$cdef(27)><gevcleftdnum;1></color> more <qty;1(day,days)>!
+msgctxt "2328:209"
+msgid "<oneline>¡Parece que <dart;0()><$cdef(27)><gevcmainpk;0> </color>quiere seguir con su evento<br><$cdef(27)><gevcleftdnum;1> </color>dí<qty;1(a,as)> más!"
+msgstr ""
+
+#. en: Press a button?
+msgctxt "2328:210"
+msgid "¿Quieres pulsar un botón?"
+msgstr "¿Quieres presionar un botón?"
+
+#. en: Looks like it needs to be restocked... Try again tomorrow!
+msgctxt "2328:211"
+msgid "Productos agotados. Vuelve mañana."
+msgstr ""
+
+#. en: <oneline><fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)><br></color>popped out!
+msgctxt "2328:212"
+msgid "<oneline>¡H<qty;0(a,an)> salido<br><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!"
+msgstr ""
+
+#. en: Please choose how you want to play.
+msgctxt "2328:213"
+msgid "Configura los ajustes."
+msgstr ""
+
+#. en: You’re now connected!
+msgctxt "2328:214"
+msgid "Se ha establecido la conexión."
+msgstr "Se estableció la conexión."
+
+#. en: <oneline>What luck! Another<br><fqty(1)><class><$cdef(27)><$ifull;0(lnum1)></color><slide><br>tumbled down!
+msgctxt "2328:215"
+msgid "<oneline>¡Estás de suerte! Te llevas de regalo otr<genqty;0(o,a,os,as)><br><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>."
+msgstr ""
+
+#. en: Would you like to <$cdef(27)><$spwfull(36)> </color>into this look?
+msgctxt "2328:216"
+msgid "¿Quieres <$cdef(27)>transformarte</color><$cdef(27)><nbs2></color><$spwicon(36)> y adquirir este aspecto?"
+msgstr ""
+
+#. en: Cancel any changes and keep your current look?
+msgctxt "2328:217"
+msgid "¿Prefieres quedarte como estás y no cambiar de aspecto?"
+msgstr ""
+
+#. en: Communicating. Don’t turn off the power.
+msgctxt "2328:218"
+msgid "Comunicación en curso... No apagues la consola."
+msgstr ""
+
+#. en: Please enter the Link Code.
+msgctxt "2328:219"
+msgid "Introduce la contraseña."
+msgstr "Ingresa la contraseña."
+
+#. en: That destination couldn’t be found.
+msgctxt "2328:220"
+msgid "No se ha encontrado ningún destino."
+msgstr "No se encontró ningún destino."
+
+#. en: Would you like to search again?
+msgctxt "2328:221"
+msgid "¿Quieres buscar de nuevo?"
+msgstr ""
+
+#. en: You need a Link Code to join this player. Please enter the<br>Link Code.
+msgctxt "2328:222"
+msgid "Se necesita una contraseña para jugar con esta persona,<br>así que deberás introducirla."
+msgstr "Se necesita una contraseña para jugar con esta persona,<br>así que deberás ingresarla."
+
+#. en: You didn’t enter the correct Link Code. Would you like<br>to try again?
+msgctxt "2328:223"
+msgid "Contraseña incorrecta. ¿Quieres volver a intentarlo?"
+msgstr ""
+
+#. en: You already have a Cloud Island. If you would like to<br>create a new one, you must first delete your existing island<slide><br>from the settings menu.
+msgctxt "2328:224"
+msgid "Ya tienes una Isla Nube. Si quieres crear una nueva,<br>primero borra la isla actual desde la pantalla de ajustes."
+msgstr ""
+
+#. en: You are the island’s owner. Would you like to change<br>the settings?
+msgctxt "2328:225"
+msgid "Eres <gen;-2(el creador,la creadora)> de esta isla. ¿Quieres configurar<br>los ajustes?"
+msgstr ""
+
+#. en: If you change the settings, the current group of players will<br>be disbanded.
+msgctxt "2328:226"
+msgid "Si cambias los ajustes, se expulsará a todos los jugadores<br>actuales."
+msgstr ""
+
+#. en: If you need to confirm your Cloud Island’s address or Link<br>Code again, you can check the <$cdef(27)>PC</color> at its <$cdef(27)>Pokémon Center</color>!
+msgctxt "2328:227"
+msgid "Puedes comprobar la dirección y la contraseña desde<br>el <$cdef(27)>PC</color> del <$cdef(27)>Centro Pokémon</color> de tu Isla Nube."
+msgstr ""
+
+#. en: To search for an island, please enter the address.
+msgctxt "2328:228"
+msgid "Introduce la dirección de la isla que quieras buscar."
+msgstr "Ingresa la dirección de la isla que quieras buscar."
+
+#. en: Cloud Island not found. Would you like to try entering the<br>address again?
+msgctxt "2328:229"
+msgid "No se ha encontrado ninguna Isla Nube.<br>¿Quieres volver a introducir la dirección?"
+msgstr "No se encontró ninguna Isla Nube.<br>¿Quieres volver a ingresar la dirección?"
+
+#. en: Search canceled.
+msgctxt "2328:230"
+msgid "Se ha cancelado la búsqueda."
+msgstr "Se canceló la búsqueda."
+
+#. en: Your rewards were sent to the <$cdef(27)>PC</color> in your own world.
+msgctxt "2328:231"
+msgid "Los regalos se han enviado al <$cdef(27)>PC </color>de tu vecindario."
+msgstr "Los regalos se enviaron al <$cdef(27)>PC </color>de tu vecindario."
+
+#. en: You probably shouldn’t pass through here just yet.
+msgctxt "2328:232"
+msgid "Ahora no es buen momento de ir por aquí."
+msgstr ""
+
+#. en: There are rumors of a new Pokémon in this town. Go find<br>them and talk with them!
+msgctxt "2328:233"
+msgid "Parece que ha llegado un nuevo Pokémon al vecindario.<br>¿Por qué no lo buscas para saludarlo?"
+msgstr "Parece que llegó un nuevo Pokémon al vecindario.<br>¿Por qué no lo buscas para saludarlo?"
+
+#. en: Downloadable content data is required in order to access<br>this town.<clear><br>Please ensure that the applicable content has been<br>downloaded to your system.
+msgctxt "2328:234"
+msgid "Los datos del contenido descargable son necesarios<br>para visitar este vecindario.<clear><br>Asegúrate de que se hayan descargado correctamente."
+msgstr ""
+
+#. en: You can now take on <$cdef(27)>daily challenges</color>!
+msgctxt "2328:235"
+msgid "¡Ahora puedes acceder a los <$cdef(27)>retos diarios</color>!"
+msgstr ""
+
+#. en: You can now shop for daily items!
+msgctxt "2328:236"
+msgid "¡Ahora puedes comprar artículos del día!"
+msgstr ""
+
+#. en: New <$cdef(27)>challenges</color> have been added, thanks to the increased<br><$cdef(27)>environment level</color> of the area!
+msgctxt "2328:237"
+msgid "¡La <$cdef(27)>calidad del entorno </color>ha aumentado!<br>Se han añadido <$cdef(27)>retos </color>nuevos."
+msgstr "¡La <$cdef(27)>calidad del entorno </color>aumentó!<br>Se añadieron <$cdef(27)>retos </color>nuevos."
+
+#. en: New items have been added to the <$cdef(27)>shop</color>, thanks to the<br>increased <$cdef(27)>environment level</color> of the area!
+msgctxt "2328:238"
+msgid "¡La <$cdef(27)>calidad del entorno </color>ha aumentado!<br>Se han añadido artículos nuevos a la <$cdef(27)>tienda</color>."
+msgstr "¡La <$cdef(27)>calidad del entorno </color>aumentó!<br>Se añadieron artículos nuevos a la <$cdef(27)>tienda</color>."
+
+#. en: <oneline>Make <$cdef(27)><dgt4;2(lnum3)><br><class><$ifullwithnum;1(lnum1,lnum3)></color><slide><br>×<dgt4;1(lnum2)>?
+msgctxt "2328:239"
+msgid "<oneline>¿Quieres fabricar <$cdef(27)><dgt4;2(lnum3)> </color><qty;2(lote,lotes)> de<br><$cdef(27)><dgt4;1(lnum2)></color> <$cdef(27)><class><$ifullwithnum;0(lnum1,lnum2)></color>?"
+msgstr ""
+
+#. en: <oneline>Make<br><$cdef(27)><dgt4;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)></color>?
+msgctxt "2328:240"
+msgid "<oneline>¿Quieres fabricar<br><$cdef(27)><dgt4;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)></color>?"
+msgstr ""
+
+#. en: <oneline>Make<br><$cdef(27)><dgt4;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)></color>?
+msgctxt "2328:241"
+msgid "<oneline>¿Quieres preparar <$cdef(27)><dgt4;1(lnum2)></color><br><class><$cdef(27)><$ifullwithnum;0(lnum1,lnum2)></color>?"
+msgstr ""
+
+#. en: It’s a new day! <$cdef(27)>Daily challenges</color> have been updated.
+msgctxt "2328:242"
+msgid "¡Ha cambiado el día y con él los <$cdef(27)>retos diarios</color>!"
+msgstr "¡Cambió el día y con él los <$cdef(27)>retos diarios</color>!"
+
+#. en: It’s a new day! Daily items have been updated.
+msgctxt "2328:243"
+msgid "¡Ha cambiado el día y con él los artículos del día!"
+msgstr "¡Cambió el día y con él los artículos del día!"
+
+#. en: There are new <$cdef(27)>challenges</color> to take on!
+msgctxt "2328:244"
+msgid "¡Hay nuevos <$cdef(27)>retos </color>disponibles!"
+msgstr ""
+
+#. en: New items are available!
+msgctxt "2328:245"
+msgid "¡Hay nuevos artículos disponibles!"
+msgstr ""
+
+#. en: Selecting Fast will make text display quickly.
+msgctxt "2328:246"
+msgid "Selecciona \"Rápida\" para aumentar la velocidad del texto."
+msgstr ""
+
+#. en: Selecting Normal will make text display at a<br>moderate speed.
+msgctxt "2328:247"
+msgid "Selecciona \"Normal\" para que el texto se muestre<br>a la velocidad por defecto."
+msgstr ""
+
+#. en: Selecting Slow will make text display more gradually.
+msgctxt "2328:248"
+msgid "Selecciona \"Lenta\" para disminuir la velocidad del texto."
+msgstr ""
+
+#. en: <oneline>Finalize the <$cdef(27)><$spwfull(12)></color> and receive<br><iart;0()><$cdef(27)><class><$ifullwithnum;0(lnum1,lnum2)></color>?
+msgctxt "2328:249"
+msgid "<oneline>Vas a recibir<br><iart;0()><$cdef(27)><class><$ifullwithnum;0(lnum1,lnum2)></color>.<slide><br>¿Te parece bien?"
+msgstr ""
+
+#. en: This project should take less time than usual, thanks to<br><$cdef(27)><$cname;0(215)></color>’s enthusiastic efforts!
+msgctxt "2328:250"
+msgid "La construcción terminará antes de lo previsto gracias al<br>esfuerzo <esde;0()><$cdef(27)><$cname;0(215)></color>."
+msgstr ""
+
+#. en: The building process is going smoothly, but it will take a<br>little time before construction is complete.
+msgctxt "2328:251"
+msgid "La construcción va viento en popa, pero todavía queda<br>un rato para que esté terminada."
+msgstr ""
+
+#. en: The rebuild should take less time than usual, thanks to<br><$cdef(27)><$cname;0(215)></color>’s enthusiastic efforts!
+msgctxt "2328:252"
+msgid "La reconstrucción terminará antes de lo previsto gracias al<br>esfuerzo <esde;0()><$cdef(27)><$cname;0(215)></color>."
+msgstr ""
+
+#. en: The rebuild is going smoothly, but it will take a little time<br>to finish.
+msgctxt "2328:253"
+msgid "La reconstrucción va viento en popa, pero todavía queda<br>un rato para que esté terminada."
+msgstr ""
+
+#. en: Stop building?
+msgctxt "2328:254"
+msgid "¿Quieres cancelar la construcción?"
+msgstr ""
+
+#. en: It’s a new day! This page will be updated.
+msgctxt "2328:255"
+msgid "Ha cambiado el día. Se va a actualizar la pantalla."
+msgstr "Cambió el día. Se va a actualizar la pantalla."
+
+#. en: You should come here with <$cdef(27)><$cname(562)></color>!
+msgctxt "2328:256"
+msgid "Deberías traer a <$cdef(27)><$cname(562)></color> contigo."
+msgstr ""
+
+#. en: The demolition should take less time than usual, thanks to<br><$cdef(27)><$cname;0(215)></color>’s enthusiastic efforts!
+msgctxt "2328:257"
+msgid "La demolición terminará antes de lo previsto gracias al<br>esfuerzo <esde;0()><$cdef(27)><$cname;0(215)></color>."
+msgstr ""
+
+#. en: The demolition is going smoothly, but it will take a little<br>time to finish.
+msgctxt "2328:258"
+msgid "La demolición va viento en popa, pero todavía queda<br>un rato para que esté terminada."
+msgstr ""
+
+#. en: Relocation preparations should take less time than usual,<br>thanks to <$cdef(27)><$cname;0(215)></color>’s enthusiastic efforts!
+msgctxt "2328:259"
+msgid "Los preparativos del traslado terminarán antes de lo<br>previsto gracias al esfuerzo <esde;0()><$cdef(27)><$cname;0(215)></color>."
+msgstr ""
+
+#. en: The relocation preparations are going smoothly, but it will<br>take a little time to finish.
+msgctxt "2328:260"
+msgid "Los preparativos del traslado van viento en popa, pero<br>todavía queda un rato para que estén terminados."
+msgstr ""
+
+#. en: Stop demolishing?
+msgctxt "2328:261"
+msgid "¿Quieres cancelar la demolición?"
+msgstr ""
+
+#. en: Stop preparing to relocate?
+msgctxt "2328:262"
+msgid "¿Quieres cancelar los preparativos del traslado?"
+msgstr ""
+
+#. en: Stop relocating?
+msgctxt "2328:263"
+msgid "¿Quieres cancelar el traslado?"
+msgstr ""
+
+#. en: Stop rebuilding?
+msgctxt "2328:264"
+msgid "¿Quieres cancelar la reconstrucción?"
+msgstr ""
+
+#. en: If you’re creating a new island, it will need a name!<br>But don’t worry—you can change this name later.
+msgctxt "2328:265"
+msgid "Ponle un nombre a tu isla. Podrás cambiarlo más adelante."
+msgstr ""
+
+#. en: Now choose what kind of settings you want to apply to<br>this Cloud Island!
+msgctxt "2328:266"
+msgid "Configura tu Isla Nube."
+msgstr ""
+
+#. en: Please enter the magic number.
+msgctxt "2328:267"
+msgid "Introduce el número mágico."
+msgstr "Ingresa el número mágico."
+
+#. en: Are you sure you wish to disband the current group of<br>players and close the connection?
+msgctxt "2328:268"
+msgid "Se interrumpirá la conexión y se expulsará a los visitantes.<br>¿Te parece bien?"
+msgstr ""
+
+#. en: Do you want to disconnect and head back home?<clear><br>All the items you have will be kept in this <$cdef(27)>PC</color>.
+msgctxt "2328:269"
+msgid "Se interrumpirá la conexión y volverás a casa.<br>¿Te parece bien?<clear><br>Ten en cuenta que todos los objetos que lleves encima<br>se guardarán en este <$cdef(27)>PC</color>."
+msgstr ""
+
+#. en: You are currently the host. Would you like to disband the<br>current group of players and close the connection, or<slide><br>will you make another player the host and leave?
+msgctxt "2328:270"
+msgid "Eres <gen;-2(el anfitrión,la anfitriona)> de la sesión. ¿Quieres disolver el grupo<br>y finalizar la conexión, o elegir un nuevo anfitrión?"
+msgstr ""
+
+#. en: Who will you choose?
+msgctxt "2328:271"
+msgid "¿Quién quieres que sea el nuevo anfitrión?"
+msgstr ""
+
+#. en: Are you sure?
+msgctxt "2328:272"
+msgid "¿Estás segur<gen;-2(o,a)>?"
+msgstr ""
+
+#. en: Stop remodeling?
+msgctxt "2328:273"
+msgid "¿Quieres cancelar la reforma?"
+msgstr ""
+
+#. en: <oneline>Begin demolishing the<br><$cdef(27)><$bfull;0(lnum1)></color>?
+msgctxt "2328:274"
+msgid "<oneline>¿Quieres iniciar la demolición<br><esde;0()><$cdef(27)><$bfull;0(lnum1)></color>?"
+msgstr ""
+
+#. en: <oneline>Begin remodeling the<br><$cdef(27)><$bfull;0(lnum1)></color>?
+msgctxt "2328:275"
+msgid "¿Quieres iniciar la reforma de este edificio y construir<br><dart;0()><$cdef(27)><$bfull;0(lnum1)></color>?"
+msgstr ""
+
+#. en: <oneline>Begin preparations to relocate the<br><$cdef(27)><$bfull;0(lnum1)></color>?
+msgctxt "2328:276"
+msgid "<oneline>¿Quieres iniciar los preparativos del traslado<br><esde;0()><$cdef(27)><$bfull;0(lnum1)></color>?"
+msgstr ""
+
+#. en: <oneline>Begin relocating the<br><$cdef(27)><$bfull;0(lnum1)></color>?
+msgctxt "2328:277"
+msgid "<oneline>¿Quieres iniciar el traslado<br><esde;0()><$cdef(27)><$bfull;0(lnum1)></color>?"
+msgstr ""
+
+#. en: New personal record!
+msgctxt "2328:279"
+msgid "¡Nuevo récord personal!"
+msgstr ""
+
+#. en: You successfully jumped <spsjmprpnum;0> <qty;0(time,times)> in jump rope!
+msgctxt "2328:280"
+msgid "¡Has alcanzado<qty;0( , los )><spsjmprpnum;0> salt<qty;0(o,os)>!"
+msgstr "¡Alcanzaste<qty;0( , los )><spsjmprpnum;0> salt<qty;0(o,os)>!"
+
+#. en: <oneline>You got <$cdef(27)><dgt4;2(lnum3)></color><br><$cdef(27)><class><$ifullwithnum;1(lnum2,lnum3)></color><slide><br>from <$cdef(27)><$cname;0(lnum1)></color>!
+msgctxt "2328:281"
+msgid "<oneline>¡<fcap><dart;0()><$cdef(27)><$cname;0(lnum1)></color> te ha dado <$cdef(27)><dgt4;2(lnum3)></color><br><$cdef(27)><class><$ifullwithnum;1(lnum2,lnum3)></color>!"
+msgstr "<oneline>¡<fcap><dart;0()><$cdef(27)><$cname;0(lnum1)></color> te dio <$cdef(27)><dgt4;2(lnum3)></color><br><$cdef(27)><class><$ifullwithnum;1(lnum2,lnum3)></color>!"
+
+#. en: Your reward was sent to the <$cdef(27)>PC</color> in your own world.
+msgctxt "2328:282"
+msgid "El regalo se ha enviado al <$cdef(27)>PC</color> de tu vecindario."
+msgstr "El regalo se envió al <$cdef(27)>PC</color> de tu vecindario."
+
+#. en: Try placing a <$cdef(27)><fqty(1)><$ifull(1396)></color> and connecting lot of<br><$cdef(27)>generators</color> to it to transmit electricity from outside.<clear><br>If you don’t have the materials to build a <$cdef(27)>generator</color>, try<br>visiting a <$cdef(27)>Dream Island</color>!
+msgctxt "2328:283"
+msgid "Coloca unos <$cdef(27)><fqty(2)><$ifull(1396)></color> y conéctalos a varios<br><$cdef(27)>generadores </color>para suministrarle la energía que necesita.<clear><br>Si no tienes materiales para fabricar <$cdef(27)>generadores</color>, puedes<br>ir a una <$cdef(27)>Isla Ensueño</color> a conseguirlos."
+msgstr ""
+
+#. en: These goggles will allow you to view Cloud Islands made<br>by other players. Would you like to put them on?<clear><br>A paid Nintendo Switch Online membership is required to<br>use this feature.
+msgctxt "2328:284"
+msgid "Estas gafas te permiten ver la Isla Nube de otros<br>jugadores. ¿Quieres ponértelas?<clear><br>Es necesaria una suscripción a Nintendo Switch Online<br>para usar esta función."
+msgstr "Estos lentes te permiten ver la Isla Nube de otros<br>jugadores. ¿Quieres ponértelos?<clear><br>Es necesaria una suscripción a Nintendo Switch Online<br>para usar esta función."
+
+#. en: Enter the address of the Cloud Island you wish to view.
+msgctxt "2328:285"
+msgid "Introduce la dirección de la Isla Nube que quieras ver."
+msgstr "Ingresa la dirección de la Isla Nube que quieras ver."
+
+#. en: Cloud Island not found. Would you like to try entering the<br>address again?
+msgctxt "2328:286"
+msgid "No se ha encontrado ninguna Isla Nube.<br>¿Quieres volver a introducir la dirección?"
+msgstr "No se encontró ninguna Isla Nube.<br>¿Quieres volver a ingresar la dirección?"
+
+#. en: Canceling search.
+msgctxt "2328:287"
+msgid "Se ha cancelado la búsqueda."
+msgstr "Se canceló la búsqueda."
+
+#. en: Cloud Island found. Commencing virtual mode.
+msgctxt "2328:288"
+msgid "Se ha encontrado una Isla Nube.<br>Iniciando la visita virtual..."
+msgstr "Se encontró una Isla Nube.<br>Iniciando la visita virtual..."
+
+#. en: Quit virtual mode and return to your own town?
+msgctxt "2328:289"
+msgid "¿Quieres terminar la visita virtual y volver a casa?"
+msgstr ""
+
+#. en: Quitting virtual mode.
+msgctxt "2328:290"
+msgid "Terminando la visita virtual..."
+msgstr ""
+
+#. en: Congratulations on completing the Cloud Island Pokédex!<br>Please accept this reward in honor of your hard work.
+msgctxt "2328:292"
+msgid "¡Enhorabuena por haber completado la Pokédex Nube<br>de esta isla! Te mereces un premio por tamaña proeza."
+msgstr "¡Felicidades por haber completado la Pokédex Nube<br>de esta isla! Te mereces un premio por tamaña proeza."
+
+#. en: <oneline>Are you sure you’d like to choose<br><$cdef(27)><$strpname;0(lstr1,lnum1)></color>?
+msgctxt "2328:293"
+msgid "<oneline>¿Te parece bien que <$cdef(27)><$strpname;0(lstr1,lnum1)></color> sea<br><gen;0(el nuevo anfitrión,la nueva anfitriona)>?"
+msgstr ""
+
+#. en: <oneline><$cdef(27)><$strpname;0(lstr1,lnum1)></color> will become the new host, and<br>you<slide><br>will<slide><br>return<slide><br>to<slide><br>your<slide><br>world.
+msgctxt "2328:294"
+msgid "<oneline>Se va a transferir el rol de anfitri<gen;0(ón,ona)><br>a <$cdef(27)><$strpname;0(lstr1,lnum1)></color><slide><br>para que puedas<slide><br>volver a casa."
+msgstr ""
+
+#. en: Stop cooking?
+msgctxt "2328:295"
+msgid "¿Quieres dejar de cocinar?"
+msgstr ""
+
+#. en: <$cdef(27)><$cname;0(216)> </color>and the others are working hard and should be<br>finished soon!
+msgctxt "2328:296"
+msgid "La comida estará lista en un periquete gracias al esfuerzo<br><esde;0()><$cdef(27)><$cname;0(216)></color> y compañía."
+msgstr "La comida estará lista en un santiamén gracias al esfuerzo<br><esde;0()><$cdef(27)><$cname;0(216)></color> y compañía."
+
+#. en: Change the pattern on which part?
+msgctxt "2328:297"
+msgid "¿Qué diseño quieres cambiar?"
+msgstr ""
+
+#. en: The relocation should take less time than usual thanks to<br><$cdef(27)><$cname;0(215)></color>’s enthusiastic efforts!
+msgctxt "2328:298"
+msgid "El traslado terminará antes de lo previsto gracias al<br>esfuerzo <esde;0()><$cdef(27)><$cname;0(215)></color>."
+msgstr ""
+
+#. en: The relocation is going smoothly, but it will take a little<br>more time to finish.
+msgctxt "2328:299"
+msgid "El traslado va viento en popa, pero todavía queda<br>un rato para que esté terminado."
+msgstr ""
+
+#. en: The remodel should take less time than usual thanks to<br><$cdef(27)><$cname;0(215)></color>’s enthusiastic efforts!
+msgctxt "2328:300"
+msgid "La reforma terminará antes de lo previsto gracias al<br>esfuerzo <esde;0()><$cdef(27)><$cname;0(215)></color>."
+msgstr ""
+
+#. en: The remodel is going smoothly, but it will take a little more<br>time to finish.
+msgctxt "2328:301"
+msgid "La reforma va viento en popa, pero todavía queda<br>un rato para que esté terminada."
+msgstr ""
+
+#. en: Save to console album?
+msgctxt "2328:302"
+msgid "¿Quieres guardar la foto en el álbum de la consola?"
+msgstr ""
+
+#. en: Call for <$cdef(27)><$cname;0(123)></color>?
+msgctxt "2328:303"
+msgid "¿Quieres llamar <esa;0()><$cdef(27)><$cname;0(123)></color>?"
+msgstr ""
+
+#. en: It is recommended that you gain a lot more knowledge<br>before visiting this town.
+msgctxt "2328:305"
+msgid "Se recomienda aprender más cosas antes de visitar<br>este vecindario."
+msgstr ""
+
+#. en: You know... There’s actually a town in this area you haven’t<br>visited yet.
+msgctxt "2328:306"
+msgid "¿No habrá por aquí cerca un vecindario que aún no<br>has explorado?"
+msgstr ""
+
+#. en: Try heading to the coast where <$cdef(27)><$cname(17)></color> was!
+msgctxt "2328:307"
+msgid "¡Dirígete a la zona de costa donde encontraste a <$cdef(27)><$cname(17)></color>!"
+msgstr ""
+
+#. en: It doesn’t look like <$cdef(27)><$cname;0(123)> </color>is coming... Maybe they’re<br>too tired?
+msgctxt "2328:308"
+msgid "<fcap><dart;0()><$cdef(27)><$cname;0(123)></color> no viene... ¿Estará cansad<gen;0(o,a)>?"
+msgstr ""
+
+#. en: You’re about to visit an area you’ve never been to before.<br>Are you sure about heading over there?
+msgctxt "2328:309"
+msgid "Estás a punto de visitar una zona en la que nunca has<br>estado. ¿Seguro que quieres seguir?"
+msgstr ""
+
+#. en: Commission <$cdef(27)><dgt5;0(lnum1)> </color>of these?
+msgctxt "2328:310"
+msgid "¿Quieres encargarle <$cdef(27)><dgt5;0(lnum1)></color>?"
+msgstr ""
+
+#. en: Confirm your request?
+msgctxt "2328:311"
+msgid "¿Te parece bien así?"
+msgstr ""
+
+#. en: Unable to start poll because one or more players are busy.
+msgctxt "2328:312"
+msgid "No se ha podido iniciar la votación porque hay al menos<br>un jugador ocupado."
+msgstr "No se pudo iniciar la votación porque hay al menos<br>un jugador ocupado."
+
+#. en: Please wait for all players to be ready.
+msgctxt "2328:313"
+msgid "Esperando a otros jugadores..."
+msgstr ""
+
+#. en: Jump Rope Contest (<timeymd;0(lnum1,lnum2,lnum3)>)<br>Record: <dgt5;1(lnum4)> <qty;1(Jump,Jumps)>
+msgctxt "2328:314"
+msgid "Torneo de comba - <timeymd;0(lnum1,lnum2,lnum3)><br>Resultado final: <dgt5;1(lnum4)> salt<qty;1(o,os)>"
+msgstr "Torneo de la cuerda - <timeymd;0(lnum1,lnum2,lnum3)><br>Resultado final: <dgt5;1(lnum4)> salt<qty;1(o,os)>"
+
+#. en: Hide-and-Sneak Contest (<timeymd;0(lnum1,lnum2,lnum3)>)<br>Record: <timerms;1(lnum4,lnum5)>
+msgctxt "2328:315"
+msgid "Torneo de escondite camuflado - <timeymd;0(lnum1,lnum2,lnum3)><br>Resultado final: <timerms;1(lnum4,lnum5)>"
+msgstr ""
+
+#. en: Display a photo?
+msgctxt "2328:316"
+msgid "¿Quieres mostrar una foto aquí?"
+msgstr ""
+
+#. en: Select which photo to display.
+msgctxt "2328:317"
+msgid "Elige la foto que quieras mostrar."
+msgstr ""
+
+#. en: You can’t add any more photos.<clear><br>If you want to display a new photo, the oldest photo will<br>be removed.
+msgctxt "2328:318"
+msgid "No se pueden añadir más fotos. Si añades una foto nueva,<br>se borrará la más antigua."
+msgstr ""
+
+#. en: Displaying photo...
+msgctxt "2328:319"
+msgid "Añadiendo..."
+msgstr ""
+
+#. en: Remove photo on display?
+msgctxt "2328:320"
+msgid "¿Quieres quitar esta foto?"
+msgstr ""
+
+#. en: This is the <$cdef(27)><fqty(1)><$ifull(1460)></color>.<clear><br>Place it somewhere, and Pokémon with the <$cdef(27)><fcap><$spwfull(13)></color><br>specialty will put items they’ve gathered in it.<clear><br>Also, if a Pokémon who can process materials is near the<br>box, they can process the materials in it.<clear><br>Would you like to put anything inside?
+msgctxt "2328:321"
+msgid "Esto es una <$cdef(27)><fqty(1)><$ifull(1460)></color>. Puedes colocarla donde<br>quieras.<clear><br>Los Pokémon con la especialidad <$cdef(27)><$spwfull(13)> </color>la usarán<br>para guardar los objetos que vayan encontrando por ahí.<clear><br>Si la colocas cerca de algún Pokémon capaz de procesar<br>materiales, podrá acceder a lo que haya dentro de la caja<slide><br>y adelantar trabajo.<clear><br>¿Quieres guardar algo?"
+msgstr ""
+
+#. en: You can put food in this basket to share it with other<br>Pokémon. Would you like to put some inside?
+msgctxt "2328:322"
+msgid "Puedes guardar comida en esta cesta para compartirla<br>con los demás Pokémon. ¿Quieres meter algo dentro?"
+msgstr "Puedes guardar comida en esta cesta para compartirla<br>con los demás Pokémon. ¿Quieres meter algo adentro?"
+
+#. en: It looks like Pokémon can process the materials you put in<br>here. Would you like to put something inside?
+msgctxt "2328:323"
+msgid "Algunos Pokémon pueden procesar los materiales<br>que guardes aquí. ¿Quieres meter algo dentro?"
+msgstr "Algunos Pokémon pueden procesar los materiales<br>que guardes aquí. ¿Quieres meter algo adentro?"
+
+#. en: Looks like the Pokémon isn’t responding to your call...<br>Try ringing the bell when they’re flying nearby.
+msgctxt "2328:324"
+msgid "No serviría de nada. Hazlo sonar cuando el Pokémon<br>correspondiente esté volando cerca."
+msgstr ""
+
+#. en: You can’t go there right now because you are currently<br>playing hide-and-sneak.
+msgctxt "2328:325"
+msgid "No puedes irte en plena partida del escondite camuflado."
+msgstr ""
+
+#. en: Players on a <$cdef(27)>Dream Island</color> cannot participate in jump rope.<br>Would you like to start playing now?
+msgctxt "2328:326"
+msgid "Los jugadores que estén en una <$cdef(27)>Isla Ensueño </color>no podrán<br>participar. ¿Quieres saltar a la comba igualmente?"
+msgstr "Los jugadores que estén en una <$cdef(27)>Isla Ensueño </color>no podrán<br>participar. ¿Quieres saltar la cuerda igualmente?"
+
+#. en: Players on a <$cdef(27)>Dream Island</color> cannot participate in<br>hide-and-sneak. Would you like to start playing now?
+msgctxt "2328:327"
+msgid "Los jugadores que estén en una <$cdef(27)>Isla Ensueño </color>no podrán<br>participar.<clear><br>¿Quieres jugar al escondite camuflado igualmente?"
+msgstr ""
+
+#. en: You cannot join the group because it is full.
+msgctxt "2328:328"
+msgid "No puedes unirte a este grupo porque está lleno."
+msgstr ""
+
+#. en: You can’t visit any more towns made by other<br>players today.
+msgctxt "2328:329"
+msgid "Hoy ya no puedes visitar más mundos nuevos de otros<br>jugadores."
+msgstr ""
+
+#. en: Unable to join the group because one or more players are<br>currently busy.<clear><br>Please try again later.
+msgctxt "2328:330"
+msgid "No puedes unirte al grupo porque hay al menos<br>un jugador ocupado. Vuelve a intentarlo más tarde."
+msgstr ""
+
+#. en: You got this week’s stamp card!
+msgctxt "2328:331"
+msgid "¡Aquí tienes la tarjeta de sellos de esta semana!"
+msgstr ""
+
+#. en: Would you like to add today’s stamp?
+msgctxt "2328:332"
+msgid "¿Quieres sellar la tarjeta con el sello de hoy?"
+msgstr ""
+
+#. en: You got <moneyint;0(lnum1)> <$cdef(27)>Life Coins</color>!
+msgctxt "2328:333"
+msgid "¡Has conseguido <moneyint;0(lnum1)> monevit<qty;0(a,as)>!"
+msgstr "¡Conseguiste <moneyint;0(lnum1)> monevit<qty;0(a,as)>!"
+
+#. en: You could not exchange your stamp card because you<br>haven’t added any stamps to it.
+msgctxt "2328:334"
+msgid "No se ha podido canjear la tarjeta porque no tiene sellos."
+msgstr "No se pudo canjear la tarjeta porque no tiene sellos."
+
+#. en: Stamp cards can be exchanged for <$cdef(27)>coins</color>. Check the<br>Stamp Rally menu for more information.
+msgctxt "2328:335"
+msgid "Las tarjetas de sellos se pueden canjear por <$cdef(27)>monevitas</color>.<clear><br>Consulta la pantalla <$cdef(27)>Colección de sellos </color>para más<br>información."
+msgstr ""
+
+#. en: You haven’t exchanged your stamp card yet. You have<br><dgt1;0(lnum1)> <qty;0(day,days)> left to do so. Check the Stamp Rally menu for<slide><br>more information.
+msgctxt "2328:336"
+msgid "Tienes una tarjeta de sellos sin canjear. Solo te qued<qty;0(a,an)><br><dgt1;0(lnum1)> dí<qty;0(a,as)> para poder canjearla.<clear><br>Consulta la pantalla <$cdef(27)>Colección de sellos </color>para más<br>información."
+msgstr ""
+
+#. en: You still have at least one <$cdef(27)>challenge</color> to report.
+msgctxt "2328:337"
+msgid "Tienes al menos un <$cdef(27)>reto </color>sin informar."
+msgstr ""
+
+#. en: You still have at least one <$cdef(27)>challenge</color> reward to claim.
+msgctxt "2328:338"
+msgid "Tienes al menos una recompensa sin recoger."
+msgstr ""
+
+#. en: You still have at least one <$cdef(27)>challenge</color> to report or a<br><$cdef(27)>challenge </color>reward to claim.
+msgctxt "2328:339"
+msgid "Tienes al menos un <$cdef(27)>reto </color>sin informar y una recompensa<br>sin recoger."
+msgstr ""
+
+#. en: There isn’t enough space here for the Pokémon to land.
+msgctxt "2328:340"
+msgid "No hay espacio para que aterrice."
+msgstr ""
+
+#. en: <oneline>You got the <$cdef(27)><$phfrname;0(lnum1)></color><br>photo frame!
+msgctxt "2328:341"
+msgid "<oneline>¡Has conseguido el marco<br><$cdef(27)><$phfrname;0(lnum1)></color>!"
+msgstr "<oneline>¡Conseguiste el marco<br><$cdef(27)><$phfrname;0(lnum1)></color>!"
+
+#. en: Ready to go with these settings?
+msgctxt "2328:342"
+msgid "¿Te parece bien así?"
+msgstr ""
+
+#. en: Multiple functions have been assigned to a single button.<br>Would you like to save the changes you made?
+msgctxt "2328:343"
+msgid "Hay algún botón que tiene asignada más de una función.<br>¿Seguro que quieres guardar los cambios?"
+msgstr ""
+
+#. en: Are you sure you wish to restore default settings?
+msgctxt "2328:344"
+msgid "¿Quieres restablecer la configuración por defecto?"
+msgstr ""
+
+#. en: Take back the items you put in the machine?
+msgctxt "2328:345"
+msgid "¿Quieres recuperar lo que has metido en la máquina?"
+msgstr "¿Quieres recuperar lo que metiste en la máquina?"
+
+#. en: This will send the data for the photo you have selected.<br>Do you wish to proceed?
+msgctxt "2328:347"
+msgid "¿Quieres enviar una copia de esta foto?"
+msgstr ""
+
+#. en: If you place this outside and talk to it, <$cdef(27)>Drifloon</color> might<br>stop by.
+msgctxt "2328:348"
+msgid "Si colocas el peluche en el exterior e interactúas con él,<br>quizá venga Drifloon."
+msgstr "Si colocas el peluche en el exterior e interactúas con él,<br>quizás venga Drifloon."
+
+#. en: You can’t do that right now.
+msgctxt "2328:349"
+msgid "Ahora no es el mejor momento."
+msgstr ""
+
+#. en: This seems important... Are you sure you want to drop it?
+msgctxt "2328:350"
+msgid "Esto parece importante... ¿Seguro que quieres tirarlo?"
+msgstr ""
+
+#. en: <oneline>In order to create new backup data for<br><$cdef(27)><$stgmyname;0(lnum1)></color>,<slide><br>any<slide><br>data<slide><br>currently<slide><br>on<slide><br>your<slide><br>console<slide><br>must<slide><br>be deleted.<clear><br>Are you sure you wish to proceed?
+msgctxt "2328:351"
+msgid "Se creará una copia de seguridad del progreso actual<br><esde;0()><$cdef(27)><$stgmyname;0(lnum1)></color>.<clear><br>Si existe una copia anterior, sus datos se sobrescribirán.<br>¿Seguro que quieres continuar?"
+msgstr ""
+
+#. en: You saved your progress!
+msgctxt "2328:352"
+msgid "Se ha guardado la partida."
+msgstr "Se guardó la partida."
+
+#. en: Failed to connect to the internet.<br>Would you like to try again?
+msgctxt "2328:353"
+msgid "No se ha podido conectar a internet.<br>¿Quieres intentarlo de nuevo?"
+msgstr "No se pudo conectar a internet.<br>¿Quieres intentarlo de nuevo?"
+
+#. en: <oneline>Saving backup data for<br><$cdef(27)><$stgmyname;0(lnum1)></color>...<slide><br>Don’t<slide><br>turn<slide><br>off<slide><br>the power.
+msgctxt "2328:354"
+msgid "<oneline>Guardando la copia de seguridad<br><esde;0()><$cdef(27)><$stgmyname;0(lnum1)></color>...<slide><br>No apagues la consola."
+msgstr ""
+
+#. en: Save successful! Save time: <timeymdhm;0(lnum1,lnum2,lnum3,lnum4,lnum5)>
+msgctxt "2328:355"
+msgid "Se ha guardado la copia de seguridad con la siguiente<br>fecha: <timeymdhm;0(lnum1,lnum2,lnum3,lnum4,lnum5)>."
+msgstr "Se guardó la copia de seguridad con la siguiente<br>fecha: <timeymdhm;0(lnum1,lnum2,lnum3,lnum4,lnum5)>."
+
+#. en: <$cdef(27)><$stgmyname;0(lnum1)> </color>not found.<br>Unable to save data.
+msgctxt "2328:356"
+msgid "No se ha podido guardar porque no se han encontrado<br>los datos <esde;0()><$cdef(27)><$stgmyname;0(lnum1)></color>."
+msgstr "No se pudo guardar porque no se encontraron<br>los datos <esde;0()><$cdef(27)><$stgmyname;0(lnum1)></color>."
+
+#. en: Unable to save data.
+msgctxt "2328:357"
+msgid "No se ha podido guardar."
+msgstr "No se pudo guardar."
+
+#. en: You’ve already restored data today. Please try again<br>tomorrow.
+msgctxt "2328:358"
+msgid "No puedes volver a restaurar los datos hoy.<br>Inténtalo de nuevo mañana."
+msgstr ""
+
+#. en: <oneline>In order to restore backup data, the session must end for<br>all players currently playing on<slide><br><dart;0()><$cdef(27)><$stgmyname;0(lnum1)></color>.<clear><br>Do you wish to proceed?
+msgctxt "2328:359"
+msgid "<oneline>Al restaurar la copia de seguridad, se expulsará a todos<br>los jugadores que se encuentren en estos momentos en<slide><br><dart;0()><$cdef(27)><$stgmyname;0(lnum1)></color>.<slide><br>¿Estás de acuerdo?"
+msgstr ""
+
+#. en: <oneline>Restoring backup data for<br><$cdef(27)><$stgmyname;0(lnum1)></color>...<slide><br>Don’t<slide><br>turn<slide><br>off<slide><br>the power.
+msgctxt "2328:360"
+msgid "<oneline>Restaurando la copia de seguridad<br><esde;0()><$cdef(27)><$stgmyname;0(lnum1)></color>...<slide><br>No apagues la consola."
+msgstr ""
+
+#. en: Restoration successful!
+msgctxt "2328:361"
+msgid "¡Se ha restaurado la copia de seguridad!"
+msgstr "¡Se restauró la copia de seguridad!"
+
+#. en: A communication error occurred.<br>Please check to make sure the island was restored.
+msgctxt "2328:362"
+msgid "Se ha producido un error de comunicación. Comprueba<br>si la copia de seguridad se ha restaurado correctamente."
+msgstr "Se produjo un error de comunicación. Comprueba<br>si la copia de seguridad se restauró correctamente."
+
+#. en: Would you like to add a note to this backup data?
+msgctxt "2328:363"
+msgid "¿Quieres dejar una nota en la copia de seguridad?"
+msgstr ""
+
+#. en: Confirm with these details?
+msgctxt "2328:364"
+msgid "¿Te parece bien así?"
+msgstr ""
+
+#. en: Returning to original location.
+msgctxt "2328:365"
+msgid "Vas a volver al lugar donde estabas."
+msgstr ""
+
+#. en: The <$cdef(27)>wish note</color> you gave them is shining!
+msgctxt "2328:366"
+msgid "¡El <$cdef(27)>papel para deseos</color> que le habías entregado está<br>brillando!"
+msgstr ""
+
+#. en: You got a <$cdef(27)><fqty(1)><$ifull(433)></color>!
+msgctxt "2328:367"
+msgid "Has recibido <$cdef(27)>1</color> <$cdef(27)><fqty(1)><$ifull(433)></color>."
+msgstr "Recibiste <$cdef(27)>1</color> <$cdef(27)><fqty(1)><$ifull(433)></color>."
+
+#. en: <oneline>“<$cdef(27)><fcap><getmptname;0></color>” has been added to<br>your<slide><br>human records!
+msgctxt "2328:370"
+msgid "¡Has encontrado una nota escrita por los humanos!<br>Se titula <$cdef(27)><fqty(1)><getmptname;0></color>."
+msgstr "¡Encontraste una nota escrita por los humanos!<br>Se titula <$cdef(27)><fqty(1)><getmptname;0></color>."
+
+#. en: Pokémon won’t move into a house unless it has at least<br>three different pieces of furniture inside.
+msgctxt "2328:377"
+msgid "Para hacer que un Pokémon se mude a una casa,<br>antes deberás colocar al menos tres muebles distintos."
+msgstr ""
+
+#. en: Give them some food?
+msgctxt "2328:378"
+msgid "¿Quieres ofrecerle algo de comer?"
+msgstr ""
+
+#. en: Take <$cdef(27)><nname;0></color> with you?
+msgctxt "2328:379"
+msgid "<oneline>¿Quieres que <dart;0()><$cdef(27)><nname;0> </color>te<br>acompañe?"
+msgstr ""
+
+#. en: The Pokémon might come back if you use <$cdef(27)></color><fqty(1)><$ifull(3994)> on<br>their home.
+msgctxt "2328:380"
+msgid "Si abres un <$cdef(27)><fqty(1)><class><$ifull(3994)> </color>en un hábitat, es posible que<br>el Pokémon que vive en él regrese."
+msgstr ""
+
+#. en: Reporting...
+msgctxt "2328:381"
+msgid "Enviando..."
+msgstr ""
+
+#. en: Report complete.<clear><br>If you would like to quit Link Play, please select <$keyicon(227)> from<br>the menu.
+msgctxt "2328:382"
+msgid "Se ha enviado el informe. Si quieres terminar la sesión,<br>abre el menú principal y pulsa <$keyicon(227)>."
+msgstr "Se ha enviado el informe. Si quieres terminar la sesión,<br>abre el menú principal y presiona <$keyicon(227)>."
+
+#. en: A communication error occurred.<br>Would you like to try again?
+msgctxt "2328:383"
+msgid "Se ha producido un error de conexión.<br>¿Quieres volver a intentarlo?"
+msgstr "Se produjo un error de conexión.<br>¿Quieres volver a intentarlo?"
+
+#. en: Report canceled.
+msgctxt "2328:384"
+msgid "Se ha cancelado la denuncia."
+msgstr "Se canceló la denuncia."
+
+#. en: Something might fit in this indentation...
+msgctxt "2328:385"
+msgid "Es un mural de aspecto intrigante... Parece que podrías<br>colocar algo en él."
+msgstr ""
+
+#. en: That will be <$icon(lnum1)><moneyint;0(lnum2)>. Would you like to make<br>this purchase?<slide><br>(A <$cdef(27)>recipe</color> you already know is included in this item.)
+msgctxt "2328:386"
+msgid "Este artículo incluye <$cdef(27)>instrucciones </color>que ya conoces.<br>Serí<qty;0(a,an)> <moneyint;0(lnum2)><$icon(lnum1)>. ¿Te parece bien?"
+msgstr ""
+
+#. en: New daily items have been added to the <$cdef(27)>shop</color>, thanks to<br>the increased <$cdef(27)>environment level</color> of the area!
+msgctxt "2328:387"
+msgid "¡La <$cdef(27)>calidad del entorno </color>ha aumentado!<br>Se han añadido nuevos artículos del día a la <$cdef(27)>tienda</color>."
+msgstr "¡La <$cdef(27)>calidad del entorno </color>aumentó!<br>Se añadieron nuevos artículos del día a la <$cdef(27)>tienda</color>."
+
+#. en: You’re about to leave the Settings screen.<br>Would you like to save your changes?
+msgctxt "2328:388"
+msgid "¿Quieres guardar los cambios realizados antes de salir?"
+msgstr ""
+
+#. en: Multiple actions have been assigned to one or more<br>buttons. Would you like to save your changes?<slide><br>(Select <$cdef(27)>No</color> to return without saving.)
+msgctxt "2328:389"
+msgid "Hay algún botón que tiene asignada más de una función.<br>¿Seguro que quieres guardar los cambios?<slide><br>(Si seleccionas <$cdef(27)>No</color>, saldrás sin guardar los cambios)."
+msgstr ""
+
+#. en: It’s too hot to move. You may be able to move it if you<br>splash it with water to cool it down.
+msgctxt "2328:390"
+msgid "¡Está demasiado caliente para moverla! Échale agua para<br>enfriarla."
+msgstr ""
+
+#. en: Waiting for other players...
+msgctxt "2328:391"
+msgid "Esperando al resto de jugadores..."
+msgstr ""
+
+#. en: This looks recently watered. You don’t need to water it<br>again for a while.
+msgctxt "2328:392"
+msgid "Ya está húmeda, así que no es necesario regarla más<br>por hoy."
+msgstr ""
+
+#. en: You’re about to open the <$cdef(27)>Button Assignments </color>screen.<br>Would you like to save your previous changes?
+msgctxt "2328:393"
+msgid "¿Quieres guardar los cambios realizados antes de acceder<br>a la <$cdef(27)>configuración de los botones</color>?"
+msgstr ""
+
+#. en: You’re about to open the <$cdef(27)>Language Settings</color> screen.<br>Would you like to save your previous changes?
+msgctxt "2328:394"
+msgid "¿Quieres guardar los cambios realizados antes de acceder<br>a la <$cdef(27)>selección de idioma</color>?"
+msgstr ""
+
+#. en: Try using the <$cdef(27)><fqty(1)><$ifull(1898)></color> in the<br><$cdef(27)><$stgname;0(4)></color> when you’re alone.
+msgctxt "2328:395"
+msgid "<oneline>Prueba a usar el <$cdef(27)><fqty(1)><$ifull(1898)><br></color>en <dart;0()><$cdef(27)><$stgname;0(4)></color><slide><br>cuando estés tú sol<gen;-2(o,a)>."
+msgstr "<oneline>Intenta usar el <$cdef(27)><fqty(1)><$ifull(1898)><br></color>en <dart;0()><$cdef(27)><$stgname;0(4)></color><slide><br>cuando estés tú sol<gen;-2(o,a)>."
+
+#. en: Are you sure you want to change your settings?<br>(If you are currently playing with other players, please<slide><br>let them know that your group will be disbanded.)
+msgctxt "2328:396"
+msgid "Si estás jugando con otra gente, el grupo se disolverá.<br>¿Seguro que quieres cambiar los ajustes?"
+msgstr ""
+
+#. en: Are you sure you want to delete this island?<br>(If you are currently playing with other players, please<slide><br>let them know that your group will be disbanded.)
+msgctxt "2328:397"
+msgid "Si estás jugando con otra gente, el grupo se disolverá.<br>¿Seguro que quieres borrar esta isla?"
+msgstr ""
+
+#. en: The Cloud Island has been deleted.
+msgctxt "2328:398"
+msgid "Has borrado tu Isla Nube."
+msgstr "Borraste tu Isla Nube."
+
+#. en: A communication error occurred.<br>Please check to make sure the island was deleted.
+msgctxt "2328:399"
+msgid "Se ha producido un error de comunicación.<br>Comprueba si se ha borrado correctamente."
+msgstr "Se produjo un error de comunicación.<br>Comprueba si se borró correctamente."
+
+#. en: Please wait for the other players to arrive.
+msgctxt "2328:400"
+msgid "Espera un momento mientras el resto llega a su destino."
+msgstr ""
+
+#. en: This stone debris is especially hard. A simple punch won’t<br>be strong enough to break it.
+msgctxt "2328:401"
+msgid "Aunque algo resquebrajada, esta roca parece muy dura.<br>Unos puñetazos normales no servirán para romperla."
+msgstr ""
+
+#. en: It’s some metal debris. Is there a move that could break it?
+msgctxt "2328:402"
+msgid "Tal vez puedas romper estos trozos de metal oxidado<br>con algún movimiento."
+msgstr "Tal vez puedas romper estos pedazos de metal<br>oxidado con algún movimiento."
+
+#. en: <oneline>You need <$cdef(27)><dgt4;2(lnum3)> <$ifullwithnum;1(lnum2,lnum3)> </color>to<br>make<slide><br><iart;0()><$cdef(27)><class><$ifull;0(lnum1)></color>.<slide><br>(Currently held: <$cdef(27)><dgt4;3(lnum4)></color>)
+msgctxt "2328:403"
+msgid "<$cdef(27)><oneline></color>Para imprimir una copia de<br><iart;0()><$cdef(27)><class><fqty(1)><$ifull;0(lnum1)></color><slide><br>necesitas<slide><br><$cdef(27)><dgt4;2(lnum3)> <class><$ifullwithnum;1(lnum2,lnum3)></color>,<slide><br>pero<slide><br>tienes <$cdef(27)><dgt4;3(lnum4)></color>."
+msgstr ""
+
+#. en: You will be connected to the internet, and your game will<br>be saved. Would you like to continue?
+msgctxt "2328:404"
+msgid "Se guardará la partida antes de establecer la conexión<br>a internet. ¿Quieres continuar?"
+msgstr ""
+
+#. en: Connecting to the internet...<br>Please stand by.
+msgctxt "2328:405"
+msgid "Estableciendo la conexión a internet...<br>Espera un momento."
+msgstr ""
+
+#. en: Verifying...<br>Don’t turn off the power.
+msgctxt "2328:406"
+msgid "Comprobando... No apagues la consola."
+msgstr ""
+
+#. en: Searching for gifts...
+msgctxt "2328:407"
+msgid "Buscando regalo..."
+msgstr ""
+
+#. en: No gifts were found.
+msgctxt "2328:409"
+msgid "No se ha encontrado ningún regalo."
+msgstr "No se encontró ningún regalo."
+
+#. en: Receiving your gift...<br>Don’t turn off the power.
+msgctxt "2328:410"
+msgid "Recibiendo regalos... No apagues la consola."
+msgstr ""
+
+#. en: You’ve already received this gift. You can’t receive<br>it again.
+msgctxt "2328:411"
+msgid "Ya has recibido este regalo."
+msgstr "Ya recibiste este regalo."
+
+#. en: Do you want to stop for now?
+msgctxt "2328:413"
+msgid "¿Quieres cancelar el proceso?"
+msgstr ""
+
+#. en: This code has been used in other save data.
+msgctxt "2328:414"
+msgid "Este código o contraseña ya se ha usado en otra partida."
+msgstr "Este código o contraseña ya se usó en otra partida."
+
+#. en: You can’t receive the gift provided by this code or<br>password yet.
+msgctxt "2328:415"
+msgid "Todavía no puedes recibir el regalo vinculado a este<br>código o contraseña."
+msgstr ""
+
+#. en: This code or password has expired.
+msgctxt "2328:416"
+msgid "Este código o contraseña ha caducado."
+msgstr "Este código o contraseña expiró."
+
+#. en: Your game can’t receive the gift provided by this code<br>or password.
+msgctxt "2328:417"
+msgid "No puedes recibir el regalo vinculado a este código o<br>contraseña con la versión actual del programa."
+msgstr ""
+
+#. en: The code or password update failed...<br>You can’t receive the gift provided by this code<slide><br>or password.
+msgctxt "2328:418"
+msgid "No se ha podido recibir el regalo porque se ha producido<br>un error al comprobar el código o contraseña."
+msgstr "No se pudo recibir el regalo porque se produjo<br>un error al comprobar el código o contraseña."
+
+#. en: You have already received the gift provided by this code<br>or password.
+msgctxt "2328:419"
+msgid "Ya has recibido el regalo vinculado a este código o<br>contraseña."
+msgstr "Ya recibiste el regalo vinculado a este código o<br>contraseña."
+
+#. en: This code has already been used.<br>Once a code is used, it can’t be used in another save data.
+msgctxt "2328:420"
+msgid "Este código o contraseña ya se ha usado y no puede<br>volver a usarse en otra partida."
+msgstr "Este código o contraseña ya se usó y no puede<br>volver a usarse en otra partida."
+
+#. en: You failed multiple times to enter the correct code or<br>password, so you can’t connect to the server for a while.<slide><br>Please try again later.
+msgctxt "2328:421"
+msgid "Has introducido el código o contraseña erróneamente<br>varias veces seguidas. Vuelve a intentarlo más tarde."
+msgstr "Ingresaste el código o contraseña erróneamente<br>varias veces seguidas. Vuelve a intentarlo más tarde."
+
+#. en: The gift has been received!
+msgctxt "2328:422"
+msgid "Has recibido el regalo."
+msgstr "Recibiste el regalo."
+
+#. en: You couldn’t receive it because your bag is full.
+msgctxt "2328:423"
+msgid "No has podido recibir el regalo porque tu Bolsa está llena."
+msgstr "No pudiste recibir el regalo porque tu Bolsa está llena."
+
+#. en: Would you like to try entering the code or password again?
+msgctxt "2328:424"
+msgid "¿Quieres volver a introducir el código o contraseña?"
+msgstr "¿Quieres volver a ingresar el código o contraseña?"
+
+#. en: Something has gone wrong.<br>We aren’t able to retrieve that gift right now.
+msgctxt "2328:425"
+msgid "Se ha producido un error al recibir el regalo."
+msgstr "Se produjo un error al recibir el regalo."
+
+#. en: A gift was found, but you can’t receive it with this version<br>of the game.
+msgctxt "2328:426"
+msgid "Se ha encontrado un regalo, pero no puedes recibirlo<br>en la versión actual del programa."
+msgstr "Se encontró un regalo, pero no puedes recibirlo<br>en la versión actual del programa."
+
+#. en: Cloud Island data could not be uploaded.
+msgctxt "2328:427"
+msgid "No se han podido subir los datos de la Isla Nube."
+msgstr "No se pudieron subir los datos de la Isla Nube."
+
+#. en: It looks like <$cdef(27)><$strpname;0(lstr1,lnum1)> </color>has already left.
+msgctxt "2328:428"
+msgid "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> ya se ha ido."
+msgstr "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> ya se fue."
+
+#. en: It looks like this could be filled by using <$cdef(27)><$sklfull(3)></color>.
+msgctxt "2328:429"
+msgid "Podría llenarse de agua con <$cdef(27)><$sklfull(3)></color>."
+msgstr ""
+
+#. en: Try clearing up the area around the <$cdef(27)>Pokémon Center</color> first<br>before playing hide-and-sneak.
+msgctxt "2328:430"
+msgid "Despeja el área alrededor del <$cdef(27)>Centro Pokémon </color>para<br>poder jugar al escondite camuflado."
+msgstr ""
+
+#. en: Try clearing up the area around the <$cdef(27)>Pokémon Center</color> first<br>before asking <$cdef(27)>Zorua</color> to play hide-and-sneak.
+msgctxt "2328:431"
+msgid "Arregla el área alrededor del <$cdef(27)>Centro Pokémon </color>para<br>poder jugar con <$cdef(27)>Zorua </color>al escondite camuflado."
+msgstr ""
+
+#. en: Wait until the space in front of the <$cdef(27)>Pokémon Center</color> is free<br>before asking <$cdef(27)>Zorua</color> to play hide-and-sneak.
+msgctxt "2328:432"
+msgid "Quita los obstáculos que hay delante del <$cdef(27)>Centro Pokémon</color><br>para poder jugar con <$cdef(27)>Zorua </color>al escondite camuflado."
+msgstr ""
+
+#. en: Wait until the space in front of the <$cdef(27)>Pokémon Center</color> is free<br>before asking <$cdef(27)>Bulbasaur</color> to play jump rope.
+msgctxt "2328:433"
+msgid "Quita los obstáculos que hay delante del <$cdef(27)>Centro Pokémon</color><br>para poder jugar con <$cdef(27)>Bulbasaur </color>a saltar a la comba."
+msgstr "Quita los obstáculos que hay delante del <$cdef(27)>Centro Pokémon</color><br>para poder jugar con <$cdef(27)>Bulbasaur </color>a saltar la cuerda."
+
+#. en: Would you like to try cooking a dish that you haven’t<br>made before?
+msgctxt "2328:434"
+msgid "Parece que puedes preparar un plato nuevo.<br>¿Quieres probar a hacerlo?"
+msgstr "Parece que puedes preparar un plato nuevo.<br>¿Quieres intentarlo?"
+
+#. en: Undo this transformation?
+msgctxt "2328:435"
+msgid "¿Quieres cancelar la transformación y recuperar tu<br>aspecto humano?"
+msgstr ""
+
+#. en: This house is now your home! You can use <$cdef(27)>Return Home</color> to<br>come back here anytime!
+msgctxt "2328:436"
+msgid "¡Esta es ahora tu casa! Usa la función <$cdef(27)>Llévame a casa<br></color>para volver aquí en cualquier momento."
+msgstr ""
+
+#. en: Unable to start poll because one or more players are busy.
+msgctxt "2328:437"
+msgid "No se ha podido iniciar la votación porque hay al menos<br>un jugador ocupado."
+msgstr "No se pudo iniciar la votación porque hay al menos<br>un jugador ocupado."
+
+#. en: Unable to start poll because one or more players are busy.
+msgctxt "2328:438"
+msgid "No se ha podido iniciar la votación porque hay al menos<br>un jugador ocupado."
+msgstr "No se pudo iniciar la votación porque hay al menos<br>un jugador ocupado."
+
+#. en: You got a handy bag!<clear><br>It’s a bag that lets you take out or store items instantly.
+msgctxt "2328:439"
+msgid "¡Has conseguido la Bolsa auxiliar!<clear><br>La Bolsa auxiliar te permite acceder a algunos objetos<br>al instante."
+msgstr "¡Conseguiste la Bolsa auxiliar!<clear><br>La Bolsa auxiliar te permite acceder a algunos objetos<br>al instante."
+
+#. en: A communication error occurred.
+msgctxt "2328:440"
+msgid "Se ha producido un error de comunicación."
+msgstr "Se produjo un error de comunicación."
+
+#. en: Your bag is full. Would you still like to try to get a gift?
+msgctxt "2328:441"
+msgid "¿Quieres recibir el regalo aunque tu Bolsa esté llena?"
+msgstr ""
+
+#. en: Are you sure you want to restore this island?
+msgctxt "2328:442"
+msgid "¿Seguro que quieres restaurar los datos?"
+msgstr ""
+
+#. en: There’s a stamp here already. Would you like to replace it?
+msgctxt "2328:443"
+msgid "Ya hay un sello ahí. ¿Quieres sustituirlo?"
+msgstr ""
+
+#. en: Your bag is full. Would you still like to try to get a gift?
+msgctxt "2328:444"
+msgid "¿Quieres recibir el regalo aunque tu Bolsa esté llena?"
+msgstr ""
+
+#. en: Stop searching for this Pokémon?
+msgctxt "2328:445"
+msgid "¿Quieres cancelar la búsqueda del Pokémon?"
+msgstr ""
+
+#. en: There’s not enough room for <$cdef(27)>Drifloon</color> to land. Try to place<br>dolls in a larger area.
+msgctxt "2328:446"
+msgid "<$cdef(27)>Drifloon </color>no tiene suficiente espacio para aterrizar.<br>Coloca el peluche en un lugar con más espacio."
+msgstr ""
+
+#. en: Arrangement #1 is now playing. Which arrangement would<br>you like to put on?
+msgctxt "2328:447"
+msgid "Está sonando la versión A de la canción.<br>¿Quieres cambiarla?"
+msgstr ""
+
+#. en: Arrangement #2 is now playing. Which arrangement would<br>you like to put on?
+msgctxt "2328:448"
+msgid "Está sonando la versión B de la canción.<br>¿Quieres cambiarla?"
+msgstr ""
+
+#. en: Arrangement #3 is now playing. Which arrangement would<br>you like to put on?
+msgctxt "2328:449"
+msgid "Está sonando la versión C de la canción.<br>¿Quieres cambiarla?"
+msgstr ""
+
+#. en: You’ve received an item! Select “Get Items” to claim it.
+msgctxt "2328:450"
+msgid "Tienes algo esperándote. Recíbelo desde la opción<br><$cdef(27)>Recibir objetos</color>."
+msgstr ""
+
+#. en: Enter your name in this language.
+msgctxt "2328:451"
+msgid "Introduce tu nombre en este idioma."
+msgstr "Ingresa tu nombre en este idioma."
+
+#. en: Are you OK with the name <$cdef(27)><pname;0></color>?
+msgctxt "2328:452"
+msgid "¿Te parece bien <$cdef(27)><pname;0></color>?"
+msgstr ""
+
+#. en: <oneline>You got<br><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!
+msgctxt "2328:453"
+msgid "<oneline>¡Has conseguido<br><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!"
+msgstr "<oneline>¡Conseguiste<br><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!"
+
+#. en: This might work if it’s placed near water.
+msgctxt "2328:456"
+msgid "Puede que funcione si lo colocas cerca del agua."
+msgstr ""
+
+#. en: When playing with others in this town, everyone will be<br>restricted to playing in Spectator Mode.<clear><br>Certain moves and items can’t be used while playing in<br>Spectator Mode.
+msgctxt "2328:459"
+msgid "Cuando otros jugadores visiten este vecindario,<br>solo se podrá jugar en modo observación.<clear><br>Algunos movimientos y objetos no estarán disponibles."
+msgstr ""
+
+#. en: This Palette Town is currently in Spectator Mode. Certain<br>moves and items can’t be used while playing in this mode.
+msgctxt "2328:460"
+msgid "El modo observación está activado en esta Pradera Paleta.<br>Algunos movimientos y objetos no estarán disponibles."
+msgstr ""
+
+#. en: You cannot use moves or items right now because this area<br>is in Spectator Mode.
+msgctxt "2328:461"
+msgid "El modo observación está activado en esta área, por<br>lo que el uso de objetos y movimientos está limitado."
+msgstr ""
+
+#. en: You can use moves and craft stuff while playing in this town.
+msgctxt "2328:462"
+msgid "Aquí puedes disfrutar del juego haciendo despliegue<br>de tus movimientos y fabricando toda clase de objetos."
+msgstr ""
+
+#. en: Are you sure you wish to close the connection?
+msgctxt "2328:463"
+msgid "Se interrumpirá la conexión. ¿Te parece bien?"
+msgstr ""
+
+#. en: Are you sure you want to close the connection and<br>return home?<clear><br>All the items you have will be kept in the <$cdef(27)>PC</color> at the<br><$cdef(27)>Pokémon Center</color>.
+msgctxt "2328:464"
+msgid "Se interrumpirá la conexión y volverás a casa.<br>¿Te parece bien?<clear><br>Ten en cuenta que todos los objetos que lleves encima<br>se quedarán en el <$cdef(27)>PC</color> de este <$cdef(27)>Centro Pokémon</color>."
+msgstr ""
+
+#. en: You learned <$cdef(27)><$sklfull(10)></color>! Press <$keyicon(28)> while in water to swim!
+msgctxt "2328:465"
+msgid "¡Has aprendido <$cdef(27)><$sklfull(10)></color>!<br>¡Pulsa <$keyicon(28)> en el agua para nadar!"
+msgstr "¡Has aprendido <$cdef(27)><$sklfull(10)></color>!<br>¡Presiona <$keyicon(28)> en el agua para nadar!"
+
+#. en: You learned <$cdef(27)><$sklfull(11)></color>! Press <$keyicon(29)> while in the air to fly!
+msgctxt "2328:466"
+msgid "¡Has aprendido <$cdef(27)><$sklfull(11)></color>!<br>¡Pulsa <$keyicon(29)> en el aire para planear!"
+msgstr "¡Has aprendido <$cdef(27)><$sklfull(11)></color>!<br>¡Presiona <$keyicon(29)> en el aire para planear!"
+
+#. en: You can’t get any more prizes today.
+msgctxt "2328:467"
+msgid "No recibirás más premios hoy."
+msgstr ""
+
+#. en: You can’t get any more prizes today.
+msgctxt "2328:468"
+msgid "No recibirás más premios hoy."
+msgstr ""
+
+#. en: You got an item!
+msgctxt "2328:469"
+msgid "Has conseguido una recompensa."
+msgstr "Conseguiste una recompensa."
+
+#. en: The <$cdef(27)>shop</color> now has a wider selection of items!
+msgctxt "2328:470"
+msgid "Se han añadido artículos nuevos a la <$cdef(27)>tienda</color>."
+msgstr "Se añadieron artículos nuevos a la <$cdef(27)>tienda</color>."
+
+#. en: New <$cdef(27)>challenges</color> are available!
+msgctxt "2328:471"
+msgid "Se han añadido nuevos <$cdef(27)>retos</color>."
+msgstr "Se añadieron nuevos <$cdef(27)>retos</color>."
+
+#. en: Head back to <$cdef(27)>Drifloon</color> with <$cdef(27)><nname;0></color>?
+msgctxt "2328:472"
+msgid "<oneline>¿Quieres volver junto a <$cdef(27)>Drifloon </color>con<br><dart;0()><$cdef(27)><nname;0></color>?"
+msgstr ""
+
+#. en: This <$cdef(27)><fqty(1)><$ifull(764)></color> is next to a <$cdef(27)><fqty(1)><$ifull(2045)></color>.<clear><br>That means when you use this <$cdef(27)><fqty(1)><$ifull(764)></color>, you can<br>access materials in your bag and in the <$cdef(27)><fqty(1)><$ifull(2045)></color>!
+msgctxt "2328:473"
+msgid "Esta <$cdef(27)><fqty(1)><$ifull(764)> </color>tiene al lado un <$cdef(27)><fqty(1)><$ifull(2045)></color>.<clear><br>Si colocas una <$cdef(27)><fqty(1)><$ifull(764)> </color>y un<$cdef(27)> <fqty(1)><$ifull(2045)> </color>juntos,<br>cuando fabriques algo, podrás usar también los materiales<slide><br>guardados dentro del <$cdef(27)><fqty(1)><$ifull(2045)></color>, además de los de tu Bolsa."
+msgstr ""
+
+#. en: Daily items have been added to the <$cdef(27)>shop</color>.
+msgctxt "2328:474"
+msgid "Se han añadido nuevos artículos del día a la <$cdef(27)>tienda</color>."
+msgstr "Se añadieron nuevos artículos del día a la <$cdef(27)>tienda</color>."
+
+#. en: Do you want to burn what you’ve placed inside to<br>generate electricity?
+msgctxt "2328:475"
+msgid "¿Quieres quemar lo que has introducido en el generador<br>para producir electricidad?"
+msgstr "¿Quieres quemar lo que pusiste en el generador<br>para producir electricidad?"
+
+#. en: A Pokémon is following you who can’t go to a different<br>area. Would you like to part ways and go without them?
+msgctxt "2328:476"
+msgid "Hay al menos un Pokémon que no puede acompañarte<br>ahora mismo. ¿Quieres despedirte e irte por tu cuenta?"
+msgstr ""
+
+#. en: Spray water on dry trees and gather the <$cdef(27)><fqty(2)><$ifull(2340)></color><br>that grow.
+msgctxt "2328:477"
+msgid "Riega árboles secos y recoge las <$cdef(27)><fqty(2)><class><$ifull(2340)><br></color>que crezcan en ellos."
+msgstr ""
+
+#. en: Get seeds from the shop or from Dream Islands, and plant<br>them in tilled soil to grow them.
+msgctxt "2328:478"
+msgid "Siembra y cosecha cultivos en un huerto. Puedes obtener<br>semillas en la tienda y en las Islas Ensueño."
+msgstr ""
+
+#. en: Ask a Pokémon with the <$cdef(27)><fcap><$spwfull(15)></color> specialty to process<br><$cdef(27)><fqty(2)><$ifull(1482)></color> for you.
+msgctxt "2328:479"
+msgid "Pídele a un Pokémon especializado en <$cdef(27)><$spwfull(15)><br></color>que procese tus <$cdef(27)><fqty(2)><class><$ifull(1482)></color>."
+msgstr ""
+
+#. en: Fluffy Pokémon with the <$cdef(27)><fcap><$spwfull(4)></color> specialty may drop this<br>near their homes.
+msgctxt "2328:480"
+msgid "A veces las encontrarás alrededor de los hogares de<br>los Pokémon esponjosos especializados en <$cdef(27)><$spwfull(4)></color>."
+msgstr ""
+
+#. en: Ask a Pokémon with the <$cdef(27)><fcap><$spwfull(17)> </color>specialty to process<br><$cdef(27)><fqty(1)><$ifull(1738)></color> for you.
+msgctxt "2328:481"
+msgid "Pídele a un Pokémon especializado en <$cdef(27)><$spwfull(17)><br></color>que procese tus <$cdef(27)><fqty(1)><$ifull(1738)></color>."
+msgstr ""
+
+#. en: Ask a Pokémon with the <$cdef(27)><fcap><$spwfull(10)></color> specialty to process<br><$cdef(27)><fqty(2)><$ifull(112)></color> for you.
+msgctxt "2328:482"
+msgid "Pídele a un Pokémon especializado en <$cdef(27)><$spwfull(10)><br></color>que procese tu <$cdef(27)><fqty(1)><$ifull(112)></color>."
+msgstr ""
+
+#. en: Ask a Pokémon to process <$cdef(27)><fqty(1)><$ifull(113)></color> in a<br><$cdef(27)><fqty(1)><$ifull(1446)></color> for you.
+msgctxt "2328:483"
+msgid "Introduce <$cdef(27)><fqty(1)><$ifull(113)> </color>en un <$cdef(27)><fqty(1)><$ifull(1446)> </color>y procésalo<br>con la ayuda de un Pokémon."
+msgstr ""
+
+#. en: Ask a Pokémon to process <$cdef(27)><fqty(1)><$ifull(1090)></color> in a<br><$cdef(27)><fqty(1)><$ifull(1458)></color> for you.
+msgctxt "2328:484"
+msgid "Introduce <$cdef(27)><fqty(1)><$ifull(1090)> </color>en una <$cdef(27)><fqty(1)><$ifull(1458)><br></color>y procésala con la ayuda de un Pokémon."
+msgstr ""
+
+#. en: Search for these on Dream Islands or inside caves in<br><$cdef(27)><$stgname;0(3)></color>.
+msgctxt "2328:485"
+msgid "<oneline>Búscalos en las Islas Ensueño y en las cuevas<br><esde;0()><$cdef(27)><$stgname;0(3)></color>."
+msgstr ""
+
+#. en: Ask a Pokémon with the <$cdef(27)><fcap><$spwfull(24)></color> specialty to process<$cdef(27)><br><fqty(2)><$ifull(115)></color> for you.
+msgctxt "2328:486"
+msgid "Pídele a un Pokémon especializado en <$cdef(27)><$spwfull(24)><br></color>que procese tus <$cdef(27)><fqty(2)><class><$ifull(115)></color>."
+msgstr ""
+
+#. en: Search for the recipe in <$cdef(27)><$stgname;0(3)></color>.
+msgctxt "2328:487"
+msgid "<oneline>Busca las instrucciones en<br><dart;0()><$cdef(27)><$stgname;0(3)></color>."
+msgstr ""
+
+#. en: Search for the recipe in <$cdef(27)><$stgname;0(2)></color>.
+msgctxt "2328:488"
+msgid "<oneline>Busca las instrucciones en<br><dart;0()><$cdef(27)><$stgname;0(2)></color>."
+msgstr ""
+
+#. en: Search for the recipe in the <$cdef(27)><$stgname;0(4)></color>.
+msgctxt "2328:489"
+msgid "<oneline>Busca las instrucciones en<br><dart;0()><$cdef(27)><$stgname;0(4)></color>."
+msgstr ""
+
+#. en: Raise the environment level in <$cdef(27)><$stgname;0(2)></color>.
+msgctxt "2328:490"
+msgid "<oneline>Aumenta la calidad del entorno<br><esde;0()><$cdef(27)><$stgname;0(2)></color>."
+msgstr ""
+
+#. en: Raise the environment level in <$cdef(27)><$stgname;0(3)></color>.
+msgctxt "2328:491"
+msgid "<oneline>Aumenta la calidad del entorno<br><esde;0()><$cdef(27)><$stgname;0(3)></color>."
+msgstr ""
+
+#. en: Raise the environment level in the <$cdef(27)><$stgname;0(4)></color>.
+msgctxt "2328:492"
+msgid "<oneline>Aumenta la calidad del entorno<br><esde;0()><$cdef(27)><$stgname;0(4)></color>."
+msgstr ""
+
+#. en: Press <$keyicon(52)> to use your <$cdef(27)>camera</color> and take a photo!
+msgctxt "2328:493"
+msgid "Saca la <$cdef(27)>cámara </color>con <$keyicon(52)> y haz algunas fotos."
+msgstr "Saca la <$cdef(27)>cámara </color>con <$keyicon(52)> y toma algunas fotos."
+
+#. en: Raise the environment level in <$cdef(27)><$stgname;0(1)></color>.
+msgctxt "2328:494"
+msgid "<oneline>Aumenta la calidad del entorno<br><esde;0()><$cdef(27)><$stgname;0(1)></color>."
+msgstr ""
+
+#. en: How do you want to start your GameShare session?
+msgctxt "2328:495"
+msgid "¿Cómo quieres conectarte a través de GameShare?"
+msgstr ""
+
+#. en: Canceled GameShare session.
+msgctxt "2328:496"
+msgid "Has dejado de usar GameShare."
+msgstr "Dejaste de usar GameShare."
+
+#. en: Preparing to communicate...<br>Don’t turn off the power.
+msgctxt "2328:497"
+msgid "Preparando la conexión... No apagues la consola."
+msgstr ""
+
+#. en: Are you sure you wish to end your GameShare session?<clear><br>(Items held by players other than the host will be sent to<br>the <$cdef(27)><fqty(1)><$ifull(1442)></color>.)
+msgctxt "2328:498"
+msgid "¿Quieres dejar de usar GameShare?<clear><br>Los objetos del jugador invitado mediante GameShare<br>se guardarán en el <$cdef(27)><fqty(1)><$ifull(1442)></color>."
+msgstr ""
+
+#. en: Would you like to set a Link Code?
+msgctxt "2328:499"
+msgid "¿Quieres establecer una contraseña?"
+msgstr ""
+
+#. en: This Cloud Island is currently not public.
+msgctxt "2328:500"
+msgid "Esta Isla Nube no es pública ahora mismo."
+msgstr ""
+
+#. en: What would you like to do?
+msgctxt "2328:501"
+msgid "¿Qué quieres hacer?"
+msgstr ""
+
+#. en: Who would you like to send home?
+msgctxt "2328:502"
+msgid "¿A quién quieres expulsar?"
+msgstr ""
+
+#. en: <$cdef(27)><$strpname;0(lstr1,lnum1)></color> was sent home.
+msgctxt "2328:503"
+msgid "Se ha expulsado a <$cdef(27)><$strpname;0(lstr1,lnum1)></color>."
+msgstr "Se expulsó a <$cdef(27)><$strpname;0(lstr1,lnum1)></color>."
+
+#. en: There is no one to send home.
+msgctxt "2328:504"
+msgid "No hay nadie a quien expulsar."
+msgstr ""
+
+#. en: The host will be sent home. This will disband the current<br>player group and close the connection. Is that OK?
+msgctxt "2328:505"
+msgid "Si se marcha el anfitrión o anfitriona, terminará la sesión<br>y se expulsará también a los visitantes. ¿Te parece bien?"
+msgstr ""
+
+#. en: Your rewards were sent to the <$cdef(27)>PC</color> in your own world.
+msgctxt "2328:506"
+msgid "Los regalos se han enviado al <$cdef(27)>PC</color> de tu vecindario."
+msgstr "Los regalos se enviaron al <$cdef(27)>PC</color> de tu vecindario."
+
+#. en: Unable to move to a different area due to inactivity.
+msgctxt "2328:507"
+msgid "No se ha podido cambiar de zona debido a la inactividad."
+msgstr "No se pudo cambiar de zona debido a la inactividad."
+
+#. en: Looks like they want to meet <$cdef(27)><wowner;0></color>!<clear><br>Bring <$cdef(27)><wowner;1> </color>here to say hi!
+msgctxt "2328:508"
+msgid "Parece que este Pokémon arde en ganas de conocer<br>a <$cdef(27)><wowner;0></color>... ¡Pídele que venga aquí!"
+msgstr ""
+
+#. en: You sense a large presence coming from the ocean...
+msgctxt "2328:509"
+msgid "Sientes una gran presencia procedente del mar..."
+msgstr ""
+
+#. en: Cloud Island not found.
+msgctxt "2328:510"
+msgid "No se ha encontrado la Isla Nube que buscas."
+msgstr "No se encontró la Isla Nube que buscas."
+
+#. en: You can’t connect because another player does not have<br>the most recent software update.<clear><br>They need to restart and update the software to connect.
+msgctxt "2328:511"
+msgid "Otro jugador tiene una versión antigua del juego, por lo<br>que no puede establecerse la conexión con esa persona.<slide><br>Para hacerlo, deberá reiniciar el juego y actualizarlo."
+msgstr ""
+
+#. en: This Cloud Island is currently not public.
+msgctxt "2328:512"
+msgid "Esta Isla Nube no es pública ahora mismo."
+msgstr ""
+
+#. en: Available downloadable content has not been applied to<br>the Cloud Island.<clear><br>To update your game, the session must end for all other<br>players. Do you wish to proceed?
+msgctxt "2328:513"
+msgid "El contenido descargable no se ha añadido todavía a tu<br>Isla Nube.<clear><br>Se va a expulsar a quienes estén de visita para llevar<br>a cabo la actualización. ¿Te parece bien?"
+msgstr ""

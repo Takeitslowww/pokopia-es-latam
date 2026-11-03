@@ -1,0 +1,96 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 3012 (es-ES slot); English reference: record 3008.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 3012\n"
+"X-Ldtool-English-Record: 3008\n"
+
+#. en: <$emotion(4,14)><$voicel(4,7)><$cdef(27)><pname;0></color>. I thank you for the home.<clear><br><$comeff(4,14)><$motion(4,805)><$voicel(4,5)>I wish to teach you the method for making a<br><$cdef(27)><fqty(1)><$ifull(1922)> </color>in return.
+msgctxt "3012:0"
+msgid "<oneline><$emotion(4,14)><$voicel(4,7)>¡Salutaciones, <$cdef(27)><pname;0></color>! He aquí<br>una muestra<slide><br>de agradecimiento por el alojamiento.<$comeff(4,14)><$motion(4,805)><$voicel(4,5)><clear><br>Te mostraré el método de elaboración de un<br><$cdef(27)><fqty(1)><$ifull(1922)></color>."
+msgstr ""
+
+#. en: <$emotion(4,1)><$voicel(4,7)>A machine. It sends electricity far away. It is like a<br><$cdef(27)>utility pole</color>.<clear><br><$comeff(4,10)><$motion(4,661)><$voicel(4,5)>But it is less large than a <$cdef(27)>utility pole</color>. And it does not use<br>wires. It can make the town look more nice.<clear><br><$emotion(4,31)><$voicel(4,3)>But there is a problem. The recipe data in my head is not<br>yet restored. To use other words—I forgot.
+msgctxt "3012:1"
+msgid "<$emotion(4,1)><$voicel(4,7)>Es una máquina que permite transportar electricidad<br>sin <$cdef(27)>postes eléctricos</color>.<clear><br><$comeff(4,10)><$motion(4,661)><$voicel(4,5)>Su tamaño es inferior al de los <$cdef(27)>postes eléctricos</color>.<br>No precisa de cables. No afecta al paisaje.<clear><br><$emotion(4,31)><$voicel(4,3)>Desgraciadamente, mi memoria permanece dañada.<br>No recuerdo los pasos a seguir."
+msgstr ""
+
+#. en: <$emotion(4,31)><$voicel(4,3)>There is a problem. The recipe data in my head is not yet<br>restored. To use other words—I forgot.<clear><br><$emotion(4,14)><$voicel(4,5)>I also must explain. A <$cdef(27)><fqty(1)><$ifull(1922)> </color>is a<br>machine. It sends electricity far away, <$voicel(4,8)>like a <$cdef(27)>utility pole</color>.<clear><br><$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>But it is less large than a <$cdef(27)>utility pole</color>. And it does not use<br>wires. It can make the town look more nice.
+msgctxt "3012:2"
+msgid "<$emotion(4,31)><$voicel(4,3)>Desgraciadamente, mi memoria permanece dañada.<br>No recuerdo los pasos a seguir.<clear><br><$emotion(4,14)><$voicel(4,5)>Los <$cdef(27)><fqty(2)><$ifull(1922)></color> son máquinas que permiten<br>transportar electricidad sin <$voicel(4,8)><$cdef(27)>postes eléctricos</color>.<clear><br><$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>Su tamaño es inferior al de los <$cdef(27)>postes eléctricos</color>.<br>No precisan de cables. No afectan al paisaje."
+msgstr ""
+
+#. en: <$comeff(4,14)><$motion(4,805)><$voicel(4,5)>If I hear good music, my head will become clear. I will<br>remember. I think.
+msgctxt "3012:3"
+msgid "<$comeff(4,14)><$motion(4,805)><$voicel(4,5)>Mis estimaciones indican un aumento en la probabilidad<br>de recuperación de memoria gracias a una dulce melodía."
+msgstr ""
+
+#. en: <$emotion(4,29)><$voicel(4,7)>So I must ask. Can you play a <$cdef(27)>CD</color> nearby so that I can<br>hear it?
+msgctxt "3012:4"
+msgid "<$emotion(4,29)><$voicel(4,7)>Tengo una petición. ¿Podrías reproducir un <$cdef(27)>CD</color> en mi<br>proximidad para que yo lo oiga?"
+msgstr ""
+
+#. en: <$comeff(4,14)><$voicel(4,5)>My computations whisper to me. They tell me a<br><$emotion(4,1)><$voicel(4,8)><$cdef(27)><fqty(1)><$ifull(1802)> </color>exists on the ground in this town.<clear><br><$comeff(4,9)><$motion(4,806)><$voicel(4,9)>If it has not been found, you must search. Search where<br>the many broken buildings are.
+msgctxt "3012:5"
+msgid "<$comeff(4,14)><$voicel(4,5)>Debería haber un <$cdef(27)><fqty(1)><$ifull(1802)></color> en alguna parte<br>del vecindario. <$emotion(4,1)><$voicel(4,8)>Si mis cálculos corazonales son correctos.<clear><br><$comeff(4,9)><$motion(4,806)><$voicel(4,9)>Tal vez yazga entre los escombros de algún edificio.<br>Podría resultar conveniente buscar entre las ruinas."
+msgstr ""
+
+#. en: <$emotion(4,29)><$voicel(4,5)>Can you play a <$cdef(27)>CD</color> nearby so that I can hear it?
+msgctxt "3012:10"
+msgid "<$emotion(4,29)><$voicel(4,5)>¿Podrías reproducir un <$cdef(27)>CD</color> en mi proximidad para que<br>yo lo oiga?"
+msgstr ""
+
+#. en: <$comeff(4,14)><$motion(4,805)><$voicel(4,7)>The music will help me remember. I will know how to make<br>a <$cdef(27)><fqty(1)><$ifull(1922)> </color>again. I think.
+msgctxt "3012:11"
+msgid "<$comeff(4,14)><$motion(4,805)><$voicel(4,7)>De esa manera, la probabilidad de recuperar recuerdos<br>sobre el <$cdef(27)><fqty(1)><$ifull(1922)> </color>podría aumentar."
+msgstr ""
+
+#. en: <$emotion(4,50)><$voicel(4,9)><$kfacial(4)>Ah. This is it. The music is good.
+msgctxt "3012:17"
+msgid "<$emotion(4,50)><$voicel(4,9)><$kfacial(4)>¡Oh! ¡Esta melodía es altamente satisfactoria para mí!"
+msgstr ""
+
+#. en: <$comeff(4,10)><$facial(4,4)><$motion(4,806)><$voicel(4,7)>My head is now clear. I remember. <$voicel(4,10)>I can teach you to make<br>a <$cdef(27)><fqty(1)><$ifull(1922)></color>.
+msgctxt "3012:18"
+msgid "<$comeff(4,10)><$facial(4,4)><$cdef(27)><$motion(4,806)></color><$voicel(4,7)>La música me ha despejado los circuitos. Por fin recuerdo<br><$voicel(4,10)>el método de elaboración requerido."
+msgstr "<$comeff(4,10)><$facial(4,4)><$cdef(27)><$motion(4,806)></color><$voicel(4,7)>La música me despejó los circuitos. Por fin recuerdo<br><$voicel(4,10)>el método de elaboración requerido."
+
+#. en: You learned a <$cdef(27)>recipe </color>for a<br><$cdef(27)><fqty(1)><$ifull(1848)></color>!
+msgctxt "3012:19"
+msgid "¡Has aprendido cómo fabricar <$cdef(27)>repetidores eléctricos</color><br><$cdef(27)>interrumpibles</color><nbs2><$iicon(1848)>!"
+msgstr "¡Aprendiste cómo fabricar <$cdef(27)>repetidores eléctricos</color><br><$cdef(27)>interrumpibles</color><nbs2><$iicon(1848)>!"
+
+#. en: <$emotion(4,1)><$voicel(4,7)>You may use the <$cdef(27)><fqty(1)><$ifull(1922)> </color>to make<br>the town more wonderful.
+msgctxt "3012:20"
+msgid "<$cdef(27)><$emotion(4,1)></color><$voicel(4,7)>Espero que te sirva para amenizar el vecindario aún más."
+msgstr ""
+
+#. en: You learned a <$cdef(27)>recipe</color> for a <$cdef(27)><fqty(1)><$ifull(1922)></color>!
+msgctxt "3012:21"
+msgid "¡Has aprendido cómo fabricar <$cdef(27)><fqty(2)><$ifull(1922)></color>!"
+msgstr "¡Aprendiste cómo fabricar <$cdef(27)><fqty(2)><$ifull(1922)></color>!"
+
+#. en: *bzzz zzzt*<br>That Pokédex cannot unlock this gate.
+msgctxt "3012:25"
+msgid "Bzzzt... bzzzt... Con el progreso actual de esta Pokédex<br>no es posible desbloquear la puerta."
+msgstr ""
+
+#. en: To unlock the gate, please place a completed Pokédex<br>with all Pokémon registered in it over the panel.
+msgctxt "3012:26"
+msgid "Si quieres entrar, deberás registrar a todos los Pokémon<br>antes de acercar la Pokédex al panel."
+msgstr ""
+
+#. en: Completed Pokédex confirmed. Unlocking gate.
+msgctxt "3012:32"
+msgid "Pokédex completa detectada. Desbloqueando puerta."
+msgstr ""

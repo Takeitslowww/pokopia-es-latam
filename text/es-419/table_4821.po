@@ -1,0 +1,91 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 4821 (es-ES slot); English reference: record 4817.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 4821\n"
+"X-Ldtool-English-Record: 4817\n"
+
+#. en: Early-Purchase Bonus
+msgctxt "4821:2"
+msgid "Regalo por compra temprana"
+msgstr ""
+
+#. en: <fcap><fqty(1)><$iname;0(lnum1)> Gift
+msgctxt "4821:3"
+msgid "Regalo: <fqty(1)><class><$iname;0(lnum1)>"
+msgstr ""
+
+#. en: Item Set Gift
+msgctxt "4821:4"
+msgid "Regalo: conjunto de objetos"
+msgstr ""
+
+#. en: Item Gift
+msgctxt "4821:5"
+msgid "Regalo: objeto"
+msgstr ""
+
+#. en: Crafting Set Gift
+msgctxt "4821:6"
+msgid "Regalo: conjunto de construcción"
+msgstr ""
+
+#. en: Berry Set Gift
+msgctxt "4821:7"
+msgid "Regalo: conjunto de bayas"
+msgstr ""
+
+#. en: Life Coin Gift
+msgctxt "4821:8"
+msgid "Regalo: monevitas"
+msgstr ""
+
+#. en: Furniture Set Gift
+msgctxt "4821:9"
+msgid "Regalo: conjunto de muebles"
+msgstr ""
+
+#. en: Daily Support Gift
+msgctxt "4821:10"
+msgid "Regalo: set imprescindible para el día a día"
+msgstr ""
+
+#. en: Store Purchase Bonus
+msgctxt "4821:11"
+msgid "Regalo especial por compra en tienda"
+msgstr ""
+
+#. en: Downloadable Version Purchase Bonus
+msgctxt "4821:12"
+msgid "Regalo por compra de la versión descargable"
+msgstr ""
+
+#. en: Strategy Guide Purchase Bonus
+msgctxt "4821:13"
+msgid "Regalo por compra de la guía de estrategia"
+msgstr ""
+
+#. en: Happy Birthday!
+msgctxt "4821:14"
+msgid "¡Feliz cumpleaños!"
+msgstr ""
+
+#. en: Purchase Bonus
+msgctxt "4821:15"
+msgid "Regalo por compra"
+msgstr ""
+
+#. en: <fcap><fqty(2)><$iname;0(lnum1)> Gift
+msgctxt "4821:16"
+msgid "Regalo: <fqty(2)><class><$iname;0(lnum1)>"
+msgstr ""

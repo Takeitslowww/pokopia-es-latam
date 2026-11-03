@@ -1,0 +1,106 @@
+# Pokemon Pokopia - Latin American Spanish (es-419).
+# LINKDATA C0_R record 4731 (es-ES slot); English reference: record 4727.
+# msgid = original Spain-Spanish text. Fill msgstr only where the LatAm text
+# differs; empty msgstr keeps the original. Keep <...> tags intact; <U+XXXX>
+# stands for an invisible character. See tools/README.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: pokopia-es-latam\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ldtool 0.1.0\n"
+"X-Ldtool-Record: 4731\n"
+"X-Ldtool-English-Record: 4727\n"
+
+#. en: Cucumber<br>Tofu (3 packs)<br>Vinegar<br>Slowpoke Tail<br>Berry juice<br>Toilet paper<br>Toothbrush
+msgctxt "4731:1"
+msgid "- Huevos camperos<br>- Aceite<br>- 3 patatas (de las grandecitas)<br>- Cola de Slowpoke<br>- Zumo de baya<br>- Papel higiénico (del suave)<br>- Cepillo de dientes nuevo"
+msgstr "- Huevos de granja<br>- Aceite<br>- 3 papas (de las grandecitas)<br>- Cola de Slowpoke<br>- Jugo de baya<br>- Papel higiénico (del suave)<br>- Cepillo de dientes nuevo"
+
+#. en: HAMBURGER STEAK<br>　- Beans<br>　- Tomato or potato (if cheap)<br><br>CARROT BREAD<br>　- Use up carrots (we have so many)<br>　- Make in advance<br><br>NOTE: Don’t use the mushrooms. Those are for next<br>week’s soup.
+msgctxt "4731:2"
+msgid "・ Hamburguesa:<br>   Habas<br>   Tomate o patata (lo que esté más barato)<br><br>・ Pan de zanahoria:<br>   Zanahorias a punta pala<br>   Usarlas todas y dejar la masa preparada<br><br>Nota: ¡No usar los champiñones! Son para la sopa de<br>la semana que viene."
+msgstr ""
+
+#. en: I just got back from depositing my partner Pokémon<br>in the PC at the Pokémon Center.<br><br>We spent every day together. Being separated like<br>this is so hard. But I know we’ll meet again someday.<br>I’m sure of it.<br><br>I’ll need to evacuate with the others pretty soon, but<br>first I’m planning to go take one last look at all the<br>cities my partner and I visited together.
+msgctxt "4731:4"
+msgid "Acabo de dejar a mi compi en el PC del Centro<br>Pokémon.<br><br>Nunca nos habíamos separado, así que haberlo hecho<br>me tiene devastad<gen;-2(o,a)>. Aun así, mantengo la esperanza<br>de que algún día volveremos a vernos.<br><br>Ya mismo me toca evacuar a mí también, pero antes<br>he decidido volver a visitar todos los lugares donde<br>compartimos recuerdos."
+msgstr "Acabo de dejar a mi compañero en el PC del Centro<br>Pokémon.<br><br>Nunca nos habíamos separado, así que haberlo hecho<br>me tiene devastad<gen;-2(o,a)>. Aun así, mantengo la esperanza<br>de que algún día volveremos a vernos.<br><br>Pronto me toca evacuar a mí también, pero antes<br>decidí volver a visitar todos los lugares donde<br>compartimos recuerdos."
+
+#. en: It’s hard to explain why, but I feel the need to do this.
+msgctxt "4731:5"
+msgid "¿El motivo? Ni yo mism<gen;-2(o,a)> lo entiendo del todo.<br>Pero... es algo que siento que tengo que hacer."
+msgstr ""
+
+#. en: I remember this being a bright, bustling port city<br>way back when I visited with my partner.<br><br>Now there are always dark clouds looming over the<br>city. Not a single sunbeam slips through. Looks like<br>most of the people who lived here have gone, too.<br><br>The last time we were here, whenever we went near<br>the water, <pname;1> got so nervous...<br><br>Maybe because it can’t swim?
+msgctxt "4731:6"
+msgid "Cuando vine aquí con mi compi, hace ya mucho,<br>era una ciudad portuaria con mucha luz y actividad.<br>Sin embargo, ahora está cubierta por un gigantesco<br>nubarrón oscuro que no deja pasar los rayos del sol.<br>La mayoría de los habitantes han tenido que irse,<br>así que ahora parece más bien una ciudad fantasma.<br><br><pname;0> no estaba nada a gusto cerca del<br>mar, tal vez porque no sabe nadar."
+msgstr "Cuando vine aquí con mi compañero, hace ya mucho,<br>era una ciudad portuaria con mucha luz y actividad.<br>Sin embargo, ahora está cubierta por un gigantesco<br>nubarrón oscuro que no deja pasar los rayos del sol.<br>La mayoría de los habitantes tuvieron que irse,<br>así que ahora parece más bien una ciudad fantasma.<br><br><pname;0> no estaba nada a gusto cerca del<br>mar, tal vez porque no sabe nadar."
+
+#. en: I tried getting it to transform into a Water type,<br>but despite its best efforts, we had little success.<br>I guess it’s not so easy.<br><br>After giving it a lot of encouragement, I was shocked<br>when it suddenly transformed into ME!<br><br>It copied every detail of my clothes, my haircut...<br>Only its face still looked like Ditto. Unfortunately,<br>transforming into me didn’t really help with the whole<br>“not being able to swim” issue...
+msgctxt "4731:7"
+msgid "Intenté que se transformara en un Pokémon de tipo<br>Agua, pero por mucho empeño que le puso, al final<br>no hubo manera. Le costaba mucho, no sé por qué.<br>Lo más sorprendente fue ver cómo de pronto adoptó<br>mi forma, en lugar de la de un Pokémon, a pesar de<br>los ánimos que le estaba dando.<br>Algunos detalles los clavó perfectamente: el pelo,<br>la ropa... pero esa carilla bobalicona de los Ditto no<br>hay quien se la quite.<br>En fin, que incluso después de transformarse en mí,<br>no consiguió nadar."
+msgstr "Intenté que se transformara en un Pokémon de tipo<br>Agua, pero por mucho empeño que le puso, al final<br>no hubo manera. Le costaba mucho, no sé por qué.<br>Lo más sorprendente fue ver cómo de pronto adoptó<br>mi forma, en lugar de la de un Pokémon, a pesar de<br>los ánimos que le estaba dando.<br>Algunos detalles los clavó perfectamente: el pelo,<br>la ropa... pero esa carita bobalicona de los Ditto no<br>hay quien se la quite.<br>En fin, que incluso después de transformarse en mí,<br>no consiguió nadar."
+
+#. en: A long time ago, this city was packed with people<br>working in the nearby mines. Apparently, it was a<br>pretty lively place.<br><br>At least, that’s what I heard from the chef at the little<br>restaurant I visited with <pname;0>.<br><br>There’s no sign of that restaurant anymore. But I<br>guess it’s not surprising, given those vicious volcanic<br>eruptions. Who could live in a place like this now?
+msgctxt "4731:8"
+msgid "Hace años, esta ciudad era un lugar con mucha vida<br>debido a la cantidad de gente que trabajaba en las<br>minas de la zona, o eso es lo que nos contó el chef<br>de un pequeño restaurante al que fui con<br><pname;0>.<br><br>No queda ni rastro del local. Supongo que tuvo que<br>cerrar debido a la intensa actividad volcánica por la<br>cual ya no es seguro vivir aquí."
+msgstr ""
+
+#. en: The food we had at that restaurant was incredibly<br>delicious. The whole time the chef was cooking,<br><pname;0> was watching intently.<br><br>It’s always been so full of curiosity. I’ve noticed it<br>seems particularly interested in the things humans do.<br><br>I wish we could have traveled together more. There<br>are so many things I wanted to show it.
+msgctxt "4731:9"
+msgid "La comida del restaurante estaba toda riquísima.<br>Recuerdo cómo mi compi miraba fijamente al chef<br>mientras cocinaba.<br><br>Tiene una curiosidad infinita y le intriga mucho todo<br>lo que hacemos los humanos.<br><br>Me habría encantado pasar más tiempo a su lado,<br>poder visitar más sitios y enseñarle más mundo."
+msgstr "La comida del restaurante estaba toda riquísima.<br>Recuerdo cómo mi compañero miraba fijamente al chef<br>mientras cocinaba.<br><br>Tiene una curiosidad infinita y le intriga mucho todo<br>lo que hacemos los humanos.<br><br>Me habría encantado pasar más tiempo a su lado,<br>poder visitar más lugares y mostrarle más mundo."
+
+#. en: This city was a dazzling metropolis the last time I<br>came here with <pname;0>.<br><br>Now it’s barely recognizable.<br><br>Apparently, the ground in this area has been rising up<br>so quickly that it’s caused many of the buildings to<br>collapse and the roads to crack.<br><br>Some scientists believe that if things continue at this<br>pace, in a matter of centuries this area will be...
+msgctxt "4731:10"
+msgid "Cuando mi compi y yo visitamos este lugar, era una<br>gran metrópolis llena de luces. Ahora no es más que<br>una sombra de lo que fue entonces.<br><br>Parece que el terreno de toda esta zona se ha ido<br>levantando a gran velocidad... Por culpa de esto,<br>no se ven más que edificios en ruinas y carreteras<br>resquebrajadas.<br><br>Algunos expertos dicen que se eleva a un ritmo<br>preocupante..."
+msgstr "Cuando mi compañero y yo visitamos este lugar,<br>era una gran metrópolis llena de luces. Ahora no es<br>más que una sombra de lo que fue entonces.<br><br>Parece que el terreno de toda esta zona se ha ido<br>levantando a gran velocidad... Por culpa de esto,<br>no se ven más que edificios en ruinas y carreteras<br>resquebrajadas.<br><br>Algunos expertos dicen que se eleva a un ritmo<br>preocupante..."
+
+#. en: ...as high as a mountain, in terms of elevation. It looks<br>like most of the people who once lived here have<br>evacuated already.<br><br>I suppose I should go, too. It breaks my heart to leave<br><pname;0> behind, but it’s not forever.<br><br>No matter what, I’ll come back someday. And then<br><pname;1> and I will travel the world!
+msgctxt "4731:11"
+msgid "Que es posible que, en un par de siglos, su altura sea<br>equiparable a la de una montaña.<br><br>Al menos parece que casi toda la gente que vivía<br>aquí ya ha sido evacuada. Aunque dejar atrás a mi<br>compi sea lo más doloroso que he tenido que hacer<br>en la vida, yo también debo partir dentro de poco.<br>Pero algún día regresaré.<br><br>Y, cuando lo haga, <pname;1> y yo<br>continuaremos nuestro viaje por el mundo."
+msgstr "Que es posible que, en un par de siglos, su altura sea<br>equiparable a la de una montaña.<br><br>Al menos parece que casi toda la gente que vivía<br>aquí ya fue evacuada. Aunque dejar atrás a mi<br>compañero sea lo más doloroso que he tenido que hacer<br>en la vida, yo también debo partir dentro de poco.<br>Pero algún día regresaré.<br><br>Y, cuando lo haga, <pname;1> y yo<br>continuaremos nuestro viaje por el mundo."
+
+#. en: On June 11, I saved a Wimpod that was being chased<br>by a wild Meowth on this bridge.<br>It was wearing a light-blue ribbon, which makes me<br>think it has a Trainer.<br>If anyone knows who this Wimpod belongs to, please<br>contact me!
+msgctxt "4731:12"
+msgid "El 11 de junio salvé en este puente a un Wimpod<br>al que perseguía un Meowth salvaje. Llevaba puesto<br>un lazo de color azul clarito, por lo que supuse que<br>tendría un Entrenador o Entrenadora. Si alguien sabe<br>a quién puede pertenecer, que me avise, por favor."
+msgstr ""
+
+#. en: Seasonal Drink Menu Ideas<br>- Smoothie: Definite yes<br>- Watermelon and Soda Pop base: Definite yes<br>- Want something really original for our shop<br>- Maybe add berries?<br>    Leppa Berry: Turned out a little bland<br>    Chesto Berry: Hard to pair with watermelon<br>    Aspear Berry: Refreshing—this might be the one!
+msgctxt "4731:13"
+msgid "Carta de bebidas de temporada<br>  - Batidos (¡No pueden faltar!)<br>  - Ingrediente principal: sandía y refresco (¡Obvio!)<br><br>Y si queremos darles un toque original a las bebidas<br>de nuestra tienda, ¿qué tal si añadimos unas bayas?<br>  - Zanama: Le falta algo de sabor, creo yo...<br>  - Atania: No combina bien con la sandía...<br>  - Perasi: ¡Muy refrescante! Esta puede estar bien."
+msgstr "Carta de bebidas de temporada<br>  - Licuados (¡No pueden faltar!)<br>  - Ingrediente principal: sandía y refresco (¡Obvio!)<br><br>Y si queremos darles un toque original a las bebidas<br>de nuestra tienda, ¿qué tal si añadimos unas bayas?<br>  - Zanama: Le falta algo de sabor, creo yo...<br>  - Atania: No combina bien con la sandía...<br>  - Perasi: ¡Muy refrescante! Esta puede estar bien."
+
+#. en: There were many hardships to overcome, but we<br>finally made it back to this planet.<br><br>However, the environmental degradation is<br>proceeding at a much quicker rate than we imagined.<br>I doubt we’ll be able to stay for long.<br><br>I was originally slated to help survey the Fuchsia City<br>area. I thought it would be an excellent opportunity<br>to search for my lost Tangela, but...
+msgctxt "4731:14"
+msgid "Hemos tenido que superar innumerables vicisitudes,<br>pero por fin hemos logrado regresar al planeta.<br>Sin embargo, el entorno se ha deteriorado a un ritmo<br>mayor del esperado, por lo que no podemos alargar<br>nuestra visita más de lo estrictamente necesario.<br><br>Guardaba la esperanza de que nuestra idea inicial<br>de investigar las inmediaciones de Ciudad Fucsia<br>me permitiese dedicar algo de tiempo a la búsqueda<br>de mi pequeño Tangela, pero me temo que hubo un<br>cambio de planes."
+msgstr "Tuvimos que superar innumerables vicisitudes,<br>pero por fin logramos regresar al planeta.<br>Sin embargo, el entorno se deterioró a un ritmo<br>mayor del esperado, por lo que no podemos alargar<br>nuestra visita más de lo estrictamente necesario.<br><br>Guardaba la esperanza de que nuestra idea inicial<br>de investigar las inmediaciones de Ciudad Fucsia<br>me permitiese dedicar algo de tiempo a la búsqueda<br>de mi pequeño Tangela, pero me temo que hubo un<br>cambio de planes."
+
+#. en: we discovered the Cerulean City area has a high<br>chance of sinking into the ocean in the near future.<br>Therefore, we made the decision to prioritize<br>surveying here instead.<br><br>Considering our current energy crisis, I do not know<br>when we will be able to return to this planet.<br><br>But I have not given up hope.
+msgctxt "4731:15"
+msgid "Nuestros análisis indicaban que Ciudad Celeste y<br>sus alrededores presentaban altas probabilidades de<br>quedar sumergidas bajo el agua de un momento a<br>otro, así que determinamos que sería conveniente<br>priorizar la investigación de esa zona.<br><br>Considerando nuestro escaso suministro energético,<br>resulta difícil calcular cuándo podremos regresar<br>de nuevo al planeta.<br><br>Aun así, albergo cierta esperanza."
+msgstr ""
+
+#. en: On the space station we evacuated to, many of the<br>younger individuals I’ve met believe there will come a<br>day when we can once again live on this planet with<br>our Pokémon.<br><br>We must persist in our efforts—not only for our own<br>sake but also for that hopeful younger generation.
+msgctxt "4731:16"
+msgid "La mayoría de los jóvenes que he conocido en la<br>estación espacial a la que tuvimos que evacuarnos<br>creen en un futuro en el que puedan regresar a casa<br>y vivir de nuevo rodeados de Pokémon.<br><br>Por el bien de todos ellos, nosotros tampoco<br>debemos caer en el derrotismo. Hay que seguir<br>adelante."
+msgstr ""
+
+#. en: Experts in a wide range of fields from all over the<br>world have joined the survey team.<br><br>We quickly discovered that the eldest is a renowned<br>Pokémon Professor from Fuchsia City. Even so, he has<br>no air of superiority, and he interacts with the<br>younger researchers as if we’re all friends and<br>coworkers on the same level.<br><br>We started calling him simply “The Professor” to<br>show our respect for him.
+msgctxt "4731:17"
+msgid "El equipo de investigación está formado por expertos<br>de todos los rincones del mundo, especializados en<br>toda clase de disciplinas.<br>El más veterano es un Profesor Pokémon de gran<br>renombre, originario de Ciudad Fucsia. A pesar de<br>su prestigio, no mira a nadie por encima del hombro<br>y nos trata a todos, incluso a los más noveles, como<br>si fuésemos compañeros al mismo nivel.<br>Hemos empezado a referirnos a él como \"el profe\"<br>de forma cariñosa, pero también como muestra de<br>todo lo que lo respetamos."
+msgstr "El equipo de investigación está formado por expertos<br>de todos los rincones del mundo, especializados en<br>toda clase de disciplinas.<br>El más veterano es un Profesor Pokémon de gran<br>renombre, originario de Ciudad Fucsia. A pesar de<br>su prestigio, no mira a nadie por encima del hombro<br>y nos trata a todos, incluso a los más noveles, como<br>si fuésemos compañeros al mismo nivel.<br>Empezamos a referirnos a él como \"el profe\"<br>de forma cariñosa, pero también como muestra de<br>todo lo que lo respetamos."
+
+#. en: The Professor caught a cold yesterday.<br><br>When I went to check on him, I found he had brought<br>a large amount of research materials and reports to<br>his bed and had been poring over them.<br><br>I suggested that he relax more given his condition,<br>but he laughed and said, “I’m still alive, and as long<br>as I have a working brain, I’d be a fool not to use it!”<br><br>This situation humanity has found itself in...
+msgctxt "4731:18"
+msgid "Ayer el profe pilló un buen resfriado. Cuando he ido<br>a visitarlo, he visto que había cubierto toda su cama<br>de documentos e informes y que llevaba todo el día<br>leyéndolos.<br><br>Cuando le he dicho que debía descansar, se ha reído<br>y contestado: \"Sigo vivo y teniendo un cerebro, ¿no?<br>¡Pues tendré que usarlo mientras aún pueda!\".<br><br>Es cierto que la humanidad se encuentra entre<br>la espada y la pared, pero..."
+msgstr "Ayer el profe agarró un buen resfriado. Cuando fui<br>a visitarlo, vi que había cubierto toda su cama<br>de documentos e informes y que llevaba todo el día<br>leyéndolos.<br><br>Cuando le dije que debía descansar, se rio<br>y contestó: \"Sigo vivo y teniendo un cerebro, ¿no?<br>¡Pues tendré que usarlo mientras aún pueda!\".<br><br>Es cierto que la humanidad se encuentra entre<br>la espada y la pared, pero..."
+
+#. en: has no easy solution. That is without a doubt. And<br>yet, as I spend more time with The Professor, I find<br>myself feeling strangely optimistic.<br><br>As long as we remain steadfast in our efforts, I feel<br>there will certainly come a day when we can once<br>again live here on this planet with Pokémon.
+msgctxt "4731:19"
+msgid "El profe tiene una actitud tan positiva que no puedo<br>evitar contagiarme de su optimismo.<br><br>Siento que, mientras no tiremos la toalla, algún día<br>lograremos regresar a nuestro planeta; que la idea<br>de vivir felices junto a los Pokémon de nuevo es más<br>que un mero sueño y que acabará cumpliéndose."
+msgstr ""
