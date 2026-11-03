@@ -36,6 +36,12 @@ LAYOUT_NAMES = {
 CTXT_RE = re.compile(r"^(\d+):(\d+)(?::(\d+))?$")
 LAYOUT_TAGS = frozenset({"<br>", "<clear>", "<slide>", "<oneline>"})
 
+GENDER_FILE = "gender.json"
+GENDER_KEY_RE = re.compile(r"^(\d+):(\d+)$")
+GENDER_KINDS = "ssssssii"
+GENDERS = ("m", "f")
+FEMININE_BITS = 0x00100010
+
 
 class PipelineError(RuntimeError):
     pass
@@ -305,6 +311,63 @@ def apply_overrides(table: TextTable, overrides: Iterable[Override]) -> list[str
     return errors
 
 
+def gendered(value: int, gender: str) -> int:
+    return value | FEMININE_BITS if gender == "f" else value & ~FEMININE_BITS
+
+
+def load_genders(po_dir: str) -> dict[int, dict[int, str]]:
+    path = os.path.join(po_dir, GENDER_FILE)
+    if not os.path.isfile(path):
+        return {}
+    try:
+        with open(path, "r", encoding="utf-8") as fh:
+            doc = json.load(fh)
+    except (OSError, ValueError) as exc:
+        raise PipelineError(f"{path}: {exc}") from None
+    rows = doc.get("rows") if isinstance(doc, dict) else None
+    if not isinstance(rows, dict):
+        raise PipelineError(f"{path}: expected an object with a \"rows\" object")
+    result: dict[int, dict[int, str]] = collections.defaultdict(dict)
+    for key, gender in rows.items():
+        where = f"{GENDER_FILE}:{key}"
+        m = GENDER_KEY_RE.match(key)
+        if not m:
+            raise PipelineError(f"{where}: bad key (expected <record>:<row>)")
+        rec, row = int(m.group(1)), int(m.group(2))
+        if gender not in GENDERS:
+            raise PipelineError(f"{where}: gender must be \"m\" or \"f\", not {gender!r}")
+        if row in result[rec]:
+            raise PipelineError(f"{where}: duplicate row {rec}:{row}")
+        result[rec][row] = gender
+    return dict(result)
+
+
+def check_genders(rec: int, table: TextTable, rows: dict[int, str]) -> list[str]:
+    warnings = []
+    for row, gender in sorted(rows.items()):
+        where = f"{GENDER_FILE}:{rec}:{row}"
+        if table.schema.kinds != GENDER_KINDS:
+            raise PipelineError(f"{where}: record {rec} has schema {table.schema}, not the "
+                                f"item-name layout {4 * len(GENDER_KINDS)}:{GENDER_KINDS}")
+        if row >= table.count:
+            raise PipelineError(f"{where}: row {row} out of range ({table.count} rows)")
+        value = table.ints(row)[0]
+        if gendered(value, gender) == value:
+            warnings.append(f"{where}: the row is already {gender}")
+    return warnings
+
+
+def apply_genders(table: TextTable, rows: dict[int, str]) -> int:
+    changed = 0
+    for row, gender in sorted(rows.items()):
+        ints = table.ints(row)
+        value = gendered(ints[0], gender)
+        if value != ints[0]:
+            table.set_ints(row, [value] + ints[1:])
+            changed += 1
+    return changed
+
+
 @dataclass
 class BuildConfig:
     romfs: str = DEFAULT_ROMFS
@@ -353,6 +416,7 @@ class RecordResult:
     table: TextTable
     original: TextTable
     applied: int
+    gender_rows: int = 0
 
 
 @dataclass
@@ -360,6 +424,7 @@ class Prepared:
     records: dict[int, RecordResult]
     translations: dict[tuple[int, int, int], PoText]
     warnings: list[str] = field(default_factory=list)
+    genders: dict[int, dict[int, str]] = field(default_factory=dict)
 
 
 def _active(t: PoText, include_fuzzy: bool) -> bool:
@@ -388,7 +453,12 @@ def _read_original(cfg: BuildConfig, ld: LinkData, rec: int,
 def prepare_records(cfg: BuildConfig, ld: LinkData, log: Log = _print) -> Prepared:
     units = {u.record: u for u in spanish_units(cfg.include_species)}
     texts = load_po_texts(cfg.po_dir)
-    prepared = Prepared({}, texts)
+    genders = load_genders(cfg.po_dir)
+    for rec in sorted(genders):
+        if rec not in units:
+            raise PipelineError(f"{GENDER_FILE}:{rec}:{min(genders[rec])}: record {rec} has no "
+                                "Latam copy (not one of the Spanish-slot records built)")
+    prepared = Prepared({}, texts, genders=genders)
     errors: list[str] = []
     by_record: dict[int, list[PoText]] = collections.defaultdict(list)
     for t in texts.values():
@@ -404,6 +474,8 @@ def prepare_records(cfg: BuildConfig, ld: LinkData, log: Log = _print) -> Prepar
         raw, original = loaded
         table = original.copy()
         applied = 0
+        rec_genders = genders.get(rec, {})
+        prepared.warnings += check_genders(rec, original, rec_genders)
         for t in sorted(by_record.get(rec, []), key=lambda x: x.key):
             if t.row >= table.count:
                 errors.append(f"{t.where}: row {t.row} out of range ({table.count} rows)")
@@ -427,11 +499,12 @@ def prepare_records(cfg: BuildConfig, ld: LinkData, log: Log = _print) -> Prepar
                     errors.append(f"{t.where}: {exc}")
                     continue
                 applied += 1
+        gender_rows = apply_genders(table, rec_genders)
         data = _serialize(cfg, raw, table)
         if not parse_table(data, table.schema).same_content(table):
             errors.append(f"record {rec}: serialized data does not parse back identically")
             continue
-        prepared.records[rec] = RecordResult(rec, data, table, original, applied)
+        prepared.records[rec] = RecordResult(rec, data, table, original, applied, gender_rows)
 
     if cfg.strict and prepared.warnings:
         errors += [f"(strict) {w}" for w in prepared.warnings]
@@ -446,7 +519,7 @@ def _selected(cfg: BuildConfig, prepared: Prepared) -> dict[int, RecordResult]:
     if cfg.selection == "spanish":
         return dict(prepared.records)
     if cfg.selection == "changed":
-        return {r: res for r, res in prepared.records.items() if res.applied}
+        return {r: res for r, res in prepared.records.items() if res.applied or res.gender_rows}
     raise PipelineError(f"unknown record selection {cfg.selection!r}")
 
 
@@ -509,6 +582,7 @@ def _patch_plan(cfg: BuildConfig, ld: LinkData, prepared: Prepared,
             continue
         table = res.table.copy()
         errors += apply_overrides(table, overrides[rec])
+        apply_genders(table, prepared.genders.get(rec, {}))
         plan.append(PatchEntry(spare, rec, True, _serialize(cfg, ld.read(rec), table),
                                res.applied))
         spare += 1
@@ -572,8 +646,10 @@ def _build_patch(cfg: BuildConfig, ld: LinkData, prepared: Prepared, log: Log) -
         for e in sorted(plan, key=lambda e: (e.record, e.latam))]
     latam = [e for e in plan if e.latam]
     raw = [e for e in plan if e.raw]
+    gender_rows = sum(res.gender_rows for res in _selected(cfg, prepared).values())
     log(f"build: {len(latam)} Latam records ({sum(e.changed_cells for e in latam)} cells "
-        f"changed), {len(plan) - len(latam) - len(raw)} always-on records "
+        f"changed, {gender_rows} gender rows), "
+        f"{len(plan) - len(latam) - len(raw)} always-on records "
         f"({sum(len(v) for v in overrides.values())} overrides), "
         f"{len(raw)} raw records, {len(prepared.warnings)} warnings")
     return summary
@@ -633,6 +709,7 @@ def verify(cfg: BuildConfig, log: Log = _print) -> bool:
     log(f"verify: {'OK' if ok else 'FAILED'} - {counts['records']} records parsed, "
         f"{counts['cells']} cells checked, {counts['translated_cells_ok']} translated cells "
         f"match the .po, {counts['override_cells_ok']} always-on cells match, "
+        f"{counts['gender_rows_ok']} gender rows match, "
         f"{counts['raw_records_ok']} raw records match, "
         f"{len(prepared.warnings)} .po warnings, {len(problems)} problems")
     return ok
@@ -655,7 +732,7 @@ def _check_spans(cfg: BuildConfig, built: LinkData) -> list[str]:
 
 def _check_cells(cfg: BuildConfig, rec: int, label: str, data: bytes, original: TextTable,
                  translations: dict[tuple[int, int, int], PoText] | None,
-                 overrides: list[Override], problems: list[str],
+                 overrides: list[Override], genders: dict[int, str], problems: list[str],
                  counts: collections.Counter) -> None:
     try:
         table = parse_table(data)
@@ -670,8 +747,13 @@ def _check_cells(cfg: BuildConfig, rec: int, label: str, data: bytes, original: 
     o_text = {(o.row, o.col): o.text for o in overrides if o.text is not None}
     o_ints = {o.row: list(o.ints) for o in overrides if o.ints is not None}
     for row in range(table.count):
-        if table.ints(row) != o_ints.get(row, original.ints(row)):
+        want_ints = o_ints.get(row, original.ints(row))
+        if row in genders:
+            want_ints = [gendered(want_ints[0], genders[row])] + want_ints[1:]
+        if table.ints(row) != want_ints:
             problems.append(f"record {rec} ({label}) row {row}: attribute fields wrong")
+        elif row in genders:
+            counts["gender_rows_ok"] += 1
         for col in range(table.schema.string_count):
             t = translations.get((rec, row, col)) if translations is not None else None
             if (row, col) in o_text:
@@ -723,7 +805,8 @@ def _verify_patch(cfg: BuildConfig, src: LinkData, built: LinkData, prepared: Pr
             continue
         _check_cells(cfg, p.record, label, data, parse_table(src.read(p.record)),
                      prepared.translations if p.latam else None,
-                     overrides.get(p.record, []), problems, counts)
+                     overrides.get(p.record, []),
+                     prepared.genders.get(p.record, {}) if p.latam else {}, problems, counts)
         if data != p.data:
             problems.append(f"record {p.record} ({label}): bytes differ from a fresh "
                             "serialization")
@@ -746,7 +829,7 @@ def _verify_archive(cfg: BuildConfig, src: LinkData, built: LinkData, prepared: 
             problems.append(f"record {rec} (entry {idx}): {exc}")
             continue
         _check_cells(cfg, rec, f"entry {idx}", data, res.original, prepared.translations, [],
-                     problems, counts)
+                     prepared.genders.get(rec, {}), problems, counts)
         if data != res.data:
             problems.append(f"record {rec}: bytes differ from a fresh serialization")
     used = set(mapping.values())

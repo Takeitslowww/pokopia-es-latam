@@ -109,6 +109,8 @@ their own `exefs\main` instead, with `subsdk9` copied next to it (see
 Details are in `tools/README.md`. `text/always-on/*.json` holds the few rows
 that must change in every language (the es-419 prompt on the language
 screen).
+`text/es-419/gender.json` sets the gender of item names whose es-419 name
+changes gender (nevera → refrigerador).
 
 ## Assets
 

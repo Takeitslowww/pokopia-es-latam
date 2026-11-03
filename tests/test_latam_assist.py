@@ -304,7 +304,7 @@ class SpainismTests(unittest.TestCase):
 class CorpusTests(unittest.TestCase):
     def test_every_msgid_roundtrips_and_validates(self):
         bad = []
-        for name in sorted(os.listdir(PO_DIR)):
+        for name in sorted(n for n in os.listdir(PO_DIR) if n.endswith(".po")):
             for e in read_po(os.path.join(PO_DIR, name)).entries:
                 if e.obsolete or not lt.is_translatable(e.msgid):
                     continue

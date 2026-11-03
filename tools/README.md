@@ -20,6 +20,7 @@ tools/
     pipeline.py      extract / build / verify / roundtrip
     cli.py           command line
 text/es-419/         one .po per Spanish table (table_<record>.po): Latin-American text
+                     gender.json: item-name gender changes (see below)
 text/always-on/      *.json: row changes applied in every language (see below)
 tests/               python tests/run_tests.py
 ```
@@ -87,6 +88,28 @@ tags (`<br> <clear> <slide> <oneline>`) are not checked. It also warns about raw
 newlines, unbalanced `<` or `>`, and `msgid`s that no longer match the game
 (stale files). `--strict` turns these warnings into errors.
 
+### Item-name gender (`text/es-419/gender.json`)
+
+The game picks articles and endings for an item name from its gender, stored
+in bits `0x00100010` of the first attribute word of the row (set = feminine,
+clear = masculine). When the es-419 name changes gender (nevera →
+refrigerador), list the row in this optional file:
+
+```json
+{
+  "about": "free text, ignored",
+  "rows": {"4650:583": "m"}
+}
+```
+
+Keys are `<record>:<row>` of a record with the item-name layout
+(`32:ssssssii`: 4650 and 4164). `f` sets the bits and `m` clears them; every
+other bit is kept. Only the Latin-American records change, never Español
+(España) or the always-on entries. A record with a gender change is written
+even if none of its text changes. A bad key or value, another layout, an
+unknown row or a record without a Latin-American copy stops `build`. Listing
+a row that already has that gender is a warning.
+
 ### Model-assisted review (`scripts/latam_assist.py`)
 
 A local Ollama model (default `translategemma:12b`) proposes es-419 versions of
@@ -137,8 +160,8 @@ literal.
 ### build
 
 For each Spanish-slot record, `build` takes the original record from the
-romfs, replaces the cells that have a non-empty, non-fuzzy `msgstr`, and
-serializes the record.
+romfs, replaces the cells that have a non-empty, non-fuzzy `msgstr`, applies
+`gender.json`, and serializes the record.
 
 #### Default: `--layout patch` (LINKDATA_PATCH)
 
@@ -234,7 +257,8 @@ re-reads the built pair and checks that:
 * blobs are 256-aligned, do not overlap, and stay inside the BIN;
 * every record decodes and parses, with its schema inferred independently;
 * the header and schema match the original, and the attribute fields too
-  (unless an always-on override sets them);
+  (unless an always-on override sets them; Latam entries may differ only in the
+  gender bits of the rows in `gender.json`);
 * every string matches its always-on override, its `.po` `msgstr` (Latam
   entries only), or else the original text;
 * patch layout: Latam entries carry the `'LATM'` marker and the right target,
